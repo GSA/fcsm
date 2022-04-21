@@ -1,0 +1,35 @@
+---
+title: Related Links
+layout: page
+---
+<p>To facilitate information sharing, the FCSM is sharing these links to relevant resources and organizations. Links posted on this page are provided to inform interested parties of research and to encourage discussion. Inclusion on list does not imply FCSM endorsement of the organization or content. </p>
+<p><b>Federal entities:</b></p>
+<ul>
+  <li style="padding-bottom: 24px;"><a href="https://www.whitehouse.gov/omb/information-regulatory-affairs/" style="font-size: 16px;" target="_blank">Office of Management and Budget, Office of Information and Regulatory Affairs (OMB OIRA)</a> is a statutory part of the OMB within the Executive Office of the President. OIRA is the U.S. Government’s central authority for the review of Executive Branch regulations, approval of Federal information collections, establishment of Federal statistical practices, and coordination of Federal privacy policy.  The Chief Statistician of the United States head the Science and Statistical Policy (SSP) Branch within OIRA.</li>
+
+  <li style="padding-bottom: 24px;">Interagency Council on Statistical Policy (ICSP): comprised of the Statistical Officials and heads of the principal statistical agencies, led by OMB’s Chief Statistician.  Members of the ICSP collaborate on effective implementation of OMB statistical policy decisions and for planning improvements in Federal statistical programs</li>
+
+  <li style="padding-bottom: 24px;"><a href="https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5421"  style="font-size: 16px;" target="_blank">National Science Foundation’s NSF Methodology, Measurement and Statistics (NSF MMS)</a>: is an interdisciplinary research grants program in the NSF’s Directorate for Social, Behavioral, and Economic Sciences.  MMS supports the development of innovative analytical and statistical methods and models for those sciences.
+
+  <li style="padding-bottom: 24px;"><a href="https://strategy.data.gov/" style="font-size: 16px;" target="_blank">Federal Data Strategy</a>: is a cross-agency Federal effort. To meet the changing role of data and needs of democracy, the Federal Government created a coordinated and integrated data strategy that better enables data to deliver on mission, serve the public, and steward resources while respecting privacy and confidentiality.</li>
+</ul>
+<p><b>Non-federal entities:</b></p>
+<ul>
+  <li style="padding-bottom: 24px;"><a href="https://copafs.org/" style="font-size: 16px;"  target="_blank">Council of Professional Associations on Federal Statistics (COPAFS)</a>: represents researchers, educators, public health professionals, civic groups and businesses that rely on the quality and accessibility of statistics that can only be effectively collected by the federal government.  COPAFS partners with FCSM to organize and sponsor put on conferences and other events.</li>
+
+  <li style="padding-bottom: 24px;"><a href="https://www.nationalacademies.org/cnstat/committee-on-national-statistics" style="font-size: 16px;" target="_blank">Committee on National Statistics (CNSTAT)</a> is an independent organization within the National Research Council of the National Academies of Science, Engineering, and Medicine.  CNSTAT was formed to provide advice to the federal government and the nation grounded in the current best scientific knowledge and practice that will lead to improved statistical methods and information upon which to base public policy. CNSTAT seeks to advance the quality of statistical information, contribute to the statistical policies and coordinating activities of the federal government, and help provide a forward-looking vision for the federal statistical system and national statistics more broadly in service of the public good.</li>
+
+  <li style="padding-bottom: 24px;"><a href="https://www.nap.edu/read/24810/chapter/1" style="font-size: 16px;" target="_blank">Principles and Practices for a Federal Statistical Agency</a>: is a publication, prepared by CNSTAT that provides an overview of guiding principles for federal statistical activities.  While the principles are oriented towards for principal statistical agencies, these core principles are applicable for statistical organizations and activities throughout the federal government.  The publication, informally known as the “Purple Book” (due to the color of its cover) is updated regularly to reflect, and comment on, changes in laws, regulations and other environmental aspects impacting agencies.</li>
+
+  <li style="padding-bottom: 24px;"><a href="https://jpsm.umd.edu/" style="font-size: 16px;" target="_blank">Joint Program in Survey Methodology (JPSM)</a>: is an educational and training program at the University of Maryland and sponsored in part by several federal statistical agencies.  JPSM's mission is to educate the next generation of survey researchers, survey statisticians, and survey methodologists. To that end, we JPSM offers a Ph.D. program, an M.S. in survey methodology, an online M.P.S. degree, and certificate and citation programs. JPSM also offers a program of short courses for professionals and a Summer Fellows program for undergraduates.</li>
+
+  <li style="padding-bottom: 24px;"><a href="https://www.amstat.org/" style="font-size: 16px;" target="_blank">American Statistical Association (ASA)</a>: is the world’s largest community of statisticians, the “Big Tent for Statistics.” It is the second-oldest, continuously operating professional association in the country. Since it was founded in Boston in 1839, the ASA has supported excellence in the development, application, and dissemination of statistical science through meetings, publications, membership services, education, accreditation, and advocacy.</li>
+
+  <li style="padding-bottom: 24px;"><a href="https://www.aapor.org/" style="font-size: 16px;" target="_blank">American Association for Public Opinion Research (AAPOR)</a>: is the leading association of public opinion and survey research professionals</li>
+
+  <li style="padding-bottom: 24px;"><a href="https://www.populationassociation.org/home" style="font-size: 16px;" target="_blank">Population Association of America (PAA)</a>: is a nonprofit, scientific, professional organization established to promote the improvement, advancement and progress of the human condition through research of problems related to human population. PAA members include demographers, sociologists, economists, public health professionals, and other individuals interested in research and education in the population field.</li>
+
+  <li style="padding-bottom: 24px;"><a href="https://iussp.org/" style="font-size: 16px;" target="_blank">International Union for the Scientific Study of Population</a>: promotes the scientific study of population, encourages exchange between researchers around the globe, and stimulates interest in population issues</li>
+</ul>
+<p><b>DISCLAIMER:</b> Links posted on this page are released to inform interested parties of research and to encourage discussion. Opinions expressed are those of the authors and do not necessarily reflect the official position of the FCSM or the participating agencies.</p>
+
