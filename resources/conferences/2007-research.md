@@ -4,8 +4,8 @@ layout: page
 ---
 <p style="width:50%;"><a href="../assets/docs/2007FCSMResearchProgram.pdf" target="_blank"><strong>FINAL PROGRAM</strong></a>  <small> (498 KB)</small></p>
 <p><strong>Resources and Proceedings</strong></p>
-<p style="width:50%;">Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe® Acrobat® Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
-<!--<p><strong><a id="top" name="top"></a>Jump to …</strong><br>
+<p style="width:50%;">Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe&reg; Acrobat&reg; Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
+<!--<p><strong><a id="top" name="top"></a>Jump to ...</strong><br>
 Monday <a href="#MondayAM">AM</a> / <a href="#MondayPM"> PM</a><br>
 Tuesday <a href="#TuesdayAM">AM</a> / <a href="#TuesdayPM">PM</a><br>
 Wednesday <a href="#WednesdayAM">AM</a></p>
@@ -36,7 +36,7 @@ FRAMES AND COVERAGE</button></p>
 <p style="width:50%;" class="indent">Michael Link (Nielsen Media Research, USA), Michael Battaglia and Mary Osborn (Abt Associates, Inc., USA), Martin Frankel (Baruch College, CUNY and Abt Associates, Inc., USA) and Ali Mokdad (Centers for Disease Control and Prevention, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/construction.pdf" target="_blank">Measuring and Adjusting for Frame Undercoverage of the State and Local Value Put-In-Place (VIP) Survey</a>  <small> (440 KB)</small></p>
 <p class="indent">Thuy Trang Nguyen and Shadana Myers (U.S. Census Bureau)</p>
-<p style="width:50%;"><a href="../assets/docs/2007FCSM_Liu-II-C.pdf" target="_blank">Comparing the Quality of the Master Address File and the Current Demographic Household Surveys’s Multiple Frames</a>  <small> (155 KB)</small></p>
+<p style="width:50%;"><a href="../assets/docs/2007FCSM_Liu-II-C.pdf" target="_blank">Comparing the Quality of the Master Address File and the Current Demographic Household Surveys's Multiple Frames</a>  <small> (155 KB)</small></p>
 <p class="indent">Xijian Liu (U.S. Census Bureau)</p>
 <p style="width:50%;"><a href="../assets/docs/2007FCSM_Clark-II-C.pdf" target="_blank">Impact of Preliminary Versus Final Economic Census Data on the Universe Extraction Process for Current Business Surveys</a>  <small> (284 KB)</small></p>
 <p class="indent">Kari Clark and Carol King (U.S. Census Bureau)</p>
@@ -45,7 +45,7 @@ FRAMES AND COVERAGE</button></p>
 DISCLOSURE I</button></p>
 <p style="width:50%;"><a href="../assets/docs/construction.pdf" target="_blank">Comparative Evaluation of Four Different Sensitive Tabular Data Protection Methods Using a Real Life Table Structure of Complex Hierarchies and Links</a>  <small> (440 KB)</small></p>
 <p class="indent">Ramesh Dandekar (Energy Information Administration, USA)</p>
-<p style="width:50%;"><a href="../assets/docs/construction.pdf" target="_blank">‘Easy to Implement’ Is Putting the Cart Before the Horse: Effective Techniques for Masking Numerical Data</a>  <small> (440 KB)</small></p>
+<p style="width:50%;"><a href="../assets/docs/construction.pdf" target="_blank">'Easy to Implement' Is Putting the Cart Before the Horse: Effective Techniques for Masking Numerical Data</a>  <small> (440 KB)</small></p>
 <p class="indent">Krish Muralidhar (University of Kentucky, USA) and Rathindra Sarathy (Oklahoma State University, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/2007FCSM_Drechsler-III-A.pdf" target="_blank">Comparing Fully and Partially Synthetic Data Sets for Statistical Disclosure Control in the German IAB Establishment Panel</a>  <small> (357 KB)</small></p>
 <p class="indent">Joerg Drechsler, Agnes Dundler, Stefan Bender and Susanne Raessler (Institute for Employment Research, Germany)</p>
@@ -77,7 +77,7 @@ EMPLOYMENT/LABOR STATISTICS</button></p>
 <p class="indent">Paul De Winden, Koos Arts and Martin Luppes (Statistics Netherlands)</p>
 <p style="width:50%;"><a href="../assets/docs/2007FCSM_Zimmerman-IV-A.pdf" target="_blank">Methodologies for Estimating Mean Wages for Occupational Employment Statistics (OES) Data</a>  <small> (383 KB)</small></p>
 <p class="indent">Mallika Kasturirangan (GEICO, USA), Shail Butani and Tamara Zimmerman (Bureau of Labor Statistics, USA)</p>
-<p style="width:50%;"><a href="../assets/docs/2007FCSM_Tran-IV-A.pdf" target="_blank">Estimating the Measurement Error in the Current Population Survey Labor Force – A Latent Class Analysis Approach With Sample Design</a><br>  <small> (324 KB)</small></p>
+<p style="width:50%;"><a href="../assets/docs/2007FCSM_Tran-IV-A.pdf" target="_blank">Estimating the Measurement Error in the Current Population Survey Labor Force - A Latent Class Analysis Approach With Sample Design</a><br>  <small> (324 KB)</small></p>
 <p class="indent">Bac Tran and Justin Nguyen (U.S. Census Bureau)</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION IV-B<br>
 CONFIDENTIALITY/PRIVACY</button></p>
@@ -99,7 +99,7 @@ TOPICS IN ESTIMATION AND MODELING FOR NATIONAL AND INTERNATIONAL SURVEYS</button
 <p class="indent">Mark Asiala (U.S. Census Bureau)</p>
 <p class="date"><a name="TuesdayAM"></a>TUESDAY AM</p>
 <p class="larger">TECHNICAL DEMONSTRATIONS</p>
-<p class="indent"><a href="../assets/docs/2007FCSM_Anolik-TD.pdf" target="_blank">Making Sense of Data via the Web – A Case Study Using Agricultural Data</a>  <small> (21 KB)</small></p>
+<p class="indent"><a href="../assets/docs/2007FCSM_Anolik-TD.pdf" target="_blank">Making Sense of Data via the Web - A Case Study Using Agricultural Data</a>  <small> (21 KB)</small></p>
 <p class="indent">Irwin Anolik (National Agricultural Statistics Service, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/2007FCSM_Chong-TD.pdf" target="_blank">The National Health and Nutrition Examination Survey</a>  <small> (24 KB)</small></p>
 <p class="indent">Yinong Chong, Rosemarie Hirsch, Cheryl Fryar and Jennifer Dostal (Centers for Disease Control and Prevention, USA)</p>
@@ -165,10 +165,10 @@ MONITORING, MEASURING, AND ADJUSTING FOR NON-RESPONSE II</button></p>
 <p class="indent">Bryan Rhodes and Ellen Marks (RTI International, USA)</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION VI-C<br>
 ADMINISTRATIVE RECORDS: APPLICATIONS OF DATA LINKAGES</button></p>
-<p style="width:50%;"><a href="../assets/docs/construction.pdf" target="_blank">RELAIS: Don’t Get Lost in a Record Linkage Project</a>  <small> (440 KB)</small></p>
+<p style="width:50%;"><a href="../assets/docs/construction.pdf" target="_blank">RELAIS: Don't Get Lost in a Record Linkage Project</a>  <small> (440 KB)</small></p>
 <p class="indent">Tiziana Tuoto, Nicoletta Cibella, Marco Fortini, Monica Scannapieco and Laura Tosco (Italian National Institute of Statistics (ISTAT), Italy)</p>
 <p style="width:50%;"><a href="../assets/docs/2007FCSM_OHara-VI-C.pdf" target="_blank">Allocated Values in Linked Files</a>  <small> (194 KB)</small></p>
-<p class="indent">Amy O’Hara (U.S. Census Bureau)</p>
+<p class="indent">Amy O'Hara (U.S. Census Bureau)</p>
 <p style="width:50%;"><a href="../assets/docs/2007FCSM_Halse.VI-C.pdf" target="_blank">The Use of Free School Meal Status as a Proxy for Socio-Economic Status: Evidence From Matching the Longitudinal Study of Young People in England to the National Pupil Database</a>  <small> (303 KB)</small></p>
 <p class="indent">James Halse and Andrew Ledger (Department for Children, Schools and Families, United Kingdom)</p>
 <p class="date"><a name="TuesdayPM"></a>TUESDAY PM</p>
@@ -221,9 +221,9 @@ DATA QUALITY</button></p>
 <p class="date"><a name="WednesdayAM"></a>WEDNESDAY AM</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION IX-A<br>
 CHALLENGES AND STRATEGIES IN QUESTIONNAIRE DESIGN</button></p>
-<p>Effects of Language and Culture on Interpretation of Translated “Confidentiality” and “Mandatory” Survey Messages</p>
+<p>Effects of Language and Culture on Interpretation of Translated "Confidentiality" and "Mandatory" Survey Messages</p>
 <p class="indent">Yuling Pan and Ashley Landreth (U.S. Census Bureau), Marjorie Hinsdale-Shouse and Hyunjoo Park (RTI International, USA) and Alisu Schoua-Glusberg (Research Support Services, USA)</p>
-<p>Asking for Numbers and Quantities — Visual Design Effects in Paper-And-Pencil and Web Surveys</p>
+<p>Asking for Numbers and Quantities - Visual Design Effects in Paper-And-Pencil and Web Surveys</p>
 <p class="indent">Marek Fuchs (University of Kassel, Germany)</p>
 <p style="width:50%;"><a href="../assets/docs/2007FCSM_Tuttle-IX-A.pdf" target="_blank">From Start to Pilot: A Multi-Method Approach to the Comprehensive Redesign of an Economic Survey Questionnaire</a>  <small> (396 KB)</small></p>
 <p class="indent">Alfred Tuttle, Rebecca Morrison and Diane Willimack (U.S. Census Bureau)</p>
@@ -248,7 +248,7 @@ SAMPLE DESIGN</button></p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION X-A<br>
 WEB APPLICATIONS</button></p>
 <p style="width:50%;"><a href="../assets/docs/2007FCSM_ONeill-X-A.pdf" target="_blank">Developments in Electronic Survey Design for Establishment Surveys</a>  <small> (199 KB)</small></p>
-<p class="indent">Grace O’Neill (U.S. Census Bureau)</p>
+<p class="indent">Grace O'Neill (U.S. Census Bureau)</p>
 <p style="width:50%;"><a href="../assets/docs/2007FCSM_Lusinchi-X-A.pdf" target="_blank">Increasing Response Rates and Data Quality of Web Surveys: Pre-Notification and Questionnaire Paging Format</a>  <small> (482 KB)</small></p>
 <p class="indent">Dominic Lusinchi (West Research, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/2007FCSM_Jackson-X-A.pdf" target="_blank">Enhancing Web-Based Data Collection Using Excel Spreadsheets</a>  <small> (263 KB)</small></p>

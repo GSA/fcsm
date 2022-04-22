@@ -3,8 +3,8 @@ title: 1999 Research Conference
 layout: page
 ---
 <p><strong>Resources and Proceedings</strong></p>
-<p>Unless noted, all of these documents  are in Portable Document Format [PDF]. To view them you will need the Adobe®  Acrobat® Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
-<!--<p><a name="top" id="top"></a><strong>Jump to …</strong><br>
+<p>Unless noted, all of these documents  are in Portable Document Format [PDF]. To view them you will need the Adobe&reg;  Acrobat&reg; Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
+<!--<p><a name="top" id="top"></a><strong>Jump to ...</strong><br>
 <span style="float:left;width:30%;padding-bottom:20px;"><a href="#ps1">Plenary Session I</a><br>
 <a href="#banq">Banquet Session</a><br>
 Sessions <a href="#s2a">II-A</a> / <a href="#s2b">II-B</a><br>
@@ -54,7 +54,7 @@ Organizer: Ed Spar</p></button>
 Organizer: Susan Hinkins</p></button>
 <p><a href="../assets/docs/III_A_Ramirez_FCSM1999.pdf" target="_blank">Frame Development for Surveys of Financial Institutions: Using Administrative Data from Regulatory Agencies</a>  <small> (174 KB)</small></p>
 <p class="indent">Ramirez</p>
-<p><a href="../assets/docs/construction.pdf" target="_blank">Using Administrative Data to Improve Survey Estimation – The 1997 Survey of Minority-Owned Business Enterprises</a>  <small> (440 KB)</small></p>
+<p><a href="../assets/docs/construction.pdf" target="_blank">Using Administrative Data to Improve Survey Estimation - The 1997 Survey of Minority-Owned Business Enterprises</a>  <small> (440 KB)</small></p>
 <p class="indent">Moore, Caldwell</p>
 <p><a href="../assets/docs/III_A_Scalia_FCSM1999.pdf" target="_blank">Using Administrative Records to Report Federal Criminal Case Processing Statistics</a>  <small> (236 KB)</small></p>
 <p class="indent">Scalia</p>
@@ -62,7 +62,7 @@ Organizer: Susan Hinkins</p></button>
 <p class="indent">Bryan</p>
 <button type="button" class="collapsible"><p class="date"><a name="s3b" id="s3b"></a>SESSION III-B<br>
 	Organizer: Marilyn McMillen</p></button>
-<p><a href="../assets/docs/III_B_Doyle_FCSM1999.pdf" target="_blank">The Survey of Income and Program Participation (SIPP) Methods Panel–Improving Income Measurement</a>  <small> (176 KB)</small></p>
+<p><a href="../assets/docs/III_B_Doyle_FCSM1999.pdf" target="_blank">The Survey of Income and Program Participation (SIPP) Methods Panel-Improving Income Measurement</a>  <small> (176 KB)</small></p>
 <p class="indent">Doyle, Martin, Moore</p>
 <p><a href="../assets/docs/construction.pdf" target="_blank">Alternative Designs for the Consumer Expenditure Survey</a>  <small> (440 KB)</small></p>
 <p class="indent">Breidt</p>
@@ -82,7 +82,7 @@ Organizer: Susan Hinkins</p></button>
 <p class="indent">Cohen</p>
 <button type="button" class="collapsible"><p class="date"><a name="s4b" id="s4b"></a>SESSION IV-B<br>
 	Organizer: Steve Cohen</p></button>
-<p><a href="../assets/docs/IV_B_Phillips_FCSM1999.pdf" target="_blank">Bridging the Gap between the Theory and Practice of Analysis of Data from Complex Surveys — Some Statistics Canada Experiences</a>  <small> (222 KB)</small></p>
+<p><a href="../assets/docs/IV_B_Phillips_FCSM1999.pdf" target="_blank">Bridging the Gap between the Theory and Practice of Analysis of Data from Complex Surveys - Some Statistics Canada Experiences</a>  <small> (222 KB)</small></p>
 <p class="indent">Phillips, Roberts, Kovacevic, Gentleman</p>
 <p><a href="../assets/docs/construction.pdf" target="_blank">Data Mining the CPS Reinterview: Digging into Response Error</a>  <small> (440 KB)</small></p>
 <p class="indent">McGovern, Bushery</p>
@@ -103,7 +103,7 @@ Organizer: Susan Hinkins</p></button>
 <button type="button" class="collapsible"><p class="date"><a name="s5b" id="s5b"></a>SESSION V-B<br>
 Organizer: Steve Cohen</p></button>
 <p><a href="../assets/docs/V_B_OBrien_FCSM1999.pdf" target="_blank">A Cognitive Appraisal Methodology for Establishment Survey Questionnaires</a>  <small> (283 KB)</small></p>
-<p class="indent">O’Brien</p>
+<p class="indent">O'Brien</p>
 <p><a href="../assets/docs/V_B_Conrad1_FCSM1999.pdf" target="_blank">Verbal Reports Are Data! A Theoretical Approach to Cognitive Interviews</a>  <small> (180 KB)</small></p>
 <p class="indent">Blair, Tracy, Conrad</p>
 <p><a href="../assets/docs/V_B_Conrad2_FCSM1999.pdf" target="_blank">Conversational Interviewing and Data Quality</a>  <small> (240 KB)</small></p>
@@ -122,7 +122,7 @@ Organizer: Marilyn McMillen</p></button>
 <p class="indent">Hogan</p>
 <button type="button" class="collapsible"><p class="date"><a name="s6b" id="s6b"></a>SESSION VI-B<br>
 Organizer: Carol King</p></button>
-<p><a href="../assets/docs/VI_B_Huberman_FCSM1999.pdf" target="_blank">Validation of Fourth and Eighth Grade Students’ Responses to Reading, Math, and Science NAEP Background Items: Use of Cognitive Interviewing Techniques with Teachers and Students</a>  <small> (217 KB)</small></p>
+<p><a href="../assets/docs/VI_B_Huberman_FCSM1999.pdf" target="_blank">Validation of Fourth and Eighth Grade Students' Responses to Reading, Math, and Science NAEP Background Items: Use of Cognitive Interviewing Techniques with Teachers and Students</a>  <small> (217 KB)</small></p>
 <p class="indent">Huberman, Levine</p>
 <p><a href="../assets/docs/VI_B_Marquis_FCSM1999.pdf" target="_blank">Cognitive Design and Bayesian Modeling of a Census Survey of Income Recall</a>  <small> (221 KB)</small></p>
 <p class="indent">Marquis, Press</p>
@@ -158,7 +158,7 @@ Organizer: Charles Alexander, Jr.</p></button>
 <p><a href="../assets/docs/VIII_A_Lewis_FCSM1999.pdf" target="_blank">Possible Improvements to the National Crime Victimization Survey Using the American Community Survey</a>  <small> (178 KB)</small></p>
 <p class="indent">Lewis, Creighton, Kindermann, DeBerry</p>
 <p><a href="../assets/docs/VIII_A_ONeill_FCSM1999.pdf" target="_blank">Using GIS to Evaluate a New Source of Transportation Census Data: The American Community Survey</a>  <small> (211 KB)</small></p>
-<p class="indent">O’Neill, Hess</p>
+<p class="indent">O'Neill, Hess</p>
 <p><a href="../assets/docs/VIII_A_Kirkendall_FCSM1999.pdf" target="_blank">Formal Discussion</a>  <small> (108 KB)</small></p>
 <p class="indent">Kirkendall</p>
 <p><a href="../assets/docs/VIII_A_Knox_FCSM1999.pdf" target="_blank">Formal Discussion</a>  <small> (73 KB)</small></p>
@@ -222,7 +222,7 @@ Organizer: Steve Cohen</p>
 <p><a href="../assets/docs/TD_Anolik_FCSM1999.pdf" target="_blank">A Prototype System for Displaying and Disseminating Data from the 1997 Census of Agriculture</a>  <small> (98 KB)</small></p>
 <p class="indent">Anolik</p>
 <p><a href="../assets/docs/TD_Planas_FCSM1999.pdf" target="_blank">Demetra: A User-Friendly Interface for Seasonal Adjustment</a>  <small> (98 KB)</small></p>
-<p class="indent">Dossé, Hoffmann, Kelsen, Planas, Linden</p>
+<p class="indent">Doss&eacute;, Hoffmann, Kelsen, Planas, Linden</p>
 <p><a href="../assets/docs/TD_Rothwell_FCSM1999.pdf" target="_blank">Maintaining Tracking Information on Subjects in Longitudinal Studies</a>  <small> (107 KB)</small></p>
 <p class="indent">Brown-Scoggins, Rothwell</p>
 <p><a href="../assets/docs/TD_Wallace_FCSM1999.pdf" target="_blank">Integrated Information Solutions at the Census Bureau</a>  <small> (94 KB)</small></p>

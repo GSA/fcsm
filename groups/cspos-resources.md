@@ -1,5 +1,5 @@
 ---
-title: Computational Statistics and the Production of Official Statistics (CSPOS): Resources
+title: "Computational Statistics and the Production of Official Statistics (CSPOS): Resources"
 layout: page
 ---
 <p>On this page, the Geospatial Interest Group provides resources of interest to the Computational Statistics community. These might be white papers, links, tools, contact lists, meeting minutes, etc.). Keep checking back for new content. <a href="">Contact</a> the GIG Chairs if you want to add content to the page.</p>

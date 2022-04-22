@@ -10,14 +10,14 @@ layout: page
   
 <p><strong>DATA QUALITY FRAMEWORK</strong></p>
 <ul>
-  <li><a href="../assets/docs/FCSM.20.04_A_Framework_for_Data_Quality.pdf" target="_blank">A Framework for Data Quality (FCSM 20-04)</a></li>
+  <li><a href="../assets/docs/FCSM.20.04_A_Framework_for_Data_Quality.pdf" target="_blank">A Framework for Data Quality(FCSM 20-04)</a></li>
   <li><a href="../assets/docs/Transparent_Reporting_FCSM_19_01_092719.pdf" target="_blank">Transparent Reporting for Integrated Data Quality: Practices of Seven Federal Statistical Agencies (FCSM 19-01)</a></li>
 </ul>
                 
    
 <p><strong>PLANNING AND DEVELOPMENT</strong></p>
 <ul>
-  <li><a href="../assets/docs/spwp27.pdf" target="_blank">Training for the Future: Addressing Tomorrow’s Survey Tasks, 1998 (WP 27)</a> </li>
+  <li><a href="../assets/docs/spwp27.pdf" target="_blank">Training for the Future: Addressing Tomorrow's Survey Tasks, 1998 (WP 27)</a> </li>
   <!------------pdf/spwp27.pdf-------------->
   <li><a href="../assets/docs/spwp13.pdf" target="_blank">Federal Longitudinal Surveys, 1986 (WP 13)</a></li>
   <!-------------------------->

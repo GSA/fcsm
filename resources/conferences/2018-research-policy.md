@@ -28,7 +28,7 @@ Statistics
 			
 	
 			
-<p >Museum Frame Development – A Universe is 
+<p >Museum Frame Development - A Universe is 
 Comprised of Many Worlds <a href="../assets/docs/construction.pdf" target="_blank">   | (PDF)</a> <br>
 
 </p></div>
@@ -172,7 +172,7 @@ Quality of Output Statistical Products and Services<a href="../assets/docs/A_5PA
   
 
  <button type="button" class="collapsible">
-							<b>CONCURRENT SESSION B–1 Advances in Web Probing</b></button>
+							<b>CONCURRENT SESSION B-1 Advances in Web Probing</b></button>
 							<div class="contenta">
 
 		<p >
@@ -233,7 +233,7 @@ Assessing the Automated Imputation of Missing and Erroneous Survey Data: A Simul
 	<p >
 
  Edit Reduction Research in the U.S. Census 
-	Bureau’s Economic Directorate<a href="../assets/docs/construction.pdf" target="_blank">   | (PDF)</a>  
+	Bureau's Economic Directorate<a href="../assets/docs/construction.pdf" target="_blank">   | (PDF)</a>  
 
 	</p></div>
 	
@@ -728,7 +728,7 @@ Business Survey <a href="../assets/docs/E4_Chowdhury_2018FCSM.pdf" target="_blan
 
 </p>
 
-<p >Effect of Nearest Neighbor Imputation on Variances Calculated by Fay’s Balanced Repeated  
+<p >Effect of Nearest Neighbor Imputation on Variances Calculated by Fay's Balanced Repeated  
 Replication  
 <a href="../assets/docs/E4_RheinFCSM2018.pdf" target="_blank">   | (PDF)</a> 
 
@@ -788,7 +788,7 @@ Different Settings and Languages a href="pdf/F_1Schoua_Glusberg.pdf" target="_bl
 
 </p>
 
-<p >Recently Resettled Refugees and their Experience with the Annual Survey of Refugees – Findings from Cognitive and In-Depth Interviews <a href="../assets/docs/F_1Dutwin.pdf" target="_blank">   | (PDF)</a> 
+<p >Recently Resettled Refugees and their Experience with the Annual Survey of Refugees - Findings from Cognitive and In-Depth Interviews <a href="../assets/docs/F_1Dutwin.pdf" target="_blank">   | (PDF)</a> 
 	
 </p>
 
@@ -818,7 +818,7 @@ Establishment Surveys</b></button>
 </p>
 
 
-<p >Experimenting with Alternative Question Designs for “Other, Specify” Product Information in  
+<p >Experimenting with Alternative Question Designs for "Other, Specify" Product Information in  
 Establishment Surveys  <a href="../assets/docs/construction.pdf" target="_blank">   | (PDF)</a> 
 </p>
 
@@ -913,7 +913,7 @@ Respondent Burden
 </b></button>
 							<div class="contenta">
 
-<p >Assessing Respondents’ Perceptions of Burden in the American Community Survey <a href="../assets/docs/G_2_Holzberg_2018FCSM.pdf" target="_blank">   | (PDF)</a> 
+<p >Assessing Respondents' Perceptions of Burden in the American Community Survey <a href="../assets/docs/G_2_Holzberg_2018FCSM.pdf" target="_blank">   | (PDF)</a> 
  
 </p>
 <p ><a href="../assets/docs/G2_Hamelin_2018FCSM.pdf" target="_blank">Estimating Reporting Burden for Statistical Surveys </a> 
@@ -1078,7 +1078,7 @@ Survey<a href="../assets/docs/H_1Spiegelman.pdf" target="_blank">   | (PDF)</a>
 	
 
 </p>
-<p >Testing Significance Tests: A Simulation with Cliff’s Delta, t-tests, and Mann-Whitney U<a href="../assets/docs/H3_Barnes_2018FCSM.pdf" target="_blank">   | (PDF)</a> 
+<p >Testing Significance Tests: A Simulation with Cliff's Delta, t-tests, and Mann-Whitney U<a href="../assets/docs/H3_Barnes_2018FCSM.pdf" target="_blank">   | (PDF)</a> 
 	
 </p>
 </div>
@@ -1130,7 +1130,7 @@ Economic Census
 <p > An Overview of the Improved 2017 Economic Census<a href="../assets/docs/I1_MooreSamples_2018FCSM.pdf" target="_blank">   | (PDF)</a> 
 
 </p>
-<p >  Executing a Multi–Year Multi–Method Electronic Data Collection Re–engineering: Experiences from 2017 Economic Census Development<a href="../assets/docs/I1_Anderson_Riemer_2018FCSM.pdf" target="_blank">   | (PDF)</a> 
+<p >  Executing a Multi-Year Multi-Method Electronic Data Collection Re-engineering: Experiences from 2017 Economic Census Development<a href="../assets/docs/I1_Anderson_Riemer_2018FCSM.pdf" target="_blank">   | (PDF)</a> 
 
 </p>
 
@@ -1205,7 +1205,7 @@ Damian Kostiuk (U.S. Citizenship and Immigration Services)
 
 	 <button type="button" class="collapsible">
 							<b>CONCURRENT SESSION  I-4<br>
-	Analyzing Nonresponse – New Research  
+	Analyzing Nonresponse - New Research  
 </b></button>
 							<div class="contenta">
 
@@ -1240,7 +1240,7 @@ Statistics
 <p > Creating State Specific Occupational Replacement Rates<a href="../assets/docs/I_5Roubinchtein.pdf" target="_blank">   | (PDF)</a>  
 
 </p>
-<p >  Employment Transitions in Washington State – An  
+<p >  Employment Transitions in Washington State - An  
 Examination of Job Flows Among Persons  
 Employed in Growing and Declining Industries,  
 2014-2015 <a href="../assets/docs/I_5Lind.pdf" target="_blank">   | (PDF)</a> 
@@ -1297,7 +1297,7 @@ George Sheldon (U.S. Department of Veterans Affairs
 <p > Jointly Predicting U.S. Recessions and Restaurant Downturns:  Integrated Models using the 
 	<a href="../assets/docs/J_2_Park_ERS_USDA_FIN.pdf" target="_blank"></a>
 </p>
-<p >Clarifying the Confidence Levels of PPI and CPI Forecasts in the USDA’s Food Price Outlook<a href="../assets/docs/construction.pdf" target="_blank">   | (PDF)</a>  <br></div>
+<p >Clarifying the Confidence Levels of PPI and CPI Forecasts in the USDA's Food Price Outlook<a href="../assets/docs/construction.pdf" target="_blank">   | (PDF)</a>  <br></div>
 
 
 
@@ -1347,7 +1347,7 @@ National Ambulatory Medical Care Survey and the National Hospital Care Survey
 
 
 
-<p >National Health Interview Survey 2019 Content Redesign – Analytic Implications  a href="pdf/J_4LessemNHISredesign.pdf" target="_blank"></National> </a> </p>
+<p >National Health Interview Survey 2019 Content Redesign - Analytic Implications  a href="pdf/J_4LessemNHISredesign.pdf" target="_blank"></National> </a> </p>
 
 <p>J4_Messel_2018FCSM.pdf<a href="../assets/docs/J4_Messel_2018FCSM.pdf" target="_blank">   | (PDF)</a>  
 </p>

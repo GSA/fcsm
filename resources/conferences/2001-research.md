@@ -4,8 +4,8 @@ layout: page
 ---
 <p><strong><a href="../assets/docs/2001FCSMResearchProgram.pdf" target="_blank">FINAL PROGRAM</a> </strong>  <small> (137 KB)</small></p>
 <p><strong>Resources and Proceedings</strong></p>
-<p>Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe® Acrobat® Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
-<!--<p><a id="top" name="top"></a><strong>Jump to …</strong><br>
+<p>Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe&reg; Acrobat&reg; Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
+<!--<p><a id="top" name="top"></a><strong>Jump to ...</strong><br>
 <span style="float: left; width: 30%; padding-bottom: 20px;"><a href="#ps1">Plenary Session I</a><br>
 Sessions <a href="#s2a">II-A</a> / <a href="#s2b">II-B</a><br>
 Sessions <a href="#s3a">III-A</a> / <a href="#s3b">III-B</a><br>
@@ -59,9 +59,9 @@ USES OF ADVANCED TECHNOLOGIES FOR DATA COLLECTION, PROCESSING AND DISSEMINATION,
 <p>Formal Discussion: Martha Johnson</p>
 <p class="date"><a id="s3b" name="s3b"></a>SESSION III-B<br><br>
 TREATMENT OF MISSING DATA</p>
-<p><a href="../assets/docs/2001FCSM_Fetter.pdf" target="_blank">Mass Imputation of Agricultural Economic Data Missing by Design – A Simulation Study of Two Regression Based Techniques</a>  <small> (172 KB)</small></p>
+<p><a href="../assets/docs/2001FCSM_Fetter.pdf" target="_blank">Mass Imputation of Agricultural Economic Data Missing by Design - A Simulation Study of Two Regression Based Techniques</a>  <small> (172 KB)</small></p>
 <p class="indent">Matt Fetter</p>
-<p><a href="../assets/docs/2001FCSM_Piela.pdf" target="_blank">Automatic Interaction Detection for Imputation – Tests with the WAID Software Package </a>  <small> (417 KB)</small></p>
+<p><a href="../assets/docs/2001FCSM_Piela.pdf" target="_blank">Automatic Interaction Detection for Imputation - Tests with the WAID Software Package </a>  <small> (417 KB)</small></p>
 <p class="indent">Pasi Piela and Seppo Laaksonen</p>
 <p><a href="../assets/docs/2001FCSM_Greene.pdf" target="_blank">Raking Fire Data</a>  <small> (268 KB)</small></p>
 <p class="indent">Michael Greene, Linda Smith, Mark Levenson, Signe Hiser, and Jean Mah</p>
@@ -69,11 +69,11 @@ TREATMENT OF MISSING DATA</p>
 <p class="indent">Nathaniel Schenker</p>
 <p class="date"><a id="s4a" name="s4a"></a>SESSION IV-A<br><br>
 USES OF ADVANCED TECHNOLOGIES FOR DATA COLLECTION, PROCESSING, AND DISSEMINATION, PART II</p>
-<p><a href="../assets/docs/2001FCSM_Boucher.pdf" target="_blank">Laying the Foundation for Electronic Dissemination: Statistics Canada’s Output Database, CANSIM II</a>  <small> (243 KB)</small></p>
+<p><a href="../assets/docs/2001FCSM_Boucher.pdf" target="_blank">Laying the Foundation for Electronic Dissemination: Statistics Canada's Output Database, CANSIM II</a>  <small> (243 KB)</small></p>
 <p class="indent">Louis Boucher</p>
 <p><a href="../assets/docs/construction.pdf" target="_blank">Security Screening and Knowledge Management in the Department of Defense</a>  <small> (440 KB)</small></p>
 <p class="indent">David Lloyd and Nancy Spruill</p>
-<p><a href="../assets/docs/2001FCSM_Blessing.pdf" target="_blank">Usability Testing for the Energy Information Administration’s Info-Centric Web Site</a>  <small> (243 KB)</small></p>
+<p><a href="../assets/docs/2001FCSM_Blessing.pdf" target="_blank">Usability Testing for the Energy Information Administration's Info-Centric Web Site</a>  <small> (243 KB)</small></p>
 <p class="indent">Colleen Blessing, Robert Rutchik, Howard Bradsher-Fredrick, Herbert Miller, and Renee Miller</p>
 <p><a href="../assets/docs/2001FCSM_Best.pdf" target="_blank">Developing Internet Dissemination in Step with Client Expectations</a>  <small> (269 KB)</small></p>
 <p class="indent">Pamela Best</p>
@@ -111,7 +111,7 @@ ESTIMATION AND VARIANCE ESTIMATION</p>
 CONFIDENTIALITY AND DISCLOSURE ISSUES IN DATA RELEASE AND DATA LINKAGE,<br> PART 2</p>
 <p><a href="../assets/docs/2001FCSM_Nichols.pdf" target="_blank">Balancing Confidentiality and Burden Concerns in Censuses and Surveys of Large Businesses</a>  <small> (249 KB)</small></p>
 <p class="indent">Elizabeth Nichols and Diane Willimack</p>
-<p><a href="../assets/docs/2001FCSM_Willimack.pdf" target="_blank">Businesses’ Perceptions of Confidentiality and Their Attitudes Towards Data Sharing Among Federal Statistical Agencies</a>  <small> (2.13 MB)</small></p>
+<p><a href="../assets/docs/2001FCSM_Willimack.pdf" target="_blank">Businesses' Perceptions of Confidentiality and Their Attitudes Towards Data Sharing Among Federal Statistical Agencies</a>  <small> (2.13 MB)</small></p>
 <p class="indent">Diane Willimack</p>
 <p><a href="../assets/docs/2001FCSM_Doyle.pdf" target="_blank">Striking the Balance between Privacy and Production in Demographic Surveys: Implementation of the Respondent Identification Policy</a>  <small> (300 KB)</small></p>
 <p class="indent">Patricia Doyle, Nancy Bates, and Gerald Gates</p>
@@ -128,7 +128,7 @@ STATISTICAL USES OF ADMINISTRATIVE RECORDS</p>
 <p>Formal Discussion: Fritz Scheuren</p>
 <p class="date"><a id="s7a" name="s7a"></a>SESSION VII-A<br><br>
 INTERNET AND OTHER FORMS OF DATA COLLECTION</p>
-<p><a href="../assets/docs/construction.pdf" target="_blank">AESDirect – Internet Data Collection of U.S. Export Information</a> <small> (440 KB)</small></p>
+<p><a href="../assets/docs/construction.pdf" target="_blank">AESDirect - Internet Data Collection of U.S. Export Information</a> <small> (440 KB)</small></p>
 <p class="indent">Charles Woods</p>
 <p><a href="../assets/docs/2001FCSM_Tourangeau.pdf" target="_blank">Social Presence in Web Surveys</a>  <small> (329 KB)</small></p>
 <p class="indent">Roger Tourangeau, Mick Couper, and Darby Steiger</p>
@@ -140,7 +140,7 @@ SAMPLE DESIGN AND ESTIMATION</p>
 <p><a href="../assets/docs/2001FCSM_Cohen.pdf" target="_blank">Sample Size Considerations for Multilevel Surveys</a>  <small> (178 KB)</small></p>
 <p class="indent">Michael Cohen</p>
 <p><a href="../assets/docs/2001FCSM_Kott.pdf" target="_blank">Two-Sided Coverage Intervals for Small Proportions Based on Survey Data</a>  <small> (217 KB)</small></p>
-<p class="indent">Phillip Kott, Per Gösta Andersson, and Olle Nerman</p>
+<p class="indent">Phillip Kott, Per G&ouml;sta Andersson, and Olle Nerman</p>
 <p><a href="../assets/docs/construction.pdf" target="_blank">Formal Discussion</a>  <small> (440 KB)</small></p>
 <p class="indent">Stephen Haslett</p>
 <p class="date"><a id="s8a" name="s8a"></a>SESSION VIII-A<br><br>
@@ -157,14 +157,14 @@ ISSUES IN GEOSPATIAL DATA COLLECTION</p>
 COGNITIVE RESEARCH AND USABILITY TESTING IN SURVEY PROCESSES</p>
 <p><a href="../assets/docs/2001FCSM_Krosnick.pdf" target="_blank">Optimizing Survey Measurement Accuracy by Matching Question Design to Respondent Memory Organization</a>  <small> (186 KB)</small></p>
 <p class="indent">Jon Krosnick and Michael Silver</p>
-<p><a href="../assets/docs/2001FCSM_Conrad.pdf" target="_blank">Clarifying Survey Questions When Respondents Don’t Know They Need Clarification</a>  <small> (153 KB)</small></p>
+<p><a href="../assets/docs/2001FCSM_Conrad.pdf" target="_blank">Clarifying Survey Questions When Respondents Don't Know They Need Clarification</a>  <small> (153 KB)</small></p>
 <p class="indent">Frederick Conrad and Michael Schober</p>
 <p><a href="../assets/docs/2001FCSM_Fox.pdf" target="_blank">Usability Methods for Designing a Computer-Assisted Data Collection Instrument for the CPI</a>  <small> (291 KB)</small></p>
 <p class="indent">Jean Fox</p>
 <p><a href="../assets/docs/2001FCSM_Murphy.pdf" target="_blank">Building Usability into Electronic Data-Collection Forms for Economic Censuses and Surveys</a>  <small> (173 KB)</small></p>
 <p class="indent">Elizabeth Murphy, Elizabeth Nichols, Amy Anderson, M. Diane Harley, and Kimberly Pressley</p>
 <p class="date"><a id="ps9" name="ps9"></a>PLENARY SESSION IX</p>
-<p>Federal Statistics: The “Right” Balance between Accountability and Autonomy</p>
+<p>Federal Statistics: The "Right" Balance between Accountability and Autonomy</p>
 <p class="indent">Kenneth Prewitt</p>
 <p class="date"><a id="s10a" name="s10a"></a>SESSION X-A<br><br>
 DATA QUALITY AND NONSAMPLING ERROR, PART 1</p>
@@ -200,7 +200,7 @@ DATA QUALITY AND NONSAMPLING ERROR, PART 2</p>
 CENSUS AND SURVEY EVALUATION METHODOLOGIES</p>
 <p><a href="../assets/docs/construction.pdf" target="_blank">Estimating Reliability and Bias from Reinterviews with Application to the 1998 Dress Rehearsal Race Question</a>  <small> (440 KB)</small></p>
 <p class="indent">Paul Biemer and Henry Woltman</p>
-<p><a href="../assets/docs/construction.pdf" target="_blank">Can We Ignore the Migration of Income Tax Nonfilers When Benchmarking the American Community Survey’s County Estimates?</a>  <small> (440 KB)</small></p>
+<p><a href="../assets/docs/construction.pdf" target="_blank">Can We Ignore the Migration of Income Tax Nonfilers When Benchmarking the American Community Survey's County Estimates?</a>  <small> (440 KB)</small></p>
 <p class="indent">Yves Thibaudeau</p>
 <p><a href="../assets/docs/2001FCSM_Crouse.pdf" target="_blank">The 2002 U.S. Census of Agriculture Data Processing System</a>  <small> (77.1 KB)</small></p>
 <p class="indent">Chadd Crouse and Kara Perritt</p>

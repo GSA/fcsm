@@ -9,7 +9,7 @@ November 4-6, 2013</p>
 <p style="width:50%;"><a href="http://www.copafs.org/seminars/fcsm2013research.htmlx"><strong>PRESENTATIONS</strong></a> (posted on the COPAFS website)</p>
 <p><strong>Resources and Proceedings</strong></p>
 <p>Unless noted, all of these documents are in Portable Document Format [PDF].</p>
-<!--<p><strong><a id="top" name="top"></a>Jump to …</strong><br>
+<!--<p><strong><a id="top" name="top"></a>Jump to ...</strong><br>
 Monday <a href="#MondayAM">AM</a> / <a href="#MondayPM"> PM</a><br>
 Tuesday <a href="#TuesdayAM">AM</a> / <a href="#TuesdayPM">PM</a><br>
 Wednesday <a href="#WednesdayAM">AM</a> / <a href="#WednesdayPM">PM</a></p>-->
@@ -34,7 +34,7 @@ Katherine Morton (RTI International)</p>
 <p style="width:50%;"><a href="../assets/docs/A1_Moriarity_2013FCSM.pdf" target="_blank">Current and Future Uses of Address Lists for the National Health Interview Survey Sample</a> <small> (1.3 MB)</small></p>
 <p class="indent">Chris Moriarity (National Center for Health Statistics)</p>
 <p style="width:50%;"><a href="../assets/docs/construction.pdf" target="_blank">A Tale of Two Surveys: Learning From the Application of Address-Based Sampling in Federal Surveys</a><small> (440.0 MB)</small></p><!---------------pdf/A1_OBrien_2013FCSM.pdf------------>
-<p class="indent">Eileen O’Brien (Energy Information Administration)</p>
+<p class="indent">Eileen O'Brien (Energy Information Administration)</p>
 
 
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION A-2:<br>
@@ -77,7 +77,7 @@ DATA QUALITY: ADMINISTRATIVE RECORDS VERSUS CENSUS AND SURVEY DATA</button></p>
 <p style="width:50%;"><a href="../assets/docs/A4_Rastogi_2013FCSM.pdf" target="_blank">Evaluating Race and Hispanic Origin in Administrative Records Relative to the 2010 Census</a> <small> (23.2 MB)</small></p>
 <p class="indent">Sonya Rastogi (U.S. Census Bureau)<br>
 James Noon (U.S. Census Bureau)<br>
-Amy O’Hara (U.S. Census Bureau)<br>
+Amy O'Hara (U.S. Census Bureau)<br>
 Ellen Zapata (U.S. Census Bureau)</p>
 <p style="width:50%;"><a href="../assets/docs/A4_Luque_2013FCSM.pdf" target="_blank">2010 American Community Survey Match Study: Comparing Administrative Records and ACS Data</a> <small> (1.1 MB)</small></p>
 <p class="indent">Adela Luque (U.S. Census Bureau)<br>
@@ -88,11 +88,11 @@ Adela Luque (U.S. Census Bureau)<br>
 James Noon (U.S. Census Bureau)<br>
 Sonya Rastogi (U.S. Census Bureau)</p>
 <p style="width:50%;"><a href="../assets/docs/A4_Turner_2013FCSMr.pdf" target="_blank">Medicaid Undercount in the American Community Survey</a> <small> (50.0 MB)</small></p>
-<p class="indent">Kathleen Call (University of Minnesota – SHADAC)<br>
-Brett O’Hara (U.S. Census Bureau)<br>
-Joanna Turner (University of Minnesota – SHADAC)<br>
-Michel Boudreaux (University of Minnesota – SHADAC)<br>
-Brett Fried (University of Minnesota – SHADAC)</p>
+<p class="indent">Kathleen Call (University of Minnesota - SHADAC)<br>
+Brett O'Hara (U.S. Census Bureau)<br>
+Joanna Turner (University of Minnesota - SHADAC)<br>
+Michel Boudreaux (University of Minnesota - SHADAC)<br>
+Brett Fried (University of Minnesota - SHADAC)</p>
 <p style="width:50%;"><a href="../assets/docs/A4_Noon_2013FCSM.pdf" target="_blank">The Medicaid Undercount in the 2007-2009 Current Population Survey</a> <small> (2.3 MB)</small></p>
 <p class="indent">James Noon (U.S. Census Bureau)<br>
 Leticia Fernandez (U.S. Census Bureau)<br>
@@ -130,10 +130,10 @@ SOLVING DATA PROBLEMS WITH BAYESIAN METHODS: MODELING, COMPLIANCE CONTROL, AND C
 <p class="indent">Bhojnarine Rambharat (Office of the Comptroller of the Currency)</p>
 <p style="width:50%;"><a href="../assets/docs/construction.pdf" target="_blank">Log Linear Mixed With Additive Random Components Modeling for Small Area Estimation: A Bayesian-Frequentist Integrated Approach</a> <small> (440.0 MB)</small></p>
 <p class="indent">Avinash Singh (NORC at the University of Chicago)</p>
-<p style="width:50%;"><a href="../assets/docs/B2_Amin_2013FCSM.pdf" target="_blank">Spatio-Temporal Modeling of the Impact of Climate Change on Road Traffic Accidents – A Case Study of New Brunswick</a> <small> (202.4 MB)</small></p>
+<p style="width:50%;"><a href="../assets/docs/B2_Amin_2013FCSM.pdf" target="_blank">Spatio-Temporal Modeling of the Impact of Climate Change on Road Traffic Accidents - A Case Study of New Brunswick</a> <small> (202.4 MB)</small></p>
 <p class="indent">Md Shohel Reza Amin (Concordia University, Canada)<br>
 Alireza Zareie (McGill University, Canada)<br>
-Luis Amador-Jiménez (Concordia University, Canada)</p>
+Luis Amador-Jim&eacute;nez (Concordia University, Canada)</p>
 <p style="width:50%;"><a href="../assets/docs/B2_Xia_2013FCSM.pdf" target="_blank">Weight Smoothing With Laplace Prior and Its Application in GLM Model</a> <small> (36.0 MB)</small></p>
 <p class="indent">Xi Xia (University of Michigan)<br>
 Michael Elliott (University of Michigan)</p>
@@ -177,7 +177,7 @@ Douglas Rivers (Stanford University and YouGov)</p>
 SUPPLEMENTING THE COVERAGE OF ADDRESS-BASED SAMPLING FRAMES FOR IN-PERSON HOUSEHOLD SURVEYS</button></p>
 <p style="width:50%;"><a href="../assets/docs/construction.pdf" target="_blank">Correcting Coverage Deficiencies in Address-Based Frames: The Use of Enhanced Listing</a> <small> (440.0 MB)</small></p><!-----pdf/C1_English_2013FCSM.pdf------->
 <p class="indent">Ned English (NORC at the University of Chicago)<br>
-Colm O’Muircheartaigh (Irving B. Harris Graduate School of Public Policy at the University of Chicago)<br>
+Colm O'Muircheartaigh (Irving B. Harris Graduate School of Public Policy at the University of Chicago)<br>
 Katie Dekker (NORC at the University of Chicago)</p>
 <p style="width:50%;"><a href="../assets/docs/construction.pdf" target="_blank">Using an Area Linkage Method to Improve the Coverage of ABS Frames for In-Person Household Surveys</a> <small> (440.0 MB)</small></p><!-----pdf/C1_Dohrmann_2013FCSM.pdf------>
 <p class="indent">Sylvia Dohrmann (Westat)<br>
@@ -311,7 +311,7 @@ Joanna Fane Lineback (U.S. Census Bureau)</p>
 
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION D-4: TECHNICAL DEMONSTRATIONS<br>
 ADVANCES IN UTILIZING MAPS AND VISUALIZING DATA</button></p>
-<p style="width:50%;"><a href="../assets/docs/D4_Beam_2013FCSM.pdf" target="_blank">A Demonstration Occupational Employment Statistics’ Web-Based Chart and Map Visualization Tools</a> <small> (6.4 MB)</small></p>
+<p style="width:50%;"><a href="../assets/docs/D4_Beam_2013FCSM.pdf" target="_blank">A Demonstration Occupational Employment Statistics' Web-Based Chart and Map Visualization Tools</a> <small> (6.4 MB)</small></p>
 <p class="indent">Tanner Beam (Bureau of Labor Statistics)</p>
 <p style="width:50%;"><a href="../assets/docs/D4_Anolik_2013FCSM.pdf" target="_blank">Visualizing Historical Agricultural Data: The Current State of the Art</a> <small> (4.3 MB)</small></p>
 <p class="indent">Irwin Anolik (National Agricultural Statistics Service)</p>
@@ -346,7 +346,7 @@ ADMINISTRATIVE RECORDS AND SURVEY RESEARCH</button></p>
 <p style="width:50%;"><a href="../assets/docs/E2_Brown_2013FCSM-508.pdf" target="_blank">The Nature of the Bias When Studying Only Linkable Person Records: Evidence from the American Community Survey</a> <small> (70.0 MB)</small></p>
 <p class="indent">J. David Brown (U.S. Census Bureau)<br>
 Adela Luque (U.S. Census Bureau)<br>
-Amy O’Hara (U.S. Census Bureau)</p>
+Amy O'Hara (U.S. Census Bureau)</p>
 <p style="width:50%;"><a href="../assets/docs/E2_Iams_2013FCSM-508.pdf" target="_blank">Social Security Income Measurement in Two Surveys</a> <small> (3.4 MB)</small></p>
 <p class="indent">Howard Iams (Social Security Administration)<br>
 Patrick Purcell (Social Security Administration)</p>
@@ -372,7 +372,7 @@ DATA DISCLOSURE ISSUES</button></p>
 Penelope Weinberger (American Association of State Highway and Transportation Officials)<br>
 Jianzhu Li (Westat)<br>
 Elaine Murakami (Federal Highway Administration)</p>
-<p style="width:50%;"><a href="../assets/docs/E3_Steel_2013FCSM-508.pdf" target="_blank">The Census Bureau’s New Cell Suppression System</a> <small> (43.0 MB)</small></p>
+<p style="width:50%;"><a href="../assets/docs/E3_Steel_2013FCSM-508.pdf" target="_blank">The Census Bureau's New Cell Suppression System</a> <small> (43.0 MB)</small></p>
 <p class="indent">Philip Steel (U.S. Census Bureau)</p>
 <p style="width:50%;"><a href="../assets/docs/E3_Vilhuber_2013FCSM-508.pdf" target="_blank">Managing Confidentiality and Provenance Across Mixed Private and Publicly-Accessed Data and Metadata</a> <small> (232.0 MB)</small></p>
 <p class="indent">Carl Lagoze (University of Michigan)<br>
@@ -490,7 +490,7 @@ ISSUES ASSOCIATED WITH USING ADMINISTRATIVE RECORDS AND LINKAGE</button></p>
 <p class="indent">Alisha Creel (ICF International)<br>
 Ronald Szoc (ICF International)</p>
 <p style="width:50%;"><a href="../assets/docs/G1_Trepanier_2013FCSM_AC.pdf" target="_blank">Administrative Data Initiatives at Statistics Canada</a> <small> (16.1 MB)</small></p>
-<p class="indent">Julie Trépanier (Statistics Canada)<br>
+<p class="indent">Julie Tr&eacute;panier (Statistics Canada)<br>
 Jean Pignal (Statistics Canada)<br>
 Don Royce (Statistics Canada)</p>
 
@@ -499,9 +499,9 @@ Don Royce (Statistics Canada)</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION G-2:<br>
 ASSESSING ALTERNATIVE WEIGHTING METHODOLOGIES</button></p>
 <p style="width:50%;"><a href="../assets/docs/G2_Carrillo-Gamboa_2013FCSM_AC.pdf" target="_blank">Performance of Weighted and Non-weighted Estimators in a Cell Phone Based Electoral Poll: An Academic Study of the 2012 Presidential Elections in Mexico</a> <small> (38.1 MB)</small></p>
-<p class="indent">Olivia Carrillo-Gamboa (Tecnológico de Monterrey, Mexico)<br>
-Rosa Isela Hernández-Zamora (Tecnológico de Monterrey, Mexico)<br>
-Jesús Cantú-Escalante (Tecnológico de Monterrey, Mexico)</p>
+<p class="indent">Olivia Carrillo-Gamboa (Tecnol&oacute;gico de Monterrey, Mexico)<br>
+Rosa Isela Hern&aacute;ndez-Zamora (Tecnol&oacute;gico de Monterrey, Mexico)<br>
+Jes&uacute;s Cant&uacute;-Escalante (Tecnol&oacute;gico de Monterrey, Mexico)</p>
 <p style="width:50%;"><a href="../assets/docs/G2_Busselberg_2013FCSM_AC.pdf" target="_blank">The Use of Signal Filtering for Hog Inventory Estimation</a> <small> ((302.2 MB)</small></p>
 <p class="indent">Stephen Busselberg (National Agricultural Statistics Service)</p>
 <p style="width:50%;"><a href="../assets/docs/G2_Gardenier_2013FCSM_AC.pdf" target="_blank">Depicting Time-Dependent Changes in Environmental Data for Prospective Uses in Personalized Medicine</a> <small> (6.4 MB)</small></p>
@@ -510,7 +510,7 @@ Jesús Cantú-Escalante (Tecnológico de Monterrey, Mexico)</p>
 <p class="indent">Jia-Ern Pai (National Highway Traffic Safety Administration)<br>
 Kofi Placid Adragni (University of Maryland, Baltimore County)</p>
 <p style="width:50%;"><a href="../assets/docs/G2_Bonnery_2013FCSM_AC.pdf" target="_blank">An Alternative Estimation Method for the Current Population Survey</a> <small> (27.0 MB)</small></p>
-<p class="indent">Daniel Bonnéry (University of Maryland, College Park, and U.S. Census Bureau)<br>
+<p class="indent">Daniel Bonn&eacute;ry (University of Maryland, College Park, and U.S. Census Bureau)<br>
 Partha Lahiri (University of Maryland, College Park)<br>
 Yang Cheng (U.S. Census Bureau)</p>
 
@@ -549,7 +549,7 @@ Joe Zickafoose (Mathematica Policy Research)</p>
 
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION G-4:<br>
 NEW APPROACHES TO SURVEY DESIGN, IMPLEMENTATION, AND USE</button></p>
-<p style="width:50%;"><a href="../assets/docs/G4_Paszkiewicz_2013FCSM_AC.pdf" target="_blank">The Consumer Expenditure Survey’s New Design and Implementation Plans</a> <small> (9.2 MB)</small></p>
+<p style="width:50%;"><a href="../assets/docs/G4_Paszkiewicz_2013FCSM_AC.pdf" target="_blank">The Consumer Expenditure Survey's New Design and Implementation Plans</a> <small> (9.2 MB)</small></p>
 <p class="indent">Laura Paszkiewicz (Bureau of Labor Statistics)<br>
 Jennifer Edgar (Bureau of Labor Statistics)<br>
 Brett McBride (Bureau of Labor Statistics)<br>
@@ -560,7 +560,7 @@ Adam Safir (Bureau of Labor Statistics)</p>
 Frances Barlas (ICF International)<br>
 Wendy Gross (GfK Custom Research, LLC)</p>
 <p style="width:50%;"><a href="../assets/docs/G4_Schoua-Glusberg_2013FCSM_AC.pdf" target="_blank">Backtranslation vs. Committee Approach: An Experiment Comparing How They Perform in Questionnaire Translation</a> <small> (22.1 MB)</small></p>
-<p class="indent">Alisú Schoua-Glusberg (Research Support Services)<br>
+<p class="indent">Alis&uacute; Schoua-Glusberg (Research Support Services)<br>
 Ana Villar (City University, United Kingdom)</p>
 <p style="width:50%;"><a href="../assets/docs/G4_Bose_2013FCSM_AC.pdf" target="_blank">Getting the Most out of a Limited Sample Size Field Test: Experiences from the National Survey on Drug Use and Health</a> <small> (166.0 MB)</small></p>
 <p class="indent">Jonaki Bose (Substance Abuse and Mental Health Services Administration)<br>
@@ -623,7 +623,7 @@ Adam Bee (U.S. Census Bureau)</p>
 <p style="width:50%;"><a href="../assets/docs/H3_OHara_2013FCSM_AC.pdf" target="_blank">Health Insurance in the Current Population Survey: Redesign and Production</a> <small> (7.6 MB)</small></p>
 <p class="indent">Carla Medalia (U.S. Census Bureau)<br>
 Amy Steinweg (U.S. Census Bureau)<br>
-Brett O’Hara (U.S. Census Bureau)<br>
+Brett O'Hara (U.S. Census Bureau)<br>
 David Lee (U.S. Census Bureau)<br>
 Jessica Smith (U.S. Census Bureau)<br>
 Joanne Pascale (U.S. Census Bureau)<br>
@@ -655,13 +655,13 @@ MOBILE DEVICES AND APPLICATIONS FOR SURVEY DATA COLLECTION</button></p>
 Jay Occhiogrosso (U.S. Census Bureau)<br>
 Scott Williams (U.S. Census Bureau)<br>
 Ryan King (U.S. Census Bureau)</p>
-<p style="width:50%;"><a href="../assets/docs/I1_Gerling_2013FCSM.pdf" target="_blank">Field Data Collection in Area Frame Surveys Utilizing iPads® – USDA’s June Area Survey</a> <small> (200.0 MB)</small></p>
+<p style="width:50%;"><a href="../assets/docs/I1_Gerling_2013FCSM.pdf" target="_blank">Field Data Collection in Area Frame Surveys Utilizing iPads&reg; - USDA's June Area Survey</a> <small> (200.0 MB)</small></p>
 <p class="indent">Michael Gerling (National Agricultural Statistics Service)<br>
 Eric Wilson (National Agricultural Statistics Service)<br>
 Linda Lawson (National Agricultural Statistics Service)<br>
 Alan Dotts (Iowa State University)<br>
 Andrew Vardeman (Iowa State University)</p>
-<p style="width:50%;"><a href="../assets/docs/I1_Driscoll_2013FCSM.pdf" target="_blank">The iPad® Computer-Assisted Personal Interview System – A Revolution for In-Person Data Capture?</a> <small> (45.0 MB)</small></p>
+<p style="width:50%;"><a href="../assets/docs/I1_Driscoll_2013FCSM.pdf" target="_blank">The iPad&reg; Computer-Assisted Personal Interview System - A Revolution for In-Person Data Capture?</a> <small> (45.0 MB)</small></p>
 <p class="indent">Heather Driscoll (ICF International)<br>
 James Dayton (ICF International)</p>
 <p style="width:50%;"><a href="../assets/docs/I1_Dyer_2013FCSM.pdf" target="_blank">Innovative Retention Methods in Panel Research: Can SmartPhones Improve Long-term Panel Participation?</a> <small> (70.0 MB)</small></p>
@@ -788,7 +788,7 @@ NEW MEASUREMENT SOLUTIONS: AGREEMENT, INTRACLASS CORRELATION, AND OUTCOME PATTER
 <p style="width:50%;"><a href="../assets/docs/J4_Hedberg_2013FCSM.pdf" target="_blank">State Based Intraclass Correlation Values for Planning Group-Randomized Trials in Education: Within and Between District Estimates</a> <small> (42.0 MB)</small></p>
 <p class="indent">Eric Hedberg (NORC at the University of Chicago)<br>
 Larry Hedges (Northwestern University)</p>
-<p style="width:50%;"><a href="../assets/docs/J4_Xie_2013FCSM.pdf" target="_blank">Agree or Disagree? A Demonstration of An Alternative Statistic to Cohen’s Kappa for Measuring the Extent and Reliability of Agreement Between Observers</a> <small> (66.0 MB)</small></p>
+<p style="width:50%;"><a href="../assets/docs/J4_Xie_2013FCSM.pdf" target="_blank">Agree or Disagree? A Demonstration of An Alternative Statistic to Cohen's Kappa for Measuring the Extent and Reliability of Agreement Between Observers</a> <small> (66.0 MB)</small></p>
 <p class="indent">Qingshu Xie (MacroSys, LLC)</p>
 <p style="width:50%;"><a href="../assets/docs/J4_Stanwyck_2013FCSM.pdf" target="_blank">Statistical Tests of Agreement</a> <small> (210.2 MB)</small></p>
 <p class="indent">Elizabeth Stanwyck (University of Maryland, Baltimore County)<br>

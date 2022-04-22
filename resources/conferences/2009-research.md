@@ -4,14 +4,14 @@ layout: page
 ---
 <p style="width:50%;"><a href="../assets/docs/2009FCSMResearchProgram.pdf" target="_blank"><strong>FINAL PROGRAM</strong></a>  <small> (2 MB)</small></p>
 <p><strong>Resources and Proceedings</strong></p>
-<p>Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe® Acrobat® Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
-<!--<p><a id="top" name="top"></a><strong>Jump to …</strong><br>
+<p>Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe&reg; Acrobat&reg; Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
+<!--<p><a id="top" name="top"></a><strong>Jump to ...</strong><br>
 Monday <a href="#MondayAM">AM</a> / <a href="#MondayPM">PM</a><br>
 Tuesday <a href="#TuesdayAM">AM</a> / <a href="#TuesdayPM">PM</a><br>
 Wednesday <a href="#WednesdayAM">AM</a> / <a href="#WednesdayPM">PM</a></p>-->
 <p class="larger" style="float: left; padding-right: 30px;">PLENARY<br>
 SESSION</p>
-<p style="float: left; width: 70%;"><strong><a href="../assets/docs/construction.pdf" target="_blank">What We Don’t Know Could Hurt Us: Some Reflections on the Measurement of Economic Activity</a></strong>  <small> (440 KB)</small><br>
+<p style="float: left; width: 70%;"><strong><a href="../assets/docs/construction.pdf" target="_blank">What We Don't Know Could Hurt Us: Some Reflections on the Measurement of Economic Activity</a></strong>  <small> (440 KB)</small><br>
 Katharine G. Abraham (University of Maryland)</p>
 <p><br clear="all"></p>
 <p class="date"><a id="MondayAM" name="MondayAM"></a>MONDAY AM</p>
@@ -36,7 +36,7 @@ ECONOMIC INDICATORS</button></p>
 <p style="width:50%;"><a href="../assets/docs/2009FCSM_Young_II-B.pdf" target="_blank">The Transportation Services Index: Its Methodology and Relationship to the Business Cycle</a>  <small> (345 KB)</small></p>
 <p style="width:50%;" class="indent">Kenneth Notis and Peg Young (U.S. Department of Transportation)</p>
 <p>Reliability of Price Indices to Age Expenditure Data Used in Government Measures</p>
-<p style="width:50%;" class="indent">Sharon O’Donnell (U.S. Census Bureau) and Stuart McDonald (University of Queensland, Australia)</p>
+<p style="width:50%;" class="indent">Sharon O'Donnell (U.S. Census Bureau) and Stuart McDonald (University of Queensland, Australia)</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION II-C<br>
 BAYESIAN METHODS</button></p>
 <p style="width:50%;"><a href="../assets/docs/2009FCSM_Larsen_II-C.pdf" target="_blank">Record Linkage Modeling in Federal Statistical Databases</a>  <small> (431 KB)</small></p>
@@ -111,7 +111,7 @@ DEMONSTRATION OF SOFTWARE TOOLS FOR COLLABORATION, MATCHING, AND ANALYZING QUEST
 <p style="width:50%;" class="indent">Kristen Miller, Aaron Maitland, Heather Ridolfo, Stephanie Willson, and Justin Mezetin (National Center for Health Statistics, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/2009FCSM_Murphy_TD.pdf" target="_blank">A Demonstration of FI Tracker: A Tool for Displaying and Monitoring Survey Interview Paradata</a>  <small> (722 KB)</small></p>
 <p style="width:50%;" class="indent">Joe Murphy, Susan Myers, and Barbara Bibb (RTI International, USA)</p>
-<p style="width:50%;"><a href="../assets/docs/2009FCSM_Meyer_TD.pdf" target="_blank">Statipedia – A Platform for Collaboration Across Statistical Agencies</a>  <small> (838 KB)</small></p>
+<p style="width:50%;"><a href="../assets/docs/2009FCSM_Meyer_TD.pdf" target="_blank">Statipedia - A Platform for Collaboration Across Statistical Agencies</a>  <small> (838 KB)</small></p>
 <p style="width:50%;" class="indent">Peter Meyer and James Buszuwski (Bureau of Labor Statistics, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/2009FCSM_Adams_TD.pdf" target="_blank">Demonstration of Census Coverage Measurement Clerical Matching Software</a>  <small> (96 KB)</small></p>
 <p style="width:50%;" class="indent">Tamara Adams, Susanne Johnson, Lee Goldberg, and Paul Clemm (U.S. Census Bureau)</p>
@@ -214,7 +214,7 @@ FORECASTING</button></p>
 <p style="width:50%;" class="indent">Tucker McElroy (U.S. Census Bureau) and Scott Holan (University of Missouri-Columbia, USA)</p>
 <p>A Review of Air Travel Passengers Forecasting Models and Their Robustness</p>
 <p style="width:50%;" class="indent">Ali Dadpay, Charlie Han, and David Chesser (Macrosys Research, USA) and Antony Homan (U.S. Department of Transportation)</p>
-<p>Seasonal Adjustment of Short Time Series with Calendar Effect Treatments – Applied Methods in the Bureau of Labor Statistics</p>
+<p>Seasonal Adjustment of Short Time Series with Calendar Effect Treatments - Applied Methods in the Bureau of Labor Statistics</p>
 <p style="width:50%;" class="indent">Brian Dahlin (Bureau of Labor Statistics, USA)</p>
 <p class="date"><a name="WednesdayAM"></a> WEDNESDAY AM</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION IX-A<br>
@@ -230,7 +230,7 @@ ISSUES CONCERNING THE STATISTICAL USE OF ADMINISTRATIVE RECORDS</button></p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION IX-B<br>
 WEB SURVEYS</button></p>
 <p>Internet Surveys and the Demise of the Matrix</p>
-<p style="width:50%;" class="indent">Grace O’Neill and Stan Freedman (Energy Information Administration, USA)</p>
+<p style="width:50%;" class="indent">Grace O'Neill and Stan Freedman (Energy Information Administration, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/2009FCSM_Redline_IX-B.pdf" target="_blank">The Effects of Grouping Response Options in Factual Questions with Many Options</a>  <small> (243 KB)</small></p>
 <p style="width:50%;" class="indent">Cleo Redline and Roger Tourangeau (University of Maryland, USA), Frederick Conrad and Mick Couper (University of Michigan, USA), and Cong Ye (University of Maryland, USA)</p>
 <p>Response Format Effects on Measurement of Employment</p>
@@ -243,10 +243,10 @@ ISSUES IN SAMPLE DESIGN</button></p>
 <p style="width:50%;" class="indent">Tom Krenzke and Wen-Chau Haung (Westat, USA)</p>
 <p>Statistical Sample Design for Coalbed Methane Industry Survey: Projects Versus Wells</p>
 <p style="width:50%;" class="indent">Marla Smith and Carey Johnston (U.S. Environmental Protection Agency)</p>
-<p style="width:50%;"><a href="../assets/docs/2009FCSM_Rottach_IX-C.pdf" target="_blank">Maximizing Overlap of Large Primary Sampling Units in Repeated Sampling: A Comparison of Ernst’s Method with Ohlsson’s Method</a>  <small> (44 KB)</small></p>
+<p style="width:50%;"><a href="../assets/docs/2009FCSM_Rottach_IX-C.pdf" target="_blank">Maximizing Overlap of Large Primary Sampling Units in Repeated Sampling: A Comparison of Ernst's Method with Ohlsson's Method</a>  <small> (44 KB)</small></p>
 <p style="width:50%;" class="indent">Padraic Murphy and Reid Rottach (U.S. Census Bureau)</p>
 <p style="width:50%;"><a href="../assets/docs/construction.pdf" target="_blank">Minimizing Duplication of Samples Drawn from Overlapping Frames of Multiple Surveys</a>  <small> (440 KB)</small></p>
-<p style="width:50%;" class="indent">Peter Kwok, Hee-Choon Shin, Colm O’Muircheartaigh, Whitney Murphy, Angela Debello, and Kari Carris (NORC at the University of Chicago, USA) and Youlian Liao (Centers for Disease Control and Prevention, USA)</p>
+<p style="width:50%;" class="indent">Peter Kwok, Hee-Choon Shin, Colm O'Muircheartaigh, Whitney Murphy, Angela Debello, and Kari Carris (NORC at the University of Chicago, USA) and Youlian Liao (Centers for Disease Control and Prevention, USA)</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION X-A<br>
 PRODUCING AND COMMUNICATING DATA AND STATISTICS</button></p>
 <p style="width:50%;"><a href="../assets/docs/2009FCSM_Gillman_X-A.pdf" target="_blank">Metadata and Data Harmonization</a>  <small> (276 KB)</small></p>
@@ -257,7 +257,7 @@ PRODUCING AND COMMUNICATING DATA AND STATISTICS</button></p>
 <p style="width:50%;" class="indent">Marilyn Seastrom and Valena Plisko (National Center for Education Statistics, USA)</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION X-B<br>
 REDESIGNING LARGE-SCALE FEDERAL SURVEYS: CONNECTING TO THE PAST, ANTICIPATING THE FUTURE</button></p>
-<p style="width:50%;"><a href="../assets/docs/2009FCSM_Chapman_X-B.pdf" target="_blank">Searching for Alternatives to A Random Digit Dial Telephone Interview – Redesigning the National Household Education Surveys</a>  <small> (271 KB)</small></p>
+<p style="width:50%;"><a href="../assets/docs/2009FCSM_Chapman_X-B.pdf" target="_blank">Searching for Alternatives to A Random Digit Dial Telephone Interview - Redesigning the National Household Education Surveys</a>  <small> (271 KB)</small></p>
 <p style="width:50%;" class="indent">Chris Chapman (National Center for Education Statistics, USA) and Mary Hagedorn (Westat, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/2009FCSM_Gfroerer_X-B.pdf" target="_blank">Redesigning the National Surveys on Drug Use and Health</a>  <small> (322 KB)</small></p>
 <p style="width:50%;" class="indent">Joseph Gfroerer, Jonaki Bose, Dicy Painter, Mike Jones, and Joel Kennet (Substance Abuse and Mental Health Services Administration, USA)</p>
@@ -267,7 +267,7 @@ REDESIGNING LARGE-SCALE FEDERAL SURVEYS: CONNECTING TO THE PAST, ANTICIPATING TH
 ADVANCES IN AGRICULTURAL FRAME DEVELOPMENT AND USE</button></p>
 <p style="width:50%;"><a href="../assets/docs/2009FCSM_Barboza_X-C.pdf" target="_blank">Utilizing An Alternative Sampling Frame to Produce Agricultural Survey Indications</a>  <small> (190 KB)</small></p>
 <p style="width:50%;" class="indent">Wendy Barboza and Mark Harris (National Agricultural Statistics Service, USA)</p>
-<p style="width:50%;"><a href="../assets/docs/2009FCSM_Abreu_X-C.pdf" target="_blank">Four Digits or No-Digit Social Security Numbers – Impact on the National Agricultural Statistics Service Record Linkage Maintenance Processes</a><br>  <small> (364 KB)</small></p>
+<p style="width:50%;"><a href="../assets/docs/2009FCSM_Abreu_X-C.pdf" target="_blank">Four Digits or No-Digit Social Security Numbers - Impact on the National Agricultural Statistics Service Record Linkage Maintenance Processes</a><br>  <small> (364 KB)</small></p>
 <p style="width:50%;" class="indent">Denise Abreu, Kara Daniel, William Iwig, and Stan Hoge (National Agricultural Statistics Service, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/2009FCSM_Bellow_X-C.pdf" target="_blank">Comparison of Methods for Updating Census Based Estimates of Number of Farms to Non-Census Years</a>  <small> (685 KB)</small></p>
 <p style="width:50%;" class="indent">Michael Bellow (National Agricultural Statistics Service, USA) and Phillip Kott (RTI International, USA)</p>

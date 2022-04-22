@@ -3,8 +3,8 @@ title: 2005 Research Conference
 layout: page
 ---
 <p><strong>Resources and Proceedings</strong></p>
-<p>Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe® Acrobat® Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
-<!--<p><strong><a id="top" name="top"></a>Jump to …</strong><br>
+<p>Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe&reg; Acrobat&reg; Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
+<!--<p><strong><a id="top" name="top"></a>Jump to ...</strong><br>
 Monday <a href="#MondayAM">AM</a> / <a href="#MondayPM"> PM</a><br>
 Tuesday <a href="#TuesdayAM">AM</a> / <a href="#TuesdayPM">PM</a><br>
 <a href="#Wednesday">Wednesday</a></p>-->
@@ -21,7 +21,7 @@ TIME SERIES AND STATISTICAL MODELING</button></p>
 Bengt Muthen (University of California, Los Angeles, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/2005FCSM_Chow_Thibodeau_Wilson_IIA.pdf" target="_blank">Application of Concurrent Seasonal Adjustment to the Consumer Price Index</a> <small> (536 KB)</small></p>
 <p class="indent">Daniel Chow and Jeff Wilson (Bureau of Labor Statistics, USA),<br>
-Adrian Thibodeau (Standard and Poor’s, USA)</p>
+Adrian Thibodeau (Standard and Poor's, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/2005FCSM_McElroy_IIA.pdf" target="_blank">Model-Based Seasonal Adjustment Diagnostics</a> <small> (216 KB)</small></p>
 <p class="indent">Tucker McElroy (U.S. Census Bureau)</p>
 <p>Discussant</p>
@@ -60,7 +60,7 @@ INTERNET APPLICATIONS AND SURVEY MODE COMPARISONS</button></p>
 George Freeland and Lynda Mulvany (Internal Revenue Service, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/2005FCSM_Contrino_IIIA.pdf" target="_blank">Potential Utility of Web-Based Data Collection Options</a> <small> (201 KB)</small></p>
 <p class="indent">Heather Contrino (NuStats, USA)</p>
-<p style="width:50%;"><a href="../assets/docs/2005FCSM_Murphy_Ciochetto_etal_IIIA.pdf" target="_blank">Redesigning the Census Bureau’s Intranet Site for Improved Usability: Methods and Lessons Learned</a> <small> (481 KB)</small></p>
+<p style="width:50%;"><a href="../assets/docs/2005FCSM_Murphy_Ciochetto_etal_IIIA.pdf" target="_blank">Redesigning the Census Bureau's Intranet Site for Improved Usability: Methods and Lessons Learned</a> <small> (481 KB)</small></p>
 <p class="indent">Elizabeth Murphy, Susan Ciochetto and Carol Bateman (U.S. Census Bureau)</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION III-B<br>
 SAMPLE DESIGN AND ESTIMATION</button></p>
@@ -71,7 +71,7 @@ Partha Lahiri (Joint Program in Survey Methodology, University of Maryland, USA)
 <p class="indent">Ronit Nirel, Aryeh Reiter, Tzahi Makovky and Moshe Kelner (Central Bureau of Statistics, Israel)</p>
 <p style="width:50%;"><a href="../assets/docs/2005FCSM_Weir_Saavedra_etal_IIIB.pdf" target="_blank">The Evolution of the Weekly Gasoline Price Survey through Changes in Design and Frame</a> <small> (373 KB)</small></p>
 <p class="indent">Paula Weir (Energy Information Administration, USA)<br>
-Pedro Saavedra and Benita O’Colmain (ORC Macro, USA)</p>
+Pedro Saavedra and Benita O'Colmain (ORC Macro, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/2005FCSM_Dorfman_Ernst_Sverchkov_etal_IIIB.pdf" target="_blank">On Calibration and Non-response Adjustment for the National Compensation Survey</a> <small> (323 KB)</small></p>
 <p class="indent">Alan Dorfman, Lawrence Ernst, Thomas Moerhle, Steven Paben, Chester Ponikowski and Michael Sverchkov (Bureau of Labor Statistics, USA)</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION III-C<br>
@@ -84,10 +84,10 @@ MODEL-BASED SURVEY ESTIMATION</button></p>
 <p class="indent">Avinash Singh (Statistics Canada)<br>
 Ralph Folsom and Akhil Vaish (Research Triangle Institute International, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/construction.pdf" target="_blank">IRT and Latent Variable Modeling for Surveys with Complex Sampling Design with a Longitudinal Context: The Case of the National Longitudinal Survey of Children and Youth in Canada</a> <small> (440 KB)</small></p>
-<p class="indent">André Cyr and Alexander Davies (Statistics Canada)</p>
+<p class="indent">Andr&eacute; Cyr and Alexander Davies (Statistics Canada)</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION IV-A<br>
 APPLICATIONS OF SURVEY AND STATISTICAL METHODS</button></p>
-<p style="width:50%;"><a href="../assets/docs/2005FCSM_Butani_IVA.pdf" target="_blank">Jobs Boom and Bust – Individual Companies vs. Multi Corporations</a> <small> (301 KB)</small></p>
+<p style="width:50%;"><a href="../assets/docs/2005FCSM_Butani_IVA.pdf" target="_blank">Jobs Boom and Bust - Individual Companies vs. Multi Corporations</a> <small> (301 KB)</small></p>
 <p class="indent">Shail Butani (Bureau of Labor Statistics, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/2005FCSM_Evans_Burke_Levy_IVA.pdf" target="_blank">Innovative Data Collection Methods in Smallpox Program Evaluation</a> <small> (185 KB)</small></p>
 <p class="indent">Brian Evans, Brian Burke and Paul Levy (Research Triangle Institute International, USA)</p>
@@ -97,8 +97,8 @@ APPLICATIONS OF SURVEY AND STATISTICAL METHODS</button></p>
 <p class="indent">Andrew Baldwin (Statistics Canada)</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION IV-B<br>
 ADVANCES IN FRAME DEVELOPMENT</button></p>
-<p style="width:50%;"><a href="../assets/docs/2005FCSM_Rancourt_Berard_Pursey_IVB.pdf" target="_blank">Re-thinking Statistics Canada’s Business Register</a> <small> (142 KB)</small></p>
-<p class="indent">Eric Rancourt, Hélène Bérard and Stuart Pursey (Statistics Canada)</p>
+<p style="width:50%;"><a href="../assets/docs/2005FCSM_Rancourt_Berard_Pursey_IVB.pdf" target="_blank">Re-thinking Statistics Canada's Business Register</a> <small> (142 KB)</small></p>
+<p class="indent">Eric Rancourt, H&eacute;l&egrave;ne B&eacute;rard and Stuart Pursey (Statistics Canada)</p>
 <p style="width:50%;"><a href="../assets/docs/2005FCSM_Bradsher-Fredrick_IVB.pdf" target="_blank">The Application of Dual System Principles to Estimate the Number of Missing Frame Elements</a> <small> (154 KB)</small></p>
 <p class="indent">Howard Bradsher-Fredrick (Energy Information Administration, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/2005FCSM_Chang_Kott_IVB.pdf" target="_blank">Modeling Which Farms Are Not Covered by a Census List Using an Area-Frame Survey</a> <small> (157 KB)</small></p>
@@ -109,7 +109,7 @@ Phillip Kott (National Agricultural Statistical Service, USA)</p>
 <p class="date"><a id="TuesdayAM" name="TuesdayAM"></a>TUESDAY AM</p>
 <p class="larger">TECHNICAL DEMONSTRATIONS</p>
 <p style="width:50%;"><a href="../assets/docs/2005FCSM_OReilly_Ray_TechDemo.pdf" target="_blank">Blaise IS (Computer Assisted Interviewing Software for the Web)</a> <small> (765 KB)</small></p>
-<p class="indent">Jim O’Reilly (Westat, USA)</p>
+<p class="indent">Jim O'Reilly (Westat, USA)</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION V-A<br>
 VARIANCE ESTIMATION</button></p>
 <p style="width:50%;"><a href="../assets/docs/2005FCSM_Mach_Dumais_Robidou_VA.pdf" target="_blank">A Study of the Properties of a Bootstrap Variance Estimator Under Sampling Without Replacement</a> <small> (297 KB)</small></p>
@@ -128,7 +128,7 @@ CONFIDENTIALITY</button></p>
 <p class="indent">Timothy Li and Steve Cohen (Bureau of Labor Statistics, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/2005FCSM_Anderson_Seltzer_VB.pdf" target="_blank">Federal Statistical Confidentiality and Business Data: Challenges and Continuing Issues</a> <small> (479 KB)</small></p>
 <p class="indent">William Seltzer (Fordham University, USA)<br>
-Margo Anderson (University of Wisconsin – Milwaukee, USA)</p>
+Margo Anderson (University of Wisconsin - Milwaukee, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/2005FCSM_Tuttle_Willimack_VB.pdf" target="_blank">Privacy Principles and Data Sharing: Implications of CIPSEA for Economic Surveys Respondents</a> <small> (362 KB)</small></p>
 <p class="indent">Alfred Tuttle and Diane Willimack (U.S. Census Bureau)</p>
 <p>Discussant</p>
@@ -168,8 +168,8 @@ EVALUATING THE RESPONSE PROCESS</button></p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION VI-C<br>
 LINKING ADMINISTRATIVE AND SURVEY DATA</button></p>
 <p style="width:50%;"><a href="../assets/docs/2005FCSM_OHara_VIC.pdf" target="_blank">Evaluation of CPS Tax Simulation Using Administrative IRS Data</a> <small> (198 KB)</small></p>
-<p class="indent">Amy O’Hara (U.S. Census Bureau)</p>
-<p style="width:50%;"><a href="../assets/docs/2005FCSM_Scoon-Rogers_VIC.pdf" target="_blank">Evaluating Respondents’ Reporting of Social Security Income in SIPP Using Administrative Data</a> <small> (0.99 KB)</small></p>
+<p class="indent">Amy O'Hara (U.S. Census Bureau)</p>
+<p style="width:50%;"><a href="../assets/docs/2005FCSM_Scoon-Rogers_VIC.pdf" target="_blank">Evaluating Respondents' Reporting of Social Security Income in SIPP Using Administrative Data</a> <small> (0.99 KB)</small></p>
 <p class="indent">Lydia Scoon-Rogers (U.S. Census Bureau)</p>
 <p>Discussant</p>
 <p class="indent">Dan Kasprzyk (Mathematica Policy Research, USA)</p>
@@ -177,11 +177,11 @@ LINKING ADMINISTRATIVE AND SURVEY DATA</button></p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION VII-A<br>
 ADMINISTRATIVE DATA AND DATA QUALITY</button></p>
 <p style="width:50%;"><a href="../assets/docs/2005FCSM_Trepanier_Julien_Kovar_VIIA.pdf" target="_blank">Reporting Data Quality When Survey and Administrative Data Are Combined</a> <small> (274 KB)</small></p>
-<p class="indent">Julie Trépanier, Claude Julien, and John Kovar (Statistics Canada)</p>
+<p class="indent">Julie Tr&eacute;panier, Claude Julien, and John Kovar (Statistics Canada)</p>
 <p style="width:50%;"><a href="../assets/docs/2005FCSM_Saavedra_Wilson_VIIA.pdf" target="_blank">Developing Error Prone Profiles Using Administrative Data with a Control Group</a> <small> (397 KB)</small></p>
 <p class="indent">Pedro Saavedra and Hoke Wilson (ORC Macro, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/2005FCSM_Turmelle_Rodrigue_Thompson_VIIA.pdf" target="_blank">Using the Canadian Address Register in the Labour Force Survey: Implementation, Results, and Lessons Learned</a> <small> (301 KB)</small></p>
-<p class="indent">Claude Turmelle, Jean-François Rodrigue, and Gavin Thompson (Statistics Canada)</p>
+<p class="indent">Claude Turmelle, Jean-Fran&ccedil;ois Rodrigue, and Gavin Thompson (Statistics Canada)</p>
 <p style="width:50%;"><a href="../assets/docs/2005FCSM_Hahn_Cella_Glendenning_VIIA.pdf" target="_blank">Methodological Challenges in Analyzing Patient-Reported Outcomes in a Clinical Trial</a> <small> (117 KB)</small></p>
 <p class="indent">Elizabeth Hahn and David Cella (Evanston Northwestern Healthcare, USA)<br>
 G. Alastair Glendenning (Novartis Pharmaceuticals Corporation, USA)</p>
@@ -205,7 +205,7 @@ SURVEY INTEGRATION AND PLANNING</button></p>
 <p class="indent">John Bushery and Pamela McGovern (U.S. Census Bureau)</p>
 <p style="width:50%;"><a href="../assets/docs/2005FCSM_Smith_Matuszko_VIIC.pdf" target="_blank">Developing a Generic Survey</a> <small> (88 KB)</small></p>
 <p class="indent">Marla Smith and Jan Matuszko (U.S. Environmental Protection Agency)</p>
-<p style="width:50%;"><a href="../assets/docs/2005FCSM_Pont_Tate_-Smith_Perry_VIIC.pdf" target="_blank">Integrated Redevelopment of the ONS’s Business Surveys and Business Register through the Business Surveys Integration Project and Register Re-engineering Project</a> <small> (431 KB)</small></p>
+<p style="width:50%;"><a href="../assets/docs/2005FCSM_Pont_Tate_-Smith_Perry_VIIC.pdf" target="_blank">Integrated Redevelopment of the ONS's Business Surveys and Business Register through the Business Surveys Integration Project and Register Re-engineering Project</a> <small> (431 KB)</small></p>
 <p class="indent">Mark Pont, Pam Tate, Paul Smith and, John Perry (Office for National Statistics, United Kingdom)</p>
 <p class="date"><a id="WednesdayAM" name="WednesdayAM"></a>WEDNESDAY AM</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION VIII-A<br>
@@ -218,7 +218,7 @@ Tamara Martin (U.S. Department of State)</p>
 <p style="width:50%;"><a href="../assets/docs/2005FCSM_Gwartney_VIIIA.pdf" target="_blank">Using Affective Imagery to Understand the Quality of Survey Response</a> <small> (449 KB)</small></p>
 <p class="indent">Patricia Gwartney (University of Oregon, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/2005FCSM_OConnor_VIIIA.pdf" target="_blank">Does Qualitative Evaluation Measure Up?</a> <small> (270 KB)</small></p>
-<p class="indent">Kathleen O’Connor (National Center for Health Statistics, USA)</p>
+<p class="indent">Kathleen O'Connor (National Center for Health Statistics, USA)</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION VIII-B<br>
 PRETESTING AND USE OF NON-ENGLISH LANGUAGE QUESTIONNAIRES</button></p>
 <p style="width:50%;"><a href="../assets/docs/2005FCSM_Goerman_VIIIB.pdf" target="_blank">Adapting Cognitive Interview Techniques for Use in Pretesting Spanish Language Survey Instruments</a> <small> (240 KB)</small></p>

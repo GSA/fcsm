@@ -9,7 +9,7 @@ December 1-3, 2015</p>
 Unless noted, all of these documents are in Portable Document Format [PDF].
 </p>
 		
-		<!--<p><strong><a id="top" name="top"></a>Jump to …</strong><br>
+		<!--<p><strong><a id="top" name="top"></a>Jump to ...</strong><br>
 Tuesday <a href="#TuesdayAM">AM</a> / <a href="#TuesdayPM"> PM</a><br>
 Wednesday <a href="#WednesdayAM">AM</a> / <a href="#WednesdayPM">PM</a><br>
 Thursday <a href="#ThursdayAM">AM</a> / <a href="#ThursdayPM">PM</a></p>-->
@@ -30,7 +30,7 @@ Dr. Raj Chetty (Bloomberg Professor of Economics at Harvard University)</p><br><
 <p class="indent">Margaret Noonan (Bureau of Justice Statistics)<br>
 Susan Brumbaugh (RTI International)<br>
 Chris Ellis (RTI International)</p>
-<p style="width:50%;"><a href="../assets/docs/A1_Carson_2015FCSM.pdf" rel="">Linking Administrative BJS Data: Better Understanding Prisoners’ Personal Histories by Linking the National Corrections Reporting Program and CARRA Data</a> <small> (153.0 MB)</small></p><!-------A1_Carson_2015FCSM.pdf------->
+<p style="width:50%;"><a href="../assets/docs/A1_Carson_2015FCSM.pdf" rel="">Linking Administrative BJS Data: Better Understanding Prisoners' Personal Histories by Linking the National Corrections Reporting Program and CARRA Data</a> <small> (153.0 MB)</small></p><!-------A1_Carson_2015FCSM.pdf------->
 
 <p class="indent">E. Ann Carson (Bureau of Justice Statistics)</p>
 <p style="width:50%;"><a href="../assets/docs/A1_Binswanger_2015FCSM.pdf" rel="">Linking Deaths in Custody Reporting Program (DCRP) and National Death Index (NDI) data: Assessing Cause of Death (COD) Data reported to the DCRP</a> <small> (30.0 MB)</small></p><!-------A1_Binswanger_2015FCSM.pdf------->
@@ -70,7 +70,7 @@ Michael Sverchkov (Bureau of Labor Statistics)</p>
 
 <p style="width:50%;"><a href="../assets/docs/A3_Verret_2015FCSM.pdf" rel="">Weighting and Variance Estimation Plans for the 2016 National Household Survey</a> <small> (115.0 MB)</small></p><!------A3_Verret_2015FCSM.pdf-------->
 
-<p class="indent">François Verret (Statistics Canada)<br>
+<p class="indent">Fran&ccedil;ois Verret (Statistics Canada)<br>
 Arthur Goussanou (Statistics Canada)<br>
 Nancy Devin (Statistics Canada)</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION A-4:<br>
@@ -174,7 +174,7 @@ LINKING DATA TO GENERATE NEW STATISTICS: JOBS, PATENTS, AND FDI</button></p>
 Mark Kutzbach (U.S. Census Bureau)<br>
 Lars Vilhuber (U.S. Census Bureau, Cornell University)</p>
 
-<p style="width:50%;"><a href="../assets/docs/C1_Zolas_2015FCSM.pdf" rel="">An ‘Algorithmic Links with Probabilities’ Crosswalk for USPC Codes</a>  <small> (150.0 MB)</small></p><!-----pdf/C1_Zolas_2015FCSM.pdf--------->
+<p style="width:50%;"><a href="../assets/docs/C1_Zolas_2015FCSM.pdf" rel="">An 'Algorithmic Links with Probabilities' Crosswalk for USPC Codes</a>  <small> (150.0 MB)</small></p><!-----pdf/C1_Zolas_2015FCSM.pdf--------->
 
 <p class="indent">Nikolas Zolas (U.S. Census Bureau)<br>
 Nathan Goldschlag (U.S. Census Bureau)<br>
@@ -195,7 +195,7 @@ Scott Fricker (Bureau of Labor Statistics)</p>
 <p style="width:50%;"><a href="../assets/docs/C2_Fox_2015FCSM.pdf" rel="">The Science of Usability Testing</a> <small> (22.0 MB)</small></p><!------C2_Fox_2015FCSM.pdf-------->
 <p class="indent">Jean Fox (Bureau of Labor Statistics)</p>
 
-<p style="width:50%;"><a href="../assets/docs/construction.pdf" rel="">Using Graphics to Convey Complex Survey Concepts – Part 1</a>,  <small> (440.0 MB)</small><!-------pdf/C2_StOnge1_2015FCSM.pdf------->
+<p style="width:50%;"><a href="../assets/docs/construction.pdf" rel="">Using Graphics to Convey Complex Survey Concepts - Part 1</a>,  <small> (440.0 MB)</small><!-------pdf/C2_StOnge1_2015FCSM.pdf------->
 
  <a href="../assets/docs/C2_StOnge2_2015FCSM.pdf" rel="">Part 2</a>  <small> (265.0 MB)</small></p><!-----C2_StOnge2_2015FCSM.pdf--------->
  
@@ -259,7 +259,7 @@ Tyler Wilson (National Agricultural Statistical Service)</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION D-1:<br>
 IMPUTATION, MULTIPLE IMPUTATION AND ADMINISTRATIVE RECORDS</button></p>
 
-<p style="width:50%;"><a href="../assets/docs/construction.pdf" rel="">Treatment of Missing Data in Hierarchically-Structured Administrative Records: A Case Study in the Bakken Region Using FBI’s National Incident Based Reporting System</a>  <small> (440.0 MB)</small></p><!--------pdf/D1_Liao_2015FCSM.pdf------>
+<p style="width:50%;"><a href="../assets/docs/construction.pdf" rel="">Treatment of Missing Data in Hierarchically-Structured Administrative Records: A Case Study in the Bakken Region Using FBI's National Incident Based Reporting System</a>  <small> (440.0 MB)</small></p><!--------pdf/D1_Liao_2015FCSM.pdf------>
 
 <p class="indent">Dan Liao (RTI International)<br>
 Marcus Berzofsky (RTI International)<br>
@@ -351,7 +351,7 @@ James Eales (Purdue University)</p>
 <p style="width:50%;"><a href="../assets/docs/construction.pdf" rel="">Measuring Single-Year Poverty Transitions: Opportunities and Limitations</a> <small> (440.0 MB)</small></p><!----------------------pdf/D4_Edwards_2015FCSM.pdf---->
 
 <p class="indent">Ashley Edwards (U.S. Census Bureau)</p>
-<p>Improving NASS’s Crop Yield Forecasts</p>
+<p>Improving NASS's Crop Yield Forecasts</p>
 <p class="indent">Noemi Guindin-Garcia (National Agricultural Statistics Service)</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION E-1:<br>
 METHODS FOR MISSING DATA IMPUTATION</button></p>
@@ -389,7 +389,7 @@ INNOVATIONS IN SAMPLE DESIGN</button></p>
 Hejian Sang (Iowa State University)<br>
 Zhengyuan Zhu (Iowa State University)<br>
 Stephanie Zimmer (Iowa State University)</p>
-<p style="width:50%;"><a href="../assets/docs/construction.pdf" rel="">NHTSA’s Data Modernization Project</a>  <small> (440.0 MB)</small></p><!----pdf/E2_Zhang_2015FCSM.pdf--->
+<p style="width:50%;"><a href="../assets/docs/construction.pdf" rel="">NHTSA's Data Modernization Project</a>  <small> (440.0 MB)</small></p><!----pdf/E2_Zhang_2015FCSM.pdf--->
 
 <p class="indent">Fan Zhang (National Highway Traffic Safety Administration)<br>
 Chou-Lin Chen (National Highway Traffic Safety Administration)<br>
@@ -437,7 +437,7 @@ J. Trent Alexander (U.S. Census Bureau)<br>
 Jonathan Fisher (Stanford University)<br>
 David Grusky (Standord University)<br>
 Michael Hout (New York University)<br>
-Amy O’Hara (U.S. Census Bureau)<br>
+Amy O'Hara (U.S. Census Bureau)<br>
 Aliya Saperstein (Stanford University)<br>
 Matthew Snipp (Stanford University)</p>
 
@@ -463,11 +463,11 @@ E. Ann Carson (Bureau of Justice Statistics)</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION F-2:<br>
 LINGUISTIC AND CULTURAL ISSUES IN SURVEY DESIGN AND EVALUATION RESEARCH</button></p>
 <p>Multilingual, Multicultural, Multi-mode Testing of Questions for U.S. Census 2020</p>
-<p class="indent">Alisú Schoua-Glusberg (Research Support Services)<br>
+<p class="indent">Alis&uacute; Schoua-Glusberg (Research Support Services)<br>
 Patricia Goerman (U.S. Census Bureau)<br>
 Mandy Sha (RTI International)</p>
 
-<p style="width:50%;"><a href="../assets/docs/F2_Rabbitt_2015FCSM.pdf" rel="">Does a Standardized Spanish Translation of USDA’s U.S. Household Food Security Survey Module Affect Differential Item Functioning Between Hispanic and White Non-Hispanic Households?</a>  <small> (56.0 MB)</small></p><!-------------pdf/F2_Rabbitt_2015FCSM.pdf------>
+<p style="width:50%;"><a href="../assets/docs/F2_Rabbitt_2015FCSM.pdf" rel="">Does a Standardized Spanish Translation of USDA's U.S. Household Food Security Survey Module Affect Differential Item Functioning Between Hispanic and White Non-Hispanic Households?</a>  <small> (56.0 MB)</small></p><!-------------pdf/F2_Rabbitt_2015FCSM.pdf------>
 <p class="indent">Matthew Rabbitt (Economic Research Service)<br>
 Alisha Coleman-Jensen (Economic Research Service)</p>
 
@@ -513,18 +513,18 @@ Patrick Willis (National Agricultural Statistics Service</p>
 
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION G-1:<br>
 REDUCING MEASUREMENT ERROR: EDITING TECHNIQUES AND USE OF ADMINISTRATIVE DATA</button></p>
-<p>Editing Index – A New Methodology of Identifying Response Error</p>
+<p>Editing Index - A New Methodology of Identifying Response Error</p>
 <p class="indent">Chin-Fang Weng (U.S. Census Bureau)</p>
 <p>Using Administrative Data to Ensure Data Quality in Anonymous Surveys</p>
 <p class="indent">Marina Murray (Peace Corps)<br>
 Angel Velarde (Peace Corps)</p>
 
 <p style="width:50%;"><a href="../assets/docs/G1_OHara_2015FCSM.pdf" rel="">Exploring the Use of External Data in the American Community Survey: Opportunities and Challenges</a>  <small> (70.0 MB)</small></p><!------pdf/G1_OHara_2015FCSM.pdf---------->
-<p class="indent">Amy O’Hara (U.S. Census Bureau)<br>
+<p class="indent">Amy O'Hara (U.S. Census Bureau)<br>
 James Treat (U.S. Census Bureau)</p>
 
 <p style="width:50%;"><a href="../assets/docs/G1_OHare_2015FCSM.pdf" rel="">What Do We Know About the Presence of Young Children in Administrative Records</a>  <small> (70.0 MB)</small></p><!----------------pdf/G1_OHare_2015FCSM.pdf------>
-<p class="indent">William O’Hare (The Annie E. Casey Foundation)</p>
+<p class="indent">William O'Hare (The Annie E. Casey Foundation)</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION G-2:<br>
 RESPONDENT CONTACT TECHNIQUES AND RESPONSE RATES</button></p>
 
@@ -560,9 +560,9 @@ HEALTH CARE: MEASURING QUALITY, SPENDING AND REFORM</button></p>
 Lindsey Rittmueller (Bureau of Economic Analysis)<br>
 Bryn Whitmire (Bureau of Economic Analysis)</p>
 <p style="width:50%;"><a href="../assets/docs/G3_Turner_2015FCSM.pdf" rel="">State-Level Estimates from the NHIS Restricted Data: Analysis to support states implementation and evaluation of the ACA</a>  <small> (97.0 MB)</small></p><!-------------pdf/G3_Turner_2015FCSM.pdf---------->
-<p class="indent">Joanna Turner (University of Minnesota – State Health Access Data Assistance Center)</p>
+<p class="indent">Joanna Turner (University of Minnesota - State Health Access Data Assistance Center)</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION G-4:<br>
-WHAT’S NEW WITH LONGITUDINAL SURVEYS?</button></p>
+WHAT'S NEW WITH LONGITUDINAL SURVEYS?</button></p>
 <p style="width:50%;"><a href="../assets/docs/G4_Erhard_2015FCSM.pdf" rel="">An Early Look at the Consumer Expenditure Survey Gemini Redesign Proof of Concept Test</a>  <small> (56.0 MB)</small></p><!----------pdf/G4_Erhard_2015FCSM.pdf----------->
 <p class="indent">Laura Erhard (Bureau of Labor Statistics)<br>
 Jennifer Edgar (Bureau of Labor Statistics)<br>
@@ -577,7 +577,7 @@ Patrick Campanello (U.S. Census Bureau)</p>
 Assess the Early Impact of Healthcare Reform</a>  <small> (34.0 MB)</small></p><!---------pdf/G4_Kashihara_2015FCSM.pdf-------->
 <p class="indent">David Kashihara (Agency for Healthcare Research and Quality)<br>
 Robert Baskin (Retired)</p>
-<p>Movement and Changing Environment on the National Children’s Study: How can we Understand the Impact on a Longitudinal Population Survey</p>
+<p>Movement and Changing Environment on the National Children's Study: How can we Understand the Impact on a Longitudinal Population Survey</p>
 <p class="indent">Ned English (National Opinion Research Center at the University of Chicago)<br>
 Edward Mulrow (National Opinion Research Center at the University of Chicago)<br>
 Jennifer Hasche (National Opinion Research Center at the University of Chicago)<br>
@@ -599,7 +599,7 @@ Danielle Sandler (U.S. Census Bureau)</p>
 <p style="width:50%;"><a href="../assets/docs/H1_Brown_2015FCSM.pdf" rel="">Using the Census to Evaluate Administrative Records and Vice Versa</a>  <small> (130.0 MB)</small></p><!--------------pdf/H1_Brown_2015FCSM.pdf------------>
 <p class="indent">J. David Brown (U.S. Census Bureau)<br>
 Jennifer Childs (U.S. Census Bureau)<br>
-Amy O’Hara (U.S. Census Bureau)</p>
+Amy O'Hara (U.S. Census Bureau)</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION H-2:<br>
 MULTIMODE DATA COLLECTION</button></p>
 
@@ -647,9 +647,9 @@ HEALTH INSURANCE ESTIMATES: ASSESSING THE IMPACT OF A REDESIGN</button></p>
 
 <p style="width:50%;"><a href="../assets/docs/H4_Medalia_2015FCSM.pdf" rel="">How Did the Method Change in the CPS ASEC Affect Health Insurance Estimates?</a>  <small> (23.0 MB)</small></p><!------pdf/H4_Medalia_2015FCSM.pdf--------->
 <p class="indent">Carla Medalia (U.S. Census Bureau)<br>
-Brett O’Hara (U.S. Census Bureau)</p>
+Brett O'Hara (U.S. Census Bureau)</p>
 <p>Estimating a Time-Trend of the Uninsured Rate for the CPS Parallel ASEC</p>
-<p class="indent">Brett O’Hara (U.S. Census Bureau)<br>
+<p class="indent">Brett O'Hara (U.S. Census Bureau)<br>
 Carla Medalia (U.S. Census Bureau)</p>
 <p>Comparing 2014 SIPP and 2014 CPS ASEC Employer-Sponsored Insurance Offer and Take-up Rates</p>
 <p class="indent">Joelle Abramowitz (U.S. Census Bureau)</p>
@@ -657,7 +657,7 @@ Carla Medalia (U.S. Census Bureau)</p>
 <p class="indent">Renuka Bhaskar (U.S. Census Bureau)<br>
 James Noon (U.S. Census Bureau)<br>
 Sonya Rastogi (U.S. Census Bureau)<br>
-Brett O’Hara (U.S. Census Bureau)<br>
+Brett O'Hara (U.S. Census Bureau)<br>
 Victoria Velkoff (U.S. Census Bureau)</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION I-1:<br>
 EXPERIENCES AND EVALUATIONS IN USING RECORD LINKAGE TO IMPROVE THE QUALITY OF SURVEY PRODUCTS AND DATA</button></p>
@@ -683,7 +683,7 @@ Mandi Yu (National Cancer Institute)</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION I-2:<br>
 MOBILE SURVEY DESIGN</button></p>
 
-<p style="width:50%;"><a href="../assets/docs/I2_Nichols_2015FCSM.pdf" rel="">Optimizing the Decennial Census for Mobile – A Case Study</a>  <small> (118.7 MB)</small></p><!--------------pdf/I2_Nichols_2015FCSM.pdf------------>
+<p style="width:50%;"><a href="../assets/docs/I2_Nichols_2015FCSM.pdf" rel="">Optimizing the Decennial Census for Mobile - A Case Study</a>  <small> (118.7 MB)</small></p><!--------------pdf/I2_Nichols_2015FCSM.pdf------------>
 <p class="indent">Elizabeth Nichols (U.S. Census Bureau)<br>
 Erica Olmsted Hawala (U.S. Census Bureau)<br>
 Rachel Horwitz (U.S. Census Bureau)<br>

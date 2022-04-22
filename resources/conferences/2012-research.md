@@ -7,14 +7,14 @@ January 10-12, 2012<br>
 <a name="top"></a><br>
 <a href="../assets/docs/construction.pdf" target="_blank"><strong>FINAL PROGRAM</strong></a>  <small> (404 KB)</small></p>
 <p><strong>Resources and Proceedings</strong></p>
-<p style="width: 50%;">Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe® Acrobat® Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
-<!--<p><strong>Jump to …</strong><br>
+<p style="width: 50%;">Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe&reg; Acrobat&reg; Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
+<!--<p><strong>Jump to ...</strong><br>
 Tuesday <a href="#TuesdayAM">AM</a> / <a href="#TuesdayPM"> PM</a><br>
 Wednesday <a href="#WednesdayAM">AM</a> / <a href="#WednesdayPM">PM</a><br>
 Thursday <a href="#ThursdayAM">AM</a> / <a href="#ThursdayPM">PM</a></p>-->
 			
 <p class="larger" style="float: left; padding-right: 30px; ">PLENARY SESSION</p>
-<p style="float: left;  width: 60%;"><a href="../assets/docs/construction.pdf" target="_blank"><strong>“Who is This Survey Designed for, the ‘Agency’ or the Respondent?”</strong></a>  <small> (404 KB)</small><br>
+<p style="float: left;  width: 60%;"><a href="../assets/docs/construction.pdf" target="_blank"><strong>"Who is This Survey Designed for, the 'Agency' or the Respondent?"</strong></a>  <small> (404 KB)</small><br>
 Don Dillman (Washington State University, USA)</p>
 <p><br clear="all"></p>
 <p class="date"><a name="TuesdayAM"></a>TUESDAY AM</p>
@@ -64,7 +64,7 @@ SIMULATION MODELS OF FEDERAL SURVEYS</button></p>
 <p style="width:50%;" class="indent">Lawrence Cox (National Institute of Statistical Sciences, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/construction.pdf" target="_blank">Simulating NHIS Field Operations</a>  <small> (404 KB)</small></p>
 <p style="width:50%;" class="indent">Bor-Chung Chen (Federal Railroad Administration, USA)</p>
-<p style="width:50%;"><a href="../assets/docs/Karr_2012FCSM_II-A.pdf" target="_blank">WSSM: World’s Simplest Survey Microsimulator</a>  <small> (1.08 MB)</small></p>
+<p style="width:50%;"><a href="../assets/docs/Karr_2012FCSM_II-A.pdf" target="_blank">WSSM: World's Simplest Survey Microsimulator</a>  <small> (1.08 MB)</small></p>
 <p style="width:50%;" class="indent">Alan Karr, Satkartar Kinney, and Lawrence Cox (National Institute of Statistical Sciences, USA)</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION II-B<br>
 ENHANCING SURVEYS THROUGH DATA LINKAGE</button></p>
@@ -97,7 +97,7 @@ USE OF ADMINISTRATIVE RECORDS DATA IN THE 2020 CENSUS</button></p>
 <p style="width:50%;"><a href="../assets/docs/Chapin_2012FCSM_III-A.pdf" target="_blank">Possible 2020 Census Designs and the Use of Administrative Records: What is the Impact on Cost and Quality?</a>  <small> (225 KB)</small></p>
 <p style="width:50%;" class="indent">Frank Vitrano and Maryann Chapin (U.S. Census Bureau)</p>
 <p style="width:50%;"><a href="../assets/docs/OHara_2012FCSM_III-A.pdf" target="_blank">2010 Census Simulation: Comparing Administrative Records and Decennial Data</a>  <small> (92 KB)</small></p>
-<p style="width:50%;" class="indent">Amy O’Hara (U.S. Census Bureau)</p>
+<p style="width:50%;" class="indent">Amy O'Hara (U.S. Census Bureau)</p>
 <p style="width:50%;"><a href="../assets/docs/Wroblewski_2012FCSM_III-A.pdf" target="_blank">Public Attitudes Toward the Use of Administrative Records in the U.S. Census: Does Question Frame Matter?</a>  <small> (566 KB)</small></p>
 <p style="width:50%;" class="indent">Nancy Bates, Monica Wroblewski, and Joanne Pascale (U.S. Census Bureau)</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION III-B<br>
@@ -143,7 +143,7 @@ SMALL AREA ESTIMATION</button></p>
 MULTI-MODE AND WEB DATA COLLECTION</button></p>
 <p style="width:50%;"><a href="../assets/docs/Finamore_2012FCSM_IV-B.pdf" target="_blank">Evaluating Data Collection Mode Options in the 2010 National Survey of College Graduates</a>  <small> (241 KB)</small></p>
 <p style="width:50%;" class="indent">John Finamore (National Science Foundation, USA)</p>
-<p style="width:50%;"><a href="../assets/docs/Soldner_2012FCSM_IV-B.pdf" target="_blank">Developing a Multi-mode, Longitudinal Study to Understand College Student Outcomes Using Becker’s Human Capital Framework</a>  <small> (465 KB)</small></p>
+<p style="width:50%;"><a href="../assets/docs/Soldner_2012FCSM_IV-B.pdf" target="_blank">Developing a Multi-mode, Longitudinal Study to Understand College Student Outcomes Using Becker's Human Capital Framework</a>  <small> (465 KB)</small></p>
 <p style="width:50%;" class="indent">Matthew Soldner and Tracy Hunt-White (National Center for Education Statistics, USA) and Jennifer Wine and Natasha Janson (RTI International, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/Thieme_2012FCSM_IV-B.pdf" target="_blank">Considering a Digital 2020 Census</a>  <small> (800 KB)</small></p>
 <p style="width:50%;" class="indent">Michael Thieme (U.S. Census Bureau)</p>
@@ -183,14 +183,14 @@ EVALUATING THE SIPP RE-ENGINEERING, COMPARING SIPP AND SIPP-EHC</button></p>
 <p style="width:50%;" class="indent">Matthew Marlay and Peter Mateyka (U.S. Census Bureau)</p>
 <p style="width:50%;"><a href="../assets/docs/Ewert_2012FCSM_V-B.pdf" target="_blank">Measuring School Enrollment in the 2011 Re-SIPP Field Test</a>  <small> (481 KB)</small></p>
 <p style="width:50%;" class="indent">Stephanie Ewert and Sarah Crissey (U.S. Census Bureau)</p>
-<p style="width:50%;"><a href="../assets/docs/Ellis_2012FCSM_V-B.pdf" target="_blank">“I Don’t Remember”: Effects of Recall Period on Reported Job and Program Participation Duration</a>  <small> (327 KB)</small></p>
+<p style="width:50%;"><a href="../assets/docs/Ellis_2012FCSM_V-B.pdf" target="_blank">"I Don't Remember": Effects of Recall Period on Reported Job and Program Participation Duration</a>  <small> (327 KB)</small></p>
 <p style="width:50%;" class="indent">Rebecca Chenevert and Renee Ellis (U.S. Census Bureau)</p>
 <p style="width:50%;"><a href="../assets/docs/construction.pdf" target="_blank">An Evaluation of Reporting Accuracy in SIPP-EHC Field Test Data Using 2008 SIPP Administrative Records</a>  <small> (404 KB)</small></p>
 <p style="width:50%;" class="indent">Graton Gathright, Martha Stinson, and Lori Reeder (U.S. Census Bureau)</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION V-C<br>
 MONITORING AND USING PARADATA AND METADATA</button></p>
 <p style="width:50%;"><a href="../assets/docs/OHare_2012FCSM_V-C.pdf" target="_blank">Designing a Paradata Application in a CAPI Environment</a>  <small> (478 KB)</small></p>
-<p style="width:50%;" class="indent">Barbara O’Hare and Matthew Jans (U.S. Census Bureau)</p>
+<p style="width:50%;" class="indent">Barbara O'Hare and Matthew Jans (U.S. Census Bureau)</p>
 <p style="width:50%;"><a href="../assets/docs/Hunter_2012FCSM_V-C.pdf" target="_blank">Using Paradata to Monitor Survey Production, Cost, and Quality Within an Adaptive Total Design Framework</a>  <small> (428 KB)</small></p>
 <p style="width:50%;" class="indent">David Cunningham Hunter, Susan Mitchell, Lisa Carley-Baxter and Michael Keating (RTI International, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/Gonzalez_2012FCSM_V-C.pdf" target="_blank">Producing Control Charts to Monitor Response Rates for Business Surveys in the Economic Directorate of the U.S. Census Bureau</a>  <small> (447 KB)</small></p>
@@ -208,7 +208,7 @@ STATISTICAL METHODS</button></p>
 <p class="date"><a name="WednesdayPM"></a>WEDNESDAY PM</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION VI-A<br>
 VARIANCE ESTIMATION</button></p>
-<p style="width:50%;"><a href="../assets/docs/construction.pdf" target="_blank">Can Post-Imputation Calibration Mitigate Possible Bias in Rubin’s Multiple Imputation Variance Estimator?</a>  <small> (404 KB)</small></p>
+<p style="width:50%;"><a href="../assets/docs/construction.pdf" target="_blank">Can Post-Imputation Calibration Mitigate Possible Bias in Rubin's Multiple Imputation Variance Estimator?</a>  <small> (404 KB)</small></p>
 <p style="width:50%;" class="indent">Benjamin Reist and (U.S. Census Bureau) and Michael Larsen (The George Washington University, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/Liao_2012FCSM_VI-A.pdf" target="_blank">Condition Indexes and Variance Decompositions for Diagnosing Collinearity in Linear Model Analysis of Survey Data</a>  <small> (476 KB)</small></p>
 <p style="width:50%;" class="indent">Dan Liao (RTI International, USA) and Richard Valliant (University of Michigan and University of Maryland, USA)</p>
@@ -230,9 +230,9 @@ RESPONSE AND NONRESPONSE IN ESTABLISHMENT SURVEYS</button></p>
 MEASURING, MONITORING, AND IMPROVING THE QUALITY OF SURVEY DATA</button></p>
 <p style="width:50%;"><a href="../assets/docs/Jang_2012FCSM_VI-C.pdf" target="_blank">Survey Quality Indicator Measures</a>  <small> (1.07 MB)</small></p>
 <p style="width:50%;" class="indent">Donsig Jang (Mathematica Policy Research, USA) and Flora Lan (National Science Foundation, USA)</p>
-<p style="width:50%;"><a href="../assets/docs/Boone_2012FCSM_VI-C.pdf" target="_blank">Implementing Quality Control Procedures at NASS’ National Operations Center</a>  <small> (240 KB)</small></p>
+<p style="width:50%;"><a href="../assets/docs/Boone_2012FCSM_VI-C.pdf" target="_blank">Implementing Quality Control Procedures at NASS' National Operations Center</a>  <small> (240 KB)</small></p>
 <p style="width:50%;" class="indent">Jeffrey Boone (National Agricultural Statistics Service, USA)</p>
-<p style="width:50%;"><a href="../assets/docs/Smith_2012FCSM_VI-C.pdf" target="_blank">Quality Assurance for EPA’s National Coastal Survey</a>  <small> (317 KB)</small></p>
+<p style="width:50%;"><a href="../assets/docs/Smith_2012FCSM_VI-C.pdf" target="_blank">Quality Assurance for EPA's National Coastal Survey</a>  <small> (317 KB)</small></p>
 <p style="width:50%;" class="indent">Marla Smith, Sarah Lehmann, and Treda Grayson (U.S. Environmental Protection Agency)</p>
 <p style="width:50%;"><a href="../assets/docs/Waugh_2012FCSM_VI-C.pdf" target="_blank">Achieving Information Quality via Continuous Quality Improvement</a>  <small> (457 KB)</small></p>
 <p style="width:50%;" class="indent">Shawna Waugh (Energy Information Administration, USA)</p>
@@ -252,14 +252,14 @@ LINKING DATA TO ASSESS NONRESPONSE AND MEASUREMENT</button></p>
 <p style="width:50%;" class="indent">Karen Hamrick (Economic Research Service, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/construction.pdf" target="_blank">Estimating Mental Illness in an Ongoing National Survey</a>  <small> (404 KB)</small></p>
 <p style="width:50%;" class="indent">Joe Gfroerer, Sarra Hedden, Peggy Barker, and Jonaki Bose (Substance Abuse and Mental Health Services Administration, USA) and Jeremy Aldworth (RTI International, USA)</p>
-<p style="width:50%;"><a href="../assets/docs/Rosenbaum_2012FCSM_VII-A.pdf" target="_blank">Telling Truth From Y’s: Accuracy of Self-Reported Semen Exposure Assessed by a Semen Y-Chromosome Biomarker</a>  <small> (294 KB)</small></p>
+<p style="width:50%;"><a href="../assets/docs/Rosenbaum_2012FCSM_VII-A.pdf" target="_blank">Telling Truth From Y's: Accuracy of Self-Reported Semen Exposure Assessed by a Semen Y-Chromosome Biomarker</a>  <small> (294 KB)</small></p>
 <p style="width:50%;" class="indent">Janet Rosenbaum (University of Maryland, USA), Johan Melendez (Johns Hopkins University, USA), Eve Rose, Gina Wingood, and Ralph DiClemente (Emory University, USA), and Jonathan Zenilman (Johns Hopkins University, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/Mirel_2012FCSM_VII-A.pdf" target="_blank">Linking Children From the National Health and Nutrition Examination Survey to Medicaid Enrollment and Claims Data</a>  <small> (75 KB)</small></p>
 <p style="width:50%;" class="indent">Lisa Mirel (National Center for Health Statistics, USA), Gloria Wheatcroft (Center for Medicare and Medicaid Services, USA), and Cordell Golden and Kenneth Schoendorf (National Center for Health Statistics, USA)</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION VII-B<br>
 QUESTIONNAIRE AND SURVEY DESIGN</button></p>
 <p style="width:50%;"><a href="../assets/docs/Boivin_2012FCSM_VII-B.pdf" target="_blank">Measurement Strategies for Identifying Holders of Certificates and Certifications</a>  <small> (495 KB)</small></p>
-<p style="width:50%;" class="indent">Sharon Boivin and Isaiah O’Rear (National Center for Education Statistics, USA)</p>
+<p style="width:50%;" class="indent">Sharon Boivin and Isaiah O'Rear (National Center for Education Statistics, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/construction.pdf" target="_blank">Evaluation of the 2008 American Community Survey Employment Status Question Change</a>  <small> (404 KB)</small></p>
 <p style="width:50%;" class="indent">Alfred Gottschalck, Braedyn Kromer, David Howard, and David Hedengren (U.S. Census Bureau)</p>
 <p style="width:50%;"><a href="../assets/docs/Okon_2012FCSM_VII-B.pdf" target="_blank">The National Survey of Fishing, Hunting, and Wildlife-Associated Recreation Cell Phone and Debit Card Test</a>  <small> (402 KB)</small></p>
@@ -280,18 +280,18 @@ CHALLENGING ISSUES FOR TODAY AND TOMORROW: INNOVATIVE APPROACHES</button></p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION VIII-A<br>
 MULTIPLE IMPUTATION</button></p>
 <p style="width:50%;"><a href="../assets/docs/Drechsler_2012FCSM_VIII-A.pdf" target="_blank">MI Double Feature: Multiple Imputation to Address Nonresponse and Rounding Errors in Income Questions Simultaneously</a>  <small> (383 KB)</small></p>
-<p style="width:50%;" class="indent">Jörg Drechsler (Institute for Employment Research, Germany) and Hans Kiesl (University of Applied Sciences, Germany)</p>
+<p style="width:50%;" class="indent">J&ouml;rg Drechsler (Institute for Employment Research, Germany) and Hans Kiesl (University of Applied Sciences, Germany)</p>
 <p style="width:50%;"><a href="../assets/docs/Steve_2012FCSM_VIII-A.pdf" target="_blank">Multiple Imputation: Limitations Born From Missing Data Among Covariates</a>  <small> (282 KB)</small></p>
 <p style="width:50%;" class="indent">Kenneth Steve and Li Leung (Bureau of Transportation Statistics, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/Baskin_2012FCSM_VIII-A.pdf" target="_blank">Effect of Different Imputation Methods on Factor Analyses of CAHPS Nursing Home Survey</a>  <small> (176 KB)</small></p>
 <p style="width:50%;" class="indent">Robert Baskin, Judy Sangl, and Marc Zodet (Agency for Healthcare Research and Quality, USA)</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION VIII-B<br>
 ISSUES IN DESIGNING AND REDESIGNING ESTABLISHMENT SURVEYS</button></p>
-<p style="width:50%;"><a href="../assets/docs/Lohr_2012FCSM_VIII-B.pdf" target="_blank">Closing the Feedback Loop in Survey Design – How Public Sector Research Needs Inform Evolution of the Census of Agriculture</a>  <small> (804 KB)</small></p>
+<p style="width:50%;"><a href="../assets/docs/Lohr_2012FCSM_VIII-B.pdf" target="_blank">Closing the Feedback Loop in Survey Design - How Public Sector Research Needs Inform Evolution of the Census of Agriculture</a>  <small> (804 KB)</small></p>
 <p style="width:50%;" class="indent">Luanne Lohr (Economic Research Service, USA) and Donald Buysse (National Agricultural Statistics Service, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/Hough_2012FCSM_VIII-B.pdf" target="_blank">Survey Redesign Process for a Business Survey: Lessons Learned From the Business R&amp;D and Innovation Survey</a>  <small> (393 KB)</small></p>
 <p style="width:50%;" class="indent">Richard Hough (U.S. Census Bureau)</p>
-<p style="width:50%;"><a href="../assets/docs/Hall_2012FCSM_VIII-B.pdf" target="_blank">Comparison of the Data Reliability of Nationally Representative Estimates From the Full (2007) and Half (2008) Samples of the National Hospital Discharge Survey – Implications for Trend Analyses</a>  <small> (217 KB)</small></p>
+<p style="width:50%;"><a href="../assets/docs/Hall_2012FCSM_VIII-B.pdf" target="_blank">Comparison of the Data Reliability of Nationally Representative Estimates From the Full (2007) and Half (2008) Samples of the National Hospital Discharge Survey - Implications for Trend Analyses</a>  <small> (217 KB)</small></p>
 <p style="width:50%;" class="indent">Margaret Jean Hall and Maria Owings (National Center for Health Statistics, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/DeFrances_2012FCSM_VIII-B.pdf" target="_blank">Integration of the National Hospital Discharge Survey and the National Hospital Ambulatory Medical Care Survey into the National Hospital Care Survey</a>  <small> (237 KB)</small></p>
 <p style="width:50%;" class="indent">Carol DeFrances and David Woodwell (National Center for Health Statistics, USA)</p>
@@ -305,9 +305,9 @@ DISCLOSURE</button></p>
 <p style="width:50%;" class="indent">John Abowd and Lars Vilhuber (Cornell University, USA, and U.S. Census Bureau), Kaj Gittings (Louisiana State University, USA), Kevin McKinney (U.S. Census Bureau), Bryce Stephens (Bates White Economic Consulting, USA), and Simon Woodcock (Simon Fraser University, USA)</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION VIII-D<br>
 TECHNICAL DEMONSTRATIONS: DATA COLLECTION AND MONITORING TECHNOLOGY</button></p>
-<p style="width:50%;"><a href="../assets/docs/construction.pdf" target="_blank">Technology Advancing Data Collection: Implementing Thin Client Computer Assisted Personal Interviewing into National Agricultural Statistics Services’ 2011 Field Data Collection Program</a>  <small> (440 KB)</small></p>
+<p style="width:50%;"><a href="../assets/docs/construction.pdf" target="_blank">Technology Advancing Data Collection: Implementing Thin Client Computer Assisted Personal Interviewing into National Agricultural Statistics Services' 2011 Field Data Collection Program</a>  <small> (440 KB)</small></p>
 <p style="width:50%;" class="indent">Michael Gerling, Pam Hird, and James Harris (National Agricultural Statistics Service, USA)</p>
-<p style="width:50%;"><a href="../assets/docs/Lieberman_2012FCSM_VIII-D.pdf" target="_blank">Data Quality Record – A Desktop Application</a>  <small> (0.99 MB)</small></p>
+<p style="width:50%;"><a href="../assets/docs/Lieberman_2012FCSM_VIII-D.pdf" target="_blank">Data Quality Record - A Desktop Application</a>  <small> (0.99 MB)</small></p>
 <p style="width:50%;" class="indent">Judy Lieberman, Joseph Greenblott, and Patricia Mundy (U.S. Environmental Protection Agency) and Michael Crow (Crow Environmental, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/Fisher_2012FCSM_VIII-D.pdf" target="_blank">CARI Interactive Data Access System</a>  <small> (272 KB)</small></p>
 <p style="width:50%;" class="indent">Carl Fisher (RTI International, USA)</p>
@@ -359,7 +359,7 @@ LINKING AND QUALITY OF ADMINISTRATIVE DATA</button></p>
 <p style="width:50%;" class="indent">Theresa Anderson (George Washington University, USA, and Economic Research Service, USA), John Kirlin (Economic Research Service, USA), and Michael Wiseman (George Washington University, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/Larsen_2012FCSM_X-B.pdf" target="_blank">Study of Factors Affecting Record Linkage in Federal Statistical Databases</a>  <small> (283 KB)</small></p>
 <p style="width:50%;" class="indent">Yuan Zhao and Michael Larsen (George Washington University, USA)</p>
-<p style="width:50%;"><a href="../assets/docs/Chan_2012FCSM_X-B.pdf" target="_blank">Qualitative Assessment of Administrative Records: The Case of State Prisons’ Records</a>  <small> (298 KB)</small></p>
+<p style="width:50%;"><a href="../assets/docs/Chan_2012FCSM_X-B.pdf" target="_blank">Qualitative Assessment of Administrative Records: The Case of State Prisons' Records</a>  <small> (298 KB)</small></p>
 <p style="width:50%;" class="indent">Anna Chan (U.S. Census Bureau)</p>
 <p style="width:50%;"><a href="../assets/docs/Guarneri_2012FCSM_X-B.pdf" target="_blank">Methods of Assigning Race and Hispanic Origin to Births From Vital Statistics Data</a>  <small> (563 KB)</small></p>
 <p style="width:50%;" class="indent">Christine Guarneri and Christopher Dick (U.S. Census Bureau)</p>

@@ -7,7 +7,7 @@ layout: page
 
 
   <p><a name=Abstracts></a><u>Keynote Address</u></p>
-  <p>9:00 – 10:00 am</p>
+  <p>9:00 - 10:00 am</p>
   
   <p>Using Federal Data to Evaluate and Inform:</p>
   <p>A Case Study on Increasing Upward Mobility in the
@@ -18,7 +18,7 @@ layout: page
   
   
   <button style="width: 900px;"type="button" class="collapsible"><p><u><strong>Morning Concurrent Sessions</strong><br>
-	  </u>10:15 am – 12:00 pm</p></button>
+	  </u>10:15 am - 12:00 pm</p></button>
   
   
   <p>AM1-1: The Evidence Act 101</p>
@@ -31,9 +31,9 @@ layout: page
   
   
   <button style="width: 900px;"type="button" class="collapsible"><p><u><strong>Afternoon Concurrent Sessions 1</strong></u></p>
-	  <p>1:30 – 3:00 </p></button>
+	  <p>1:30 - 3:00 </p></button>
   
-  <p><b>PM1-1:  Implementing the Evidence Act:  Journey thus
+  <p><b>PM1-1: Implementing the Evidence Act: Journey thus
 	  Far and the Road Ahead</b></p>
   
   <p><b>PM1-2: Leveraging Administrative Data</b></p>
@@ -45,7 +45,7 @@ layout: page
   
   
 		<button style="width: 900px;"type="button" class="collapsible"><p><u><strong>Afternoon Concurrent Sessions 2</strong></u></p>
-  <p>3:15 – 5:00 pm</p></button>
+  <p>3:15 - 5:00 pm</p></button>
   
   <p><b>PM2-1: Using Data in New Ways:</b> </p>
   <p>Leveraging the Evidence Act to</p>
@@ -62,7 +62,7 @@ layout: page
 
 
 <button style="width: 900px;"type="button" class="collapsible"><p><u><strong>Morning Concurrent Sessions</strong><br>
-	</u>10:15 am – 12:00 pm</p></button>
+	</u>10:15 am - 12:00 pm</p></button>
 
 
 
@@ -115,7 +115,7 @@ Data Ethics Frameworks</p>
 
 <u><span style='
 '>Ethical Considerations for Data Access and Use;</u> Amy
-O’Hara (Georgetown University)
+O'Hara (Georgetown University)
 
 <u><span style='
 '>Policy and Technology: Ensuring Ethics in the Submission
@@ -133,7 +133,7 @@ Future of Privacy Forum)
 
 
 <u><span style='
-'>Ethical Principles for the All Data Revolution – Repurposing
+'>Ethical Principles for the All Data Revolution - Repurposing
 Administrative and Opportunity Data;</u><span style='
 '> <span style='
 '>Stephanie S. Shipp,
@@ -146,7 +146,7 @@ Sallie Keller, and Aaron Schroeder (University of Virginia)
 
 
 <p><b>AM1-3:
-Nonresponse Bias in Federal Surveys – Gaps in Knowledge and Future
+Nonresponse Bias in Federal Surveys - Gaps in Knowledge and Future
 Opportunities</b></p>
 
 
@@ -188,7 +188,7 @@ U.S. Census Bureau)</p>
 <button style="width: 900px;"type="button" class="collapsible"><p><u><strong>Afternoon Concurrent Sessions
 	1</strong></u></p></button>
 
-<p>1:30 – 3:00 pm</p>
+<p>1:30 - 3:00 pm</p>
 
 
 
@@ -227,7 +227,7 @@ Kelly Bidwell (Evaluation Officer and
 Statistical Official, General Services Administration)</p>
 
 <p>
-Samuel C. “Chris” Haffer (Chief Data Officer, U.S. Equal Employment
+Samuel C. "Chris" Haffer (Chief Data Officer, U.S. Equal Employment
 Opportunity Commission)</p>
 
 
@@ -309,7 +309,7 @@ Decision Making and Evaluation Related to the Corona Virus Pandemic;</u> Holly D
 (Internal Revenue Service)</p>
 
 <p> <u>Expanding the Use
-of NCHS’ Research and Development Survey to Quantify Health Characteristics
+of NCHS' Research and Development Survey to Quantify Health Characteristics
 During the Coronavirus Pandemic;</u><span style='
 '> <span style='
 '>Paul Scanlon and Katherine Irimata
@@ -329,7 +329,7 @@ Schmitt (Bureau of Transportation Statistics)</p>
 <button style="width: 900px;"type="button" class="collapsible"><p><u><strong>Afternoon Concurrent Sessions
 	2</strong></u></p></button>
 
-<p>3:15 – 5:00 pm</p>
+<p>3:15 - 5:00 pm</p>
 
 </div>
 
@@ -354,9 +354,9 @@ Budget)</p>
 (Bureau of Labor Statistics)</p>
 
 <br><a
-name="Framing_the_Evidence_Act’s_Vision_for_Co"></a><span>
+name="Framing_the_Evidence_Act's_Vision_for_Co"></a><span>
 <u><span style='
-'>Framing the Evidence Act’s Vision for Coordination and
+'>Framing the Evidence Act's Vision for Coordination and
 Collaboration;</u>
 <br>
 <span style='
@@ -364,7 +364,7 @@ Collaboration;</u>
 
 <p>
 <u>U.S. Department of Housing and
-Urban Development’s Experience Supporting and Enhancing its Data Infrastructure
+Urban Development's Experience Supporting and Enhancing its Data Infrastructure
 and Use</u>; Calvin Johnson (U.S.
 Department of Housing and Urban Development)</p>
 
@@ -379,7 +379,7 @@ Outcomes Research</u><span style='
 <br><span style='
 '>
 <u><span style='
-'>Department of Labor’s Data Exchange and Analysis Platform
+'>Department of Labor's Data Exchange and Analysis Platform
 (DAEP);</u>
 <br>
 <span style='
@@ -430,7 +430,7 @@ Sarah Miller (University of Michigan)
 <br ><a
 name="The_Census_Longitudinal_Infrastructure_P"></a>
 <u><span style='
-'>The Census Longitudinal Infrastructure Project – Linked
+'>The Census Longitudinal Infrastructure Project - Linked
 Census Data and Results from the Impact of Preschool on Later-Life Outcomes;</u> Katie
 Genadek, U.S. Census Bureau
 
@@ -462,7 +462,7 @@ Communicating Fitness for Use</b></p>
 
 
 
-<p><a name="Department_of_Labor’s_Data_Exchange_and_"></a>&nbsp;</p>
+<p><a name="Department_of_Labor's_Data_Exchange_and_"></a>&nbsp;</p>
 
 <br>Abstracts
 	<br>
@@ -497,7 +497,7 @@ means for statistical agencies. </p>
 <br style='
 '>Ethical Considerations for Data Access and Use
 
-<p>Amy O’Hara, Georgetown University</p>
+<p>Amy O'Hara, Georgetown University</p>
 
 <p>Project leads and
 data owners typically focus on legal and policy requirements when sharing data
@@ -524,7 +524,7 @@ Lee, JD, CIPP, Chief Privacy Officer; United States Senate, Sergeant at Arms</p>
 <p>The Fourth
 Industrial Revolution (4IR) has started. 5G networks, Cloud Computing and
 Quantum Computing are being integrated using artificial intelligence, machine
-learning and software.  4IR will be bigger than the dotcom revolution of the
+learning and software. 4IR will be bigger than the dotcom revolution of the
 1990s, and creates opportunities to process and use exponentially more data to
 make better, informed decisions faster than ever before. The 4IR will usher in
 a new wave of technical products and services. It will also create tools that
@@ -574,7 +574,7 @@ Virginia Tech</p>
 ethics for machine learning and artificial intelligence (AI/ML) are written at
 a high level that does not acknowledge fully the complexity of developing
 machine learning algorithms. Specifically, while statements that AI/ ML ought
-to be “transparent” or “explicable” are easily laudable, they are not
+to be "transparent" or "explicable" are easily laudable, they are not
 technically feasible except when coupled with some extraordinary steps taken by
 programmer teams and their team leaders. In this presentation, I take ethics
 for AI/ML down from the high level statements to explanations of in medias res
@@ -587,7 +587,7 @@ Model deployment in consumer products will be discussed briefly.</p>
 
 
 
-<p>Ethical Principles and Data Science – Repurposing Administrative and
+<p>Ethical Principles and Data Science - Repurposing Administrative and
 Opportunity Data Stephanie S. Shipp (University of Virginia), Sallie Keller
 (University of Virginia), Aaron Schroeder (University of Virginia)</p>
 
@@ -630,7 +630,7 @@ professional organizations. Some 165 studies were identified - 89 concerning
 establishment surveys and 76 involving household surveys. About 40 percent of
 the NRB studies were done during the period shortly after the 2006 OMB
 guidance. The methods employed for assessing NRB differed for establishment and
-household surveys. Studies  involving
+household surveys. Studies involving
 establishment surveys mostly compared survey estimates to external (frame)
 data, while those involving household surveys mostly examined variations of
 estimates within the response set (e.g. early and late responders). A majority
@@ -769,7 +769,7 @@ new blended-data approach that leverages existing administrative (AR) and
 census records to assign demographic characteristics to the universe of
 nonemployers, and produce an annual series that will become the only source of
 nonemployer demographics estimates. This new series is the Nonemployer
-Statistics by Demographics series or NES-D. Meeting the public’s needs, NES-D
+Statistics by Demographics series or NES-D. Meeting the public's needs, NES-D
 will provide reliable estimates with no respondent burden on a more frequent
 and timely basis than the SBO. Using the 2014-2016 vintages of nonemployer
 businesses and demographic information from the decennial census, the American
@@ -793,7 +793,7 @@ coverage. When the data source suffers from incomplete coverage, the data are
 not representative of the population. If a census is not possible, one
 alternative is to select a probability sample of nonparticipating agencies,
 collect their data, and blend them with the reporting<span style='letter-spacing:
--.05pt'> agencies. The FBI’s National Incident-Based Reporting System
+-.05pt'> agencies. The FBI's National Incident-Based Reporting System
 (NIBRS) collects incident-based information on all crimes reported to the
 police. Currently, 33% of law enforcement agencies in the US submit to NIBRS,
 but these agencies mainly represent less populated parts of the country. The
@@ -816,7 +816,7 @@ Statistics)</p>
 
 
 <p>The Federal Government accounts for about one-fourth of total Research
-and Development (R&amp;D) funding in the United States—but what exactly does
+and Development (R&amp;D) funding in the United States-but what exactly does
 this public funding support? While the National Center of Science and
 Engineering Statistics (NCSES) provides high-level data from surveys on the
 disposition of federal obligations for R&amp;D, more granular research
@@ -826,10 +826,10 @@ greater detail (e.g., Federal RePORTER). This presentation documents the
 usefulness of these administrative data to enhance and supplement NCSES surveys
 of federal funding. Using grant abstracts in Federal RePORTER and topic
 modeling, we discover latent R&amp;D research topics in the database and
-analyze their trends over time to discover emerging topics.  We also complete a
+analyze their trends over time to discover emerging topics. We also complete a
 pandemics case study that utilizes information retrieval techniques along with
 topic modeling to perform a deeper dive into a specific area of interest that
-is not captured in enough detail by the topic model on the entire database. 
+is not captured in enough detail by the topic model on the entire database.
 Initial results show that we can capture specific R&amp;D research trends from
 administrative data in Federal RePORTER.</p>
 
@@ -846,7 +846,7 @@ Study from Education
 Department of Education (ED), developed supplementary geocode data files for
 the Early Childhood Program Participation, Parent and Family Involvement in
 Education, and Adult Training and Education surveys of the 2016 National
-Household Education Surveys Program. The geocode files use sample members’
+Household Education Surveys Program. The geocode files use sample members'
 addresses to integrate data from other federal agencies and ED administrative
 data collections. The data files include new radius-based measures of household
 proximity to educational opportunities and job search assistance. The
@@ -868,15 +868,15 @@ Department of Veterans Affairs </p>
 Affairs) </p>
 
 <p>This presentation describes the VA OEI Office
-of Data Governance and Analytics’ (DGA) development of tiered data access in an
+of Data Governance and Analytics' (DGA) development of tiered data access in an
 evolving environment of privacy, as well as future plans to expand access while
 protecting confidentiality. DGA is an organization that stores, links,
 processes, and distributes large amounts of veteran data, some of which contain
 personally identifiable information (PII). Recent updates to data policy and
 new laws encourage more data access across agencies and to the public.
-This has led to DGA’s examination of its disclosure risk mitigation strategies
+This has led to DGA's examination of its disclosure risk mitigation strategies
 to better protect its data. DGA is developing access tiers defined by combinations
-of protection levels on each of the elements of the “Five Safes” framework.</p>
+of protection levels on each of the elements of the "Five Safes" framework.</p>
 
 
 
@@ -884,12 +884,12 @@ of protection levels on each of the elements of the “Five Safes” framework.</p>
 
 <p><b>PM1-3:
 Leveraging
-Official Statistics Programs to Address Emerging Issues:  Providing Information
+Official Statistics Programs to Address Emerging Issues: Providing Information
 Relevant to the Coronavirus Pandemic</b></p>
 
 <p>Federal
 Statistical agencies have long standing programs and data collection to provide
-official statistics on all aspects of the US – population characteristics, the
+official statistics on all aspects of the US - population characteristics, the
 economy, education, health, and more.&nbsp; These programs, which include
 time-series data that have been relatively unchanged for many years, are the
 result of years of effort required to develop, execute and produce important
@@ -901,7 +901,7 @@ Statistical Agencies nimbly addressed the need for data on the pandemic by
 leveraging the ongoing survey programs.&nbsp; Examples from BLS, Census, IRS,
 NCHS and BTS will illustrate how statistical agencies were able to support
 evidence based decision making relevant to a pandemic that was not part of
-anyone’s planning.&nbsp; Some added new information to the existing collections,
+anyone's planning.&nbsp; Some added new information to the existing collections,
 while others found new uses for existing data.&nbsp; But all contributed to
 efforts to support policy evaluation and impact.</p>
 
@@ -990,71 +990,71 @@ given potential differences in testing and reporting of COVID-19 deaths.</p>
 
 <p>The IRS Office of Research, Applied Analytics and Statistics used
 innovative nimble approaches to support decision making and evaluation related
-to the corona virus pandemic.  </p>
+to the corona virus pandemic. </p>
 
 <p>Holly Donnelly, IRS</p>
 
 <p>The IRS built a new graph data model to analyze entities with employment
-tax requirements and Form 941 Schedule R filings.  The model will be used by
+tax requirements and Form 941 Schedule R filings. The model will be used by
 Exam, CI, and others to identify entity relationships, distribution of claims
 and credits, patterns of non-compliance (including fraud), estimate Exam
-workload, and optimize case selection activities.  The Economic Impact Payment
+workload, and optimize case selection activities. The Economic Impact Payment
 (EIP) is a payment meant to stimulate the economy and put money in the hands of
-taxpayers and U.S. citizens in a time of need.  The EIP also creates an
+taxpayers and U.S. citizens in a time of need. The EIP also creates an
 opportunity for identity thieves as it creates a new mode of entry into the
 filing population (See
 https://krebsonsecurity.com/2020/04/new-irs-site-could-make-it-easy-for-thieves-to-intercept-some-stimulus-payments/
-).  Normally, identity thieves must claim a refund on a return in order to profit
+). Normally, identity thieves must claim a refund on a return in order to profit
 from ID theft fraud, which subjects a return to multiple selection filters that
-are looking for ID Theft and other forms of refund fraud.  The EIP removes the
+are looking for ID Theft and other forms of refund fraud. The EIP removes the
 scrutiny as thieves can now file a fraudulent $0 return, avoid RRP and DDb
-filters, and receive a stimulus check or direct deposit.  RAAS is working
+filters, and receive a stimulus check or direct deposit. RAAS is working
 closely with RICS to start a system for fraudulent EIP detection and
-selection.  Mechanisms for detection will be driven by RAAS and our
-contractors.  W&amp;I is expecting 18 million marginal returns this year as a
+selection. Mechanisms for detection will be driven by RAAS and our
+contractors. W&amp;I is expecting 18 million marginal returns this year as a
 result of EIP. ID Theft not only allows stimulus payments to go to identity
 thieves who may or may not spend those checks in the U.S., but also makes it
 difficult for the appropriate person claim their rightful stimulus check in a
-timely manner.   Given the absence of a systemic selection process for this
+timely manner. Given the absence of a systemic selection process for this
 vulnerable population, we currently estimate that we need at least $200K in
 additional funding and potentially an additional $200K to prepare for PY2021
 related schemes as unclaimed EIPs will show up as credits on TY2020 accounts.</p>
 
 <p>RAAS estimated the number of businesses eligible for advance tax credits
 to cover health care costs and paid leave to assist Collection in anticipating
-workload.  We used counts of employers filing employment tax returns including
-the 941, 944, 934 and CT-1.  RAAS also estimated likely health care costs to
+workload. We used counts of employers filing employment tax returns including
+the 941, 944, 934 and CT-1. RAAS also estimated likely health care costs to
 assist in identifying claims that necessitated further scrutiny before the tax
-credits were advanced.  Using data from the W-2s, we reported health care costs
+credits were advanced. Using data from the W-2s, we reported health care costs
 by number of employees to establish guidelines.</p>
 
 <p>We are also building a model to estimate the impact of sudden economic
-downturn on IRS Collection resources.  Using data from our compliance data
+downturn on IRS Collection resources. Using data from our compliance data
 warehouse paired with published data from other statistical agencies, our model
 will forecast, by industry and geographic area, how many individual filers will
-likely owe taxes they cannot pay and enter the Collection workstream.  This
-effort will be challenging because of recent “tax reform” that caused a rise in
-individual balance due returns for tax year 2019.   A related project will
-project additional work for the insolvency group to secure the government’s
-interests in cases of bankruptcy.  </p>
+likely owe taxes they cannot pay and enter the Collection workstream. This
+effort will be challenging because of recent "tax reform" that caused a rise in
+individual balance due returns for tax year 2019. A related project will
+project additional work for the insolvency group to secure the government's
+interests in cases of bankruptcy. </p>
 
 
 
 
 
-<p>Expanding the Use of NCHS’ Research and Development Survey to Quantify
+<p>Expanding the Use of NCHS' Research and Development Survey to Quantify
 Health Characteristics During the Coronavirus Pandemic</p>
 
 <p>Paul Scanlon, Katherine Irimata, National Center for Health Statistics</p>
 
-<p>The National Center for Health Statistics’ (NCHS) Research and
+<p>The National Center for Health Statistics' (NCHS) Research and
 Development Survey (RANDS) is a series of surveys collected from commercial
 panels for methodological research purposes. Until now, the goals of RANDS have
-been solely methodological.  On one hand, NCHS has used RANDS to refine
+been solely methodological. On one hand, NCHS has used RANDS to refine
 mixed-method question evaluation techniques that can be integrated into its
 cognitive interviewing program. On the other hand, it has explored calibration
-methods that leverage the strength of NCHS’ established core surveys to produce
-estimates from commercial web panels.  These estimates have not been released;
+methods that leverage the strength of NCHS' established core surveys to produce
+estimates from commercial web panels. These estimates have not been released;
 however, since they are considered experimental. </p>
 
 <p>In response to the Coronavirus pandemic, NCHS expanded the use of the
@@ -1064,12 +1064,12 @@ before and during the pandemic, and problems accessing specific types of health
 care due to the pandemic. The RANDS during COVID-19 survey was fielded in two
 rounds during the summer of 2020 and experimental estimates were publicly
 released for both rounds. This has been a joint effort between the Division of
-Research and Methodology’s (DRM) Collaborating Center for Questionnaire Design
+Research and Methodology's (DRM) Collaborating Center for Questionnaire Design
 and Evaluation Research (CCQDER) and Collaborating Center for Statistical
 Research and Survey Design (CCSRSD) and involved the development of the questionnaire,
 including the development of COVID-19 related questions, as well as the
 calibration of the RANDS data to NCHS' National Health Interview Survey (NHIS)
-in an effort to adjust for some of the potential bias in the panel.  Through
+in an effort to adjust for some of the potential bias in the panel. Through
 the expansion of this existing experimental platform, NCHS was not only able to
 evaluate approaches to asking about Coronavirus- and pandemic-related topics in
 a timely manner, but also rapidly respond to, and provide relevant information
@@ -1084,7 +1084,7 @@ about, COVID-19 in the United States.</p>
 <p>Travel restrictions and warnings had enormous and immediate effects on
 the U.S. transportation system. The Bureau of Transportation Statistics (BTS)
 realized from anecdotal evidence that the speed and magnitude of change placed
-a premium on daily and weekly statistics rather than the Bureau’s traditional
+a premium on daily and weekly statistics rather than the Bureau's traditional
 focus on annual and monthly statistics. The premium on timely statistics also
 demanded rethinking of deliberative data quality processes. Preliminary
 estimates were becoming more important than ever just as the stable trends that
@@ -1111,7 +1111,7 @@ by Rolf Schmitt, the BTS Deputy Director.</p>
 New Ways: Leveraging the Evidence Act to Coordinate Evaluation, Statistics and
 Policy </b></p>
 
-<br >Framing the Evidence Act’s Vision for
+<br >Framing the Evidence Act's Vision for
 Coordination and Collaboration
 
 <p>Erica Zielewski, OMB</p>
@@ -1129,7 +1129,7 @@ agency for research purposes.</p>
 
 
 
-<br >HUD’s Approach to Making Data
+<br >HUD's Approach to Making Data
 Available for Research and Evaluation
 
 <p>Calvin Johnson, HUD</p>
@@ -1155,7 +1155,7 @@ activities/outcomes</p>
 
 
 
-<br >The Department of Labor’s Data
+<br >The Department of Labor's Data
 Exchange and Analysis Platform (DEAP)
 
 <p>Christina Yancey,
@@ -1189,7 +1189,7 @@ fundamental goals: (1) improve Census Bureau operations, (2) provide valuable
 aggregate statistical information to criminal justice agencies, and (3)
 increase the quality and quantity of criminal justice research by making the
 data available through the Federal Statistical Research Data Centers. The
-project highlights the opportunities provided by the Census Bureau’s Data
+project highlights the opportunities provided by the Census Bureau's Data
 Linkage Infrastructure. This paper provides new evidence on how felony
 conviction and imprisonment rates have changed for 30+ birth year cohorts over
 185 distinct commuting zones in the U.S. using a novel piece of data
@@ -1249,7 +1249,7 @@ form of higher birthweights and better economic and health outcomes.</p>
 
 
 <p >The Census Longitudinal Infrastructure
-Project – Linked Census Data and Results from the Impact of Preschool on
+Project - Linked Census Data and Results from the Impact of Preschool on
 	Later-Life Outcomes</p>
 
 <p>Katie Genadek ( U.S. Census Bureau)</p>

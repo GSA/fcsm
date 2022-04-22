@@ -4,29 +4,29 @@ layout: page
 ---
 <p style="width:50%"><a href="../assets/docs/construction.pdf" target="_blank"><strong>FINAL PROGRAM</strong></a>  <small> (440 KB)</small></p>
 <p><strong>Resources and Proceedings</strong></p>
-<p>Unless noted, all of these documents  are in Portable Document Format [PDF]. To view them you will need the Adobe®  Acrobat® Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
-<!--<p><strong><a name="top" id="top"></a>Jump to …</strong><br>
+<p>Unless noted, all of these documents  are in Portable Document Format [PDF]. To view them you will need the Adobe&reg;  Acrobat&reg; Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
+<!--<p><strong><a name="top" id="top"></a>Jump to ...</strong><br>
 Monday <a href="#MondayAM">AM</a> / <a href="#MondayPM"> PM</a><br>
 Tuesday <a href="#TuesdayAM">AM</a> / <a href="#TuesdayPM">PM</a><br>
 <a href="#Wednesday">Wednesday</a></p>-->
 <p style="float:left; padding-right: 30px;" class="larger">KEYNOTE<br>
 SPEAKER</p>
 <p style="float:left; font-size:125%;width:70%;"><a href="../assets/docs/2003FCSM_keynotespeaker.pdf" target="_blank"><strong>There and Back Again:  Demographic Survey Sampling in the 21st Century</strong></a>  <small>(660 KB)</small><br>
-Colm O’Muircheartaigh (NORC, University of Chicago)</p><br>
+Colm O'Muircheartaigh (NORC, University of Chicago)</p><br>
 <hr>
 <p><br class="clear"></p>
 <p class="date"><a name="MondayAM"></a>MONDAY AM</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION II-A<br>
 	DISCLOSURE (SESSION 1)</button></p>
 <p style="width:50%"><a href="../assets/docs/2003FCSM_Manriquez-Boudreau.pdf" target="_blank"> Research into the Possibility of Releasing Hierarchical Public Use Microdata Files for the Canadian Census of Population</a>  <small> (283 KB)</small></p>
-<p class="indent">Jean-René Boudreau and Rossana Manriquez (Statistics Canada)</p>
+<p class="indent">Jean-Ren&eacute; Boudreau and Rossana Manriquez (Statistics Canada)</p>
 <p style="width:50%"><a href="../assets/docs/2003FCSM_Khare.pdf" target="_blank">Procedures to Reduce the Risk of Respondent Disclosure in a Public-Use Data File: The National Immunization Survey</a>  <small> (221 KB)</small></p>
 <p class="indent">Meena Khare (National Center for Health Statistics, USA)<br>
 Michael Battaglia and David Hoaglin (Abt Associates Inc., USA)</p>
 <p style="width:50%"><a href="../assets/docs/2003FCSM_ManningElliot.pdf" target="_blank">Applying Disclosure Control to Temporal Data</a>  <small> (497 KB)</small></p>
 <p class="indent">Anna Manning and Mark Elliot (University of Manchester, United Kingdom)</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION II-B<br>
-MODELING 1 – SIMULATION</button></p>
+MODELING 1 - SIMULATION</button></p>
 <p style="width:50%"><a href="../assets/docs/construction.pdf" target="_blank">Bayesian Analysis of Nonignorable Missing Categorical Data: An Application to Bone Mineral Density and Family Income</a><br>  <small> (440 KB)</small></p>
 <p class="indent">Balgobin Nandram (Worcester Polytechnic Institute, USA)<br>
 Jai Won Choi and Lawrence Cox (National Center for Health Statistics, USA)</p>
@@ -48,7 +48,7 @@ Frederick Conrad (University of Michigan, USA)</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION III-A<br>
 DISCLOSURE (SESSION 2)</button></p>
 <p style="width:50%"><a href="../assets/docs/2003FCSM_Provencal.pdf" target="_blank">Waivers in Business Surveys: A Systematic Approach to Increase the Amount of Publishable Information</a>  <small> (283 KB)</small></p>
-<p class="indent">Jean-Sébastien Provençal and Hélène Bérard (Statistics Canada)</p>
+<p class="indent">Jean-S&eacute;bastien Proven&ccedil;al and H&eacute;l&egrave;ne B&eacute;rard (Statistics Canada)</p>
 <p style="width:50%"><a href="../assets/docs/2003FCSM_Reiter.pdf" target="_blank">Using CART to Generate Partially Synthetic, Public Use Microdata</a>  <small> (363 KB)</small></p>
 <p class="indent">Jerome Reiter (Duke University, USA)</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION III-B<br>
@@ -82,7 +82,7 @@ METHODS OF RECORD LINKAGE</button></p>
 <p style="width:50%"><a href="../assets/docs/2003FCSM_daniel.pdf" target="_blank">Removing Duplication from the 2002 Census of Agriculture</a>  <small> (120 KB)</small></p>
 <p class="indent">Kara Daniel and Tom Pordugal (National Agricultural Statistics Service, USA)</p>
 			<p class="larger"> <button type="button" class="collapsible">SESSION IV-B<br>
-MODELING 2 – REGRESSION APPLICATIONS</button></p>
+MODELING 2 - REGRESSION APPLICATIONS</button></p>
 <p style="width:50%"><a href="../assets/docs/2003FCSM_SlikerFinal.pdf" target="_blank">Steps Toward Modeling the Distribution of Automobile Retirements</a>  <small> (508 KB)</small></p>
 <p class="indent">Brian Sliker (U.S. Bureau of Economic Analysis)</p>
 <p style="width:50%"><a href="../assets/docs/2003FCSM_MooreJames.pdf" target="_blank">Measuring Defined Benefit Plan Replacement Rates Using PenSync</a>  <small> (341 KB)</small></p>
@@ -96,7 +96,7 @@ MODELING 2 – REGRESSION APPLICATIONS</button></p>
 </p>
 <p style="width:50%"><a href="../assets/docs/2003FCSM_Brog_Erl_Schulze.pdf" target="_blank">DATELINE: Design and Application of a Travel Survey for Long-Distance Trips Based on an International Network of Expertise</a><br>  <small> (317 KB)</small></p>
 <p class="indent">Werner Broeg, Erhard Erl, and Brian Schulze (Socialdata, Germany)</p>
-<p style="width:50%"><a href="../assets/docs/2003FCSM_Pont.pdf" target="_blank">Re-designing the UK’s Annual Structural Earnings Survey</a>  <small> (200 KB)</small></p>
+<p style="width:50%"><a href="../assets/docs/2003FCSM_Pont.pdf" target="_blank">Re-designing the UK's Annual Structural Earnings Survey</a>  <small> (200 KB)</small></p>
 <p class="indent">Mark Pont (Office for National Statistics, United Kingdom)</p>
 <p style="width:50%"><a href="../assets/docs/2003FCSM_Saavedra_Weir.pdf" target="_blank">The Use of Permanent Random Numbers in a Multi-Product Petroleum Sales Survey: Twenty Years of a Developing Design</a><br>  <small> (149 KB)</small> </p>
 <p class="indent">Pedro Saavedra (ORC Macro, USA)<br>
@@ -142,7 +142,7 @@ ADMINISTRATIVE RECORDS I</button></p>
 <p class="indent">Olivia Blum (Central Bureau of Statistics, Israel)</p>
 <p style="width:50%"><a href="../assets/docs/2003FCSM_Calzaroni_Rizzi.pdf" target="_blank">Statistical Use of Administrative Records: A Real Time Evaluation of Labour Demand Businesses</a>  <small> (190 KB)</small></p>
 <p class="indent">Manlio Calzaroni and Roberta Rizzi (Institute of National Statistics(ISTAT), Italy)</p>
-<p style="width:50%"><a href="../assets/docs/2003FCSM_Chen_Cascagnette.pdf" target="_blank">Use of Tax Data for Replacing Business Survey Data – The Data Quality Issue</a>  <small> (239 KB)</small></p>
+<p style="width:50%"><a href="../assets/docs/2003FCSM_Chen_Cascagnette.pdf" target="_blank">Use of Tax Data for Replacing Business Survey Data - The Data Quality Issue</a>  <small> (239 KB)</small></p>
 <p class="indent">Sanping Chen, Paul Cascagnette, and Sean Crowe (Statistics Canada)</p>
 <p style="width:50%"><a href="../assets/docs/2003FCSM_Koenig.pdf" target="_blank">An Assessment of the Current Population Survey and the Survey of Income and Program Participation Using Social Security Administrative Data</a>  <small> (332 KB)</small></p>
 <p class="indent">Melissa Koenig (Social Security Administration, USA)</p>
@@ -203,7 +203,7 @@ ECONOMIC INDICATORS</button></p>
 <p class="date"><a name="Wednesday"></a>WEDNESDAY ALL SESSIONS</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION VIII-A<br>
 EVALUATION OF THE DATA QUALITY IMPACT OF SURVEY AND DISSEMINATION PROCESSES</button></p>
-<p style="width:50%"><a href="../assets/docs/2003FCSM_Smith_jordan.pdf" target="_blank">Evaluation of U.S. EPA’s Screener Questionnaire for the Aquatic Animal  Production Industry and Comparison to USDA Data</a>  <small> (155 KB)</small></p>
+<p style="width:50%"><a href="../assets/docs/2003FCSM_Smith_jordan.pdf" target="_blank">Evaluation of U.S. EPA's Screener Questionnaire for the Aquatic Animal  Production Industry and Comparison to USDA Data</a>  <small> (155 KB)</small></p>
 <p class="indent">Marla Smith and Marta Jordan (U.S. Environmental Protection Agency)</p>
 <p style="width:50%"><a href="../assets/docs/2003FCSM_Rosen.pdf" target="_blank">Data Capture Using Fax and Intelligent Character and Optical Character  Recognition (ICR/OCR) in the Current Employment Statistics Survey (CES)</a>  <small> (273 KB)</small></p>
 <p class="indent">Richard Rosen, Vinod Kapani, and Patrick Clancy (Bureau of Labor Statistics, USA)</p>
@@ -226,12 +226,12 @@ IMPUTATION</button>
 METADATA AND DATA MINING</button></p>
 <p style="width:50%"><a href="../assets/docs/construction.pdf" target="_blank">Identification of Driver and Vehicle Characteristics through Data Mining the Highway Crash Data</a>  <small> (440 KB)</small></p>
 <p class="indent">Santokh Singh (National Highway Traffic Safety Administration, USA)</p>
-<p style="width:50%"><a href="../assets/docs/2003FCSM_SchaferRogers.pdf" target="_blank">Designing Data Collection, Processing and Dissemination Instruments with Reusable Metadata for the U.S. Census Bureau’s 2002 Economic Census Initiative,    Using XML and Web Services</a>  <small> (397 KB)</small></p>
+<p style="width:50%"><a href="../assets/docs/2003FCSM_SchaferRogers.pdf" target="_blank">Designing Data Collection, Processing and Dissemination Instruments with Reusable Metadata for the U.S. Census Bureau's 2002 Economic Census Initiative,    Using XML and Web Services</a>  <small> (397 KB)</small></p>
 <p class="indent">Steven Schafer and Roy Rogers, IV  (Fenestra Technologies Corporation, USA)</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION IX-A<br>
 NONRESPONSE AND SURVEY QUALITY</button></p>
 <p style="width:50%"><a href="../assets/docs/2003FCSM_BeaumontHazizaRancourt.pdf" target="_blank">New Tools at Statistics Canada to Measure and Evaluate the Impact of Nonresponse and Imputation</a>  <small> (251 KB)</small></p>
-<p class="indent">Jean-François Beaumont, David Haziza, Charles Mitchell,<br>
+<p class="indent">Jean-Fran&ccedil;ois Beaumont, David Haziza, Charles Mitchell,<br>
   and Eric Rancourt (Statistics Canada)</p>
 <p style="width:50%"><a href="../assets/docs/2003FCSM_Copeland.pdf" target="_blank">Nonresponse Adjustment in the Current Employment Statistics Survey</a>  <small> (255 KB)</small></p>
 <p class="indent">Kennon Copeland (Bureau of Labor Statistics, USA)</p>
