@@ -84,9 +84,9 @@ primary_navigation:
       - name: About FCSM
         url: /about/
       - name: Charter
-        url: /about/charter/
-      - name: Members List
-        -url: /about/members/
+        url: /about/charter.html
+#      - name: Members List
+#       url: /about/members/
   - name: Resources
     url: /resources/
   - name: Events and Proceedings
@@ -95,10 +95,8 @@ primary_navigation:
     url: /groups/
 
 secondary_navigation:
-  - name: Secondary link
-    url: "#main-content"
-  - name: Another secondary link
-    url: "#main-content"
+  - name: Contact Us
+    url: /contact-us/
     
 about_navigation:
   - name: About FCSM
@@ -211,3 +209,6 @@ assets:
   sources:
     - node_modules/uswds/dist
     - node_modules/netlify-cms/dist
+    - _assets/img
+    - _assets/js
+    - _assets/css
