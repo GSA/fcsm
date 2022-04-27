@@ -106,6 +106,34 @@ about_navigation:
 #  - name: Members
 #    url: /about/members.html
 
+group_navigation:
+  - name: Groups Overview
+    url: /groups/
+  - name: Interest Groups
+    collapsible: true
+    children:
+      - name: Adaptive Survey Design Interest Group
+        url: /groups/adig.html
+      - name: Confidentiality and Data Access Committee (CDAC)
+        url: /groups/cdac.html
+      - name: Computational Statistics and the Production of Official Statistics (CSPOS) Interest Group
+        url: /groups/cspos.html
+      - name: Geospatial Interest Group (GIG)
+        url: /groups/gig.html
+      - name: Measuring Sexual Orientation and Gender Identity (SOGI) Research Interest Group
+        url: /groups/sogi.html
+  - name: Subcommittees
+    collapsible: true
+    children:
+      - name: Federal Statistical System Research Subcommittee
+        url: /groups/fssr-subcommittee.html
+      - name: Integrated Data Quality Subcommittee
+        url: /groups/data-quality.html
+      - name: Subcommittee on Updating Statistical Methods for Safeguarding Protected Data
+        url: /groups/data-safeguards.html
+      - name: Nonresponse Bias Working Group
+        url: /groups/nonresponse-bias.html
+
 # Search.gov configuration
 #
 # 1. Create an account with Search.gov https://search.usa.gov/signup
