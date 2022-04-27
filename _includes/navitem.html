@@ -1,0 +1,17 @@
+{% assign basedir = page.url | remove_first: '/' | split: '/' | first | lstrip %}
+{% assign linkdir = include.nav_item.url |  replace: "/", ""  | lstrip %}
+{% assign collapsible = include.nav_item.children.size > 0 and include.nav_item.collapsible %}
+{% assign id = include.nav_item.name | replace: " ", "-" | downcase %}
+<li class="usa-nav__sidenav-item{% if collapsible %} usa-accordion{% endif %}">
+    <a class="usa-nav__link{% if basedir == linkdir %} usa-current{% endif %}{% if collapisble %} usa-accordion__button{% endif %}"
+        {% if include.nav_item.url %}href="{{ include.nav_item.url | prepend: site.baseurl}}"{% endif %}
+        {% if collapsible %} aria-expanded="false" aria-controls="{{ id }}"{% endif %}><span>{{ include.nav_item.name | escape }}</span></a>
+    {% if include.nav_item.children.size > 0 %}
+      <ul id="{{ id }}" class="usa-sidenav">
+        {% for child in include.nav_item.children %}
+          {% include navitem.html nav_item = child %}
+        {% endfor %]
+      </ul>
+    {% endif %}
+    {% endif %} <!-- I have no idea why this is necessary -->
+</li>

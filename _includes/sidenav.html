@@ -1,24 +1,19 @@
-{% comment %} 
-The sidenav is not loaded by default on the main pages. To include this navigation you can either use the
-_layouts/page.html layout template, or you can add "sidenav: true" in the front-matter of your pages
-{% endcomment %}
 
 {% if include.menu %}
-{% if include.menu == "about_navigation" %}
-  {% assign nav = site.about_navigation %}
-{% endif %}
+  {% case include.menu %}
+    {% when "about_navigation" %}
+      {% assign nav = site.about_navigation %}
+    {% when "group_navigation" %}
+      {% assign nav = site.group_navigation %}
+  {% endcase %}
 <aside class="usa-layout-docs-sidenav desktop:grid-col-3 padding-bottom-4">
   <nav>
     <ul class="usa-sidenav">
     {% for nav_item in nav %}
-      {% assign basedir = page.url | remove_first: '/' | split: '/' | first | lstrip %}
-      {% assign linkdir = nav_item.url |  replace: "/", ""  | lstrip %}
-      <li class="usa-nav__sidenav-item">
-          <a class="usa-nav__link{% if basedir == linkdir %} usa-current{% endif %}"
-              href="{{ nav_item.url | prepend: site.baseurl}}"><span>{{ nav_item.name | escape }}</span></a>
-      </li>
+      {% include navitem.html nav_item = nav_item %}
     {% endfor %}
     </ul>
   </nav>
 </aside>
+
 {% endif %}
