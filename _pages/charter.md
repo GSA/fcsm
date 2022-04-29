@@ -46,7 +46,7 @@ sidenav: about_navigation
   <li>coordinate the activities of the federal statistical system to ensure - </li>
   <ol type="a">
     <li> the efficiency and effectiveness of the system; and </li>
-    <li> the integrity, objectivity, impartiality, utility, and confidentiality of information collected for statistical purposes; .../li>
+    <li> the integrity, objectivity, impartiality, utility, and confidentiality of information collected for statistical purposes; ...</li>
   </ol>
   <li> develop and oversee the implementation of Government-wide policies, principles, standards, and guidelines concerning --</li> 
   <ol type="a">
@@ -58,30 +58,11 @@ sidenav: about_navigation
   </ol>
 </ol>
 
-<!--<p><b>VII. Amendment and Revision History</b></p>
-<table>
-<div class="grid-row">
-<td>Date Approved</div>
-<td>Description of Amendment or Revision</div>
-</div>
-
-<div class="grid-row">
-    <td>February 2003</div>
-    <td>Initial release.</div>  
-</div>
-
-<div class="grid-row">
-    <td>January 10, 2018</div>
-    <td>Charter language modified to more accurately reflect the roles and responsibilities of the FCSM.</div>  
-</div>
-
-</table>-->
-
 <p><b>VII. Signatures of ICSP Members</b></p>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="grid-col-6">ICSP Agency Name</div>
-    <div class="grid-col-6">ICSP Agency Head Name</div>
+    <div class="grid-col-6" class="text-bold">ICSP Agency Name</div>
+    <div class="grid-col-6" class="text-bold">ICSP Agency Head Name</div>
   </div>
   <div class="grid-row">
     <div class="grid-col-6">Office of Management and Budget</div>
@@ -130,15 +111,14 @@ sidenav: about_navigation
   <div class="grid-row">
     <div class="grid-col-6">National Center for Science and Engineering Statistics,<br> National Science Foundation</div>
     <div class="grid-col-6">John Gawalt</div>
-    <td></div>
   </div>
   <div class="grid-row">
     <div class="grid-col-6">Office of Research, Evaluation, and Statistics, Social Security Administration</div>
-    <div class="grid-col-6" style="text-align: center;">John Phillips</div>
+    <div class="grid-col-6">John Phillips</div>
   </div>
   <div class="grid-row">
     <div class="grid-col-6">Statistics of Income Division, Internal Revenue Service</div>
-    <div class="grid-col-6" style="text-align: center;">Barry Johnson</div>
+    <div class="grid-col-6">Barry Johnson</div>
   </div>
   <div class="grid-row">
     <div class="grid-col-6">Statistics and Analytics Service, Office of Enterprise Integration, Department of Veterans Affairs</div>

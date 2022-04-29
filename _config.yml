@@ -79,14 +79,8 @@ ga:
 primary_navigation:
   - name: Home
     url: /
-  - name: AboutFCSM
-    children:
-      - name: About FCSM
-        url: /about/
-      - name: Charter
-        url: /about/charter.html
-#      - name: Members List
-#       url: /about/members/
+  - name: About FCSM
+    url: /about/
   - name: Resources
     url: /resources/
   - name: Events and Proceedings
@@ -227,6 +221,7 @@ exclude:
   - Dockerfile
 
 assets:
+  digest: false
   autoprefixer:
     browsers:
       - "> 2%"
@@ -236,7 +231,16 @@ assets:
   compression: true
   sources:
     - node_modules/uswds/dist
+    - node_modules/uswds/dist/img
+    - node_modules/uswds/dist/js
+    - node_modules/uswds/dist/scss
     - node_modules/netlify-cms/dist
     - _assets/img
     - _assets/js
     - _assets/css
+  defaults:
+    js:  { integrity: false }
+    css: { integrity: false }
+    img: { integrity: false }
+  features:
+    integrity: false

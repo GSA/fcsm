@@ -6,7 +6,7 @@
     {% when "group_navigation" %}
       {% assign nav = site.group_navigation %}
   {% endcase %}
-<aside class="usa-layout-docs-sidenav desktop:grid-col-3 padding-bottom-4">
+<aside id="sidenav" class="usa-layout-docs-sidenav desktop:grid-col-3 padding-bottom-4">
   <nav>
     <ul class="usa-sidenav">
     {% for nav_item in nav %}
@@ -15,5 +15,4 @@
     </ul>
   </nav>
 </aside>
-
 {% endif %}
