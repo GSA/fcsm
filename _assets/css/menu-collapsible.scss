@@ -13,7 +13,7 @@
     [aria-controls] {
       background-image: url(@remove.svg),linear-gradient(transparent,transparent);
     }
-    &__content {
+    .usa-menu-collapsible__content {
       display: initial;
     }
   }

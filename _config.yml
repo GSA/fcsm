@@ -96,9 +96,9 @@ about_navigation:
   - name: About FCSM
     url: /about/
   - name: Charter
-    url: /about/charter.html
+    url: /charter/
 #  - name: Members
-#    url: /about/members.html
+#    url: /members/
 
 group_navigation:
   - name: Groups Overview
@@ -107,26 +107,26 @@ group_navigation:
     collapsible: true
     children:
       - name: Adaptive Survey Design Interest Group
-        url: /groups/adig.html
+        url: /groups/adig/
       - name: Confidentiality and Data Access Committee (CDAC)
-        url: /groups/cdac.html
+        url: /groups/cdac/
       - name: Computational Statistics and the Production of Official Statistics (CSPOS) Interest Group
-        url: /groups/cspos.html
+        url: /groups/cspos/
       - name: Geospatial Interest Group (GIG)
-        url: /groups/gig.html
+        url: /groups/gig/
       - name: Measuring Sexual Orientation and Gender Identity (SOGI) Research Interest Group
-        url: /groups/sogi.html
+        url: /groups/sogi/
   - name: Subcommittees
     collapsible: true
     children:
       - name: Federal Statistical System Research Subcommittee
-        url: /groups/fssr-subcommittee.html
+        url: /groups/fssr-subcommittee/
       - name: Integrated Data Quality Subcommittee
-        url: /groups/data-quality.html
+        url: /groups/data-quality/
       - name: Subcommittee on Updating Statistical Methods for Safeguarding Protected Data
-        url: /groups/data-safeguards.html
+        url: /groups/data-safeguards/
       - name: Nonresponse Bias Working Group
-        url: /groups/nonresponse-bias.html
+        url: /groups/nonresponse-bias/
 
 # Search.gov configuration
 #
