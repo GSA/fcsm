@@ -1,6 +1,7 @@
 ---
 title: Federal Statistical System Research Subcommittee
 layout: page
+sidenav: group_navigation
 ---
 <p>This subcommittee furthers interagency multi-disciplinary research and development activities that support the principles and practices of the Federal Statistical System through the following activities:</p>
 <ul>

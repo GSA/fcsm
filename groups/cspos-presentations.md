@@ -2,6 +2,7 @@
 title: Computational Statistics and the Production of Official Statistics (CSPOS)
 subtitle: Presentations
 layout: page
+sidenav: group_navigation
 ---
 <p>The CSPOS interest group holds seminars throughout the year. Recorded seminars (if available) and slides will be posted to this web page. <a href="">Contact</a> the CSPOS Chairs if you want to add content to the page.</p>
    

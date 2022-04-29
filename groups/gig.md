@@ -1,12 +1,13 @@
 ---
 title: Geospatial Interest Group (GIG)
 layout: page
+sidenav: group_navigation
 ---
 <p>The purpose of the Geospatial Interest Group (GIG) is to share information on geospatial methodologies across federal agencies, to identify areas of common research, to coordinate collaborative research projects in those areas, and to disseminate methodological information related to geospatial data. </p>
  
-<p><a href="gig-events.html"><strong>Events</strong></a></p>
-<p><a href="gig-presentations.html"><strong>Presentations</strong></a></p>
-<p><a href="gig-resources.html"><strong>Resources</strong></a></p>
+<p><a href="../gig-events/"><strong>Events</strong></a></p>
+<p><a href="../gig-presentations/"><strong>Presentations</strong></a></p>
+<p><a href="../gig-resources/"><strong>Resources</strong></a></p>
 
 <ul>
   <li>Contact: Wendy Martinez, <a href="mailto:">martinez.wendy@bls.gov</a>, Claire Boryan (NASS), <a href="mailto:">claire.boryan@usda.gov</a></li>

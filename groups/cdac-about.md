@@ -1,12 +1,13 @@
 ---
 title: About CDAC
 layout: page
+sidenav: group_navigation
 ---
 <p><strong>Background:</strong></p>
 <p>CDAC was the first interest group of OMB's Federal Committee on Statistical Methodology (FCSM). The Confidentiality and Data Access Committee (CDAC) was formed for two main reasons:</p>
 <ol>
 <li>Staff members of Federal statistical agencies who work in the "confidentiality area" expressed a need to have a forum where they could communicate among themselves, discuss disclosure limitation methods, and exchange ideas.</li>
-<li>CDAC is a follow-on activity for the FCSM's Statistical Policy Working Paper # 22 (SPWP # 22), <a href="../assets/docs/SPWP22_rev.pdf" target="_blank"><em>Report on Statistical Disclosure Limitation Methodology</em></a>.  <small> (10.5 MB)</small></li><!-----------SPWP22_rev.pdf-->
+<li>CDAC is a follow-on activity for the FCSM's Statistical Policy Working Paper # 22 (SPWP # 22), <a href="../../assets/docs/SPWP22_rev.pdf" target="_blank"><em>Report on Statistical Disclosure Limitation Methodology</em></a>.  <small> (10.5 MB)</small></li><!-----------SPWP22_rev.pdf-->
 </ol>
 <p><strong>Membership:</strong></p>
 <ul>

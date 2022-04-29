@@ -1,6 +1,7 @@
 ---
 title: "CDAC: Resources for Confidentiality and Data Access Information"
 layout: page
+sidenav: group_navigation
 ---
 <p><strong>CDAC Methodology and Other Reports</strong></p>
 <p>The following are reports selected by CDAC for inclusion on this site. The site is not meant to cover all methodology reports on the topics of confidentiality, privacy, statistical disclosure limitation, and related topics.</p>
