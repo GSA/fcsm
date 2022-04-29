@@ -46,6 +46,8 @@ i.e.
 ----------------------------------------
 */
 
+@import "menu-collapsible.scss";
+
 // default mode hide banner
 .usa-banner__content {
   display: hidden;
@@ -76,4 +78,23 @@ i.e.
   .paginate-button {
     display: block;
   }
+}
+
+@media screen and (max-width: 479px) {
+  .usa-logo__text {
+    height: 3em;
+    img {
+      max-height: 100%;
+    }
+  } 
+}
+
+@media screen and (min-width: 480px) {
+  .usa-logo__text img {
+    height: 90px;
+  }
+}
+
+.usa-sidenav .usa-current::after {
+  background-color: rgba(153, 28, 31, 1) !important;
 }
