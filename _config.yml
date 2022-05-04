@@ -82,7 +82,7 @@ primary_navigation:
   - name: About FCSM
     url: /about/
   - name: Resources
-    url: /resources/
+    url: /resources/index
   - name: Events and Proceedings
     url: /events/
   - name: Groups
