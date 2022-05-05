@@ -1,7 +1,7 @@
 ---
 title: Statistical Policy Working Papers
-layout: resources-page
-sidenav-resources: true
+layout: page
+sidenav: resource_navigation
 ---
 
 <h2 class="page-sub-title">Statistical Policy Working Papers</h2>

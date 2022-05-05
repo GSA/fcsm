@@ -1,7 +1,7 @@
 ---
 title: Subcommittee on Updating Statistical Methods for Safeguarding Protected Data
-layout: resources-page
-sidenav-resources: true
+layout: page
+sidenav: resource_navigation
 ---
 
 <h2 class="page-sub-title">Subcommittee on Updating Statistical Methods for Safeguarding Protected Data</h2>

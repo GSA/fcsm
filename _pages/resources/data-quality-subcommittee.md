@@ -1,7 +1,7 @@
 ---
 title: Integrated Data Quality Subcommittee
-layout: resources-page
-sidenav-resources: true
+layout: page
+sidenav: resource_navigation
 ---
 
 <h2 class="page-sub-title">Integrated Data Quality Subcommittee</h2>

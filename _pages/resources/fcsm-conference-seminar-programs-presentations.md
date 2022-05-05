@@ -1,7 +1,7 @@
 ---
 title: FCSM Conference and Seminar Programs and Presentations 
-layout: resources-page
-sidenav-resources: true
+layout: page
+sidenav: resource_navigation
 ---
 
 <h2 class="page-sub-title">FCSM Conference and Seminar Programs and Presentations </h2>

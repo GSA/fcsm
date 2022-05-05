@@ -1,7 +1,7 @@
 ---
 title: Research Conference Resources and Proceedings
-layout: resources-page
-sidenav-resources: true
+layout: page
+sidenav: resource_navigation
 ---
 
 <h2 class="page-sub-title">Research Conference Resources and Proceedings</h2>

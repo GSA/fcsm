@@ -1,7 +1,8 @@
 ---
+
 title: Nonresponse Bias Subcommittee
-layout: resources-page
-sidenav-resources: true
+layout: page
+sidenav: resource_navigation
 ---
 
 <h2 class="page-sub-title">Nonresponse Bias Subcommittee</h2>

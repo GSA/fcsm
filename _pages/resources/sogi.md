@@ -1,7 +1,7 @@
 ---
 title: Measuring Sexual Orientation and Gender Identity Research Group
-layout: resources-page
-sidenav-resources: true
+layout: page
+sidenav: resource_navigation
 ---
 
 <h2 class="page-sub-title">Measuring Sexual Orientation and Gender Identity Research Group</h2>
