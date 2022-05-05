@@ -3,11 +3,10 @@
   min-height: 200px;
   padding-top: 0;
   margin-top: 0;
-  display: flex;
-  align-items: center;
 
   .fcsm-page-title {
     color: #fff;
+    padding: 70px 0;
   }
 }
 
@@ -38,10 +37,6 @@ a:hover {
 
 .usa-section {
   padding-top: 3rem;
-}
-
-.grid-container {
-  max-width: 70rem;
 }
 
 .active {
