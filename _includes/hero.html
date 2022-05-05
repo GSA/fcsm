@@ -2,13 +2,51 @@
 This will be displayed on the homepage. Ideally, you want to highlight key goals of the website
 {% endcomment %}
 
-<section class="usa-hero">
-  <div class="grid-container">
-    <div class="usa-hero__callout">
-      <h1 class="usa-hero__heading"><span class="usa-hero__heading--alt">Hero callout:</span>Bring attention to a project priority
-      </h1>
-      <p>Support the callout with some short explanatory text. You don’t need more than a couple of sentences.</p>
-      <a class="usa-button" href="javascript:void(0)">Call to action</a>
-    </div>
+<section class="carousel-container">
+  <div class="carousel" id="carousel-1" auto-scroll="8000">
+      <section class="carousel-screen usa-graphic-list padding-y-4 carousel-item1">
+          <div class="grid-container">
+              <div class="grid-gap-banner">
+                      <div class="carousel-item__content padding-x-4 padding-y-6 tablet:margin-top-4 tablet:margin-x-0 margin-x-2">
+                          <p class="text-gray-70 font-sans-md tablet:font-sans-lg margin-top-0">The Federal Committee on Statistical Methodology (FCSM) is an interagency committee <b>dedicated to improving the quality of Federal statistics.</b></p>
+                          <a class="usa-button usa-button--hover carousel-button" href="https://www.cdo.gov/about-us/">View our Mission and Charter</a>
+                      </div>
+              </div>
+          </div>
+      </section>
+
+      <section class="carousel-screen usa-graphic-list padding-y-4 carousel-item2">
+          <div class="grid-container">
+              <div class="grid-gap-banner">
+                  <div class="carousel-item__content padding-x-4 padding-y-6 tablet:margin-top-4 tablet:margin-x-0 margin-x-2">
+                      <p class="text-gray-70 font-sans-md tablet:font-sans-lg margin-top-0">The FCSM sponsors an <b>annual conference and occasionally hosts</b> seminars or workshops.</p>
+                      <a class="usa-button usa-button--hover carousel-button" aria-label="Read more about 1 year anniversary of elected officers" href="{{ site.baseurl }}/public-meeting/">View our Events</a>
+                  </div>
+              </div>
+          </div>
+      </section>
+      
+      <section class="carousel-screen usa-graphic-list padding-y-4 carousel-item3">
+          <div class="grid-container">
+              <div class="grid-gap-banner">
+                  <div class="carousel-item__content padding-x-4 padding-y-6 tablet:margin-top-4 tablet:margin-x-0 margin-x-2">
+                      <p class="text-gray-70 font-sans-md tablet:font-sans-lg margin-top-0">The FCSM Research and Policy Conference provides a forum for <b>experts and practitioners to discuss current methodological knowledge and policy insights</b> on topics of importance to federal agencies.</p>
+                      <a class="usa-button usa-button--hover carousel-button" aria-label="Read more about 1 year anniversary of elected officers" href="https://www.cdo.gov/news/1-year-anniversary-of-elected-officers/">Find out More</a>
+                  </div>
+              </div>
+          </div>
+      </section>
+
+      <section class="circle-container">
+          <div class="circle" aria-label="slide 1" tabindex=0></div>
+          <div class="circle" aria-label="slide 2" tabindex=0></div>
+          <div class="circle" aria-label="slide 3" tabindex=0></div>
+      </section>
+      <div class="left-arrow">
+          <span class="chevron left" aria-label="Previous slide" tabindex=0></span>
+      </div>
+      <div class="right-arrow">
+          <span class="chevron right" aria-label="Next slide"  tabindex=0></span>
+      </div>
   </div>
 </section>
