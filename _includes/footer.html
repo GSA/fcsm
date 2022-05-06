@@ -1,33 +1,97 @@
-<footer class="usa-footer site-footer" role="contentinfo">
-  <div class="grid-container margin-top-2 margin-bottom-2">
-      <a href="#" class="usa-button usa-button--outline border-0">Return to top</a>
+<footer class="usa-footer">
+  <div class="grid-container usa-footer__return-to-top">
+    <a href="#">Return to top</a>
   </div>
-  <div class="footer-section-bottom bg-base-lighter">
+  <div class="usa-footer__primary-section">
+    <nav class="usa-footer__nav" aria-label="Footer navigation">
+      <ul class="grid-row grid-gap">
+        <li class="
+            mobile-lg:grid-col-4
+            desktop:grid-col-auto
+            usa-footer__primary-content
+          ">
+          <a class="usa-footer__primary-link" href="javascript:void(0);">Accessibility</a>
+        </li>
+        <li class="
+            mobile-lg:grid-col-4
+            desktop:grid-col-auto
+            usa-footer__primary-content
+          ">
+          <a class="usa-footer__primary-link" href="javascript:void(0);">FOIA</a>
+        </li>
+        <li class="
+            mobile-lg:grid-col-4
+            desktop:grid-col-auto
+            usa-footer__primary-content
+          ">
+          <a class="usa-footer__primary-link" href="javascript:void(0);">Privacy Statement</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+  <div class="usa-footer__secondary-section padding-bottom-8">
+    <!-- start section -->
     <div class="grid-container">
-      <div class="grid-row padding-3">
-        <div class="tablet:grid-col">
-          <div class="logo-links">
-            <a class="footer-logo media_link" href="https://18f.gsa.gov">
-              {% asset img/logo-img.png width="50" alt="Agency logo" %}
-            </a>
+      <section class="grid-row grid-gap-sm">
+        <div class="grid-col-12 tablet-lg:grid-col-4">
+        <h4>Related Federal Websites</h4>
+          <ul class="usa-list--unstyled padding-right-4">
+            <li class="usa-footer__secondary-link"><a href="https://www.whitehouse.gov/omb/information-regulatory-affairs/">Office of Management and Budget, Office of Information and Regulatory Affairs (OMB OIRA)</a></li>
+
+            <li class="usa-footer__secondary-link"><a href="https://nces.ed.gov/FCSM/index.asp">Interagency Council on Statistical Policy (ICSP)</a></li>
+            
+            <li class="usa-footer__secondary-link"><a href="https://beta.nsf.gov/funding/opportunities/methodology-measurement-and-statistics-mms">National Science Foundation’s NSF Methodology, Measurement and Statistics (NSF MMS)</a></li>
+            
+            <li class="usa-footer__secondary-link"><a href="https://strategy.data.gov/">Federal Data Strategy</a></li>
+          </ul>
+        </div>
+        <div class="grid-col-12 tablet-lg:grid-col-4">
+          <h4>Related Non-Federal Websites</h4>
+            <ul class="usa-list--unstyled padding-right-4">
+              <li class="usa-footer__secondary-link"><a href="https://copafs.org/">Council of Professional Associations on Federal Statistics (COPAFS)</a></li>
+  
+              <li class="usa-footer__secondary-link"><a href="https://www.nationalacademies.org/cnstat/committee-on-national-statistics">Committee on National Statistics (CNSTAT)</a></li>
+              
+              <li class="usa-footer__secondary-link"><a href="https://nap.nationalacademies.org/read/24810/chapter/1">Principles and Practices for a Federal Statistical Agency</a></li>
+              
+              <li class="usa-footer__secondary-link"><a href="https://jpsm.umd.edu/">Joint Program in Survey Methodology (JPSM)</a></li>
+
+              <li class="usa-footer__secondary-link"><a href="https://www.amstat.org/">American Statistical Association (ASA)</a></li>
+
+              <li class="usa-footer__secondary-link"><a href="https://www.aapor.org/">American Association for Public Opinion Research (AAPOR)</a></li>
+
+              <li class="usa-footer__secondary-link"><a href="https://www.populationassociation.org/home">Population Association of America (PAA)</a></li>
+
+              <li class="usa-footer__secondary-link"><a href="https://iussp.org/">International Union for the Scientific Study of Population</a></li>
+            </ul>
+          </div>
+        <div class="grid-col-12 tablet-lg:grid-col-4">
+          <div class="grid-row flex-align-center margin-y-4">
+            <div class="grid-col-auto">
+              <img class="usa-footer__logo-img margin-right-1 width-8" alt="Logo: General Service Administration" src="{{ '/assets/img/gsa-logo.png' | relative_url }}" > 
+            </div>
+            <div class="grid-col-fill">
+              <a href="https://www.gsa.gov/"><span>General Services Administration</span></a>
+            </div>
+          </div>
+          <div class="grid-row flex-align-center margin-y-4">
+            <div class="grid-col-auto">
+              <img class="usa-footer__logo-img margin-right-1 width-8" alt="Logo: White House Office of Management and Budget" src="{{ '/assets/img/exec-office-logo.png' | relative_url }}"> 
+            </div>
+            <div class="grid-col-fill">
+              <a href="https://www.whitehouse.gov/omb/"><span>Office of Management and Budget</span></a>
+            </div>
+          </div>
+          <div class="display-flex flex-column margin-y-4">
+            <div class="flex-align-self-end tablet-lg:text-right">
+              <h4 class="font-sans-lg margin-bottom-2">Contact Us:</h4>
+              <p class="margin-y-1"><a href="mailto:example@example.gov">example@example.com</a></p>
+              <p class="margin-y-0 text-bold"><em>Last updated on</em></p>
+            </div>
           </div>
         </div>
-        <div class="tablet:grid-col"></div>
-        <div class="tablet:grid-col">
-          <ul class="add-list-reset">
-            <li>Footer link</li>
-            <li>Footer link</li>
-            <li>Footer link</li>
-          </ul>
-        </div>
-        <div class="tablet:grid-col">
-          <ul class="add-list-reset">
-            <li>Footer link</li>
-            <li>Footer link</li>
-            <li>Footer link</li>
-          </ul>
-        </div>
-      </div>
+      </section>
     </div>
+    <!-- end -->    
   </div>
 </footer>
