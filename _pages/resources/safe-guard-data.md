@@ -12,7 +12,7 @@ sidenav: resource_navigation
 
 <a class="fcsm-main-links" href="https://nces.ed.gov/fcsm/dpt">Data Protection Toolkit (beta)</a>
 
-<a class="fcsm-main-links" href="/resources/safeguarddata">Charter</a>
+<a class="fcsm-main-links" href="/resources/safe-guard-data">Charter</a>
 
 <h3 class="page-sub-heading">Contact:</h3>
 
