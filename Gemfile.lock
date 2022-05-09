@@ -42,7 +42,7 @@ GEM
       http_parser.rb (~> 0)
     ethon (0.15.0)
       ffi (>= 1.15.0)
-    execjs (2.7.0)
+    execjs (2.8.1)
     extras (0.3.0)
       forwardable-extended (~> 2.5)
     fastimage (2.2.6)
@@ -142,7 +142,7 @@ PLATFORMS
 DEPENDENCIES
   autoprefixer-rails
   eventmachine (= 1.2.7)!
-  execjs (= 2.7.0)
+  execjs (= 2.8.1)
   html-proofer (~> 3.18)
   jekyll (~> 4.0)
   jekyll-assets!
