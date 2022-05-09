@@ -77,7 +77,7 @@ primary_navigation:
   - name: About FCSM
     url: /about/
   - name: Resources
-    url: /resources/
+    url: /resources/index
   - name: Events and Proceedings
     url: /events/
   - name: Groups
@@ -122,6 +122,24 @@ group_navigation:
         url: /groups/data-safeguards/
       - name: Nonresponse Bias Working Group
         url: /groups/nonresponse-bias/
+
+resource_navigation:
+  - name: Resources Summary
+    url: /resources/index/
+  - name: Statistical Policy Working Papers
+    url: /resources/statistical-policy-working-papers/
+  - name: FCSM Research conferences
+    url: /resources/fcsm-research-conferences/
+  - name: FCSM Statistical Policy Seminars
+    url: /resources/fcsm-conference-seminar-programs-presentations/
+  - name: Data Protection Toolkit
+    url: /resources/safe-guard-data/
+  - name: Data Quality
+    url: /resources/data-quality-subcommittee/
+  - name: Non Responsive Bias
+    url: /resources/non-response-bias/
+  - name: SOGI
+    url: /resources/sogi/
 
 # Search.gov configuration
 #

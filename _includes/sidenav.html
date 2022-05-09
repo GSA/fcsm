@@ -5,6 +5,8 @@
       {% assign nav = site.about_navigation %}
     {% when "group_navigation" %}
       {% assign nav = site.group_navigation %}
+    {% when "resource_navigation" %}
+      {% assign nav = site.resource_navigation %}
   {% endcase %}
 <aside id="sidenav" class="usa-layout-docs-sidenav desktop:grid-col-3 padding-bottom-4">
   <nav>

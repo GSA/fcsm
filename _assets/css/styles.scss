@@ -31,6 +31,7 @@ $theme-show-notifications: false;
 @import "scss/packages/uswds-components";
 @import "scss/packages/uswds-utilities";
 
+@import "custom/resources";
 /*
 ----------------------------------------
 USWDS THEME CUSTOM STYLES
@@ -58,6 +59,7 @@ i.e.
   .tablet\:width-1\/3 {
     width: 33%;
   }
+
   .tablet\:float-left {
     float: left;
   }
@@ -67,6 +69,7 @@ i.e.
   .paginate-link {
     display: initial;
   }
+
   .paginate-button {
     display: none;
   }
@@ -76,6 +79,7 @@ i.e.
   .paginate-link {
     display: none;
   }
+
   .paginate-button {
     display: block;
   }
@@ -84,10 +88,11 @@ i.e.
 @media screen and (max-width: 479px) {
   .usa-logo__text {
     height: 3em;
+
     img {
       max-height: 100%;
     }
-  } 
+  }
 }
 
 @media screen and (min-width: 480px) {

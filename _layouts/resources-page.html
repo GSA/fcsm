@@ -1,0 +1,32 @@
+---
+layout: base
+---
+
+{% comment %}
+This template is for a single page that does not have a date associated with it. For example, an about page.
+{% endcomment %}
+
+
+{% if page.title %}
+  <section class="fcsm-page-title-wrapper">
+    <div class="grid-container">
+      <div class="grid-row grid-gap">
+        <h1 class="fcsm-page-title">{{ page.title }}</h1>
+      </div>
+    </div>
+  </section>
+{% endif %}
+<div id="main-content" class="usa-layout-docs usa-section">
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
+      {% if page.sidenav-resources == true %}
+        {% include sidenav-resources.html %}
+      {% endif %}
+      <main>
+        <div class="usa-layout-docs__main usa-prose">
+            {{ content }}
+        </div>
+      </main>
+    </div>
+  </div>
+</div>

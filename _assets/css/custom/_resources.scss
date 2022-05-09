@@ -1,0 +1,44 @@
+.fcsm-internal-pages {
+
+  p,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5 {
+    width: 100%;
+  }
+}
+
+a {
+  color: #29749b;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #163353;
+  text-decoration: underline;
+}
+
+.fcsm-research-links {
+  list-style: none;
+}
+
+.fcsm-main-links {
+  font-weight: bold;
+}
+
+.page-sub-title {
+  overflow-wrap: break-word;
+  max-width: 550px;
+  font-size: 1.5rem !important;
+  color: #163353;
+}
+
+.usa-section {
+  padding-top: 3rem;
+}
+
+.active {
+  border-left: 3px solid #163353;
+}
