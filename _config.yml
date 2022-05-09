@@ -91,7 +91,24 @@ about_navigation:
   - name: About FCSM
     url: /about/
   - name: Charter
-    url: /charter/
+    collapsible: true
+    children: 
+      - name: Background
+        url: /charter/#background
+      - name: Mission of the FCSM
+        url: /charter/#mission
+      - name: FCSM Activities
+        url: /charter/#activities
+      - name: Membership
+        url: /charter/#membership
+      - name: Subcommittees and Interest Groups
+        url: /charter/#subcommittees
+      - name: FCSM Products
+        url: /charter/#products
+      - name: Authority
+        url: /charter/#authority
+      - name: Signatures of ICSP Members
+        url: /charter/#signatures
 #  - name: Members
 #    url: /members/
 
