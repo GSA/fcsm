@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: About FCSM
+title: About
 layout: page
 sidenav: about_navigation
 ---
@@ -17,3 +17,4 @@ sidenav: about_navigation
   
   <li> The FCSM Chair is appointed by the Chief Statistician. The FCSM members are career Federal employees selected by OMB based on their individual expertise and interest in statistical methods. Members serve for 3-year, renewable, terms while employed in an agency of the Federal government covered by the Paperwork Reduction Act (PRA). </li>
 </ul>
+<p class="text-base">(Revised December 2017)</p>
