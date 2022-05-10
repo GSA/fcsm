@@ -41,7 +41,7 @@ sidenav: about_navigation
 </ul>
 
 <h2 id="products"><b>V. FCSM Products </b></h2>
-<p>The FCSM shall provide an annual report, and an annual work plan, to the Chief Statistician and to the members of the ICSP on the Committee' accomplishments and ongoing work. The FCSM and its Subcommittees, Program Committees, and Interest Groups may create and disseminate reports, working papers, guidance, recommendations, or other products. The FCSM may maintain a website and use it to disseminate information produced by the Committee and its subsidiaries. The FCSM and its components may sponsor and co-sponsor conferences, workshops or seminars. The FCSM may arrange and organize a collaborative research program for the federal agencies. </p>
+<p>The FCSM shall provide an annual report, and an annual work plan, to the Chief Statistician and to the members of the ICSP on the Committee's accomplishments and ongoing work. The FCSM and its Subcommittees, Program Committees, and Interest Groups may create and disseminate reports, working papers, guidance, recommendations, or other products. The FCSM may maintain a website and use it to disseminate information produced by the Committee and its subsidiaries. The FCSM and its components may sponsor and co-sponsor conferences, workshops or seminars. The FCSM may arrange and organize a collaborative research program for the federal agencies. </p>
 
 <h2 id="authority"><b>VI. Authority</b></h2>
 <p>The FCSM was founded by the Office of Statistical Policy (now the Statistical and Science Policy Branch in the Office of Information and Regulatory Affairs) in OMB to assist in carrying out its role in setting and coordinating statistical policy. The FCSM serves as a resource for OMB to inform decision making on matters of statistical policy and to provide technical assistance and guidance on statistical and methodological issues affecting federal statistics. </p>
@@ -130,4 +130,4 @@ sidenav: about_navigation
     <div class="grid-col-6">Tom Garin</div>
   </div>
 </div>
-<p class="text-base">(Revised December 2017)</p>
+<p class="text-base-light">(Revised December 2017)</p>
