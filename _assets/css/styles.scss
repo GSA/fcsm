@@ -48,6 +48,7 @@ i.e.
 */
 
 @import "menu-collapsible.scss";
+@import "carousel.scss";
 
 // default mode hide banner
 .usa-banner__content {
@@ -102,4 +103,18 @@ i.e.
 
 .usa-sidenav .usa-current::after {
   background-color: rgba(153, 28, 31, 1) !important;
+}
+
+a {
+  color: #007DBC;
+  &:hover {
+    color: #04284d;
+  }
+}
+
+.usa-sidenav .usa-nav__sidenav-item { 
+  border-bottom: 1px solid #dfe1e2;
+  &:last-child {
+    border-bottom-width: 0px;
+  }
 }

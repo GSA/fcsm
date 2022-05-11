@@ -18,19 +18,14 @@
 # Be sure to edit the values below
 ##########################################################################################
 
-title: Agency Name
-email: contact@example.gov
+title: Federal Committee on Statistical Methodology (FCSM)
 description: >- # this means to ignore newlines until "baseurl:"
-  Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  Aenean et sapien a leo auctor scelerisque quis nec magna. Sed dictum ante a risus vehicula facilisis.
+  The Federal Committee on Statistical Methodology (FCSM) is an interagency committee dedicated to improving the quality of Federal statistics.
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://example.gov" # the base hostname & protocol for your site, e.g. https://example.com.
   # Required to support the jekyll-sitemap plugin below.
   # Uncomment the url line when ready to push to production. If using different branches for multiple
   # custom domains, edit this url parameter in the relevant branch to match the relevant custom domain.
-
-# Twitter handle. Only the handle, not the URL.
-twitter: 18F
 
 #################################################################
 #
@@ -96,7 +91,24 @@ about_navigation:
   - name: About FCSM
     url: /about/
   - name: Charter
-    url: /charter/
+    collapsible: true
+    children: 
+      - name: Background
+        url: /charter/#background
+      - name: Mission of the FCSM
+        url: /charter/#mission
+      - name: FCSM Activities
+        url: /charter/#activities
+      - name: Membership
+        url: /charter/#membership
+      - name: Subcommittees and Interest Groups
+        url: /charter/#subcommittees
+      - name: FCSM Products
+        url: /charter/#products
+      - name: Authority
+        url: /charter/#authority
+      - name: Signatures of ICSP Members
+        url: /charter/#signatures
 #  - name: Members
 #    url: /members/
 
