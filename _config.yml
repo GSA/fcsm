@@ -91,7 +91,7 @@ primary_navigation:
 secondary_navigation:
   - name: Contact Us
     url: /contact-us/
-    
+
 about_navigation:
   - name: About FCSM
     url: /about/
@@ -133,10 +133,10 @@ resource_navigation:
     url: /resources/index/
   - name: Statistical Policy Working Papers
     url: /resources/statistical-policy-working-papers/
-  - name: FCSM Research conferences
-    url: /resources/fcsm-research-conferences/
-  - name: FCSM Statistical Policy Seminars
-    url: /resources/fcsm-conference-seminar-programs-presentations/
+  # - name: FCSM Research conferences
+  #   url: /resources/fcsm-research-conferences/
+  # - name: FCSM Statistical Policy Seminars
+  #   url: /resources/fcsm-conference-seminar-programs-presentations/
   - name: Data Protection Toolkit
     url: /resources/safe-guard-data/
   - name: Data Quality
