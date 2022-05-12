@@ -112,6 +112,12 @@ a {
   }
 }
 
+.usa-menu-btn:hover {
+  background-color: white;
+  cursor: pointer;
+  color: initial;
+}
+
 .usa-sidenav .usa-nav__sidenav-item { 
   border-bottom: 1px solid #dfe1e2;
   &:last-child {
