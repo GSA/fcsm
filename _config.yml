@@ -92,7 +92,7 @@ about_navigation:
     url: /about/
   - name: Charter
     collapsible: true
-    children: 
+    children:
       - name: Background
         url: /charter/#background
       - name: Mission of the FCSM
@@ -153,7 +153,7 @@ resource_navigation:
     url: /resources/safe-guard-data/
   - name: Data Quality
     url: /resources/data-quality-subcommittee/
-  - name: Non Responsive Bias
+  - name: Nonresponse Bias
     url: /resources/non-response-bias/
   - name: SOGI
     url: /resources/sogi/
@@ -169,7 +169,7 @@ events_navigation:
     url: /groups/cspos-gasp/
   - name: GIG Presentations
     url: /groups/gig-presentations/
-    
+
 # Search.gov configuration
 #
 # 1. Create an account with Search.gov https://search.usa.gov/signup
