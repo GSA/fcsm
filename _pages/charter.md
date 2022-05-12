@@ -20,12 +20,12 @@ sidenav: about_navigation
 
 <h2 id="activities"><b> II. FCSM Activities </b></h2>
 <p>The FCSM works to fulfill its mission by engaging in a variety of activities that the Chair(s) and members determine are appropriate.</p> 
-<ol>
-  <li>The FCSM shall meet as a whole at intervals and sites designated by the Chair(s).</li>
-  <li>The FCSM may establish subcommittees to study particular issues, form temporary program committees, or sponsor ongoing interest groups focused on a particular statistical or methodological topic. </li> 
-  <li>The FCSM may create and disseminate reports, working papers, guidance, or recommendations through publication and through its website. The FCSM may also facilitate the dissemination of statistical and methodological research conducted or sponsored by federal agencies, federal interagency working groups, and other cross-agency bodies.</li>
-  <li>The FCSM may sponsor seminars, workshops, conferences, or other events. </li>
-  <li>The FCSM may arrange for projects to be jointly sponsored by the federal agencies and may participate in the administration of the projects.</li>
+<ol ole="list">
+  <li role="listitem">The FCSM shall meet as a whole at intervals and sites designated by the Chair(s).</li>
+  <li role="listitem">The FCSM may establish subcommittees to study particular issues, form temporary program committees, or sponsor ongoing interest groups focused on a particular statistical or methodological topic. </li> 
+  <li role="listitem">The FCSM may create and disseminate reports, working papers, guidance, or recommendations through publication and through its website. The FCSM may also facilitate the dissemination of statistical and methodological research conducted or sponsored by federal agencies, federal interagency working groups, and other cross-agency bodies.</li>
+  <li role="listitem">The FCSM may sponsor seminars, workshops, conferences, or other events. </li>
+  <li role="listitem">The FCSM may arrange for projects to be jointly sponsored by the federal agencies and may participate in the administration of the projects.</li>
 </ol>
 
 <h2 id="membership"><b>III. Membership</b></h2>
@@ -66,8 +66,8 @@ sidenav: about_navigation
 <h2 id="signatures"><b>VII. Signatures of ICSP Members</b></h2>
 <div class="grid-container">
   <div class="grid-row">
-    <div class="grid-col-6" class="text-bold">ICSP Agency Name</div>
-    <div class="grid-col-6" class="text-bold">ICSP Agency Head Name</div>
+    <div class="grid-col-6 text-bold">ICSP Agency Name</div>
+    <div class="grid-col-6 text-bold">ICSP Agency Head Name</div>
   </div>
   <div class="grid-row">
     <div class="grid-col-6">Office of Management and Budget</div>
@@ -130,4 +130,4 @@ sidenav: about_navigation
     <div class="grid-col-6">Tom Garin</div>
   </div>
 </div>
-<p class="text-base-light">(Revised December 2017)</p>
+<p class="text-base">(Revised December 2017)</p>
