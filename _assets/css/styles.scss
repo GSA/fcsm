@@ -112,9 +112,11 @@ a {
   }
 }
 
-.usa-sidenav .usa-nav__sidenav-item { 
-  border-bottom: 1px solid #dfe1e2;
-  &:last-child {
-    border-bottom-width: 0px;
+.usa-sidenav {
+  border-bottom: none;
+  .usa-nav__sidenav-item {
+    a { 
+    border-bottom: 1px solid #dfe1e2;
+    }
   }
 }
