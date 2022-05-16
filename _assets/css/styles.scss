@@ -112,6 +112,18 @@ a {
   }
 }
 
+.usa-menu-btn:hover {
+  background-color: white;
+  cursor: pointer;
+  color: initial;
+}
+
+.usa-sidenav .usa-nav__sidenav-item { 
+  &:last-child {
+    border-bottom-width: 0px;
+  }
+}
+
 .usa-sidenav {
   border-bottom: none;
   .usa-nav__sidenav-item {
