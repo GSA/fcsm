@@ -83,9 +83,9 @@ primary_navigation:
   - name: Groups
     url: /groups/
 
-secondary_navigation:
-  - name: Contact Us
-    url: /contact-us/
+# secondary_navigation:
+#   - name: Contact Us
+#     url: /contact-us/
     
 about_navigation:
   - name: About FCSM
