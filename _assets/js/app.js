@@ -5,7 +5,8 @@
     $('.usa-menu-collapsible').each(function () {
       let $this = $(this),
           $handle = $this.find('[aria-controls]'),
-          open = $handle.attr('aria-expanded') == 'true',
+          id = $handle.attr('aria-controls'),
+          open = ($handle.attr('aria-expanded') == 'true'),
           $content = $this.find('#' + $handle.attr('aria-controls'));
       
       // we didn't find the required elements, bail out
@@ -23,9 +24,11 @@
       function handleChange() {
         if (open) {
           $this.addClass('open');
+          $handle.attr('aria-expanded', 'true');
         }
         else {
           $this.removeClass('open');
+          $handle.attr('aria-expanded', 'false');
         }
       }
     });

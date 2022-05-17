@@ -2,10 +2,11 @@
 {% assign linkdir = include.nav_item.url |  replace: "/", ""  | lstrip %}
 {% assign collapsible = include.nav_item.children.size > 0 and include.nav_item.collapsible %}
 {% assign id = include.nav_item.name | replace: " ", "-" | downcase %}
+{% assign active_children = include.nav_item.children | where: 'url', page.url | size %}
 <li class="usa-nav__sidenav-item{% if collapsible %} usa-menu-collapsible{% endif %}" role="menuitem">
-    <a class="usa-nav__link{% if page.url == include.nav_item.url %} usa-current{% endif %}{% if collapsible %} usa-menu-collapsible__button{% endif %}"
+    <a class="usa-nav__link{% if ((include.nav_item.url == page.url) or include.nav_item.int_url == page.url or active_children > 0) %} usa-current{% endif %}{% if collapsible %} usa-menu-collapsible__button{% endif %}"
         {% if include.nav_item.url %}href="{{ include.nav_item.url | prepend: site.baseurl}}"{% endif %}
-        {% if collapsible %}aria-controls="{{ id }}" aria-expanded="false" {% endif %}><span>{{ include.nav_item.name | escape }}</span></a>
+        {% if collapsible %}aria-controls="{{ id }}" aria-expanded="{% if active_children > 0 or include.nav_item.url == page.url or include.nav_item.int_url == page.url %}true{% else %}false{% endif %}" {% endif %}><span>{{ include.nav_item.name | escape }}</span></a>
     {% if include.nav_item.children.size > 0 %}
     <ul id="{{ id }}" role="group" class="usa-sidenav{% if collapsible %} usa-menu-collapsible__content{% endif %}">
       {% for child in include.nav_item.children %}
