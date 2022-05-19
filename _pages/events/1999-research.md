@@ -5,7 +5,7 @@ layout: page
 sidenav: events_navigation
 ---
 
-<a class="usa-button" href="/events/fcsm-research-conferences/">Back</a>
+<a class="usa-button" href="{{site.baseurl}}/events/fcsm-research-conferences/">Back</a>
 <div class="fcsm-internal-pages">
   <h2 class="page-sub-title">1999 Research Conference</h2>
   <p><strong>Resources and Proceedings</strong></p>
@@ -255,4 +255,4 @@ sidenav: events_navigation
   <p><a href="{{ '/assets/files/docs/TD_Nealon_FCSM1999.pdf' | relative_url }}" target="_blank">Data Warehousing at the National Agricultural Statistics Service, "Easy &amp; Fast Data Access for Everyone"</a>  <small> (104 KB)</small></p>
   <p class="indent"> Nealon, Yost</p>
 </div>
-<a class="usa-button" href="/events/fcsm-research-conferences/">Back</a>
+<a class="usa-button" href="{{site.baseurl}}/events/fcsm-research-conferences/">Back</a>

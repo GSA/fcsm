@@ -5,7 +5,7 @@ layout: page
 sidenav: events_navigation
 ---
 
-<a class="usa-button" href="/events/fcsm-research-conferences/">Back</a>
+<a class="usa-button" href="{{site.baseurl}}/events/fcsm-research-conferences/">Back</a>
 <div class="fcsm-internal-pages">
   <h2 class="page-sub-title">Federal Committee on Statistical Methodology 2018 Research and Policy Conference</h2>
 
@@ -831,4 +831,4 @@ sidenav: events_navigation
       <a href="{{ '/assets/files/docs/J_4Chang_FCSM2018.pdf' | relative_url }}" target="_blank"> | (PDF)</a>
     </p>
   </div>
-  <a class="usa-button" href="/events/fcsm-research-conferences/">Back</a>
+  <a class="usa-button" href="{{site.baseurl}}/events/fcsm-research-conferences/">Back</a>

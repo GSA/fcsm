@@ -5,7 +5,7 @@ layout: page
 sidenav: events_navigation
 ---
 
-<a class="usa-button" href="/events/fcsm-research-conferences/">Back</a>
+<a class="usa-button" href="{{site.baseurl}}/events/fcsm-research-conferences/">Back</a>
 <div class="fcsm-internal-pages">
   <h2 class="page-sub-title">2012 Research Conference</h2>
   <p>Washington Convention Center, Washington, DC<br>
@@ -410,4 +410,4 @@ sidenav: events_navigation
   <p style="width:50%;"><a href="{{ '/assets/files/docs/King_2012FCSM_X-C.pdf' | relative_url }}" target="_blank">Comparison of the American Community Survey Voluntary Versus Mandatory Estimates</a>  <small> (364 KB)</small></p>
   <p style="width:50%;" class="indent">Karen King, Michael Starsinic, and Alfredo Navarro (U.S. Census Bureau)</p>
 </div>
-<a class="usa-button" href="/events/fcsm-research-conferences/">Back</a>
+<a class="usa-button" href="{{site.baseurl}}/events/fcsm-research-conferences/">Back</a>

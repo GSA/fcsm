@@ -5,7 +5,7 @@ layout: page
 sidenav: events_navigation
 ---
 
-<a class="usa-button" href="/events/fcsm-research-conferences/">Back</a>
+<a class="usa-button" href="{{site.baseurl}}/events/fcsm-research-conferences/">Back</a>
 <div class="fcsm-internal-pages">
   <h2>Federal Committee on Statistical Methodology 2020 Research and Policy Conference</h2>
   <p><a href="{{ '/assets/files/docs/2020/09/FCSM-Fall-2020-Final-Program-v1-2.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>FCSM Fall 2020 Program</strong></a> (click to download)</p>
@@ -163,4 +163,4 @@ sidenav: events_navigation
     <li>Samantha Tyner (Bureau of Labor Statistics) <a href="{{ '/assets/files/docs/2020/09/PM2-3-Samantha-tyner-fcsm.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong><span style="color: #025373;">Visual Complements to p-values</span></strong></a></li>
   </ul>
 </div>
- <a class="usa-button" href="/events/fcsm-research-conferences/">Back</a>
+ <a class="usa-button" href="{{site.baseurl}}/events/fcsm-research-conferences/">Back</a>
