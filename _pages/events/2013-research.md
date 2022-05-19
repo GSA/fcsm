@@ -1,9 +1,10 @@
 ---
 title: 2013 Research Conference
 layout: page
-sidenav: resource_navigation
+sidenav: events_navigation
 ---
 
+<a class="usa-button" href="/events/fcsm-research-conferences/">Back</a>
 <div class="fcsm-internal-pages">
   <h2 class="page-sub-title">2013 Research Conference</h2>
   <p>Washington Convention Center, Washington, DC<br/> November 4-6, 2013</p>
@@ -832,3 +833,4 @@ sidenav: resource_navigation
   <p style="width:50%;"><a href="{{ '/assets/files/docs/J4_Scanlan_2013FCSM.pdf' | relative_url }}" target="_blank">Measuring Health and Healthcare Disparities</a> <small> (90.0 MB)</small></p>
   <p class="indent">James Scanlan (James P. Scanlan, Attorney at Law)</p>
 </div>
+<a class="usa-button" href="/events/fcsm-research-conferences/">Back</a>

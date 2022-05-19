@@ -1,4 +1,5 @@
 ---
+permalink: /events/
 title: Events
 layout: page
 sidenav: events_navigation

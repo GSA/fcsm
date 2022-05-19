@@ -1,9 +1,10 @@
 ---
 title: 2005 Research Conference
 layout: page
-sidenav: resource_navigation
+sidenav: events_navigation
 ---
 
+<a class="usa-button" href="/events/fcsm-research-conferences/">Back</a>
 <div class="fcsm-internal-pages">
   <h2 class="page-sub-title">2005 Research Conference</h2>
   <p><strong>Resources and Proceedings</strong></p>
@@ -270,3 +271,4 @@ sidenav: resource_navigation
   <p style="width:50%;"><a href="{{ '/assets/files/docs/2005FCSM_Redline_IXB.pdf' | relative_url }}" target="_blank">Towards Reducing Error in an Establishment Survey Through Instrument Design: Identifying the Desired Navigational Path</a>  <small> (2.22 MB)</small></p>
   <p class="indent">Cleo Redline (National Science Foundation, USA)</p>
 </div>
+<a class="usa-button" href="/events/fcsm-research-conferences/">Back</a>

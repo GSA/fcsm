@@ -1,4 +1,5 @@
 ---
+permalink: /resources/
 title: Resources
 layout: page
 sidenav: resource_navigation

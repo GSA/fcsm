@@ -77,7 +77,7 @@ primary_navigation:
   - name: About FCSM
     url: /about/
   - name: Resources
-    url: /resources/index
+    url: /resources/
   - name: Events and Proceedings
     url: /events/
   - name: Groups
@@ -142,11 +142,11 @@ group_navigation:
 
 resource_navigation:
   - name: Resources Summary
-    url: /resources/index/
+    url: /resources/
   - name: Statistical Policy Working Papers
     url: /resources/statistical-policy-working-papers/
   # - name: FCSM Research conferences
-  #   url: /resources/fcsm-research-conferences/
+  # url: /resources/fcsm-research-conferences/
   # - name: FCSM Statistical Policy Seminars
   #   url: /resources/fcsm-conference-seminar-programs-presentations/
   - name: Data Protection Toolkit
@@ -160,9 +160,9 @@ resource_navigation:
 
 events_navigation:
   - name: FCSM Research Conference
-    url: /resources/fcsm-research-conferences
+    url: /events/fcsm-research-conferences/
   - name: Past FCSM Statistical Policy Seminars
-    url: /resources/fcsm-conference-seminar-programs-presentations/
+    url: /events/fcsm-conference-seminar-programs-presentations/
   - name: Recordings of CDAC Meetings and Workshops
     url: /groups/cdac/
   - name: GASP Presentations

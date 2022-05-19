@@ -1,9 +1,10 @@
 ---
 title: 2015 Research Conference
 layout: page
-sidenav: resource_navigation
+sidenav: events_navigation
 ---
 
+<a class="usa-button" href="/events/fcsm-research-conferences/">Back</a>
 <div class="fcsm-internal-pages">
   <h2 class="page-sub-title">2015 Research Conference</h2>
 
@@ -834,3 +835,4 @@ sidenav: resource_navigation
   <p style="width:50%;"><a href="{{ '/assets/files/docs/J4_Maze_2015FCSM.pdf' | relative_url }}" rel="">Sample Design in Three-stage Household Surveys Supplemented by Commercial Address Lists</a>  <small> (28.0 MB)</small></p><!---------pdf/J4_Maze_2015FCSM.pdf----------->
   <p class="indent">Alena Maze (National Center for Health Statistics)</p>
 </div>
+<a class="usa-button" href="/events/fcsm-research-conferences/">Back</a>
