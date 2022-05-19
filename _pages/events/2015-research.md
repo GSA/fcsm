@@ -1,4 +1,5 @@
 ---
+permalink: /events/2015-research/
 title: 2015 Research Conference
 layout: page
 sidenav: events_navigation

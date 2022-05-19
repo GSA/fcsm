@@ -1,4 +1,5 @@
 ---
+permalink: /events/2013-research/
 title: 2013 Research Conference
 layout: page
 sidenav: events_navigation

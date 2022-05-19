@@ -1,4 +1,5 @@
 ---
+permalink: /events/2012-research/
 title: 2012 Research Conference
 layout: page
 sidenav: events_navigation

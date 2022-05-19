@@ -1,4 +1,5 @@
 ---
+permalink: /events/2018-research-policy-conference/
 title: Federal Committee on Statistical Methodology 2018 Research and Policy Conference
 layout: page
 sidenav: events_navigation

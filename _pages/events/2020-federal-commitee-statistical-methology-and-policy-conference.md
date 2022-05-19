@@ -1,4 +1,5 @@
 ---
+permalink: /events/2020-federal-commitee-statistical-methology-and-policy-conference/
 title: Federal Committee on Statistical Methodology 2020 Research and Policy Conference
 layout: page
 sidenav: events_navigation

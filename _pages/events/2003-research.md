@@ -1,4 +1,5 @@
 ---
+permalink: /events/2003-research/
 title: 2003 Research Conference
 layout: page
 sidenav: events_navigation

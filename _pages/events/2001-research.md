@@ -1,4 +1,5 @@
 ---
+permalink: /events/2001-research/
 title: 2001 Research Conference
 layout: page
 sidenav: events_navigation

@@ -1,4 +1,5 @@
 ---
+permalink: /events/2007-research/
 title: 2007 Research Conference
 layout: page
 sidenav: events_navigation

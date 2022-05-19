@@ -1,4 +1,5 @@
 ---
+permalink: /events/2009-research/
 title: 2009 Research Conference
 layout: page
 sidenav: events_navigation
