@@ -48,7 +48,7 @@ sidenav: group_navigation
       </td>
       <td>
         <a href="https://www.youtube.com/watch?v=8vue0A6aJqI&ab_channel=COPAFSemail" target="_blank">Disclosure Review Boards: Design, Governance, Modernization (2020)</a>
-      </td (2020)>
+      </td>
     </tr>
     <tr>
       <td>
