@@ -59,6 +59,10 @@ i.e.
   .tablet\:width-1\/3 {
     width: 33%;
   }
+  
+  .tablet\:width-1\/2 { 
+    width: 50%;
+  }
 
   .tablet\:float-left {
     float: left;
@@ -98,6 +102,10 @@ i.e.
 @media screen and (min-width: 480px) {
   .usa-logo__text img {
     height: 90px;
+  }
+  
+  .mobile-lg\:width-1\/2 { 
+    width: 50%;
   }
 }
 
