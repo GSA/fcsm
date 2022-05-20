@@ -110,8 +110,8 @@ about_navigation:
         url: /charter/#authority
       - name: Signatures of ICSP Members
         url: /charter/#signatures
-#  - name: Members
-#    url: /members/
+  - name: Members
+    url: /members/
 
 group_navigation:
   - name: Groups Overview
@@ -162,7 +162,7 @@ resource_navigation:
 events_navigation:
   - name: FCSM Research Conference
     url: /resources/fcsm-research-conferences
-  - name: Past FCSM Statistical Policy Seminars
+  - name: FCSM Statistical Policy Seminars
     url: /resources/fcsm-conference-seminar-programs-presentations/
   - name: Recordings of CDAC Meetings and Workshops
     url: /groups/cdac/
@@ -203,6 +203,8 @@ collections:
   pages:
     output: true
     permalink: /:path/
+  members:
+    output: false
 
 permalink: pretty
 
