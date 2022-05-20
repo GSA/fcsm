@@ -77,23 +77,22 @@ primary_navigation:
   - name: About FCSM
     url: /about/
   - name: Resources
-    url: /resources/index
+    url: /resources/
   - name: Events and Proceedings
     url: /events/
   - name: Groups
     url: /groups/
 
-# secondary_navigation:
-#   - name: Contact Us
-#     url: /contact-us/
-    
+secondary_navigation:
+  - name: Contact Us
+    url: /contact-us/
+
 about_navigation:
   - name: About FCSM
     url: /about/
   - name: Charter
     collapsible: true
-    int_url: /charter/
-    children: 
+    children:
       - name: Background
         url: /charter/#background
       - name: Mission of the FCSM
@@ -143,34 +142,34 @@ group_navigation:
 
 resource_navigation:
   - name: Resources Summary
-    url: /resources/index/
+    url: /resources/
   - name: Statistical Policy Working Papers
     url: /resources/statistical-policy-working-papers/
-  - name: FCSM Research conferences
-    url: /resources/fcsm-research-conferences/
-  - name: FCSM Statistical Policy Seminars
-    url: /resources/fcsm-conference-seminar-programs-presentations/
+  # - name: FCSM Research conferences
+  # url: /resources/fcsm-research-conferences/
+  # - name: FCSM Statistical Policy Seminars
+  #   url: /resources/fcsm-conference-seminar-programs-presentations/
   - name: Data Protection Toolkit
     url: /resources/safe-guard-data/
   - name: Data Quality
     url: /resources/data-quality-subcommittee/
-  - name: Non Responsive Bias
+  - name: Nonresponse Bias
     url: /resources/non-response-bias/
   - name: SOGI
     url: /resources/sogi/
 
 events_navigation:
   - name: FCSM Research Conference
-    url: /resources/fcsm-research-conferences
+    url: /events/fcsm-research-conferences/
   - name: Past FCSM Statistical Policy Seminars
-    url: /resources/fcsm-conference-seminar-programs-presentations/
+    url: /events/fcsm-conference-seminar-programs-presentations/
   - name: Recordings of CDAC Meetings and Workshops
     url: /groups/cdac/
   - name: GASP Presentations
     url: /groups/cspos-gasp/
   - name: GIG Presentations
     url: /groups/gig-presentations/
-    
+
 # Search.gov configuration
 #
 # 1. Create an account with Search.gov https://search.usa.gov/signup

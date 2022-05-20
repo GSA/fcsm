@@ -1,9 +1,11 @@
 ---
+permalink: /events/2007-research/
 title: 2007 Research Conference
 layout: page
-sidenav: resource_navigation
+sidenav: events_navigation
 ---
 
+<a class="usa-button" href="{{site.baseurl}}/events/fcsm-research-conferences/">Back</a>
 <div class="fcsm-internal-pages">
   <h2 class="page-sub-title">2007 Research Conference</h2>
   <p style="width:50%;"><a href="{{ '/assets/files/docs/2007FCSMResearchProgram.pdf' | relative_url }}" target="_blank"><strong>FINAL PROGRAM</strong></a>  <small> (498 KB)</small></p>
@@ -295,3 +297,4 @@ sidenav: resource_navigation
   <p style="width:50%;"><a href="{{ '/assets/files/docs/construction.pdf' | relative_url }}" target="_blank">Imputing Missing Values in the Common Core of Data for Use in Computing the Averaged Freshman Graduation Rate</a>  <small> (440 KB)</small></p>
   <p class="indent">Jack Buckley, Marilyn McMillen Seastrom and Chris Chapman (National Center for Education Statistics, USA), Vincent Iannacchione (American Institutes for Research, USA), Sandra Eyster, Dan McGrath, and Rob Stillwell (RTI International, USA)</p>
 </div>
+<a class="usa-button" href="{{site.baseurl}}/events/fcsm-research-conferences/">Back</a>
