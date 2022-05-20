@@ -1,9 +1,11 @@
 ---
+permalink: /events/2009-research/
 title: 2009 Research Conference
 layout: page
-sidenav: resource_navigation
+sidenav: events_navigation
 ---
 
+<a class="usa-button" href="{{site.baseurl}}/events/fcsm-research-conferences/">Back</a>
 <div class="fcsm-internal-pages">
   <h2 class="page-sub-title">2009 Research Conference</h2>
   <p style="width:50%;"><a href="{{ '/assets/files/docs/2009FCSMResearchProgram.pdf' | relative_url }}" target="_blank"><strong>FINAL PROGRAM</strong></a>  <small> (2 MB)</small></p>
@@ -327,3 +329,4 @@ sidenav: resource_navigation
   <p style="width:50%;"><a href="{{ '/assets/files/docs/construction.pdf' | relative_url }}" target="_blank">Social Desirability Bias, Response Order Effect and Selection Effects in the new Dutch Safety Monitor</a>  <small> (440 KB)</small></p>
   <p style="width:50%;" class="indent">Thomas Kraan, Jan van den Brakel, Bart Buelens, and Harry Huys (Statistics Netherlands)</p>
 </div>
+<a class="usa-button" href="{{site.baseurl}}/events/fcsm-research-conferences/">Back</a>

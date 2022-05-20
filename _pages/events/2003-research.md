@@ -1,9 +1,11 @@
 ---
+permalink: /events/2003-research/
 title: 2003 Research Conference
 layout: page
-sidenav: resource_navigation
+sidenav: events_navigation
 ---
 
+<a class="usa-button" href="{{site.baseurl}}/events/fcsm-research-conferences/">Back</a>
 <div class="fcsm-internal-pages">
   <h2 class="page-sub-title">2003 Research Conference</h2>
   <p style="width:50%"><a href="{{ '/assets/files/docs/construction.pdf' | relative_url }}" target="_blank"><strong>FINAL PROGRAM</strong></a>  <small> (440 KB)</small></p>
@@ -264,3 +266,4 @@ sidenav: resource_navigation
   <p style="width:50%"><a href="{{ '/assets/files/docs/2003FCSM_Singh9b.pdf' | relative_url }}" target="_blank">A Sampling Strategy for Rear-End Pre-Crash Data Collection</a>  <small> (363 KB)</small></p>
   <p class="indent">Santokh Singh (National Highway Traffic Safety Administration, USA)</p>
 </div>
+<a class="usa-button" href="{{site.baseurl}}/events/fcsm-research-conferences/">Back</a>
