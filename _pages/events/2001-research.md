@@ -1,9 +1,11 @@
 ---
+permalink: /events/2001-research/
 title: 2001 Research Conference
 layout: page
-sidenav: resource_navigation
+sidenav: events_navigation
 ---
 
+<a class="usa-button" href="{{site.baseurl}}/events/fcsm-research-conferences/">Back</a>
 <div class="fcsm-internal-pages">
   <h2 class="page-sub-title">2001 Research Conference</h2>
 	<p><strong><a href="{{ '/assets/files/docs/2001FCSMResearchProgram.pdf' | relative_url }}" target="_blank">FINAL PROGRAM</a> </strong>  <small> (137 KB)</small></p>
@@ -194,3 +196,4 @@ sidenav: resource_navigation
   <p><a href="{{ '/assets/files/docs/construction.pdf' | relative_url }}" target="_blank">Formal Discussion</a>  <small> (440 KB)</small></p>
   <p class="indent">Charles Alexander</p>
 </div>
+<a class="usa-button" href="{{site.baseurl}}/events/fcsm-research-conferences/">Back</a>
