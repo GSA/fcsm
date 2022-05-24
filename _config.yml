@@ -92,6 +92,7 @@ about_navigation:
     url: /about/
   - name: Charter
     collapsible: true
+    int_url: /charter/
     children:
       - name: Background
         url: /charter/#background
