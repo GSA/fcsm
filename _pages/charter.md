@@ -51,7 +51,7 @@ sidenav: about_navigation
   <li>coordinate the activities of the federal statistical system to ensure - </li>
   <ol type="a">
     <li> the efficiency and effectiveness of the system; and </li>
-    <li> the integrity, objectivity, impartiality, utility, and confidentiality of information collected for statistical purposes; ...</li>
+    <li> the integrity, objectivity, impartiality, utility, and confidentiality of information collected for statistical purposes; </li>
   </ol>
   <li> develop and oversee the implementation of Government-wide policies, principles, standards, and guidelines concerning --</li> 
   <ol type="a">
