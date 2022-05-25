@@ -92,6 +92,7 @@ about_navigation:
     url: /about/
   - name: Charter
     collapsible: true
+    int_url: /charter/
     children:
       - name: Background
         url: /charter/#background
@@ -109,8 +110,8 @@ about_navigation:
         url: /charter/#authority
       - name: Signatures of ICSP Members
         url: /charter/#signatures
-#  - name: Members
-#    url: /members/
+  - name: Members
+    url: /members/
 
 group_navigation:
   - name: Groups Overview
@@ -157,14 +158,14 @@ resource_navigation:
 events_navigation:
   - name: FCSM Research Conference
     url: /events/fcsm-research-conferences/
-  - name: Past FCSM Statistical Policy Seminars
+  - name: FCSM Statistical Policy Seminars
     url: /events/fcsm-conference-seminar-programs-presentations/
-  - name: Recordings of CDAC Meetings and Workshops
-    url: /groups/cdac/
+  - name: CDAC Meetings
+    url: /events/cdac-meetings/
   - name: GASP Presentations
-    url: /groups/cspos-gasp/
+    url: /events/gasp-presentations/
   - name: GIG Presentations
-    url: /groups/gig-presentations/
+    url: /events/gig-presentations/
 
 # Search.gov configuration
 #
@@ -198,6 +199,8 @@ collections:
   pages:
     output: true
     permalink: /:path/
+  members:
+    output: false
 
 permalink: pretty
 
