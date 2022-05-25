@@ -80,7 +80,7 @@ primary_navigation:
     url: /resources/
   - name: Events and Proceedings
     url: /events/
-  - name: Groups
+  - name: Groups Overview
     url: /groups/
 
 secondary_navigation:
@@ -90,7 +90,7 @@ secondary_navigation:
 about_navigation:
   - name: About FCSM
     url: /about/
-  - name: Charter
+  - name: Office of Management and Budget Charter of the Federal Committee on Statistical Methodology
     collapsible: true
     children:
       - name: Background
@@ -145,25 +145,25 @@ resource_navigation:
     url: /resources/
   - name: Statistical Policy Working Papers
     url: /resources/statistical-policy-working-papers/
-  - name: Data Protection Toolkit
+  - name: Subcommittee on Updating Statistical Methods for Safeguarding Protected Data
     url: /resources/safe-guard-data/
-  - name: Data Quality
+  - name: Integrated Data Quality Subcommittee
     url: /resources/data-quality-subcommittee/
-  - name: Nonresponse Bias
+  - name: Nonresponse Bias Subcommittee
     url: /resources/non-response-bias/
-  - name: SOGI
+  - name: Measuring Sexual Orientation and Gender Identity Research Group
     url: /groups/sogi/
 
 events_navigation:
-  - name: FCSM Research Conference
+  - name: Research Conference Resources and Proceedings
     url: /events/fcsm-research-conferences/
-  - name: Past FCSM Statistical Policy Seminars
+  - name: FCSM Conference and Seminar Programs and Presentations
     url: /events/fcsm-conference-seminar-programs-presentations/
-  - name: Recordings of CDAC Meetings and Workshops
+  - name: Confidentiality and Data Access Committee (CDAC)
     url: /groups/cdac/
-  - name: GASP Presentations
+  - name: Computational Statistics and the Production of Official Statistics (CSPOS)
     url: /groups/cspos-gasp/
-  - name: GIG Presentations
+  - name: Geospatial Interest Group (GIG)
     url: /groups/gig-presentations/
 
 # Search.gov configuration

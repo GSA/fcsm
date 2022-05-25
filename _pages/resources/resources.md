@@ -1,6 +1,6 @@
 ---
 permalink: /resources/
-title: Resources
+title: Resources Summary
 layout: page
 sidenav: resource_navigation
 ---
