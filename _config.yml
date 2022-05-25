@@ -92,6 +92,7 @@ about_navigation:
     url: /about/
   - name: Office of Management and Budget Charter of the Federal Committee on Statistical Methodology
     collapsible: true
+    int_url: /charter/
     children:
       - name: Background
         url: /charter/#background
@@ -109,8 +110,8 @@ about_navigation:
         url: /charter/#authority
       - name: Signatures of ICSP Members
         url: /charter/#signatures
-#  - name: Members
-#    url: /members/
+  - name: Members
+    url: /members/
 
 group_navigation:
   - name: Groups Overview
@@ -166,6 +167,15 @@ events_navigation:
   - name: Geospatial Interest Group (GIG)
     url: /groups/gig-presentations/
 
+  # - name: FCSM Statistical Policy Seminars
+  #   url: /events/fcsm-conference-seminar-programs-presentations/
+  # - name: CDAC Meetings
+  #   url: /events/cdac-meetings/
+  # - name: GASP Presentations
+  #   url: /events/gasp-presentations/
+  # - name: GIG Presentations
+  #   url: /events/gig-presentations/
+
 # Search.gov configuration
 #
 # 1. Create an account with Search.gov https://search.usa.gov/signup
@@ -198,6 +208,8 @@ collections:
   pages:
     output: true
     permalink: /:path/
+  members:
+    output: false
 
 permalink: pretty
 

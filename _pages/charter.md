@@ -36,7 +36,7 @@ sidenav: about_navigation
 <p>The FCSM may create subcommittees, program committees, or interest groups, as necessary to study and/or to advise particular issues, organize workshops, seminars, or conferences, or provide an ongoing forum for particular statistical and methodological topics. The Chair(s) of the FCSM may, if circumstances require, initiate and dissolve subcommittees, program committees, and interest groups. </p>
 <ul>
   <li>Subcommittees - Subcommittees are established to explore some particular aspect of statistical methodology and produce a specific product within a set period of time. Products may include reports, working papers, guidance, or recommendations. The Chair(s) of a subcommittee shall be a member of the FCSM appointed by the Chair(s) of the FCSM. Membership in a subcommittee may be solicited from staff within statistical agencies or programs by OMB or may consist entirely of FCSM members.</li> 
-  <li>Program Committees -Program Committees are temporary and are established with the express purpose of organizing a particular workshop, conference, or seminar. The Chair(s) and members of a program committee are appointed by the Chair(s) of the FCSM and serve for the duration of the organizing effort. </li>
+  <li>Program Committees - Program Committees are temporary and are established with the express purpose of organizing a particular workshop, conference, or seminar. The Chair(s) and members of a program committee are appointed by the Chair(s) of the FCSM and serve for the duration of the organizing effort. </li>
   <li>Interest Groups - Interest Groups provide ongoing opportunity for individuals interested in a particular aspect of statistical methods or data quality to interact, exchange information on the topic, explore issues related to that topic, and produce products and services that are of interest to the group. The method of selecting the Chair(s) of an interest group shall be determined by the interest group; however, there must be regular contact with FCSM, either through an FCSM sponsor or a temporary FCSM membership for the Chair(s) of the interest group. Membership of interest groups is generally open to all interested career personnel who work for the federal government. </li>
 </ul>
 
@@ -51,7 +51,7 @@ sidenav: about_navigation
   <li>coordinate the activities of the federal statistical system to ensure - </li>
   <ol type="a">
     <li> the efficiency and effectiveness of the system; and </li>
-    <li> the integrity, objectivity, impartiality, utility, and confidentiality of information collected for statistical purposes; ...</li>
+    <li> the integrity, objectivity, impartiality, utility, and confidentiality of information collected for statistical purposes; </li>
   </ol>
   <li> develop and oversee the implementation of Government-wide policies, principles, standards, and guidelines concerning --</li> 
   <ol type="a">

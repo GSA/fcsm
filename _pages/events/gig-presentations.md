@@ -2,7 +2,7 @@
 title: Geospatial Interest Group (GIG)
 subtitle: Presentations
 layout: page
-sidenav: group_navigation
+sidenav: events_navigation
 ---
 <ul>     	
   <li><a href="../../assets/docs/bls-cac-presentation-2018-opstal.pdf" target="_blank">BLS CAC Presentation 2018 Opstal</a></li>
