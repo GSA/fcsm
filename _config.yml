@@ -90,7 +90,7 @@ secondary_navigation:
 about_navigation:
   - name: About FCSM
     url: /about/
-  - name: Office of Management and Budget Charter of the Federal Committee on Statistical Methodology
+  - name: Charter
     collapsible: true
     int_url: /charter/
     children:
