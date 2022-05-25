@@ -1,5 +1,5 @@
 ---
-title: Groups
+title: Groups Overview
 layout: page
 sidenav: group_navigation
 ---

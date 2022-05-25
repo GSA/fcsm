@@ -1,6 +1,6 @@
 ---
 permalink: /events/
-title: Events
+title: Events and Proceedings
 layout: page
 sidenav: events_navigation
 ---

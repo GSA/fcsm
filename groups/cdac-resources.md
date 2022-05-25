@@ -6,19 +6,19 @@ sidenav: group_navigation
 <p><strong>CDAC Methodology and Other Reports</strong></p>
 <p>The following are reports selected by CDAC for inclusion on this site. The site is not meant to cover all methodology reports on the topics of confidentiality, privacy, statistical disclosure limitation, and related topics.</p>
 <ul>
-<li><a href="../doc/checklist_799.doc">Checklist on Disclosure Potential of Proposed Data Releases</a> [Word] (July 1999)</li>
-<li><a href="../cdac_checklist.html">Brief Overview of the Checklist</a></li>
-<li><a href="../assets/docs/brochur10.pdf" target="_blank">Brochure - "Confidentiality and Data Access Issues Among Federal Agencies"</a> <img border="0" src="icons/acrobatsm.gif" width="auto" height="auto" hspace="0" vspace="0" align="top" alt="acrobat"> <small> (5.2 MB)</small></li><!------brochur10.pdf---------->
-<li><a href="../assets/docs/CDAC_RAP.pdf" target="_blank">Restricted Access Procedures</a> <img border="0" src="icons/acrobatsm.gif" width="auto" height="auto" hspace="0" vspace="0" align="top" alt="acrobat"> <small> (1.4 MB)</small> <br><!-----CDAC_RAP.pdf--------->
+<li><a href="{{site.baseurl}}/assets/files/doc/checklist_799.doc">Checklist on Disclosure Potential of Proposed Data Releases</a> [Word] (July 1999)</li>
+<li><a href="{{site.baseurl}}/cdac_checklist.html">Brief Overview of the Checklist</a></li>
+<li><a href="{{site.baseurl}}/assets/files/docs/brochur10.pdf" target="_blank">Brochure - "Confidentiality and Data Access Issues Among Federal Agencies"</a> <img border="0" src="icons/acrobatsm.gif" width="auto" height="auto" hspace="0" vspace="0" align="top" alt="acrobat"> <small> (5.2 MB)</small></li><!------brochur10.pdf---------->
+<li><a href="{{site.baseurl}}/assets/files/docs/CDAC_RAP.pdf" target="_blank">Restricted Access Procedures</a> <img border="0" src="icons/acrobatsm.gif" width="auto" height="auto" hspace="0" vspace="0" align="top" alt="acrobat"> <small> (1.4 MB)</small> <br><!-----CDAC_RAP.pdf--------->
 This document discusses methods for providing access to statistical data while limiting the risk of disclosure of confidential information. The methods include Research Data Centers (RDCs), remote access and on-line query systems, research fellowships and post-doctoral programs, and licensing agreements.</li>
-<li><a href="../assets/docs/CDAC_DRB_Panel.pdf" target="_blank">Panel on Disclosure Review Boards of Federal Agencies</a> <img border="0" src="icons/acrobatsm.gif" width="auto" height="auto" hspace="0" vspace="0" align="top" alt="acrobat"> <small> (2.1 MB)</small><!--------CDAC_DRB_Panel.pdf------->
+<li><a href="{{site.baseurl}}/assets/files/docs/CDAC_DRB_Panel.pdf" target="_blank">Panel on Disclosure Review Boards of Federal Agencies</a> <img border="0" src="icons/acrobatsm.gif" width="auto" height="auto" hspace="0" vspace="0" align="top" alt="acrobat"> <small> (2.1 MB)</small><!--------CDAC_DRB_Panel.pdf------->
 <br>
 Characteristics, Defining Qualities and Generalizability (papers presented at the 2000 Joint Statistical Meetings)</li>
-<li><a href="../assets/docs/CDAC_Ident.pdf" target="_blank">Identifiability in Microdata Files</a>: <img border="0" src="icons/acrobatsm.gif" width="auto" height="auto" hspace="0" vspace="0" align="top" alt="acrobat"> <small> (2.0 MB)</small><!-------------CDAC_Ident.pdf----------->
+<li><a href="{{site.baseurl}}/assets/files/docs/CDAC_Ident.pdf" target="_blank">Identifiability in Microdata Files</a>: <img border="0" src="icons/acrobatsm.gif" width="auto" height="auto" hspace="0" vspace="0" align="top" alt="acrobat"> <small> (2.0 MB)</small><!-------------CDAC_Ident.pdf----------->
 <br>
  This document provides an understanding of what variables and types of data might make individual respondents identifiable in a microdata file.</li>
 <li><strong>Disclosure Auditing Software:</strong> Identifies the lower and upper bounds on the values of a withheld (suppressed) cell in a tabular statistical table, among other useful measures.</li>
-<li>"The FCSM Confidentiality and Data Access Committee," Alvan O. Zarate, Jacob Bournazian and Virginia de Wolf Paper presented at the FCSM Statistical Policy Seminar: <a href="../assets/docs/CDAC_paper2000.pdf" target="_blank">Integrating Federal Statistical Information and Processes</a>  (November 8-9, 2000). <img border="0" src="icons/acrobatsm.gif" width="auto" height="auto" hspace="0" vspace="0" align="top" alt="acrobat"> <small> (4.0 MB)</small></li><!---------CDAC_paper2000.pdf------------->
+<li>"The FCSM Confidentiality and Data Access Committee," Alvan O. Zarate, Jacob Bournazian and Virginia de Wolf Paper presented at the FCSM Statistical Policy Seminar: <a href="{{site.baseurl}}/assets/files/docs/CDAC_paper2000.pdf" target="_blank">Integrating Federal Statistical Information and Processes</a>  (November 8-9, 2000). <img border="0" src="icons/acrobatsm.gif" width="auto" height="auto" hspace="0" vspace="0" align="top" alt="acrobat"> <small> (4.0 MB)</small></li><!---------CDAC_paper2000.pdf------------->
 </ul>
 <!--<p><strong>Confidential Information Protection and Statistical Efficiency Act of 2002 (CIPSEA)</strong></p>
 <ul>
