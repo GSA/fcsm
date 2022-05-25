@@ -10,15 +10,15 @@ sidenav: resource_navigation
 
 <h3 class="page-sub-heading">Recent publications and presentations:</h3>
 <ul>
-<li><a href="#" target="_blank">Leveraging the Data Quality Framework Workshop Slides (September 10, 2021)</a></li>
-<li><a href="#" target="_blank">Leveraging the Data Quality Framework Workshop Recording (September 10, 2021)</a></li>
-<li><a href="#" target="_blank">A Framework for Data Quality</a></li>
-<li><a href="#" target="_blank">A Framework for Data Quality (November 2020 presentation)</a></li>
-<li><a href="#" target="_blank">Transparent Reporting for Integrated Data Quality: Practices of Seven Federal Statistical Agencies (2019)</a></li>
-<li><a href="#" target="_blank">Transparent Quality Reporting in the Integration of Multiple Data Sources: A Progress Report (2018)</a></li>
-<li><a href="#" target="_blank">Findings from the Integrated Data Workshops hosted by the Federal Committee on Statistical Methodology and Washington Statistical Society (2018)</a></li>
-<li><a href="#" target="_blank">Transparency in the Reporting of Quality for Integrated Data: A Review of International Standards and Guidelines (2018)</a></li>
-<li><a href="#" target="_blank">Data Quality Assessment Tool for Administrative Data (2013)</a></li>
+<li><a href="https://apps.bea.gov/icsp/fcsm/assets/docs/2021.09.10%20Leveraging%20the%20Data%20Quality%20Framework%20Workshop%20Slides.pdf" target="_blank">Leveraging the Data Quality Framework Workshop Slides (September 10, 2021)</a></li>
+<li><a href="https://apps.bea.gov/icsp/fcsm/assets/audio/Data%20Quality%20Framework.m4v" target="_blank">Leveraging the Data Quality Framework Workshop Recording (September 10, 2021)</a></li>
+<li><a href="https://apps.bea.gov/icsp/fcsm/assets/docs/FCSM.20.04_A_Framework_for_Data_Quality.pdf" target="_blank">A Framework for Data Quality</a></li>
+<li><a href="https://apps.bea.gov/icsp/fcsm/assets/docs/Framework-Data-Quality-November-2020-presentation.pdf" target="_blank">A Framework for Data Quality (November 2020 presentation)</a></li>
+<li><a href="https://apps.bea.gov/icsp/fcsm/assets/docs/Transparent_Reporting_FCSM_19_01_092719.pdf" target="_blank">Transparent Reporting for Integrated Data Quality: Practices of Seven Federal Statistical Agencies (2019)</a></li>
+<li><a href="https://apps.bea.gov/icsp/fcsm/assets/docs/Quality_Integrated_Data.pdf" target="_blank">Transparent Quality Reporting in the Integration of Multiple Data Sources: A Progress Report (2018)</a></li>
+<li><a href="https://apps.bea.gov/icsp/fcsm/assets/docs/Workshop_Summary.pdf" target="_blank">Findings from the Integrated Data Workshops hosted by the Federal Committee on Statistical Methodology and Washington Statistical Society (2018)</a></li>
+<li><a href="https://mathematica.org/publications/transparency-in-the-reporting-of-quality-for-integrated-data-a-review-of-international-standards" target="_blank">Transparency in the Reporting of Quality for Integrated Data: A Review of International Standards and Guidelines (2018)</a></li>
+<li><a href="https://apps.bea.gov/icsp/fcsm/assets/docs/DataQualityAssessmentTool.pdf" target="_blank">Data Quality Assessment Tool for Administrative Data (2013)</a></li>
 </ul>
 
 <p><b>DISCLAIMER:</b> Materials posted on this page are released to inform interested parties of research and to encourage discussion. Opinions expressed are those of the authors and do not necessarily reflect the official position of the FCSM or the participating agencies.</p>

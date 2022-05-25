@@ -152,7 +152,7 @@ resource_navigation:
   - name: Nonresponse Bias
     url: /resources/non-response-bias/
   - name: SOGI
-    url: /resources/sogi/
+    url: /groups/sogi/
 
 events_navigation:
   - name: FCSM Research Conference
