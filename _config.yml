@@ -146,10 +146,6 @@ resource_navigation:
     url: /resources/
   - name: Statistical Policy Working Papers
     url: /resources/statistical-policy-working-papers/
-  # - name: FCSM Research conferences
-  # url: /resources/fcsm-research-conferences/
-  # - name: FCSM Statistical Policy Seminars
-  #   url: /resources/fcsm-conference-seminar-programs-presentations/
   - name: Data Protection Toolkit
     url: /resources/safe-guard-data/
   - name: Data Quality
@@ -157,7 +153,7 @@ resource_navigation:
   - name: Nonresponse Bias
     url: /resources/non-response-bias/
   - name: SOGI
-    url: /resources/sogi/
+    url: /groups/sogi/
 
 events_navigation:
   - name: FCSM Research Conference
