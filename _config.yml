@@ -142,14 +142,14 @@ resource_navigation:
     url: /resources/
   - name: Statistical Policy Working Papers
     url: /resources/statistical-policy-working-papers/
-  - name: Subcommittee on Updating Statistical Methods for Safeguarding Protected Data
+  - name: Data Protection toolkit
     url: /resources/safe-guard-data/
-  - name: Integrated Data Quality Subcommittee
+  - name: Data Quality
     url: /resources/data-quality-subcommittee/
-  - name: Nonresponse Bias Subcommittee
+  - name: Non Responsive Bias
     url: /resources/non-response-bias/
-  - name: Measuring Sexual Orientation and Gender Identity Research Group
-    url: /groups/sogi/
+  - name: SOGI
+    url: /resources/sogi/
 
 events_navigation:
   - name: Research Conference Resources and Proceedings
