@@ -99,6 +99,12 @@ i.e.
   }
 }
 
+.usa-logo__text a {
+  &:hover {
+    text-decoration: none; 
+  }
+}
+
 @media screen and (min-width: 480px) {
   .usa-logo__text img {
     height: 90px;
