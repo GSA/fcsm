@@ -156,11 +156,11 @@ events_navigation:
     url: /events/fcsm-research-conferences/
   - name: FCSM Conference and Seminar Programs and Presentations
     url: /events/fcsm-conference-seminar-programs-presentations/
-  - name: Confidentiality and Data Access Committee (CDAC) Meetings
+  - name: CDAC Meetings
     url: /events/cdac-meetings/
-  - name: Computational Statistics and the Production of Official Statistics (CSPOS) Presentations
+  - name: GASP Presentations
     url: /events/gasp-presentations/
-  - name: Geospatial Interest Group (GIG) Presentations
+  - name: GIG Presentations
     url: /events/gig-presentations/
 
   # - name: FCSM Statistical Policy Seminars
