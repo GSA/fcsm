@@ -3,6 +3,8 @@ title: GASP Presentations
 layout: page
 sidenav: events_navigation
 ---
+<p>The CSPOS interest group holds seminars throughout the year. Recorded seminars (if available) and slides will be posted to this web page. <a href="">Contact</a> the CSPOS Chairs if you want to add content to the page.</p>
+
 <ul>
  <li><a href="{{site.baseurl}}/assets/files/docs/gasp/20181024_GASP_Program.pdf" target="_blank">20181024_GASP_Program.pdf</a></li>
  <li><a href="{{site.baseurl}}/assets/files/docs/gasp/20190923_GASP_Program.pdf" target="_blank">20190923_GASP_Program.pdf</a></li>

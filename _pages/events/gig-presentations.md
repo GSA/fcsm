@@ -4,6 +4,7 @@ subtitle: Presentations
 layout: page
 sidenav: events_navigation
 ---
+
 <ul>
   <li><a href="{{site.baseurl}}/assets/files/docs/bls-cac-presentation-2018-opstal.pdf" target="_blank">BLS CAC Presentation 2018 Opstal</a></li>
   <li><a href="{{site.baseurl}}/assets/files/docs/GeospatialDataQualityEltinge10262018v4.pdf" target="_blank">Geospatial DataQuality - Eltinge</a></li>

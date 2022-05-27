@@ -3,7 +3,17 @@ title: CDAC Meetings
 layout: page
 sidenav: events_navigation
 ---
-<table border="0" cellpadding="0" cellspacing="0">
+<p>The Confidentiality and Data Access Committee (CDAC) is an FCSM interest group focusing on issues related to statistical disclosure limitation (de-identification) and controlled access to confidential data. CDAC's membership primarily includes federal employees from across government who manage their agencies' Disclosure Review Boards and tiered-data access programs. CDAC serves as an information-sharing forum to foster collaboration on current research activities, to explore new research ideas, and to provide assistance to agencies across government on confidentiality and data access issues</p>
+<p>CDAC is sponsored by the Federal Committee on Statistical Methodology to provide a forum for staff members of Federal statistical agencies who work on confidentiality and data access topics to communicate among themselves, exchange ideas, etc.</p>
+<ul>
+  <li><a href="{{site.baseurl}}/groups/cdac-about">About CDAC</a></li>
+  <li><a href="{{site.baseurl}}/groups/cdac-resources">Resources for Confidentiality and Data Access</a></li>
+  <li><a href="{{site.baseurl}}/resources/2017-workshop">2017 Workshop on New Advances in Disclosure Limitation (September 27, 2017)</a></li>
+</ul>
+
+<p>Contact: Michael Hawes, Census, <a href="mailto:michael.b.hawes@census.gov">michael.b.hawes@census.gov</a> </p>
+
+<p><strong>Recording of CDAC Meetings and Workshops:</strong></p><table border="0" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
       <td style="width:130px;">
