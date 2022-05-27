@@ -146,3 +146,11 @@ a {
     }
   }
 }
+
+.usa-nav__sidenav-item {
+  .usa-sidenav {
+    .usa-nav__sidenav-item a {
+      margin-left: 1em;
+    }
+  }
+}
