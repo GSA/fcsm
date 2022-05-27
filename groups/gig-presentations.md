@@ -1,5 +1,8 @@
 ---
 title: "Geospatial Interest Group (GIG): Presentations"
+title: Geospatial Interest Group (GIG)
+subtitle: Presentations
+>>>>>>> Put this back
 layout: page
 sidenav: group_navigation
 ---
@@ -11,5 +14,7 @@ sidenav: group_navigation
     <li><a href="{{site.baseurl}}/assets/files/docs/GeospatialDataQualityEltinge10262018v4.pdf" target="_blank">Geospatial DataQuality - Eltinge</a></li>
     <li><a href="{{site.baseurl}}/assets/files/docs/FCSM_GIG_2018_Tribby.pdf" target="_blank">FCSM GIG 2018 Tribby</a></li>
   </ul>
-  <p> <strong>DISCLAIMER</strong>: Materials posted on this page are released to inform interested parties of research and to encourage discussion. Opinions expressed are those of the authors and do not necessarily reflect the official position of the FCSM or the participating agencies. </p>
+</div>
+
+<p> <strong>DISCLAIMER</strong>: Materials posted on this page are released to inform interested parties of research and to encourage discussion. Opinions expressed are those of the authors and do not necessarily reflect the official position of the FCSM or the participating agencies. </p>
 </div>
