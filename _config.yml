@@ -152,9 +152,9 @@ resource_navigation:
     url: /resources/sogi/
 
 events_navigation:
-  - name: Research Conference Resources and Proceedings
+  - name: FCSM Research Conferences
     url: /events/fcsm-research-conferences/
-  - name: FCSM Conference and Seminar Programs and Presentations
+  - name: Past FCSM Statistical Policy Seminars
     url: /events/fcsm-conference-seminar-programs-presentations/
   - name: CDAC Meetings
     url: /events/cdac-meetings/
