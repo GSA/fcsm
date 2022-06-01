@@ -15,13 +15,6 @@ GIT
       sassc (>= 1.11, < 3.0)
       sprockets (~> 4.0.beta7)
 
-GIT
-  remote: https://github.com/eventmachine/eventmachine.git
-  revision: 9cb13a8a62363df5ebcc414169a3deb2c1608528
-  tag: v1.2.7
-  specs:
-    eventmachine (1.2.7)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -42,6 +35,7 @@ GEM
       http_parser.rb (~> 0)
     ethon (0.15.0)
       ffi (>= 1.15.0)
+    eventmachine (1.2.7)
     execjs (2.7.0)
     extras (0.3.0)
       forwardable-extended (~> 2.5)
@@ -141,7 +135,7 @@ PLATFORMS
 
 DEPENDENCIES
   autoprefixer-rails
-  eventmachine (= 1.2.7)!
+  eventmachine (= 1.2.7)
   execjs (= 2.7.0)
   html-proofer (~> 3.18)
   jekyll (~> 4.0)

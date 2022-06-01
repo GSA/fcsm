@@ -4,7 +4,7 @@ ruby '>= 2.6.4'
 gem "jekyll", "~> 4.0"
 gem "execjs", "2.7.0" # https://github.com/rails/execjs/issues/99
 gem "autoprefixer-rails"
-gem 'eventmachine', '1.2.7', git: 'https://github.com/eventmachine/eventmachine.git', tag: 'v1.2.7'
+gem 'eventmachine', '1.2.7'
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.15"
