@@ -26,34 +26,34 @@ sidenav: group_navigation
   This is the first working paper in a series authored by the Federal Interagency Working Group on Improving Measurement of Sexual Orientation and Gender Identity (SOGI). It describes how the concepts of sexual orientation and gender identity are currently measured in U.S. Federal surveys.</li>
 
   <li style="padding-bottom: 20px;"><a href="{{site.baseurl}}/assets/files/docs/MRFHS_StatisticalPolicyWorkingPaper201408.pdf" target="_blank">Improved Measurement of Household Relationships in Federal Surveys: Measuring Same-Sex Co-Residential Relationships (2014)</a>
-This working paper summarizes the initial work of the Interagency Working Group on Measuring Relationships in Federal Household Surveys, which has focused on the measurement of same?sex married and unmarried couples living in the same household. It addresses the measurement of household relationships, the use of these data, as well as the development and initial testing of new measures for household relationships in Federal surveys.</li>
+This working paper summarizes the initial work of the Interagency Working Group on Measuring Relationships in Federal Household Surveys, which has focused on the measurement of same-sex married and unmarried couples living in the same household. It addresses the measurement of household relationships, the use of these data, as well as the development and initial testing of new measures for household relationships in Federal surveys.</li>
 </ul>
 
-<p><strong>Federal&nbsp;Resources</strong></p>
+<p><strong>Federal Resources</strong></p>
 
-<p><a href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdpcpsi.nih.gov%2Fsgmro&amp;data=04%7C01%7C%7C6194f3f1f93d432dc13308d90374e924%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C0%7C0%7C637544622935464721%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=Cpw4kotYwUW1urvH9GjjaH%2FBxJBdLYU8PPg35bbTgEQ%3D&amp;reserved=0"><strong>NIH Sexual &amp; Gender Minority Research Office</strong></a>&nbsp;</p>
+<p><a href="https://dpcpsi.nih.gov/sgmro"><strong>NIH Sexual &amp; Gender Minority Research Office</strong></a></p>
 
-<p>The Sexual &amp; Gender Minority Research Office (SGMRO) coordinates sexual and gender minority (SGM)-related research and activities by working directly with the NIH Institutes, Centers, and Offices. Their website provides a number of resources, including publications, information about SGM measurement and data collection, and webinars.&nbsp; &nbsp;</p>
+<p>The Sexual &amp; Gender Minority Research Office (SGMRO) coordinates sexual and gender minority (SGM)-related research and activities by working directly with the NIH Institutes, Centers, and Offices. Their website provides a number of resources, including publications, information about SGM measurement and data collection, and webinars.</p>
 
-<p><a href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhealth.gov%2Fhealthypeople&amp;data=04%7C01%7C%7C6194f3f1f93d432dc13308d90374e924%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C0%7C0%7C637544622935464721%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=iISeHAXn%2B2EQlTBNxYVBQbuVCHecAdg3vJm%2BFTKVqN0%3D&amp;reserved=0"><strong>Healthy People 2030</strong></a>&nbsp;</p>
+<p><a href="https://health.gov/healthypeople"><strong>Healthy People 2030</strong></a></p>
 
-<p>Healthy People identifies public health priorities to help individuals, organizations, and communities across the United States improve health and well-being. Healthy People 2030, the initiative's fifth iteration, builds on knowledge gained over the first four&nbsp;decades.&nbsp;</p>
+<p>Healthy People identifies public health priorities to help individuals, organizations, and communities across the United States improve health and well-being. Healthy People 2030, the initiative's fifth iteration, builds on knowledge gained over the first four decades.</p>
 
-<p><a href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cms.gov%2FAbout-CMS%2FAgency-Information%2FOMH%2Fresource-center%2Fhcps-and-researchers%2Fdata-tools%2Fsgm-clearinghouse&amp;data=04%7C01%7C%7C6194f3f1f93d432dc13308d90374e924%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C0%7C0%7C637544622935474677%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=7WvH6n%2BbF5UZquA4ENS%2BUiO9HDXmGE%2FYprz156NJ4es%3D&amp;reserved=0"><strong>CMS Sexual and Gender Minority Clearinghouse</strong></a>&nbsp;</p>
+<p><a href="https://www.cms.gov/About-CMS/Agency-Information/OMH/resource-center/hcps-and-researchers/data-tools/sgm-clearinghouse"><strong>CMS Sexual and Gender Minority Clearinghouse</strong></a></p>
 
-<p>The Sexual and Gender Minority (SGM) Clearinghouse is designed to help improve the understanding of sexual and gender minority health and disparities, and provide information on health care access, health-related risk behaviors, chronic health conditions, and use of preventive services. Use this Clearinghouse as a resource to find surveys that include questions about sexual identity, attraction, and behavior. It also includes data on gender identity and household relationships.&nbsp;</p>
+<p>The Sexual and Gender Minority (SGM) Clearinghouse is designed to help improve the understanding of sexual and gender minority health and disparities, and provide information on health care access, health-related risk behaviors, chronic health conditions, and use of preventive services. Use this Clearinghouse as a resource to find surveys that include questions about sexual identity, attraction, and behavior. It also includes data on gender identity and household relationships.</p>
 
 <p>&nbsp;</p>
 
-<p><strong>Non-Federal&nbsp;Resources</strong></p>
+<p><strong>Non-Federal Resources</strong></p>
 
-<p><a href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwilliamsinstitute.law.ucla.edu%2Fabout%2Fwho-we-are%2F&amp;data=04%7C01%7C%7C6194f3f1f93d432dc13308d90374e924%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C0%7C0%7C637544622935474677%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=PweGIgotr2N3MgEX2JzeVFlFAmtxGQJtsdyzQAuh76Y%3D&amp;reserved=0"><strong>The Williams Institute</strong></a>&nbsp;</p>
+<p><a href="https://williamsinstitute.law.ucla.edu/about/who-we-are/"><strong>The Williams Institute</strong></a></p>
 
-<p>The Williams Institute is dedicated to conducting rigorous, independent research on sexual orientation and gender identity law and public policy. The Institute disseminates its research to policymakers, judges, the media, and other stakeholders to ensure that decisions impacting the lives of millions of LGBT people and families are based on data and facts.&nbsp;</p>
+<p>The Williams Institute is dedicated to conducting rigorous, independent research on sexual orientation and gender identity law and public policy. The Institute disseminates its research to policymakers, judges, the media, and other stakeholders to ensure that decisions impacting the lives of millions of LGBT people and families are based on data and facts.</p>
 
-<p><a href="https://gcc02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fhealthpolicy.ucla.edu%2Fchis%2FPages%2Fdefault.aspx&amp;data=04%7C01%7C%7C6194f3f1f93d432dc13308d90374e924%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C0%7C0%7C637544622935484638%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=VDrfbbdf10XKNYm5mil1uETLQnH3I2VLN4aKbOznKuY%3D&amp;reserved=0"><strong>California Health Interview Survey</strong></a>&nbsp;</p>
+<p><a href="http://healthpolicy.ucla.edu/chis/Pages/default.aspx"><strong>California Health Interview Survey</strong></a></p>
 
-<p>The California Health Interview Survey (CHIS) is the nation's largest state health survey and a critical source of data on Californians as well as on the state's various racial and ethnic groups. Policymakers, researchers, health experts, members of the media and others depend on CHIS for credible and comprehensive data on the health of Californians.&nbsp;</p>
+<p>The California Health Interview Survey (CHIS) is the nation's largest state health survey and a critical source of data on Californians as well as on the state's various racial and ethnic groups. Policymakers, researchers, health experts, members of the media and others depend on CHIS for credible and comprehensive data on the health of Californians.</p>
 
 
 <!-- GOES ON THE DATA QUALITY PAGE!!!!!!!
