@@ -3,7 +3,9 @@ title: GASP Presentations
 layout: page
 sidenav: events_navigation
 ---
-<p>The CSPOS interest group holds seminars throughout the year. Recorded seminars (if available) and slides will be posted to this web page. <a href="">Contact</a> the CSPOS Chairs if you want to add content to the page.</p>
+<p>The major product from the FCSM CSPOS group is the premier conference Government Advances in Statistical Programming (GASP!). GASP! Is an annual event with the first one starting in the fall of 2018. It attracts speakers and attendees from government, academia, and industry. Presentations showcase the innovative applications and problems being addressed in the government. The 2021 GASP! Conference is planned for the fall of 2021.</p>
+
+<p>Video presentations can be <a href="https://www.youtube.com/playlist?list=PLqsWXJV2Utrf6Yq7fhef8p4piM8M-ZTK3" target="_blank">found on YouTube</a>.</p>
 
 <ul>
  <li><a href="{{site.baseurl}}/assets/files/docs/gasp/20181024_GASP_Program.pdf" target="_blank">20181024_GASP_Program.pdf</a></li>
