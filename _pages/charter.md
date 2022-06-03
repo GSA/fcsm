@@ -64,70 +64,70 @@ sidenav: about_navigation
 </ol>
 
 <h2 id="signatures"><b>VII. Signatures of ICSP Members</b></h2>
-<div class="grid-container">
-  <div class="grid-row">
-    <div class="grid-col-6 text-bold">ICSP Agency Name</div>
-    <div class="grid-col-6 text-bold">ICSP Agency Head Name</div>
-  </div>
-  <div class="grid-row">
-    <div class="grid-col-6">Office of Management and Budget</div>
-    <div class="grid-col-6">Nancy Potok</div>
-  </div>
-  <div class="grid-row">
-    <div class="grid-col-6">Bureau of the Census</div>
-    <div class="grid-col-6">Ron Jarmin</div>
-  </div>
-  <div class="grid-row">
-    <div class="grid-col-6">Bureau of Economic Analysis</div>
-    <div class="grid-col-6">Brian Moyer</div>
-  </div>
-  <div class="grid-row">
-    <div class="grid-col-6">Bureau of Justice Statistics</div>
-    <div class="grid-col-6">Jeri Mulrow</div>
-  </div>
-  <div class="grid-row">
-    <div class="grid-col-6">Bureau of Labor Statistics</div>
-    <div class="grid-col-6">William Wiatrowski</div>
-  </div>
-  <div class="grid-row">
-    <div class="grid-col-6">Bureau of Transportation Statistics</div>
-    <div class="grid-col-6">Patricia Hu</div>
-  </div>
-  <div class="grid-row">
-    <div class="grid-col-6">Economic Research Service</div>
-    <div class="grid-col-6">Mary Bohman</div>
-  </div>
-  <div class="grid-row">
-    <div class="grid-col-6">Energy Information Administration</div>
-    <div class="grid-col-6">John Conti</div>
-  </div>
-  <div class="grid-row">
-    <div class="grid-col-6">National Agricultural Statistics Service</div>
-    <div class="grid-col-6">Hubert Hamer</div>
-  </div>
-  <div class="grid-row">
-    <div class="grid-col-6">National Center for Education Statistics</div>
-    <div class="grid-col-6">Peggy Carr</div>
-  </div>
-  <div class="grid-row">
-    <div class="grid-col-6">National Center for Health Statistics</div>
-    <div class="grid-col-6">Charles Rothwell</div>
-  </div>
-  <div class="grid-row">
-    <div class="grid-col-6">National Center for Science and Engineering Statistics,<br> National Science Foundation</div>
-    <div class="grid-col-6">John Gawalt</div>
-  </div>
-  <div class="grid-row">
-    <div class="grid-col-6">Office of Research, Evaluation, and Statistics, Social Security Administration</div>
-    <div class="grid-col-6">John Phillips</div>
-  </div>
-  <div class="grid-row">
-    <div class="grid-col-6">Statistics of Income Division, Internal Revenue Service</div>
-    <div class="grid-col-6">Barry Johnson</div>
-  </div>
-  <div class="grid-row">
-    <div class="grid-col-6">Statistics and Analytics Service, Office of Enterprise Integration, Department of Veterans Affairs</div>
-    <div class="grid-col-6">Tom Garin</div>
-  </div>
-</div>
+<table>
+  <tr>
+    <td width="50%">ICSP Agency Name</td>
+    <td>ICSP Agency Head Name</td>
+  </tr>
+  <tr>
+    <td>Office of Management and Budget</td>
+    <td>Nancy Potok</td>
+  </tr>
+  <tr>
+    <td>Bureau of the Census</td>
+    <td>Ron Jarmin</td>
+  </tr>
+  <tr>
+    <td>Bureau of Economic Analysis</td>
+    <td>Brian Moyer</td>
+  </tr>
+  <tr>
+    <td>Bureau of Justice Statistics</td>
+    <td>Jeri Mulrow</td>
+  </tr>
+  <tr>
+    <td>Bureau of Labor Statistics</td>
+    <td>William Wiatrowski</td>
+  </tr>
+  <tr>
+    <td>Bureau of Transportation Statistics</td>
+    <td>Patricia Hu</td>
+  </tr>
+  <tr>
+    <td>Economic Research Service</td>
+    <td>Mary Bohman</td>
+  </tr>
+  <tr>
+    <td>Energy Information Administration</td>
+    <td>John Conti</td>
+  </tr>
+  <tr>
+    <td>National Agricultural Statistics Service</td>
+    <td>Hubert Hamer</td>
+  </tr>
+  <tr>
+    <td>National Center for Education Statistics</td>
+    <td>Peggy Carr</td>
+  </tr>
+  <tr>
+    <td>National Center for Health Statistics</td>
+    <td>Charles Rothwell</td>
+  </tr>
+  <tr>
+    <td>National Center for Science and Engineering Statistics,<br> National Science Foundation</td>
+    <td>John Gawalt</td>
+  </tr>
+  <tr>
+    <td>Office of Research, Evaluation, and Statistics, Social Security Administration</td>
+    <td>John Phillips</td>
+  </tr>
+  <tr>
+    <td>Statistics of Income Division, Internal Revenue Service</td>
+    <td>Barry Johnson</td>
+  </tr>
+  <tr>
+    <td>Statistics and Analytics Service, Office of Enterprise Integration, Department of Veterans Affairs</td>
+    <td>Tom Garin</td>
+  </tr>
+</table>
 <p class="text-base">(Revised December 2017)</p>
