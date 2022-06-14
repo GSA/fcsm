@@ -4,7 +4,7 @@ layout: page
 sidenav: resource_navigation
 ---
 
-<h2 class="page-sub-title">Subcommittee on Updating Statistical Methods for Safeguarding Protected Data</h2>
+<h2 class="page-sub-title">Overview</h2>
 
 <p>The Subcommittee on Updating Statistical Methods for Safeguarding Protected Data was established for the purpose of revising and expanding Statistical Policy Working Paper #22 (SPWP22) “Report on Statistical Disclosure Limitation Methodology.” Since it was first drafted in 1994, and its revision in 2005, SPWP22 has been the principal resource for federal agencies and others regarding the mechanisms that agencies can use to protect confidentiality while promoting data access. Federal agencies, both within and outside the statistical system, collect large amounts of confidential data about individuals, businesses, and other organizations. Agencies have both a legal and ethical obligation to protect the confidentiality of these data, but they also have an obligation to make these data available, to the maximum extent possible, for uses that would benefit society at large. SPWP22 explores the challenges of navigating the countervailing obligations of providing meaningful access to data for research, evaluation, and evidence-based policymaking, while simultaneously protecting the confidentiality of the individuals and organizations from (or about) whom the data were collected.</p>
 

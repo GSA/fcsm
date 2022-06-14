@@ -4,7 +4,7 @@ layout: page
 sidenav: resource_navigation
 ---
 
-<h2 class="page-sub-title">Integrated Data Quality Subcommittee</h2>
+<h2 class="page-sub-title">Overview</h2>
 
 <p>This subcommittee seeks to recommend best practices for assessing and communicating data quality from surveys, administrative records, sensors, and other sources that are used individually and together in statistical estimates. The subcommittee has reviewed methods used in the Federal Statistical System for documenting and publicizing data quality and has sponsored several activities on data quality, including workshops, a report on international data quality standards, and a case-study report on current practice and customer perspectives. A framework for identifying and reporting data quality was released in 2020. Further investigations of measuring data quality, particularly for integrated data, and the development of research priorities are planned.</p>
 
