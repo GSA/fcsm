@@ -5,7 +5,7 @@ layout: page
 sidenav: resource_navigation
 ---
 
-<h2 class="page-sub-title">Nonresponse Bias Subcommittee</h2>
+<h2 class="page-sub-title">Overview</h2>
 
 <p>The FCSM Nonresponse Bias Subcommittee was chartered by the FCSM in 2016, ten years after the publication of the Office of Management and Budget (OMB) <a href="https://unstats.un.org/unsd/dnss/docs-nqaf/USA_standards_stat_surveys.pdf" target="_blank">Standards and Guidelines for Statistical Surveys</a>. The OMB Standards and Guidelines for Statistical Surveys require all Federal surveys with a unit response rate of less than 80 percent to conduct an analysis of nonresponse bias (NRB). Since 2006, US Federal agencies, contractors, and data users have produced hundreds of NRB reports. However, the analytical and reporting practices for NRB have varied widely within and across agencies. The Subcommittee was chartered to advance the availability, comparability and quality of NRB analyses. </p>
 

@@ -50,6 +50,14 @@ i.e.
 @import "menu-collapsible.scss";
 @import "carousel.scss";
 
+h2, h3, h4 {
+  font-family: Merriweather Web, Georgia, Cambria, Times New Roman, Times, serif !important;
+}
+
+.usa-prose>h2 {
+  font-size: 1.8rem !important;
+}
+
 // default mode hide banner
 .usa-banner__content {
   display: hidden;
@@ -106,12 +114,20 @@ i.e.
 }
 
 @media screen and (min-width: 480px) {
-  .usa-logo__text img {
-    height: 90px;
-  }
-  
   .mobile-lg\:width-1\/2 { 
     width: 50%;
+  }
+}
+
+@media screen and (min-width: 1025px) {
+  .usa-logo__text img {
+    max-width: 85%;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .usa-logo__text img {
+    height: 90px;
   }
 }
 

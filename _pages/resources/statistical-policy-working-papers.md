@@ -4,7 +4,7 @@ layout: page
 sidenav: resource_navigation
 ---
 
-<h2 class="page-sub-title">Statistical Policy Working Papers</h2>
+<h2 class="page-sub-title">Overview</h2>
 
 <p>Statistical Policy Working Papers are prepared by FCSM members or FCSM subcommittees. These working papers have been seen and approved by the Chief Statistician at the U.S. Office of Management and Budget (OMB). Like other FCSM products, these papers convey the insights and best practices garnered from FCSM members, their agencies across the federal statistical system.</p>
 
