@@ -10,7 +10,7 @@ sidenav: events_navigation
   <h2 class="page-sub-title">2015 Research Conference</h2>
 
   <p>Washington Convention Center, Washington, DC<br>December 1-3, 2015</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"><strong>FINAL PROGRAM</strong></a>  <small> (440.0 MB)</small></p>
+  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/COPAFS-2015-FCSM-Rseach-Final-Program111115.pdf" target="_blank"><strong>FINAL PROGRAM</strong></a>  <small> (440.0 MB)</small></p>
   <p><strong>Resources and Proceedings</strong><br>
   Unless noted, all of these documents are in Portable Document Format [PDF].
   </p>
@@ -49,7 +49,7 @@ sidenav: events_navigation
   James Wagner (University of Michigan)<br>
   Brady West (University of Michigan)</p>
 
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" rel="">Designing Web Surveys for Different Screen Sizes and Operating Systems: What Respondents are Using</a> <small> (440.0 MB)</small></p><!--------"pdf/A2_Tortora_2015FCSM.pdf------>
+  <p style="width:50%;">Designing Web Surveys for Different Screen Sizes and Operating Systems: What Respondents are Using <small> (440.0 MB)</small></p><!--------"pdf/A2_Tortora_2015FCSM.pdf------>
 
   <p class="indent">Robert Tortora (ICF International)</p>
   <p>Characteristics of the Population of Internet Panel Members</p>
@@ -59,11 +59,11 @@ sidenav: events_navigation
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION A-3:<br>
   NONRESPONSE ADJUSTMENT AND VARIANCE ESTIMATION</div>
 
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" rel="">JOLTS Variance Estimation to Account for JOLTS-CES Alignment</a> <small> (440.0 MB)</small></p><!--------A3_Crankshaw_2015FCSM.pdf----->
+  <p style="width:50%;">JOLTS Variance Estimation to Account for JOLTS-CES Alignment <small> (440.0 MB)</small></p><!--------A3_Crankshaw_2015FCSM.pdf----->
   <p class="indent">Mark Crankshaw (Bureau of Labor Statistics)<br>
   Michael Sverchkov (Bureau of Labor Statistics)</p>
 
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" rel="">Linearization Variance Estimators for Mixed-mode Survey Data When Response Indicators are Modeled as Discrete-time Survival</a><br>
+  <p style="width:50%;">Linearization Variance Estimators for Mixed-mode Survey Data When Response Indicators are Modeled as Discrete-time Survival<br>
   <small> (440.0 MB)</small></p><!-----A3_Demnati_2015FCSM.pdf--------->
   <p class="indent">Abdellatif Demnati (Independent Consultant)</p>
 
@@ -134,7 +134,7 @@ sidenav: events_navigation
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION B-3:<br>
   IMPROVEMENTS IN SURVEY ESTIMATION METHODOLOGY</div>
 
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" rel="">Some Thoughts on Fitting Regression Models to Complex Survey Data</a> <small> (440.0 MB)</small></p><!-------B3_Kott_2015FCSM.pdf------->
+  <p style="width:50%;">Some Thoughts on Fitting Regression Models to Complex Survey Data<small> (440.0 MB)</small></p><!-------B3_Kott_2015FCSM.pdf------->
 
   <p class="indent">Phillip Kott (RTI International)</p>
   <p>Comparative Study of Confidence Intervals for Proportions in Complex Sample Surveys</p>
@@ -194,14 +194,12 @@ sidenav: events_navigation
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/C2_Fox_2015FCSM.pdf" rel="">The Science of Usability Testing</a> <small> (22.0 MB)</small></p><!------C2_Fox_2015FCSM.pdf-------->
   <p class="indent">Jean Fox (Bureau of Labor Statistics)</p>
 
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" rel="">Using Graphics to Convey Complex Survey Concepts – Part 1</a>,  <small> (440.0 MB)</small><!-------pdf/C2_StOnge1_2015FCSM.pdf------->
-
-  <a href="{{site.baseurl}}/assets/files/docs/C2_StOnge2_2015FCSM.pdf" rel="">Part 2</a>  <small> (265.0 MB)</small></p><!-----C2_StOnge2_2015FCSM.pdf--------->
+  <p style="width:50%;">Using Graphics to Convey Complex Survey Concepts – Part 1,  <small> (440.0 MB)</small><!-------pdf/C2_StOnge1_2015FCSM.pdf------->Part 2  <small> (265.0 MB)</small></p><!-----C2_StOnge2_2015FCSM.pdf--------->
 
   <p class="indent">Heidi St.Onge (U.S. Census Bureau)<br>
   Rebecca Morrison (National Science Foundation)</p>
 
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" rel="">Using Eye-tracking to Understand how Fourth Grade Students Answer Matrix Items</a>  <small> (440.0 MB)</small></p><!--------pdf/C2_Maitland_2015FCSM.pdf------>
+  <p style="width:50%;">Using Eye-tracking to Understand how Fourth Grade Students Answer Matrix Items  <small> (440.0 MB)</small></p><!--------pdf/C2_Maitland_2015FCSM.pdf------>
 
   <p class="indent">Aaron Maitland (Westat)<br>
   Hanyu Sun (Westat)<br>
@@ -210,7 +208,7 @@ sidenav: events_navigation
   Jonas Bertling (Educational Testing Service)<br>
   Debby Almonte (Educational Testing Service)</p>
 
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" rel="">Reliability Testing of the Walking Environment Module</a>  <small> (440.0 MB)</small></p><!-----C2_Fowler_2015FCSM.pdf--------->
+  <p style="width:50%;">Reliability Testing of the Walking Environment Module  <small> (440.0 MB)</small></p><!-----C2_Fowler_2015FCSM.pdf--------->
 
   <p class="indent">Stephanie Fowler (National Cancer Institute)<br>
   Gordon Willis (National Cancer Institute)<br>
@@ -232,7 +230,7 @@ sidenav: events_navigation
   Nancy Sonnenfeld (Centers for Medicare and Medicaid Services)<br>
   Mihir Patel (Centers for Medicare and Medicaid Services)</p>
 
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" rel="">A Bayesian Hierarchical Model for Combining Several Crop Yield Indications</a>  <small> (440.0 MB)</small></p><!---------pdf/C3_Cruze_2015FCSM.pdf----->
+  <p style="width:50%;">A Bayesian Hierarchical Model for Combining Several Crop Yield Indications  <small> (440.0 MB)</small></p><!---------pdf/C3_Cruze_2015FCSM.pdf----->
 
   <p class="indent">Nathan Cruze (National Agricultural Statistics Service)</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION C-4:<br>
@@ -242,7 +240,7 @@ sidenav: events_navigation
   Stephanie Coffey (U.S. Census Bureau)<br>
   Benjamin Reist (U.S. Census Bureau)</p>
 
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" rel="">Investigating Nonresponse Subsampling in an Establishment Survey Through Embedded Experiments</a>  <small> (440.0 MB)</small></p><!--pdf/C4_Thompson_2015FCSM.pdf----------->
+  <p style="width:50%;">Investigating Nonresponse Subsampling in an Establishment Survey Through Embedded Experiments <small> (440.0 MB)</small></p><!--pdf/C4_Thompson_2015FCSM.pdf----------->
 
   <p class="indent">Katherine Jenny Thompson (U.S. Census Bureau)<br>
   Stephen Kaputa (U.S. Census Bureau)</p>
@@ -258,7 +256,7 @@ sidenav: events_navigation
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION D-1:<br>
   IMPUTATION, MULTIPLE IMPUTATION AND ADMINISTRATIVE RECORDS</div>
 
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" rel="">Treatment of Missing Data in Hierarchically-Structured Administrative Records: A Case Study in the Bakken Region Using FBI’s National Incident Based Reporting System</a>  <small> (440.0 MB)</small></p><!--------pdf/D1_Liao_2015FCSM.pdf------>
+  <p style="width:50%;">Treatment of Missing Data in Hierarchically-Structured Administrative Records: A Case Study in the Bakken Region Using FBI’s National Incident Based Reporting System <small> (440.0 MB)</small></p><!--------pdf/D1_Liao_2015FCSM.pdf------>
 
   <p class="indent">Dan Liao (RTI International)<br>
   Marcus Berzofsky (RTI International)<br>
@@ -273,14 +271,14 @@ sidenav: events_navigation
   Joanna Motro (U.S. Census Bureau)<br>
   Martha Stinson (U.S. Census Bureau)</p>
 
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" rel="">Comparison of Modern Imputation Methodologies on Complex Data from Agricultural Operations</a>  <small> (440.0 MB)</small></p><!----pdf/D1_Miller_2015FCSM.pdf---------->
+  <p style="width:50%;">Comparison of Modern Imputation Methodologies on Complex Data from Agricultural Operations  <small> (440.0 MB)</small></p><!----pdf/D1_Miller_2015FCSM.pdf---------->
 
   <p class="indent">Darcy Miller (National Agricultural Statistics Service)<br>
   Andrew Dau (National Agricultural Statistics Service)</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION D-2:<br>
   DEMONSTRATIONS ON DATA VISUALIZATION AND METADATA SYSTEMS</div>
 
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" rel="">Demonstrations on Data Visualizations and Metadata Systems</a>  <small> (440.0 MB)</small></p><!------pdf/D2_Hait_2015FCSM.pdf-------->
+  <p style="width:50%;">Demonstrations on Data Visualizations and Metadata Systems  <small> (440.0 MB)</small></p><!------pdf/D2_Hait_2015FCSM.pdf-------->
   <p class="indent">Andrew Hait (U.S. Census Bureau)</p>
 
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/D2_Vilhuber_2015FCSM.pdf" rel="">Crowdsourcing Codebook Enhancements: A DDI-based Approach</a>  <small> (165.0 MB)</small></p><!-------D2_Vilhuber_2015FCSM.pdf------->
@@ -298,7 +296,7 @@ sidenav: events_navigation
   Jeffrey M. Gonzalez (Bureau of Labor Statistics)<br>
   Wendy Martinez (Bureau of Labor Statistics)</p>
 
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" rel="">Interactive Web Visualization of Birth and Pregnancy Trends by Maternal Age, Race/Ethnicity, and Marital States: United States, 1909-2013</a>  <small> (440.0 MB)</small></p><!--------pdf/D2_Lu_2015FCSM.pdf------>
+  <p style="width:50%;">Interactive Web Visualization of Birth and Pregnancy Trends by Maternal Age, Race/Ethnicity, and Marital States: United States, 1909-2013  <small> (440.0 MB)</small></p><!--------pdf/D2_Lu_2015FCSM.pdf------>
 
   <p class="indent">Li Lu (National Center for Health Statistics)<br>
   Yinong Chong (National Center for Health Statistics)<br>
@@ -307,7 +305,7 @@ sidenav: events_navigation
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION D-3:<br>
   INNOVATIVE RECRUITING AND QUESTIONNAIRE TESTING METHODS</div>
 
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">How Do We Bring Them In?: A Case Study in Using Non-Traditional Approaches to Recruiting Focus Group Participants</a>  <small> (440.0 MB)</small></p><!------pdf/D3_Schaad_2015FCSM.pdf-------->
+  <p style="width:50%;">How Do We Bring Them In?: A Case Study in Using Non-Traditional Approaches to Recruiting Focus Group Participants  <small> (440.0 MB)</small></p><!------pdf/D3_Schaad_2015FCSM.pdf-------->
 
   <p class="indent">Ashley Schaad (ICF International)<br>
   Rikki Welch (ICF International)</p>
@@ -325,7 +323,7 @@ sidenav: events_navigation
   Chris Krebs (RTI International)<br>
   Christine Lindquist (RTI International)</p>
 
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" rel="">Modeling the Effect of Diverse Communication Strategies on Decennial Census Test Response Rates</a>  <small> (440.0 MB)</small></p><!---pdf/D3_Walejko_2015FCSM.pdf-------------->
+  <p style="width:50%;">Modeling the Effect of Diverse Communication Strategies on Decennial Census Test Response Rates  <small> (440.0 MB)</small></p><!---pdf/D3_Walejko_2015FCSM.pdf-------------->
 
   <p class="indent">Gina Walejko (U.S. Census Bureau)<br>
   Nancy Bates (U.S. Census Bureau)<br>
@@ -347,7 +345,7 @@ sidenav: events_navigation
   <p class="indent">Nestor Rodriguez (Economic Research Service)<br>
   James Eales (Purdue University)</p>
 
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" rel="">Measuring Single-Year Poverty Transitions: Opportunities and Limitations</a> <small> (440.0 MB)</small></p><!----------------------pdf/D4_Edwards_2015FCSM.pdf---->
+  <p style="width:50%;">Measuring Single-Year Poverty Transitions: Opportunities and Limitations <small> (440.0 MB)</small></p><!----------------------pdf/D4_Edwards_2015FCSM.pdf---->
 
   <p class="indent">Ashley Edwards (U.S. Census Bureau)</p>
   <p>Improving NASS’s Crop Yield Forecasts</p>
@@ -382,13 +380,13 @@ sidenav: events_navigation
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION E-2:<br>
   INNOVATIONS IN SAMPLE DESIGN</div>
 
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" rel="">Optimal Stratification and Allocation for the June Area Survey</a>  <small> (440.0 MB)</small></p><!------------pdf/E2_Lisic_2015FCSM.pdf---------->
+  <p style="width:50%;">Optimal Stratification and Allocation for the June Area Survey  <small> (440.0 MB)</small></p><!------------pdf/E2_Lisic_2015FCSM.pdf---------->
 
   <p class="indent">Jonathan Lisic (National Agricultural Statistics Service)<br>
   Hejian Sang (Iowa State University)<br>
   Zhengyuan Zhu (Iowa State University)<br>
   Stephanie Zimmer (Iowa State University)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" rel="">NHTSA’s Data Modernization Project</a>  <small> (440.0 MB)</small></p><!----pdf/E2_Zhang_2015FCSM.pdf--->
+  <p style="width:50%;">NHTSA’s Data Modernization Project  <small> (440.0 MB)</small></p><!----pdf/E2_Zhang_2015FCSM.pdf--->
 
   <p class="indent">Fan Zhang (National Highway Traffic Safety Administration)<br>
   Chou-Lin Chen (National Highway Traffic Safety Administration)<br>
@@ -498,7 +496,7 @@ sidenav: events_navigation
   Li Zhu (National Institute of Health)<br>
   David Berrigan (National Institute of Health)</p>
 
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/F4_Rossen_2015FCSM.pdf" rel="">Integrating Geospatial and Public Health Data: Examples Using National Center for Health Statistics Data Systems</a>  <small> (30.6 MB)</small></p><!-------------pdf/F4_Rossen__2015FCSM.pdf------>
+  <p style="width:50%;">Integrating Geospatial and Public Health Data: Examples Using National Center for Health Statistics Data Systems  <small> (30.6 MB)</small></p><!-------------pdf/F4_Rossen__2015FCSM.pdf------>
   <p class="indent">Lauren Rossen (National Center for Health Statistics) Patsy Lloyd (National Center for Health Statistics)</p>
 
   <p>Geospatial Data for Statistical Use From the U.S. Department of Transportation</p>
@@ -547,12 +545,12 @@ sidenav: events_navigation
   Phillip Kott (RTI International)<br>
   Stephanie Zimmer (RTI International)<br>
   Chip Berry (Energy Information Administration)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" rel="">An Experiment Testing Alternative Email Contact Timing Strategies in a Web-Based Survey of Federal Personnel</a>  <small> (440.0 MB)</small></p><!----------pdf/G2_Lewis_2015FCSM.pdf--------->
+  <p style="width:50%;">An Experiment Testing Alternative Email Contact Timing Strategies in a Web-Based Survey of Federal Personnel <small> (440.0 MB)</small></p><!----------pdf/G2_Lewis_2015FCSM.pdf--------->
   <p class="indent">Taylor Lewis (U.S. Office of Personnel Management)<br>
   Karl Hess (U.S. Office of Personnel Management)</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION G-3:<br>
   HEALTH CARE: MEASURING QUALITY, SPENDING AND REFORM</div>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" rel="">Adjusting the Measurement of the Output of the Medical Sector for Quality: A Review of the Literature</a>  <small> (440.0 MB)</small></p><!------pdf/G3_Hall_2015FCSM------------->
+  <p style="width:50%;">Adjusting the Measurement of the Output of the Medical Sector for Quality: A Review of the Literature  <small> (440.0 MB)</small></p><!------pdf/G3_Hall_2015FCSM------------->
   <p class="indent">Anne Hall (Bureau of Economic Analysis)</p>
   <p>What Medical Conditions Are Driving the Spending Slowdown? An Analysis Using the New Health Care Account from the Bureau of Economic Analysis</p>
   <p class="indent">Abe Dunn (Bureau of Economic Analysis)<br>
