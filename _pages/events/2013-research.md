@@ -10,11 +10,11 @@ sidenav: events_navigation
   <h2 class="page-sub-title">2013 Research Conference</h2>
   <p>Washington Convention Center, Washington, DC<br/> November 4-6, 2013</p>
 
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"><strong>FINAL PROGRAM</strong></a>  <small> (440.0 MB)</small></p><!------------pdf/2013FCSMResearchProgram.pdf--------->
-  <p style="width:50%;"><a href="http://www.copafs.org/seminars/fcsm2013research.htmlx"><strong>PRESENTATIONS</strong></a> (posted on the COPAFS website)</p>
+  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2013FCSMFinalProgram.pdf" target="_blank"><strong>FINAL PROGRAM</strong></a>  <small> (440.0 MB)</small></p><!------------pdf/2013FCSMResearchProgram.pdf--------->
+  <p style="width:50%;"><strong>PRESENTATIONS</strong>(posted on the COPAFS website)</p>
   <p><strong>Resources and Proceedings</strong></p>
   <p>Unless noted, all of these documents are in Portable Document Format [PDF].</p>
-
+https://copafs.org/wp-content/uploads/2020/05/2013FCSMFinalProgram.pdf
   <p>PLENARY - <strong><a href="{{site.baseurl}}/assets/files/docs/Plenary_Tourangeau_2013FCSM.pdf" target="_blank">Confronting the Challenges of Household Surveys by Mixing Modes</a></strong> <small> (6.8 MB)</small><br />
   SESSION - Dr. Roger Tourangeau (Westat)</p>
   <hr />
@@ -31,7 +31,7 @@ sidenav: events_navigation
   Katherine Morton (RTI International)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/A1_Moriarity_2013FCSM.pdf" target="_blank">Current and Future Uses of Address Lists for the National Health Interview Survey Sample</a> <small> (1.3 MB)</small></p>
   <p class="indent">Chris Moriarity (National Center for Health Statistics)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">A Tale of Two Surveys: Learning From the Application of Address-Based Sampling in Federal Surveys</a><small> (440.0 MB)</small></p><!---------------pdf/A1_OBrien_2013FCSM.pdf------------>
+  <p style="width:50%;">A Tale of Two Surveys: Learning From the Application of Address-Based Sampling in Federal Surveys<small> (440.0 MB)</small></p><!---------------pdf/A1_OBrien_2013FCSM.pdf------------>
   <p class="indent">Eileen O’Brien (Energy Information Administration)</p>
 
 
@@ -43,11 +43,11 @@ sidenav: events_navigation
   Janey Hsiao (National Center for Health Statistics)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/A2_Larsen_2013FCSM.pdf" target="_blank">Statistical Modeling of National Survey of College Graduates and American Community Survey Variables</a> <small> (48.3 MB)</small></p>
   <p class="indent">Michael Larsen (The George Washington University)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Variance Modeling Research for the Small Area Health Insurance Estimates Program</a> <small> (1.8 MB)</small></p><!--------pdf/A2_Bauder_2013FCSM.pdf----------->
+  <p style="width:50%;">Variance Modeling Research for the Small Area Health Insurance Estimates Program <small> (1.8 MB)</small></p><!--------pdf/A2_Bauder_2013FCSM.pdf----------->
   <p class="indent">Mark Bauder (U.S. Census Bureau)<br>
   Sam Szelepka (U.S. Census Bureau)<br>
   Donald Luery (U.S. Census Bureau)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Progress in Developing Small Area Estimates of Crime Based on the National Crime Victimization Survey</a> <small> (440.0 MB)</small></p><!---------pdf/A2_Diallo_2013FCSM.pdf"--------------->
+  <p style="width:50%;">Progress in Developing Small Area Estimates of Crime Based on the National Crime Victimization Survey <small> (440.0 MB)</small></p><!---------pdf/A2_Diallo_2013FCSM.pdf"--------------->
   <p class="indent">Robert Fay (Westat)<br>
   Mamadou Diallo (Westat)<br>
   Michael Planty (Bureau of Justice Statistics)</p>
@@ -105,7 +105,7 @@ sidenav: events_navigation
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION B-1:<br>
   BUILDING BLOCKS OF ADAPTIVE SURVEY DESIGN
   </div>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">How Much Is Enough? Moving Toward Smart Stopping Rules for Data Collection</a>
+  <p style="width:50%;">How Much Is Enough? Moving Toward Smart Stopping Rules for Data Collection
   <small> (440.0 MB)</small></p><!---------------pdf/B1Chang_2013FCSM.html------->
   <p class="indent">Wan-Ying Chang (National Center for Science and Engineering Statistics)<br>
   Lynn Milan (National Center for Science and Engineering Statistics)</p>
@@ -131,7 +131,7 @@ sidenav: events_navigation
   </div>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/B2_Rambharat_2013FCSM.pdf" target="_blank">Sample Design and Analysis for Assessing Compliance Control Settings</a> <small> (8.3 MB)</small></p>
   <p class="indent">Bhojnarine Rambharat (Office of the Comptroller of the Currency)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Log Linear Mixed With Additive Random Components Modeling for Small Area Estimation: A Bayesian-Frequentist Integrated Approach</a> <small> (440.0 MB)</small></p>
+  <p style="width:50%;">Log Linear Mixed With Additive Random Components Modeling for Small Area Estimation: A Bayesian-Frequentist Integrated Approach <small> (440.0 MB)</small></p>
   <p class="indent">Avinash Singh (NORC at the University of Chicago)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/B2_Amin_2013FCSM.pdf" target="_blank">Spatio-Temporal Modeling of the Impact of Climate Change on Road Traffic Accidents – A Case Study of New Brunswick</a> <small> (202.4 MB)</small></p>
   <p class="indent">Md Shohel Reza Amin (Concordia University, Canada)<br>
@@ -181,11 +181,11 @@ sidenav: events_navigation
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION C-1:<br>
   SUPPLEMENTING THE COVERAGE OF ADDRESS-BASED SAMPLING FRAMES FOR IN-PERSON HOUSEHOLD SURVEYS
   </div>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Correcting Coverage Deficiencies in Address-Based Frames: The Use of Enhanced Listing</a> <small> (440.0 MB)</small></p><!-----pdf/C1_English_2013FCSM.pdf------->
+  <p style="width:50%;">Correcting Coverage Deficiencies in Address-Based Frames: The Use of Enhanced Listing<small> (440.0 MB)</small></p><!-----pdf/C1_English_2013FCSM.pdf------->
   <p class="indent">Ned English (NORC at the University of Chicago)<br>
   Colm O’Muircheartaigh (Irving B. Harris Graduate School of Public Policy at the University of Chicago)<br>
   Katie Dekker (NORC at the University of Chicago)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Using an Area Linkage Method to Improve the Coverage of ABS Frames for In-Person Household Surveys</a> <small> (440.0 MB)</small></p><!-----pdf/C1_Dohrmann_2013FCSM.pdf------>
+  <p style="width:50%;">Using an Area Linkage Method to Improve the Coverage of ABS Frames for In-Person Household Surveys <small> (440.0 MB)</small></p><!-----pdf/C1_Dohrmann_2013FCSM.pdf------>
   <p class="indent">Sylvia Dohrmann (Westat)<br>
   Richard Sigman (Westat)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/C1_McMichael_2013FCSM.pdf" target="_blank">The CHUM: An Adaptation of the Half-Open Interval Procedure for Use with ABS Frames</a> <small> (32.0 MB)</small></p>
@@ -358,7 +358,7 @@ sidenav: events_navigation
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION E-2:<br>
   ADMINISTRATIVE RECORDS AND SURVEY RESEARCH
   </div>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/E2_Brown_2013FCSM-508.pdf" target="_blank">The Nature of the Bias When Studying Only Linkable Person Records: Evidence from the American Community Survey</a> <small> (70.0 MB)</small></p>
+  <p style="width:50%;">The Nature of the Bias When Studying Only Linkable Person Records: Evidence from the American Community Survey <small> (70.0 MB)</small></p>
   <p class="indent">J. David Brown (U.S. Census Bureau)<br>
   Adela Luque (U.S. Census Bureau)<br>
   Amy O’Hara (U.S. Census Bureau)</p>
@@ -415,7 +415,7 @@ sidenav: events_navigation
   Roger Tourangeau (Westat)<br>
   Lucilla Tan (Bureau of Labor Statistics)<br>
   Scott Fricker (Bureau of Labor Statistics)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">A Model for Matching Error for Triple System Estimation</a> <small> (440.0 MB)</small></p><!-----pdf/E4_Griffin_2013FCSM-508.pdf------>
+  <p style="width:50%;">A Model for Matching Error for Triple System Estimation <small> (440.0 MB)</small></p><!-----pdf/E4_Griffin_2013FCSM-508.pdf------>
   <p class="indent">Richard Griffin (U.S. Census Bureau)</p>
   <p class="date"><a id="TuesdayPM" name="TuesdayPM"></a>TUESDAY PM, NOVEMBER 5</p>
 
@@ -424,12 +424,12 @@ sidenav: events_navigation
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION F-1:<br>
   EVALUATING WEIGHTING AND VARIANCE ESTMATION METHODS
   </div>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Effects of Poststratification and Raking Adjustments on Precision of MEPS Estimates</a> <small> (440.0 MB)</small></p>
+  <p style="width:50%;">Effects of Poststratification and Raking Adjustments on Precision of MEPS Estimates <small> (440.0 MB)</small></p>
   <p class="indent">Sadeq Chowdhury (Agency for Healthcare Research and Quality)</p><!-----pdf/F1_Chowdhury_2013FCSM_AC.pdf----------->
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/F1_Liao_2013FCSM_AC.pdf" target="_blank">Model-Assisted Domain Estimation</a> <small> (54.0 MB)</small></p>
   <p class="indent">Dan Liao (RTI International)<br>
   Phillip Kott (RTI International)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Variance Estimation for Calibration to Estimated Totals</a> <small> (440.0 MB)</small></p><!----F1_Qing_2013FCSM_AC----->
+  <p style="width:50%;">Variance Estimation for Calibration to Estimated Totals<small> (440.0 MB)</small></p><!----F1_Qing_2013FCSM_AC----->
   <p class="indent">Siyu Qing (The George Washington University)<br>
   Michael Larsen (The George Washington University)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/F1_Planty_2013FCSM_AC.pdf" target="_blank">Impact of Influential Observations on Enumeration and Variance Estimation in the National Crime Victimization Survey</a> <small> (173.4.0 MB)</small></p>
@@ -587,7 +587,7 @@ sidenav: events_navigation
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/G4_Schoua-Glusberg_2013FCSM_AC.pdf" target="_blank">Backtranslation vs. Committee Approach: An Experiment Comparing How They Perform in Questionnaire Translation</a> <small> (22.1 MB)</small></p>
   <p class="indent">Alisú Schoua-Glusberg (Research Support Services)<br>
   Ana Villar (City University, United Kingdom)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/G4_Bose_2013FCSM_AC.pdf" target="_blank">Getting the Most out of a Limited Sample Size Field Test: Experiences from the National Survey on Drug Use and Health</a> <small> (166.0 MB)</small></p>
+  <p style="width:50%;">Getting the Most out of a Limited Sample Size Field Test: Experiences from the National Survey on Drug Use and Health</a> <small> (166.0 MB)</small></p>
   <p class="indent">Jonaki Bose (Substance Abuse and Mental Health Services Administration)<br>
   Dicy Painter (Substance Abuse and Mental Health Services Administration)<br>
   Doug Currivan (RTI International)<br>
@@ -600,7 +600,7 @@ sidenav: events_navigation
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION H-1:<br>
   CROWDSOURCING METHODOLOGIES THROUGHOUT THE SURVEY LIFECYCLE
   </div>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Crowdsourcing in the Cognitive Interviewing Process</a> <small> (440.0 MB)</small></p>
+  <p style="width:50%;">Crowdsourcing in the Cognitive Interviewing Process <small> (440.0 MB)</small></p>
   <p class="indent">Joe Murphy (RTI International)<br>
   Michael Keating (RTI International)<br>
   Jennifer Edgar (Bureau of Labor Statistics)</p>
@@ -643,7 +643,7 @@ sidenav: events_navigation
   <p class="indent">David Hornick (U.S. Census Bureau)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/H3_Brault_2013FCSM_AC.pdf" target="_blank">Non-response Bias in the March 2013 Content Test</a> <small> (33.0 MB)</small></p>
   <p class="indent">Matthew Brault (U.S. Census Bureau)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/H3_Bee_2013FCS_AC.pdf" target="_blank">Evaluating the Income and Health Insurance Questions 2013 CPS ASEC Content Test Using Timer Data</a> <small> (65.0 MB)</small></p>
+  <p style="width:50%;">Evaluating the Income and Health Insurance Questions 2013 CPS ASEC Content Test Using Timer Data <small> (65.0 MB)</small></p>
   <p class="indent">Aaron Cantu (U.S. Census Bureau)<br>
   Adam Bee (U.S. Census Bureau)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/H3_Semega_2013FCSM1_AC.pdf" target="_blank">Evaluating the 2013 CPS ASEC Income Redesign Content Test</a> <small> (490.0 MB)</small></p>
