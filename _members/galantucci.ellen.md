@@ -1,6 +1,6 @@
 ---
 name: Ellen Galantucci
-agency: BLS
-agency_long: Bureau of Labor Statistics
+agency: FMC
+agency_long: Federal Maritime Commission
 email: galantucci.ellen@bls.gov
 ---

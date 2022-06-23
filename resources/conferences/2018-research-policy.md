@@ -1017,7 +1017,7 @@ Efficiency
 <p > The Use of Administrative Records and the American Community Survey to Study the Characteristics of Undercounted Young Children in the 2010 Census
 </p>
 
-<p >Logistic Regression with Linked Data<a href="{{ site.baseurl }}/assets/docs/construction.pdf" target="_blank">   | (PDF)</a> 	
+<p >Logistic Regression with Linked Data
 </p>
 
 <p >A Method for Assigning Weight to Variable Matching in Record Linkage

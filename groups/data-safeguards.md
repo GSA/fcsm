@@ -7,9 +7,9 @@ sidenav: group_navigation
 
 <p>The Subcommittee's revisions to SPWP22, renamed the Data Protection Toolkit, reflect current understanding of the need to protect confidentiality and the risks of re-identification in federal data, recent developments in the knowledge and practice of statistical disclosure limitation by federal agencies, and the varieties of tiered data access mechanisms in use by the statistical system.  The Data Protection Toolkit also includes automated tools, templates, statistical code, and other resources to complement the information contained in the toolkit. These online tools will enable agencies across government to improve their implementations of statistical disclosure limitation and secure/tiered data access.  </p>
 
-<!--<p><a href="../dpt/index.html" target="_blank"><strong>Data Protection Toolkit (beta)</strong></a></p>-->
+<!----<p><a href="../dpt/index.html" target="_blank"><strong>Data Protection Toolkit (beta)</strong></a></p>-->
 
-<!--<p><a href="safeguarddata.html"><strong>Charter</strong></a></p>-->
+<!----<p><a href="safeguarddata.html"><strong>Charter</strong></a></p>-->
 
 <p><strong>Contact</strong>:</p>
 <ul>
