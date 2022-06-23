@@ -11,7 +11,7 @@ sidenav: events_navigation
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2009FCSMResearchProgram.pdf" target="_blank"><strong>FINAL PROGRAM</strong></a>  <small> (2 MB)</small></p>
   <p><strong>Resources and Proceedings</strong></p>
   <p>Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe® Acrobat® Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
-  <p class="larger" style="float: left; padding-right: 30px;">PLENARY - <strong><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">What We Don’t Know Could Hurt Us:<br />Some Reflections on the Measurement of Economic Activity</a></strong>  <small> (440 KB)</small><br />SESSION - Katharine G. Abraham (University of Maryland)</p>
+  <p class="larger" style="float: left; padding-right: 30px;">PLENARY - <strong>What We Don’t Know Could Hurt Us:<br />Some Reflections on the Measurement of Economic Activity</strong>  <small> (440 KB)</small><br />SESSION - Katharine G. Abraham (University of Maryland)</p>
   <p><br clear="all"></p>
   <p class="date"><a id="MondayAM" name="MondayAM"></a>MONDAY AM</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION II-A<br>
@@ -53,7 +53,7 @@ sidenav: events_navigation
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION III-A<br>
   ISSUES IN DATA CONFIDENTIALITY AND DISCLOSURE RISK
   </div>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Incorporating Quality Measures in Tabular Data Protected by Perturbation Methods</a>  <small> (440 KB)</small></p>
+  <p style="width:50%;">Incorporating Quality Measures in Tabular Data Protected by Perturbation Methods  <small> (440 KB)</small></p>
   <p style="width:50%;" class="indent">Ramesh Dandekar (Energy Information Administration, USA)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2009FCSM_Sarathy_III-A.pdf" target="_blank">Protecting Numerical Confidential Data Using Data Shuffling: A Demonstration of Effectiveness of Approach and Flexibility of Delivery</a>  <small> (600 KB)</small></p>
   <p style="width:50%;" class="indent">Rathindra Sarathy (Oklahoma State University, USA) and Krish Muralidhar (University of Kentucky, USA)</p>
@@ -130,7 +130,7 @@ sidenav: events_navigation
   <p style="width:50%;" class="indent">Howard Iams and Irena Dushi (Social Security Administration, USA)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2009FCSM_Strand_V-A.pdf" target="_blank">Measurement Error in Estimates of the Participation Rate in Means-Tested Programs: The Case of the U.S. Supplemental Security Income Program for the Elderly</a>  <small> ( 461 KB)</small></p>
   <p style="width:50%;" class="indent">Alexander Strand, Kalman Rupp, and Paul Davies (Social Security Administration, USA)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Using Matched Survey and Administrative Data to Estimate Eligibility for the Medicare Part D Program Low Income Subsidy</a>  <small> ( 440 KB)</small></p>
+  <p style="width:50%;">Using Matched Survey and Administrative Data to Estimate Eligibility for the Medicare Part D Program Low Income Subsidy</a>  <small> ( 440 KB)</small></p>
   <p style="width:50%;" class="indent">Lynn Karoly, Erik Meijer, and Pierre-Carl Michaud (Rand Corporation, USA)</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION V-B<br>
   STATISTICAL WEIGHTING AND EDITING
@@ -159,9 +159,9 @@ sidenav: events_navigation
   </div>
   <p>The Unique Method for Obtaining Data: Entering Agreements to Share Administrative Records</p>
   <p style="width:50%;" class="indent">Stephen Cornman (U.S. Department of Education, USA)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Statistical Disclosure Control of Tabular Format Magnitude Data: Why It Is Not A Good Idea to Use Home Grown (Manual or Automated) Cell Suppression Procedures</a>  <small> (440 KB)</small></p>
+  <p style="width:50%;">Statistical Disclosure Control of Tabular Format Magnitude Data: Why It Is Not A Good Idea to Use Home Grown (Manual or Automated) Cell Suppression Procedures  <small> (440 KB)</small></p>
   <p style="width:50%;" class="indent">Ramesh Dandekar (Energy Information Administration, USA)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Privacy Violations in Accountability Data Released to the Public by State Educational Agencies</a>  <small> (440 KB)</small></p>
+  <p style="width:50%;">Privacy Violations in Accountability Data Released to the Public by State Educational Agencies  <small> (440 KB)</small></p>
   <p style="width:50%;" class="indent">Krish Muralidhar (University of Kentucky, USA) and Rathindra Sarathy (Oklahoma State University, USA)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2009FCSM_White_VI-A.pdf" target="_blank">Expert Task Force Consideration of Confidentiality, Effect Sizes, and Computerized Adaptive Testing at NCES</a>  <small> (452 KB)</small></p>
   <p style="width:50%;" class="indent">Andrew White and Marilyn Seastrom (National Center for Education Statistics, USA)</p>
@@ -177,13 +177,13 @@ sidenav: events_navigation
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION VI-C<br>
   VARIANCE ESTIMATION
   </div>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">The RAO-WU Rescaling Bootstrap: From Theory to Practice</a>  <small> (440 KB)</small></p>
+  <p style="width:50%;">The RAO-WU Rescaling Bootstrap: From Theory to Practice  <small> (440 KB)</small></p>
   <p style="width:50%;" class="indent">Claude Girard (Statistics Canada)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2009FCSM_Demnati_VI-C.pdf" target="_blank">Linearization Variance Estimation and Allocation for Two-Phase Sampling Under Mass Imputation</a>  <small> (360 KB)</small></p>
   <p style="width:50%;" class="indent">Abdellatif Demnati (Statistics Canada) and J.N.K. Rao (Carleton University, Canada)</p>
   <p>Variance Approximations for Price Index Estimation</p>
   <p style="width:50%;" class="indent">John Eltinge and Moon Jung Cho (Bureau of Labor Statistics, USA)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">On Point Estimation and Variance Estimation for Mean Expenditures in the Consumer Expenditure Survey</a>  <small> (440 KB)</small></p>
+  <p style="width:50%;">On Point Estimation and Variance Estimation for Mean Expenditures in the Consumer Expenditure Survey <small> (440 KB)</small></p>
   <p style="width:50%;" class="indent">Michail Sverchkov, John Eltinge, and Lawrence Ernst (Bureau of Labor Statistics, USA)</p>
   <p class="date"><a name="TuesdayPM"></a> TUESDAY PM</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION VII-A<br>
@@ -209,7 +209,7 @@ sidenav: events_navigation
   </div>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2009FCSM_Turek_VII-C.pdf" target="_blank">Effects of Imputation on CPS Poverty Series, 1987-2007</a>  <small> (314 KB)</small></p>
   <p style="width:50%;" class="indent">Joan Turek, Brian Sinclair-James, and Bula Ghose (U.S. Department of Health and Human Services), Fritz Scheuren (NORC at the University of Chicago, USA), and Charles Nelson and Edward Welniak (U.S. Census Bureau)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Testing New Imputation Methods for Earnings in the Survey of Income and Program Participation</a>  <small> (440 KB)</small></p>
+  <p style="width:50%;">Testing New Imputation Methods for Earnings in the Survey of Income and Program Participation  <small> (440 KB)</small></p>
   <p style="width:50%;" class="indent">Martha Stinson and Gary Benedetto (U.S. Census Bureau)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2009FCSM_Gonzalez_VII-C.pdf" target="_blank">Sensitivity of Inference Under Imputation: An Empirical Study</a>  <small> (257 KB)</small></p>
   <p style="width:50%;" class="indent">Jeffrey Gonzalez and John Eltinge (Bureau of Labor Statistics, USA)</p>
@@ -229,7 +229,7 @@ sidenav: events_navigation
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION VIII-B<br>
   FORECASTING
   </div>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Using Spectral Peaks to Detect Seasonality</a>  <small> (440 KB)</small></p>
+  <p style="width:50%;">Using Spectral Peaks to Detect Seasonality <small> (440 KB)</small></p>
   <p style="width:50%;" class="indent">Tucker McElroy (U.S. Census Bureau) and Scott Holan (University of Missouri-Columbia, USA)</p>
   <p>A Review of Air Travel Passengers Forecasting Models and Their Robustness</p>
   <p style="width:50%;" class="indent">Ali Dadpay, Charlie Han, and David Chesser (Macrosys Research, USA) and Antony Homan (U.S. Department of Transportation)</p>
@@ -267,7 +267,7 @@ sidenav: events_navigation
   <p style="width:50%;" class="indent">Marla Smith and Carey Johnston (U.S. Environmental Protection Agency)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2009FCSM_Rottach_IX-C.pdf" target="_blank">Maximizing Overlap of Large Primary Sampling Units in Repeated Sampling: A Comparison of Ernst’s Method with Ohlsson’s Method</a>  <small> (44 KB)</small></p>
   <p style="width:50%;" class="indent">Padraic Murphy and Reid Rottach (U.S. Census Bureau)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Minimizing Duplication of Samples Drawn from Overlapping Frames of Multiple Surveys</a>  <small> (440 KB)</small></p>
+  <p style="width:50%;">Minimizing Duplication of Samples Drawn from Overlapping Frames of Multiple Surveys <small> (440 KB)</small></p>
   <p style="width:50%;" class="indent">Peter Kwok, Hee-Choon Shin, Colm O’Muircheartaigh, Whitney Murphy, Angela Debello, and Kari Carris (NORC at the University of Chicago, USA) and Youlian Liao (Centers for Disease Control and Prevention, USA)</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION X-A<br>
   PRODUCING AND COMMUNICATING DATA AND STATISTICS
@@ -302,9 +302,9 @@ sidenav: events_navigation
   </div>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2009FCSM_Day_XI-A.pdf" target="_blank">Evolutionary Algorithms for Optimal Sample Design</a>  <small> (331 KB)</small></p>
   <p style="width:50%;" class="indent">Charles Day (Internal Revenue Service, Statistics of Income Division, USA)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Derivation of Sample Size Formula for Cluster Randomized Trials with Binary Responses Using A General Continuity Correction Factor and Identification of Optimal Settings for Small Event Rates</a>  <small> (440 KB)</small></p>
+  <p style="width:50%;">Derivation of Sample Size Formula for Cluster Randomized Trials with Binary Responses Using A General Continuity Correction Factor and Identification of Optimal Settings for Small Event Rates  <small> (440 KB)</small></p>
   <p style="width:50%;" class="indent">Majnu John and Madhu Mazumdar (Weill Cornell Medical College, USA)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Sampling from Discrete Distributions: Application to An Editing Problem</a>  <small> (440 KB)</small></p>
+  <p style="width:50%;">Sampling from Discrete Distributions: Application to An Editing Problem  <small> (440 KB)</small></p>
   <p style="width:50%;" class="indent">Lawrence Cox (National Center for Health Statistics, USA) and Marco Better (OptTek Systems, Inc., USA)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2009FCSM_Cohen_XI-A.pdf" target="_blank">Discussant:</a>  <small> (137 KB)</small></p>
   <p style="width:50%;" class="indent">Michael P. Cohen (Statistical Consultant, NORC at the University of Chicago, and George Mason University, USA)</p>
@@ -313,7 +313,7 @@ sidenav: events_navigation
   </div>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2009FCSM_Khan_XI-B.pdf" target="_blank">Earnings Volatility in the U.S.: Short-Term and Long-Term Trends</a>  <small> (214 KB)</small></p>
   <p style="width:50%;" class="indent">Beethika Khan and David Beede (U.S. Department of Commerce)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Measuring Business Cycles with Rapid Estimates</a>  <small> (440 KB)</small></p>
+  <p style="width:50%;">Measuring Business Cycles with Rapid Estimates  <small> (440 KB)</small></p>
   <p style="width:50%;" class="indent">Pieter Vlag (Statistics Netherlands)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2009FCSM_Zhang_XI-B.pdf" target="_blank">Business Age, Another Source of Employment</a>  <small> (887 KB)</small></p>
   <p style="width:50%;" class="indent">Ting Zhang and David Stevens (University of Baltimore, USA)</p>
@@ -326,7 +326,7 @@ sidenav: events_navigation
   <p style="width:50%;" class="indent">Elizabeth Frentzel, Chris Evensen, and San Keller (American Institutes for Research, USA), Judith Sangl (Agency for Healthcare Research and Quality, USA), Julie Brown (Rand, USA), and Carol Cosenza (University of Massachusetts, USA)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2009FCSM_Zuvekas_XI-C.pdf" target="_blank">The Effects of Recall Length and Reporting Aids on Household Reporting of Health Care Events in the Medical Expenditure Panel Survey</a>  <small> (362 KB)</small></p>
   <p style="width:50%;" class="indent">Samuel Zuvekas (Agency for Healthcare Research and Quality, USA)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Social Desirability Bias, Response Order Effect and Selection Effects in the new Dutch Safety Monitor</a>  <small> (440 KB)</small></p>
+  <p style="width:50%;">Social Desirability Bias, Response Order Effect and Selection Effects in the new Dutch Safety Monitor  <small> (440 KB)</small></p>
   <p style="width:50%;" class="indent">Thomas Kraan, Jan van den Brakel, Bart Buelens, and Harry Huys (Statistics Netherlands)</p>
 </div>
 <a class="usa-button" href="{{site.baseurl}}/events/fcsm-research-conferences/">Back</a>

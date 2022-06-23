@@ -48,7 +48,7 @@ sidenav: events_navigation
   Paola Vicard (University Roma Tre, Italy)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2005FCSM_Baskin_IIC.pdf" target="_blank">Investigation of Variance Components in the Medical Expenditure Panel Survey</a> <small> (418 KB)</small></p>
   <p class="indent">Robert Baskin (Agency for Healthcare Research and Quality, USA)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">A Bayesian Detection of The Onset of Activity Limitation Among Adults in NHIS</a> <small> (440 KB)</small></p>
+  <p style="width:50%;">A Bayesian Detection of The Onset of Activity Limitation Among Adults in NHIS <small> (440 KB)</small></p>
   <p class="indent">Balgobin Nandram (Worcester Polytechnic Institute, USA)<br>
   Jai Won Choi (National Center for Health Statistics, USA)</p>
   <p>Discussant</p>
@@ -89,7 +89,7 @@ sidenav: events_navigation
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2005FCSM_Singh_etal_IIIC.pdf" target="_blank">Smoothing Covariance Matrices from Survey Data Using Generalized Design Effects with Application to Small Area Estimation</a> <small> (282 KB)</small></p>
   <p class="indent">Avinash Singh (Statistics Canada)<br>
   Ralph Folsom and Akhil Vaish (Research Triangle Institute International, USA)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">IRT and Latent Variable Modeling for Surveys with Complex Sampling Design with a Longitudinal Context: The Case of the National Longitudinal Survey of Children and Youth in Canada</a> <small> (440 KB)</small></p>
+  <p style="width:50%;">IRT and Latent Variable Modeling for Surveys with Complex Sampling Design with a Longitudinal Context: The Case of the National Longitudinal Survey of Children and Youth in Canada <small> (440 KB)</small></p>
   <p class="indent">André Cyr and Alexander Davies (Statistics Canada)</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION IV-A<br>
   APPLICATIONS OF SURVEY AND STATISTICAL METHODS
@@ -146,7 +146,7 @@ sidenav: events_navigation
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION V-C<br>
   GEOSPATIAL PERSPECTIVE AND ANALYSIS
   </div>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">The Geospatial Perception and Its Impact on the Content and Processes of a Multi-Source Data Collection</a> <small> (440 KB)</small></p>
+  <p style="width:50%;">The Geospatial Perception and Its Impact on the Content and Processes of a Multi-Source Data Collection <small> (440 KB)</small></p>
   <p class="indent">Oliva Blum (Israel Central Bureau of Statistics)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2005FCSM_Konigsberg_Talan_Clayton_VC.pdf" target="_blank">The Geospatial Distribution of Employment</a> <small> (735 KB)</small></p>
   <p class="indent">Sheryl Konigsberg, David Talan and Richard Clayton (Bureau of Labor Statistics, USA)</p>
@@ -206,7 +206,7 @@ sidenav: events_navigation
   <p class="indent">Howard Bradsher-Fredrick and William Weinig (Energy Information Administration, USA)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2005FCSM_Fecso_VIIB.pdf" target="_blank">Results from Recent Experiments on Improving Response Rates</a> <small> (505 KB)</small></p>
   <p class="indent">Ron Fecso (National Science Foundation, USA)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Efficient Estimation of Response Rates When a Small Subsample of Nonrespondents Is Selected for Follow-Up Conversion</a> <small> (440 KB)</small></p>
+  <p style="width:50%;">Efficient Estimation of Response Rates When a Small Subsample of Nonrespondents Is Selected for Follow-Up Conversion <small> (440 KB)</small></p>
   <p class="indent">Avinash Singh (Statistics Canada)Vincent Iannacchione (Research Triangle Institute International, USA)<br>
   Shijie Chen (RTI International, USA)<br>
   Jill Dever (Joint Program in Survey Methodology, University of Maryland, USA)</p>
