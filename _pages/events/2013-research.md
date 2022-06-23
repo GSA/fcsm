@@ -11,7 +11,7 @@ sidenav: events_navigation
   <p>Washington Convention Center, Washington, DC<br/> November 4-6, 2013</p>
 
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2013FCSMFinalProgram.pdf" target="_blank"><strong>FINAL PROGRAM</strong></a>  <small> (440.0 MB)</small></p><!------------pdf/2013FCSMResearchProgram.pdf--------->
-  <p style="width:50%;"><strong>PRESENTATIONS</strong>(posted on the COPAFS website)</p>
+  <!----- <p style="width:50%;"><strong>PRESENTATIONS</strong>(posted on the COPAFS website)</p> ----->
   <p><strong>Resources and Proceedings</strong></p>
   <p>Unless noted, all of these documents are in Portable Document Format [PDF].</p>
 https://copafs.org/wp-content/uploads/2020/05/2013FCSMFinalProgram.pdf

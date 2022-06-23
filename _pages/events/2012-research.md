@@ -11,11 +11,11 @@ sidenav: events_navigation
   <p>Washington Convention Center, Washington, DC<br>
   January 10-12, 2012<br>
   <a name="top"></a><br>
-  <a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"><strong>FINAL PROGRAM</strong></a>  <small> (404 KB)</small></p>
+  <strong>FINAL PROGRAM</strong>  <small> (404 KB)</small></p>
   <p><strong>Resources and Proceedings</strong></p>
   <p style="width: 50%;">Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe® Acrobat® Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
 
-  <p class="larger" style="float: left; padding-right: 30px; ">PLENARY - <a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"><strong>“Who is This Survey Designed for, the ‘Agency’ or the Respondent?”</strong></a>  <small> (404 KB)</small><br />SESSION - Don Dillman (Washington State University, USA)</p>
+  <p class="larger" style="float: left; padding-right: 30px; ">PLENARY -<strong>"Who is This Survey Designed for, the 'Agency' or the Respondent?"</strong>  <small> (404 KB)</small><br />SESSION - Don Dillman (Washington State University, USA)</p>
   <p><br clear="all"></p>
   <p class="date"><a name="TuesdayAM"></a>TUESDAY AM</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION I-A<br>
@@ -34,9 +34,9 @@ sidenav: events_navigation
   <p style="width:50%;" class="indent">Michael Planty (Bureau of Justice Statistics, USA)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/Fay_2012FCSM_I-B.pdf" target="_blank">Rethinking the NCVS: Subnational Goals Through Direct Estimation</a>  <small> (407 KB)</small></p>
   <p style="width:50%;" class="indent">Robert Fay and Jianzhu Li (Westat, Inc. USA)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Rethinking the NCVS: Small Area Estimation Approaches to Estimating Crime</a>  <small> (404 KB)</small></p>
+  <p style="width:50%;">Rethinking the NCVS: Small Area Estimation Approaches to Estimating Crime  <small> (404 KB)</small></p>
   <p style="width:50%;" class="indent">Jianzhu Li, Mamadou Diallo, and Robert Fay (Westat, Inc. USA)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Designing Low(er)-Cost Companion to the National Crime Victimization Survey</a>  <small> (404 KB)</small></p>
+  <p style="width:50%;">Designing Low(er)-Cost Companion to the National Crime Victimization Survey  <small> (404 KB)</small></p>
   <p style="width:50%;" class="indent">J. Michael Brick and W. Sherman Edwards (Westat, Inc., USA) and Sharon Lohr (Arizona State University, USA)</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION I-C<br>
   NEW APPROACHES TO OLD PROBLEMS IN IMPUTATION
@@ -59,7 +59,7 @@ sidenav: events_navigation
   <p style="width:50%;" class="indent">Scott Borger and Anthony Kassekert (Office of Immigration Statistics, USA)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/Judson_2012FCSM_I-D.pdf" target="_blank">Imputing the Legal Status of Foreign-Born Persons on Surveys: Two New Approaches</a>  <small> (552 KB)</small></p>
   <p style="width:50%;" class="indent">Dean Judson (Decision Analytics, USA)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Estimating Personal Transfers From the United States</a>  <small> (404 KB)</small></p>
+  <p style="width:50%;">Estimating Personal Transfers From the United States  <small> (404 KB)</small></p>
   <p style="width:50%;" class="indent">Rachel Soloveichik and Anne Flatness (Bureau of Economic Analysis, USA)</p>
   <p class="date"><a name="TuesdayPM"></a>TUESDAY PM</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION II-A<br>
@@ -67,7 +67,7 @@ sidenav: events_navigation
   </div>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/Cox_2012FCSM_II-A.pdf" target="_blank">The Case for Simulation Models of Federal Surveys</a>  <small> (216 KB)</small></p>
   <p style="width:50%;" class="indent">Lawrence Cox (National Institute of Statistical Sciences, USA)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Simulating NHIS Field Operations</a>  <small> (404 KB)</small></p>
+  <p style="width:50%;">Simulating NHIS Field Operations  <small> (404 KB)</small></p>
   <p style="width:50%;" class="indent">Bor-Chung Chen (Federal Railroad Administration, USA)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/Karr_2012FCSM_II-A.pdf" target="_blank">WSSM: World’s Simplest Survey Microsimulator</a>  <small> (1.08 MB)</small></p>
   <p style="width:50%;" class="indent">Alan Karr, Satkartar Kinney, and Lawrence Cox (National Institute of Statistical Sciences, USA)</p>
@@ -87,16 +87,16 @@ sidenav: events_navigation
   <p style="width:50%;" class="indent">Saida Mamedova and Cameron McPhee (American Institutes for Research, USA)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/Hough_2012FCSM_II-C.pdf" target="_blank">Multi-mode Survey Response Process for a Complex Economic Survey</a>  <small> (564 KB)</small></p>
   <p style="width:50%;" class="indent">Richard Hough (U.S. Census Bureau) and Brandon Shackelford (Twin Ravens Consulting, USA)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Redesigning the National Surveys of Long-Term Care Providers</a>  <small> (404 KB)</small></p>
+  <p style="width:50%;">Redesigning the National Surveys of Long-Term Care Providers  <small> (404 KB)</small></p>
   <p style="width:50%;" class="indent">Lauren Harris-Kojetin (National Center for Health Statistics, USA)</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION II-D<br>
   ECONOMIC STATISTICS
   </div>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Measuring the Economic Impact of Intellectual Property Reliant Industries</a>  <small> (404 KB)</small></p>
+  <p style="width:50%;">Measuring the Economic Impact of Intellectual Property Reliant Industries  <small> (404 KB)</small></p>
   <p style="width:50%;" class="indent">Brittany Bond, Jocelyn Burston, and David Langdon (U.S. Department of Commerce)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Modernization of Benchmarking Economic Time Series at the U.S. Census Bureau</a>  <small> (404 KB)</small></p>
+  <p style="width:50%;">Modernization of Benchmarking Economic Time Series at the U.S. Census Bureau <small> (404 KB)</small></p>
   <p style="width:50%;" class="indent">Irene Brown (U.S. Census Bureau)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Using a Leading Credit Index to Predict Turning Points in the U.S. Business Cycle</a>  <small> (404 KB)</small></p>
+  <p style="width:50%;">Using a Leading Credit Index to Predict Turning Points in the U.S. Business Cycle  <small> (404 KB)</small></p>
   <p style="width:50%;" class="indent">Gad Levanon, Jean-Claude Manini, Ataman Ozyildirim, Brian Schaitkin, and Jennelyn Tanchua (The Conference Board, USA)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/Vlag_2012FCSM_II-D.pdf" target="_blank">Early Estimates for the Retail Trade with a Mixed Model</a>  <small> (73 KB)</small></p>
   <p style="width:50%;" class="indent">Pieter Vlag (Statistics Netherlands)</p>
@@ -125,7 +125,7 @@ sidenav: events_navigation
   </div>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/Sirkis_2012FCSM_III-C.pdf" target="_blank">Comparing Estimates and Item Nonresponse Rates of Interviewers Using Statistical Process Control Techniques</a>  <small> (677 KB)</small></p>
   <p style="width:50%;" class="indent">Robyn Sirkis (U.S. Census Bureau)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Paradata in the Consumer Expenditure Survey</a>  <small> (404 KB)</small></p>
+  <p style="width:50%;">Paradata in the Consumer Expenditure Survey  <small> (404 KB)</small></p>
   <p style="width:50%;" class="indent">Laura Paszkiewicz (Bureau of Labor Statistics, USA)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/Craig_2012FCSM_III-C.pdf" target="_blank">The Implementation of Dashboards in Governments Division Surveys</a>  <small> (248 KB)</small></p>
   <p style="width:50%;" class="indent">Terri Craig and Carma Hogue (U.S. Census Bureau)</p>
@@ -134,9 +134,9 @@ sidenav: events_navigation
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION III-D<br>
   INCOME
   </div>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Exploring a Balance Edit Approach in the Consumer Expenditure Survey</a>  <small> (404 KB)</small></p>
+  <p style="width:50%;">Exploring a Balance Edit Approach in the Consumer Expenditure Survey <small> (404 KB)</small></p>
   <p style="width:50%;" class="indent">Brandon Kopp, Scott Fricker, and Nhien To (Bureau of Labor Statistics, USA)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Explaining Long-term Differences Between Census and BEA Measures of the Income of Persons</a>  <small> (404 KB)</small></p>
+  <p style="width:50%;">Explaining Long-term Differences Between Census and BEA Measures of the Income of Persons<small> (404 KB)</small></p>
   <p style="width:50%;" class="indent">Arnold Katz (Bureau of Economic Analysis, USA)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/Barth_2012FCSM_III-D.pdf" target="_blank">Treatment of Influential Values in the Annual Survey of Public Employment and Payroll</a>  <small> (444 KB)</small></p>
   <p style="width:50%;" class="indent">Joseph Barth, John Tillinghast, and Mary Mulry (U.S. Census Bureau)</p>
@@ -146,11 +146,11 @@ sidenav: events_navigation
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION IV-A<br>
   SMALL AREA ESTIMATION
   </div>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Effect of Model Misspecification on Small Area Estimation of Proportions from the National Ambulatory Medical Care Survey (NAMCS) Data</a><br>  <small> (404 KB)</small></p>
+  <p style="width:50%;">Effect of Model Misspecification on Small Area Estimation of Proportions from the National Ambulatory Medical Care Survey (NAMCS) Data<br>  <small> (404 KB)</small></p>
   <p style="width:50%;" class="indent">Vladislav Beresovsky and Donald Malec (National Center for Health Statistics, USA)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Small Area Estimation for Governments Surveys</a>  <small> (404 KB)</small></p>
+  <p style="width:50%;">Small Area Estimation for Governments Surveys  <small> (404 KB)</small></p>
   <p style="width:50%;" class="indent">Bac Tran and Yang Cheng (U.S. Census Bureau)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Small Area Prediction for a Unit Level Lognormal Model</a>  <small> (404 KB)</small></p>
+  <p style="width:50%;">Small Area Prediction for a Unit Level Lognormal Model <small> (404 KB)</small></p>
   <p style="width:50%;" class="indent">Emily Berg (National Agricultural Statistics Service, USA) and Hukum Chandra (Indian Agricultural Statistics Research Institute, India)</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION IV-B<br>
   MULTI-MODE AND WEB DATA COLLECTION
@@ -192,7 +192,7 @@ sidenav: events_navigation
   <p style="width:50%;" class="indent">A. Elizabeth Ormson, Kennon Copeland, Kirk Wolter, and Kathleen Santos (NORC at the University of Chicago, USA) and Stephen Blumberg (National Center for Health Statistics, USA)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/Larsen_2012FCSM_V-A.pdf" target="_blank">Longitudinal Survey Weight Calibration Applied to the NSF Survey of Doctorate Recipients</a>  <small> (278 KB)</small></p>
   <p style="width:50%;" class="indent">Michael Larsen, Siyu Qing, Beilei Zhou, and Mary Foulkes (The George Washington University, USA)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Methods for Adjusting Survey Weights When Estimating a Total</a>  <small> (404 KB)</small></p>
+  <p style="width:50%;">Methods for Adjusting Survey Weights When Estimating a Total <small> (404 KB)</small></p>
   <p style="width:50%;" class="indent">Kimberly Henry (Internal Revenue Service, USA) and Richard Valliant (University of Michigan, USA)</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION V-B<br>
   EVALUATING THE SIPP RE-ENGINEERING, COMPARING SIPP AND SIPP-EHC
@@ -203,7 +203,7 @@ sidenav: events_navigation
   <p style="width:50%;" class="indent">Stephanie Ewert and Sarah Crissey (U.S. Census Bureau)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/Ellis_2012FCSM_V-B.pdf" target="_blank">“I Don’t Remember”: Effects of Recall Period on Reported Job and Program Participation Duration</a>  <small> (327 KB)</small></p>
   <p style="width:50%;" class="indent">Rebecca Chenevert and Renee Ellis (U.S. Census Bureau)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">An Evaluation of Reporting Accuracy in SIPP-EHC Field Test Data Using 2008 SIPP Administrative Records</a>  <small> (404 KB)</small></p>
+  <p style="width:50%;">An Evaluation of Reporting Accuracy in SIPP-EHC Field Test Data Using 2008 SIPP Administrative Records  <small> (404 KB)</small></p>
   <p style="width:50%;" class="indent">Graton Gathright, Martha Stinson, and Lori Reeder (U.S. Census Bureau)</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION V-C<br>
   MONITORING AND USING PARADATA AND METADATA
@@ -221,7 +221,7 @@ sidenav: events_navigation
   </div>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/Close_2012FCSM_V-D.pdf" target="_blank">An Exploratory Components Procedure to Uncover the Q Matrix in Cognitive Diagnostic Testing</a>  <small> (588 KB)</small></p>
   <p style="width:50%;" class="indent">Catherine Close, Mark Davison, and Ernest Davenport, Jr. (University of Minnesota, USA)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Genuine Exact Two-Stage Methodologies for Producing Assigned Accuracy Estimators for a Gamma Mean</a>  <small> (485 KB)</small></p>
+  <p style="width:50%;">Genuine Exact Two-Stage Methodologies for Producing Assigned Accuracy Estimators for a Gamma Mean  <small> (485 KB)</small></p>
   <p style="width:50%;" class="indent">Kevin Tolliver (U.S. Census Bureau)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/Davenport_2012FCSM_V-D.pdf" target="_blank">Quantification of Profile Matches</a>  <small> (381 KB)</small></p>
   <p style="width:50%;" class="indent">Ernest Davenport, Jr. and Mark Davison (University of Minnesota, USA)</p>
@@ -229,7 +229,7 @@ sidenav: events_navigation
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION VI-A<br>
   VARIANCE ESTIMATION
   </div>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Can Post-Imputation Calibration Mitigate Possible Bias in Rubin’s Multiple Imputation Variance Estimator?</a>  <small> (404 KB)</small></p>
+  <p style="width:50%;">Can Post-Imputation Calibration Mitigate Possible Bias in Rubin’s Multiple Imputation Variance Estimator? <small> (404 KB)</small></p>
   <p style="width:50%;" class="indent">Benjamin Reist and (U.S. Census Bureau) and Michael Larsen (The George Washington University, USA)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/Liao_2012FCSM_VI-A.pdf" target="_blank">Condition Indexes and Variance Decompositions for Diagnosing Collinearity in Linear Model Analysis of Survey Data</a>  <small> (476 KB)</small></p>
   <p style="width:50%;" class="indent">Dan Liao (RTI International, USA) and Richard Valliant (University of Michigan and University of Maryland, USA)</p>
@@ -246,7 +246,7 @@ sidenav: events_navigation
   <p style="width:50%;" class="indent">Chris Ellis (RTI International, USA), Margaret Noonan (Bureau of Justice Statistics, USA), Tim Flanigan, Scott Ginder, and Hope Smiley McDonald (RTI International, USA)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/Zuckerbraun_2012FCSM_VI-B.pdf" target="_blank">Does it Pay to Try Again? Using Production Metrics From the Recruiting Process on an Establishment Survey to Design Recruiting Protocols</a>  <small> (1.09 MB)</small></p>
   <p style="width:50%;" class="indent">Sara Zuckerbraun, Patricia LeBaron, and John Loft (RTI International, USA) and Manisha Sengupta (National Center for Health Statistics, USA)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Developing Response Metrics for the Economic Census</a>  <small> (404 KB)</small></p>
+  <p style="width:50%;">Developing Response Metrics for the Economic Census  <small> (404 KB)</small></p>
   <p style="width:50%;" class="indent">Joanna Fane Lineback, Broderick Oliver, and Diane Willimack (U.S. Census Bureau)</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION VI-C<br>
   MEASURING, MONITORING, AND IMPROVING THE QUALITY OF SURVEY DATA
@@ -262,9 +262,9 @@ sidenav: events_navigation
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION VI-D<br>
   PROTECTING CONFIDENTIAL DATA AND PREVENTING DISCLOSURE
   </div>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Applicability of Basic Separability Principles to Enhance the Operational Efficiency of Synthetic Tabular Data Generation Procedures in Multi Dimensional Table Structures</a>  <small> (404 KB)</small></p>
+  <p style="width:50%;">Applicability of Basic Separability Principles to Enhance the Operational Efficiency of Synthetic Tabular Data Generation Procedures in Multi Dimensional Table Structures <small> (404 KB)</small></p>
   <p style="width:50%;" class="indent">Ramesh Dandekar (Energy Information Administration, USA)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">A Stochastic/Deterministic Hybrid Search Method for Solving the 3-Dimensional Cell Suppression Problem for Deeply Hierarchical-Structured Tables</a><br>  <small> (404 KB)</small></p>
+  <p style="width:50%;">A Stochastic/Deterministic Hybrid Search Method for Solving the 3-Dimensional Cell Suppression Problem for Deeply Hierarchical-Structured Tables  <small> (404 KB)</small></p>
   <p style="width:50%;" class="indent">Matt Fetter (National Agricultural Statistics Service, USA)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/Wilson_2012FCSM_VI-D.pdf" target="_blank">k-Anonymization May Be NP-complete, but Can It Be Practical?</a>  <small> (234 KB)</small></p>
   <p style="width:50%;" class="indent">David Wilson (RTI, International, USA)</p>
@@ -275,7 +275,7 @@ sidenav: events_navigation
   </div>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/Hamrick_2012FCSM_VII-A.pdf" target="_blank">Nonresponse Bias Analysis of BMI Data in the ATUS Eating &amp; Health Module</a>  <small> (313 KB)</small></p>
   <p style="width:50%;" class="indent">Karen Hamrick (Economic Research Service, USA)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Estimating Mental Illness in an Ongoing National Survey</a>  <small> (404 KB)</small></p>
+  <p style="width:50%;">Estimating Mental Illness in an Ongoing National Survey  <small> (404 KB)</small></p>
   <p style="width:50%;" class="indent">Joe Gfroerer, Sarra Hedden, Peggy Barker, and Jonaki Bose (Substance Abuse and Mental Health Services Administration, USA) and Jeremy Aldworth (RTI International, USA)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/Rosenbaum_2012FCSM_VII-A.pdf" target="_blank">Telling Truth From Y’s: Accuracy of Self-Reported Semen Exposure Assessed by a Semen Y-Chromosome Biomarker</a>  <small> (294 KB)</small></p>
   <p style="width:50%;" class="indent">Janet Rosenbaum (University of Maryland, USA), Johan Melendez (Johns Hopkins University, USA), Eve Rose, Gina Wingood, and Ralph DiClemente (Emory University, USA), and Jonathan Zenilman (Johns Hopkins University, USA)</p>
@@ -286,7 +286,7 @@ sidenav: events_navigation
   </div>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/Boivin_2012FCSM_VII-B.pdf" target="_blank">Measurement Strategies for Identifying Holders of Certificates and Certifications</a>  <small> (495 KB)</small></p>
   <p style="width:50%;" class="indent">Sharon Boivin and Isaiah O’Rear (National Center for Education Statistics, USA)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Evaluation of the 2008 American Community Survey Employment Status Question Change</a>  <small> (404 KB)</small></p>
+  <p style="width:50%;">Evaluation of the 2008 American Community Survey Employment Status Question Change  <small> (404 KB)</small></p>
   <p style="width:50%;" class="indent">Alfred Gottschalck, Braedyn Kromer, David Howard, and David Hedengren (U.S. Census Bureau)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/Okon_2012FCSM_VII-B.pdf" target="_blank">The National Survey of Fishing, Hunting, and Wildlife-Associated Recreation Cell Phone and Debit Card Test</a>  <small> (402 KB)</small></p>
   <p style="width:50%;" class="indent">Elke McLaren, Aniekan Okon, and Denise Pepe (U.S. Census Bureau)</p>
@@ -301,7 +301,7 @@ sidenav: events_navigation
   <p style="width:50%;" class="indent">Peter Schilling and Brian Zamperini (U.S. Census Bureau)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/Virgile_2012FCSM_VII-C.pdf" target="_blank">Measurement Error in the Relationship Status of Same-Sex Couples in the 2009 American Community Survey</a>  <small> (500 KB)</small></p>
   <p style="width:50%;" class="indent">Matthew Virgile (U.S. Census Bureau)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Statistics on Temporal and Spatial Activity Based on Mobile Phone Network Data</a>  <small> (404 KB)</small></p>
+  <p style="width:50%;">Statistics on Temporal and Spatial Activity Based on Mobile Phone Network Data  <small> (404 KB)</small></p>
   <p style="width:50%;" class="indent">Edwin de Jonge, Merijn van Pelt, and Marko Roos (Statistics Netherlands)</p>
   <p class="date"><a name="ThursdayAM"></a>THURSDAY AM</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION VIII-A<br>
@@ -336,18 +336,18 @@ sidenav: events_navigation
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION VIII-D<br>
   TECHNICAL DEMONSTRATIONS: DATA COLLECTION AND MONITORING TECHNOLOGY
   </div>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Technology Advancing Data Collection: Implementing Thin Client Computer Assisted Personal Interviewing into National Agricultural Statistics Services’ 2011 Field Data Collection Program</a>  <small> (440 KB)</small></p>
+  <p style="width:50%;">Technology Advancing Data Collection: Implementing Thin Client Computer Assisted Personal Interviewing into National Agricultural Statistics Services’ 2011 Field Data Collection Program  <small> (440 KB)</small></p>
   <p style="width:50%;" class="indent">Michael Gerling, Pam Hird, and James Harris (National Agricultural Statistics Service, USA)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/Lieberman_2012FCSM_VIII-D.pdf" target="_blank">Data Quality Record – A Desktop Application</a>  <small> (0.99 MB)</small></p>
   <p style="width:50%;" class="indent">Judy Lieberman, Joseph Greenblott, and Patricia Mundy (U.S. Environmental Protection Agency) and Michael Crow (Crow Environmental, USA)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/Fisher_2012FCSM_VIII-D.pdf" target="_blank">CARI Interactive Data Access System</a>  <small> (272 KB)</small></p>
   <p style="width:50%;" class="indent">Carl Fisher (RTI International, USA)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">RTI Quality Evaluation System (QUEST)</a>  <small> (404 KB)</small></p>
+  <p style="width:50%;">RTI Quality Evaluation System (QUEST) <small> (404 KB)</small></p>
   <p style="width:50%;" class="indent">Susan Kinsey, Derek Stone, and Curry Spain (RTI International, USA)</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION IX-A<br>
   BESTING THE ODDS: OPTIMAL REPORTING OF LOGISTIC REGRESSION
   </div>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Besting the Odds: Optimal Reporting of Logistic Regression</a>  <small> (404 KB)</small><br>
+  <p style="width:50%;">Besting the Odds: Optimal Reporting of Logistic Regression  <small> (404 KB)</small><br>
   (Please note that all papers were combined into one session paper.)<br>
   Morgen Miller and Edward Norton (University of Michigan, USA), Kasey Coyne (Departments of Health Evidence &amp; Policy, USA), Jason Wang (New York City Department of Health and Mental Hygiene, USA) and Lawrence Kleinman (Mount Sinai School of Medicine, USA)UEST)</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION IX-B<br>
@@ -357,7 +357,7 @@ sidenav: events_navigation
   <p style="width:50%;" class="indent">Rachael Walsh and Jason Fields (U.S. Census Bureau)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/Perez-Lopez_2012FCSM_IX-B.pdf" target="_blank">Differing Person Nonresponse Rate by Interview Length and Respondent Characteristic: Results From the 2010 and 2011 SIPP-EHC Field Tests</a><br>  <small> (619 KB)</small></p>
   <p style="width:50%;" class="indent">Daniel Perez-Lopez and Rachael Walsh (U.S. Census Bureau)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Does Length Really Matter? Exploring the Effects of a Shorter Interview on Data Quality, Nonresponse, and Respondent Burden</a>  <small> (404 KB)</small></p>
+  <p style="width:50%;">Does Length Really Matter? Exploring the Effects of a Shorter Interview on Data Quality, Nonresponse, and Respondent Burden  <small> (404 KB)</small></p>
   <p style="width:50%;" class="indent">Scott Fricker, Brett Creech, Jeanette Davis, Jeffrey Gonzalez, Lucilla Tan, and Nhien To (Bureau of Labor Statistics, USA)</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION IX-C<br>
   USING ADMINISTRATIVE DATA FOR SURVEY DATA QUALITY EVALUATIONS
@@ -392,7 +392,7 @@ sidenav: events_navigation
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION X-B<br>
   LINKING AND QUALITY OF ADMINISTRATIVE DATA
   </div>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Pulling Together: Linking Unemployment Insurance and Supplemental Nutrition Assistance Program Administrative Data to Study Effects of the Great Recession</a>  <small> (404 KB)</small></p>
+  <p style="width:50%;">Pulling Together: Linking Unemployment Insurance and Supplemental Nutrition Assistance Program Administrative Data to Study Effects of the Great Recession <small> (404 KB)</small></p>
   <p style="width:50%;" class="indent">Theresa Anderson (George Washington University, USA, and Economic Research Service, USA), John Kirlin (Economic Research Service, USA), and Michael Wiseman (George Washington University, USA)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/Larsen_2012FCSM_X-B.pdf" target="_blank">Study of Factors Affecting Record Linkage in Federal Statistical Databases</a>  <small> (283 KB)</small></p>
   <p style="width:50%;" class="indent">Yuan Zhao and Michael Larsen (George Washington University, USA)</p>
