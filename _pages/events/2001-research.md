@@ -39,7 +39,7 @@ sidenav: events_navigation
   <p class="indent">Jorge Romeu</p>
   <p class="date"><a id="s3a" name="s3a"></a>SESSION III-A<br><br>
   USES OF ADVANCED TECHNOLOGIES FOR DATA COLLECTION, PROCESSING AND DISSEMINATION, PART 1</p>
-  <p><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Computer Audio Recorded Interviewing (CARI): Additional Feasibility Efforts of Monitoring Field Interview Performance</a>  <small> (440 KB)</small></p>
+  <p>Computer Audio Recorded Interviewing (CARI): Additional Feasibility Efforts of Monitoring Field Interview Performance  <small> (440 KB)</small></p>
   <p class="indent">Deborah Herget, Paul Biemer, Jeremy Morton, and Kelly Sand</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Donahue.pdf" target="_blank">Scanning Technology Can Improve Time-Use Studies</a>  <small> (958 KB)</small></p>
   <p class="indent">Patricia Donahue, Lynn Musser, Thomas Slomba, Judy Hoovler, Tina Kinney, and Consuelo Bangs</p>
@@ -54,13 +54,13 @@ sidenav: events_navigation
   <p class="indent">Pasi Piela and Seppo Laaksonen</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Greene.pdf" target="_blank">Raking Fire Data</a>  <small> (268 KB)</small></p>
   <p class="indent">Michael Greene, Linda Smith, Mark Levenson, Signe Hiser, and Jean Mah</p>
-  <p><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Formal Discussion</a>  <small> (440 KB)</small></p>
+  <p>Formal Discussion  <small> (440 KB)</small></p>
   <p class="indent">Nathaniel Schenker</p>
   <p class="date"><a id="s4a" name="s4a"></a>SESSION IV-A<br><br>
   USES OF ADVANCED TECHNOLOGIES FOR DATA COLLECTION, PROCESSING, AND DISSEMINATION, PART II</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Boucher.pdf" target="_blank">Laying the Foundation for Electronic Dissemination: Statistics Canada’s Output Database, CANSIM II</a>  <small> (243 KB)</small></p>
   <p class="indent">Louis Boucher</p>
-  <p><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Security Screening and Knowledge Management in the Department of Defense</a>  <small> (440 KB)</small></p>
+  <p>Security Screening and Knowledge Management in the Department of Defense  <small> (440 KB)</small></p>
   <p class="indent">David Lloyd and Nancy Spruill</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Blessing.pdf" target="_blank">Usability Testing for the Energy Information Administration’s Info-Centric Web Site</a>  <small> (243 KB)</small></p>
   <p class="indent">Colleen Blessing, Robert Rutchik, Howard Bradsher-Fredrick, Herbert Miller, and Renee Miller</p>
@@ -82,7 +82,7 @@ sidenav: events_navigation
   <p class="indent">Arnold Reznek and David Merrell</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Sande.pdf" target="_blank">Methods for Data Directed Microaggregation in One or More Dimensions</a>  <small> (468 KB)</small></p>
   <p class="indent">Gordon Sande</p>
-  <p><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Using Synthetic Data Sets to Satisfy Disclosure Restrictions</a>  <small> (440 KB)</small></p>
+  <p>Using Synthetic Data Sets to Satisfy Disclosure Restrictions  <small> (440 KB)</small></p>
   <p class="indent">Jerome Reiter</p>
   <p>A Disclosure Treatment Strategy of Public Use Micro Data Files Based Upon Optimal Sampling Design Considerations</p>
   <p class="indent">A.C. Singh, Moshe Feder, George Dunteman, and Feng Yu</p>
@@ -90,7 +90,7 @@ sidenav: events_navigation
   ESTIMATION AND VARIANCE ESTIMATION</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Burck.pdf" target="_blank">A General Method for Estimating the Variances of X11-ARIMA Estimators</a>  <small> (425 KB)</small></p>
   <p class="indent">Luisa Burck and Michail Sverchkov</p>
-  <p><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Design and Estimation Innovations in the Medical Expenditure Panel Survey for the Measurement of Health Care Quality and Expenditures</a>  <small> (440 KB)</small></p>
+  <p>Design and Estimation Innovations in the Medical Expenditure Panel Survey for the Measurement of Health Care Quality and Expenditures  <small> (440 KB)</small></p>
   <p class="indent">Steven Cohen</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Mantel.pdf" target="_blank">Cross-Sectional Inference Based on Longitudinal Surveys: Some Experiences with Statistics Canada Surveys</a>  <small> (293 KB)</small></p>
   <p class="indent">Harold Mantel, Milorad Kovacevic, Owen Phillips, and Georgia Roberts</p>
@@ -112,12 +112,12 @@ sidenav: events_navigation
   <p class="indent">Lee Hoffman and Beth Young</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Myers.pdf" target="_blank">Using Administrative Data in Lieu of Survey Responses for Small Businesses</a>  <small> (245 KB)</small></p>
   <p class="indent">Anthony Myers, David Kinyon, and Carol King</p>
-  <p><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">The Assessment of Survey of Income and Program Participation (SIPP), Benefit Data Using Longitudinal Administrative Records</a><br> <small> (440 KB)</small></p>
+  <p>The Assessment of Survey of Income and Program Participation (SIPP), Benefit Data Using Longitudinal Administrative Records<br> <small> (440 KB)</small></p>
   <p class="indent">Kalman Rupp, Minh Huynh, and James Sears</p>
   <p>Formal Discussion: Fritz Scheuren</p>
   <p class="date"><a id="s7a" name="s7a"></a>SESSION VII-A<br><br>
   INTERNET AND OTHER FORMS OF DATA COLLECTION</p>
-  <p><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">AESDirect – Internet Data Collection of U.S. Export Information</a> <small> (440 KB)</small></p>
+  <p>AESDirect – Internet Data Collection of U.S. Export Information <small> (440 KB)</small></p>
   <p class="indent">Charles Woods</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Tourangeau.pdf" target="_blank">Social Presence in Web Surveys</a>  <small> (329 KB)</small></p>
   <p class="indent">Roger Tourangeau, Mick Couper, and Darby Steiger</p>
@@ -130,7 +130,7 @@ sidenav: events_navigation
   <p class="indent">Michael Cohen</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Kott.pdf" target="_blank">Two-Sided Coverage Intervals for Small Proportions Based on Survey Data</a>  <small> (217 KB)</small></p>
   <p class="indent">Phillip Kott, Per Gösta Andersson, and Olle Nerman</p>
-  <p><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Formal Discussion</a>  <small> (440 KB)</small></p>
+  <p>Formal Discussion  <small> (440 KB)</small></p>
   <p class="indent">Stephen Haslett</p>
   <p class="date"><a id="s8a" name="s8a"></a>SESSION VIII-A<br><br>
   ISSUES IN GEOSPATIAL DATA COLLECTION</p>
@@ -163,15 +163,15 @@ sidenav: events_navigation
   <p class="indent">Martin David</p>
   <p>Classifying Open Ended Reports: Coding Occupation in the Current Population Survey</p>
   <p class="indent">Frederick Conrad and Mick Couper</p>
-  <p><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Using Respondent Requests for Help to Develop Quality Data Collection Instruments: The 2000 Census of Agriculture Content Test</a>  <small> (440 KB)</small></p>
+  <p>Using Respondent Requests for Help to Develop Quality Data Collection Instruments: The 2000 Census of Agriculture Content Test  <small> (440 KB)</small></p>
   <p class="indent">Jaki McCarthy</p>
   <p class="date"><a id="s10b" name="s10b"></a>SESSION X-B<br><br>
   NEW APPROACHES IN SAMPLE DESIGN, ESTIMATION AND RECORD LINKAGE</p>
-  <p><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Changes in Sampling Units in Surveys of Businesses</a>  <small> (440 KB)</small></p>
+  <p>Changes in Sampling Units in Surveys of Businesses  <small> (440 KB)</small></p>
   <p class="indent">Jock Black</p>
-  <p><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Designing Samples to Satisfy Many Variance Constraints</a>  <small> (440 KB)</small></p>
+  <p>Designing Samples to Satisfy Many Variance Constraints  <small> (440 KB)</small></p>
   <p class="indent">Donna Glassbrenner</p>
-  <p><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">A Partial Order Approach to Record Linkage</a>  <small> (440 KB)</small></p>
+  <p>A Partial Order Approach to Record Linkage  <small> (440 KB)</small></p>
   <p class="indent">Dean Judson</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Shapiro.pdf" target="_blank">Formal Discussion</a>  <small> (82.9 KB)</small></p>
   <p class="indent">Gary Shapiro</p>
@@ -179,7 +179,7 @@ sidenav: events_navigation
   DATA QUALITY AND NONSAMPLING ERROR, PART 2</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Haworth.pdf" target="_blank">Delivering and Measuring Data Quality in UK National Statistics</a>  <small> (216 KB)</small></p>
   <p class="indent">Marta Haworth and Jean Martin</p>
-  <p><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Effects of the Level of Interviewer Effort on the Characteristics of Completed Responses: An Experiment Using the 1998 Survey of Small Business Finances</a>  <small> (440 KB)</small></p>
+  <p>Effects of the Level of Interviewer Effort on the Characteristics of Completed Responses: An Experiment Using the 1998 Survey of Small Business Finances  <small> (440 KB)</small></p>
   <p class="indent">Marianne Bitler and John Wolken</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Sadeghi.pdf" target="_blank">The Quality vs. Timeliness Tradeoff in BLS ES-202 Administrative Statistics</a>  <small> (185 KB)</small></p>
   <p class="indent">Akbar Sadeghi and Richard Clayton</p>
@@ -187,13 +187,13 @@ sidenav: events_navigation
   <p class="indent">Daniel Kasprzyk</p>
   <p class="date"><a id="s11b" name="s11b"></a>SESSION XI-B<br><br>
   CENSUS AND SURVEY EVALUATION METHODOLOGIES</p>
-  <p><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Estimating Reliability and Bias from Reinterviews with Application to the 1998 Dress Rehearsal Race Question</a>  <small> (440 KB)</small></p>
+  <p>Estimating Reliability and Bias from Reinterviews with Application to the 1998 Dress Rehearsal Race Question  <small> (440 KB)</small></p>
   <p class="indent">Paul Biemer and Henry Woltman</p>
-  <p><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Can We Ignore the Migration of Income Tax Nonfilers When Benchmarking the American Community Survey’s County Estimates?</a>  <small> (440 KB)</small></p>
+  <p>Can We Ignore the Migration of Income Tax Nonfilers When Benchmarking the American Community Survey’s County Estimates?  <small> (440 KB)</small></p>
   <p class="indent">Yves Thibaudeau</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Crouse.pdf" target="_blank">The 2002 U.S. Census of Agriculture Data Processing System</a>  <small> (77.1 KB)</small></p>
   <p class="indent">Chadd Crouse and Kara Perritt</p>
-  <p><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Formal Discussion</a>  <small> (440 KB)</small></p>
+  <p>Formal Discussion  <small> (440 KB)</small></p>
   <p class="indent">Charles Alexander</p>
 </div>
 <a class="usa-button" href="{{site.baseurl}}/events/fcsm-research-conferences/">Back</a>

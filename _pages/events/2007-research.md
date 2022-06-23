@@ -38,7 +38,7 @@ sidenav: events_navigation
   </div>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2007FCSM_Link-II-C.pdf" target="_blank">Practicability of Including Cell Phone Numbers in Random Digit Dialed Surveys: Pilot Study Results From the Behavioral Risk Factor Surveillance System</a>  <small> (349 KB)</small></p>
   <p style="width:50%;" class="indent">Michael Link (Nielsen Media Research, USA), Michael Battaglia and Mary Osborn (Abt Associates, Inc., USA), Martin Frankel (Baruch College, CUNY and Abt Associates, Inc., USA) and Ali Mokdad (Centers for Disease Control and Prevention, USA)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Measuring and Adjusting for Frame Undercoverage of the State and Local Value Put-In-Place (VIP) Survey</a>  <small> (440 KB)</small></p>
+  <p style="width:50%;">Measuring and Adjusting for Frame Undercoverage of the State and Local Value Put-In-Place (VIP) Survey  <small> (440 KB)</small></p>
   <p class="indent">Thuy Trang Nguyen and Shadana Myers (U.S. Census Bureau)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2007FCSM_Liu-II-C.pdf" target="_blank">Comparing the Quality of the Master Address File and the Current Demographic Household Surveys’s Multiple Frames</a>  <small> (155 KB)</small></p>
   <p class="indent">Xijian Liu (U.S. Census Bureau)</p>
@@ -48,9 +48,9 @@ sidenav: events_navigation
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION III-A<br>
   DISCLOSURE I
   </div>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Comparative Evaluation of Four Different Sensitive Tabular Data Protection Methods Using a Real Life Table Structure of Complex Hierarchies and Links</a>  <small> (440 KB)</small></p>
+  <p style="width:50%;">Comparative Evaluation of Four Different Sensitive Tabular Data Protection Methods Using a Real Life Table Structure of Complex Hierarchies and Links  <small> (440 KB)</small></p>
   <p class="indent">Ramesh Dandekar (Energy Information Administration, USA)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">‘Easy to Implement’ Is Putting the Cart Before the Horse: Effective Techniques for Masking Numerical Data</a>  <small> (440 KB)</small></p>
+  <p style="width:50%;">‘Easy to Implement’ Is Putting the Cart Before the Horse: Effective Techniques for Masking Numerical Data  <small> (440 KB)</small></p>
   <p class="indent">Krish Muralidhar (University of Kentucky, USA) and Rathindra Sarathy (Oklahoma State University, USA)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2007FCSM_Drechsler-III-A.pdf" target="_blank">Comparing Fully and Partially Synthetic Data Sets for Statistical Disclosure Control in the German IAB Establishment Panel</a>  <small> (357 KB)</small></p>
   <p class="indent">Joerg Drechsler, Agnes Dundler, Stefan Bender and Susanne Raessler (Institute for Employment Research, Germany)</p>
@@ -101,7 +101,7 @@ sidenav: events_navigation
   </div>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2007FCSM_Cohen-IV-C.pdf" target="_blank">Discussion: Topics in Estimation and Modeling and International Surveys</a>  <small> (190 KB)</small></p>
   <p class="indent">Michael P. Cohen</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Estimating Unemployment for Small Areas in Navarra, Spain</a>  <small> (440 KB)</small></p>
+  <p style="width:50%;">Estimating Unemployment for Small Areas in Navarra, Spain  <small> (440 KB)</small></p>
   <p class="indent">Maria Ugarte, Ana Militino and Tomas Goicoa (Public University of Navarra, Spain)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2007FCSM_Paravatsu-IV-C.pdf" target="_blank">Two-Step Versus Simultaneous Estimation of Survey-Non-Sampling Error and True Value Components of Small Area Sample Estimators</a><br>  <small> (512 KB)</small></p>
   <p class="indent">Swamy Paravastu and Tamara Zimmerman (Bureau of Labor Statistics, USA) and Jatinder Mehta (Temple University, USA)</p>
@@ -141,7 +141,7 @@ sidenav: events_navigation
   </div>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2007FCSM_Singh-V-B.pdf" target="_blank">A New Application of Estimating Functions for Variance and Interval Estimation From Simple and Complex Surveys</a>  <small> (297 KB)</small></p>
   <p class="indent">Avinash Singh (Statistics Canada)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Model Averaging Methods for Weight Trimming in Generalized Linear Regression Models</a>  <small> (440 KB)</small></p>
+  <p style="width:50%;">Model Averaging Methods for Weight Trimming in Generalized Linear Regression Models  <small> (440 KB)</small></p>
   <p class="indent">Michael Elliott (University of Michigan, USA)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2007FCSM_Keller-V-B.pdf" target="_blank">Using Markov Chain Monte Carlo for Modeling Correct Enumeration and Match Rate Variability</a>  <small> (257 KB)</small></p>
   <p class="indent">Andrew Keller (U.S. Census Bureau)</p>
@@ -181,7 +181,7 @@ sidenav: events_navigation
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION VI-C<br>
   ADMINISTRATIVE RECORDS: APPLICATIONS OF DATA LINKAGES
   </div>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">RELAIS: Don’t Get Lost in a Record Linkage Project</a>  <small> (440 KB)</small></p>
+  <p style="width:50%;">RELAIS: Don’t Get Lost in a Record Linkage Project  <small> (440 KB)</small></p>
   <p class="indent">Tiziana Tuoto, Nicoletta Cibella, Marco Fortini, Monica Scannapieco and Laura Tosco (Italian National Institute of Statistics (ISTAT), Italy)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2007FCSM_OHara-VI-C.pdf" target="_blank">Allocated Values in Linked Files</a>  <small> (194 KB)</small></p>
   <p class="indent">Amy O’Hara (U.S. Census Bureau)</p>
@@ -265,7 +265,7 @@ sidenav: events_navigation
   </div>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2007FCSM_Eltinge-IX-C.pdf" target="_blank">Properties of Alternative Sample Design and Estimation Methods for the Consumer Expenditure Surveys</a>  <small> (370 KB)</small></p>
   <p class="indent">John Eltinge and Jeffrey Gonzalez (Bureau of Labor Statistics, USA)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">The American Community Survey Sample Design: An Experimental Springboard</a>  <small> (440 KB)</small></p>
+  <p style="width:50%;">The American Community Survey Sample Design: An Experimental Springboard  <small> (440 KB)</small></p>
   <p class="indent">Megha Joshipura and Steven Hefter (U.S. Census Bureau)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2007FCSM_Adams-IX-C.pdf" target="_blank">An Adaptive Sample Allocation for a Multiple Objectives Survey of Businesses</a>  <small> (221 KB)</small></p>
   <p class="indent">Daniela Golinelli, Greg Ridgeway and John Adams (RAND Corporation, USA)</p>
@@ -294,7 +294,7 @@ sidenav: events_navigation
   <p class="indent">Kirk White (U.S. Census Bureau) and Jerome Reiter (Duke University, USA)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2007FCSM_Buettner-X-C.pdf" target="_blank">Multiple Imputation of Right-Censored Wages in the German IAB Employment Register Considering Heteroscedasticity</a>  <small> (258 KB)</small></p>
   <p class="indent">Thomas Buettner and Susanne Raessler (Institute for Employment Research of the German Federal Employment Agency, Germany)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Imputing Missing Values in the Common Core of Data for Use in Computing the Averaged Freshman Graduation Rate</a>  <small> (440 KB)</small></p>
+  <p style="width:50%;">Imputing Missing Values in the Common Core of Data for Use in Computing the Averaged Freshman Graduation Rate  <small> (440 KB)</small></p>
   <p class="indent">Jack Buckley, Marilyn McMillen Seastrom and Chris Chapman (National Center for Education Statistics, USA), Vincent Iannacchione (American Institutes for Research, USA), Sandra Eyster, Dan McGrath, and Rob Stillwell (RTI International, USA)</p>
 </div>
 <a class="usa-button" href="{{site.baseurl}}/events/fcsm-research-conferences/">Back</a>
