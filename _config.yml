@@ -152,7 +152,7 @@ resource_navigation:
     url: /resources/sogi/
 
 events_navigation:
-  - name: FCSM Research Conferences
+  - name: FCSM Research and Policy Conferences
     url: /events/fcsm-research-conferences/
   - name: Past FCSM Statistical Policy Seminars
     url: /events/fcsm-conference-seminar-programs-presentations/

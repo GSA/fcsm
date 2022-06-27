@@ -1,10 +1,10 @@
 ---
-title: FCSM Conference and Seminar Programs and Presentations
+title: FCSM Statistical Policy Seminar Programs and Presentations
 layout: page
 sidenav: events_navigation
 ---
 
-<h2 class="page-sub-title">FCSM Conference and Seminar Programs and Presentations </h2>
+<h2 class="page-sub-title">FCSM Statistical Policy Seminar Programs and Presentations </h2>
 
 <p><b>2016:</b> <a class="fcsm-main-links" href="{{ site.baseurl }}/assets/files/docs/2016FCSMPolicyProgramFinalWebVersion.pdf">The Future of Federal Statistics – Use of Multiple Data Sources, Anchored in Fundamental Principles and Practices</a> [Program]</p>
 
