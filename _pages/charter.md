@@ -10,17 +10,17 @@ sidenav: about_navigation
 
 <h2 id="mission"><b>I. Mission of the FCSM</b></h2>
 <p>The mission of the FCSM is to:</p>
-<ul>
-  <li>Inform and advise OMB and the Interagency Council on Statistical Policy (ICSP) on methodological and statistical issues that affect the quality of federal data; </li>
-  <li>Compile, assess, and disseminate information on statistical or survey methods and practices for federal statistical programs;</li>
-  <li>Provide recommendations on issues of statistical methodology such as measurement, analysis, survey methods, survey errors, data collection methods and technologies, use of administrative and third party data, record linkage, disclosure limitation, data visualization and dissemination of information that affect federal statistical programs and improve data quality, including transparency, timeliness, accuracy, relevance, utility, accessibility, and cost effectiveness; </li>
-  <li> Provide a forum for statisticians in different federal agencies to discuss issues affecting federal statistical programs; and </li>
-  <li>Promote and support cooperative research across agencies on issues relevant to federal statistical activities. </li>
+<ul role="list">
+  <li role="listitem">Inform and advise OMB and the Interagency Council on Statistical Policy (ICSP) on methodological and statistical issues that affect the quality of federal data; </li>
+  <li role="listitem">Compile, assess, and disseminate information on statistical or survey methods and practices for federal statistical programs;</li>
+  <li role="listitem">Provide recommendations on issues of statistical methodology such as measurement, analysis, survey methods, survey errors, data collection methods and technologies, use of administrative and third party data, record linkage, disclosure limitation, data visualization and dissemination of information that affect federal statistical programs and improve data quality, including transparency, timeliness, accuracy, relevance, utility, accessibility, and cost effectiveness; </li>
+  <li role="listitem"> Provide a forum for statisticians in different federal agencies to discuss issues affecting federal statistical programs; and </li>
+  <li>Promote and support cooperative research across agencies on issues relevant to federal statistical activities.</li>
 </ul>
 
 <h2 id="activities"><b> II. FCSM Activities </b></h2>
 <p>The FCSM works to fulfill its mission by engaging in a variety of activities that the Chair(s) and members determine are appropriate.</p> 
-<ol ole="list">
+<ol role="list">
   <li role="listitem">The FCSM shall meet as a whole at intervals and sites designated by the Chair(s).</li>
   <li role="listitem">The FCSM may establish subcommittees to study particular issues, form temporary program committees, or sponsor ongoing interest groups focused on a particular statistical or methodological topic. </li> 
   <li role="listitem">The FCSM may create and disseminate reports, working papers, guidance, or recommendations through publication and through its website. The FCSM may also facilitate the dissemination of statistical and methodological research conducted or sponsored by federal agencies, federal interagency working groups, and other cross-agency bodies.</li>
@@ -34,10 +34,10 @@ sidenav: about_navigation
 
 <h2 id="subcommittees"><b>IV. Subcommittees and Interest Groups</b></h2>
 <p>The FCSM may create subcommittees, program committees, or interest groups, as necessary to study and/or to advise particular issues, organize workshops, seminars, or conferences, or provide an ongoing forum for particular statistical and methodological topics. The Chair(s) of the FCSM may, if circumstances require, initiate and dissolve subcommittees, program committees, and interest groups. </p>
-<ul>
-  <li>Subcommittees - Subcommittees are established to explore some particular aspect of statistical methodology and produce a specific product within a set period of time. Products may include reports, working papers, guidance, or recommendations. The Chair(s) of a subcommittee shall be a member of the FCSM appointed by the Chair(s) of the FCSM. Membership in a subcommittee may be solicited from staff within statistical agencies or programs by OMB or may consist entirely of FCSM members.</li> 
-  <li>Program Committees - Program Committees are temporary and are established with the express purpose of organizing a particular workshop, conference, or seminar. The Chair(s) and members of a program committee are appointed by the Chair(s) of the FCSM and serve for the duration of the organizing effort. </li>
-  <li>Interest Groups - Interest Groups provide ongoing opportunity for individuals interested in a particular aspect of statistical methods or data quality to interact, exchange information on the topic, explore issues related to that topic, and produce products and services that are of interest to the group. The method of selecting the Chair(s) of an interest group shall be determined by the interest group; however, there must be regular contact with FCSM, either through an FCSM sponsor or a temporary FCSM membership for the Chair(s) of the interest group. Membership of interest groups is generally open to all interested career personnel who work for the federal government. </li>
+<ul role="list">
+  <li role="listitem">Subcommittees - Subcommittees are established to explore some particular aspect of statistical methodology and produce a specific product within a set period of time. Products may include reports, working papers, guidance, or recommendations. The Chair(s) of a subcommittee shall be a member of the FCSM appointed by the Chair(s) of the FCSM. Membership in a subcommittee may be solicited from staff within statistical agencies or programs by OMB or may consist entirely of FCSM members.</li> 
+  <li role="listitem">Program Committees - Program Committees are temporary and are established with the express purpose of organizing a particular workshop, conference, or seminar. The Chair(s) and members of a program committee are appointed by the Chair(s) of the FCSM and serve for the duration of the organizing effort. </li>
+  <li role="listitem">Interest Groups - Interest Groups provide ongoing opportunity for individuals interested in a particular aspect of statistical methods or data quality to interact, exchange information on the topic, explore issues related to that topic, and produce products and services that are of interest to the group. The method of selecting the Chair(s) of an interest group shall be determined by the interest group; however, there must be regular contact with FCSM, either through an FCSM sponsor or a temporary FCSM membership for the Chair(s) of the interest group. Membership of interest groups is generally open to all interested career personnel who work for the federal government. </li>
 </ul>
 
 <h2 id="products"><b>V. FCSM Products </b></h2>
@@ -47,27 +47,31 @@ sidenav: about_navigation
 <p>The FCSM was founded by the Office of Statistical Policy (now the Statistical and Science Policy Branch in the Office of Information and Regulatory Affairs) in OMB to assist in carrying out its role in setting and coordinating statistical policy. The FCSM serves as a resource for OMB to inform decision making on matters of statistical policy and to provide technical assistance and guidance on statistical and methodological issues affecting federal statistics. </p>
 <p>The statistical policy roles of OMB were codified in the PRA of 1980 and were expanded upon in the 1995 reauthorization. Specifically, Section 3504 (e) includes: </p>
 <p>With respect to statistical policy and coordination, the Director of OMB shall:</p>
-<ol>
-  <li>coordinate the activities of the federal statistical system to ensure - </li>
-  <ol type="a">
-    <li> the efficiency and effectiveness of the system; and </li>
-    <li> the integrity, objectivity, impartiality, utility, and confidentiality of information collected for statistical purposes; </li>
-  </ol>
-  <li> develop and oversee the implementation of Government-wide policies, principles, standards, and guidelines concerning --</li> 
-  <ol type="a">
-    <li> statistical collection procedures and methods; </li>
-    <li> statistical data classification; </li>
-    <li> statistical information presentation and dissemination; </li>
-    <li> timely release of statistical data; and </li>
-    <li> such statistical data sources as may be required for the administration of federal programs</li>
-  </ol>
+<ol role="list">
+  <li role="listitem">coordinate the activities of the federal statistical system to ensure - </li>
+  <li role="listitem">
+    <ol type="a">
+      <li> the efficiency and effectiveness of the system; and </li>
+      <li> the integrity, objectivity, impartiality, utility, and confidentiality of information collected for statistical purposes; </li>
+    </ol>
+  </li>
+  <li role="listitem"> develop and oversee the implementation of Government-wide policies, principles, standards, and guidelines concerning --</li> 
+  <li role="listitem">
+    <ol type="a">
+      <li> statistical collection procedures and methods; </li>
+      <li> statistical data classification; </li>
+      <li> statistical information presentation and dissemination; </li>
+      <li> timely release of statistical data; and </li>
+      <li> such statistical data sources as may be required for the administration of federal programs</li>
+    </ol>
+  </li>
 </ol>
 
 <h2 id="signatures"><b>VII. Signatures of ICSP Members</b></h2>
 <table>
   <tr>
-    <td width="50%">ICSP Agency Name</td>
-    <td>ICSP Agency Head Name</td>
+    <th role="columnheader" width="50%">ICSP Agency Name</th>
+    <th role="columnheader">ICSP Agency Head Name</th>
   </tr>
   <tr>
     <td>Office of Management and Budget</td>
