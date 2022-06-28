@@ -16,10 +16,10 @@ sidenav: events_navigation
   <div class="contenta">
     <p>Web-scraping &amp; Similar Tools to Capture Information for BLS Uses <a href="{{site.baseurl}}/assets/files/docs/A_1ThompsonBLSwebscrape1.pdf" target="_blank"> | (PDF)</a></p>
     <p>SABLE: Tools for Web Crawling, Web Scraping, and Text Classification <a href="{{site.baseurl}}/assets/files/docs/A_1Dumbacher_2018FCSM.pdf" target="_blank"> | (PDF)</a></p>
-    <p>Evaluating the Use of Web-Scraped List Frames to Assess Undercoverage in Surveys <a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"> | (PDF)</a></p>
+    <p>Evaluating the Use of Web-Scraped List Frames to Assess Undercoverage in Surveys </p>
     <p>Seizing Opportunities and Preserving Principles <a href="{{site.baseurl}}/assets/files/docs/A_1Sivinski.pdf" target="_blank"> |
         (PDF)</a></p>
-    <p>Museum Frame Development – A Universe is Comprised of Many Worlds <a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"> | (PDF)</a></p>
+    <p>Museum Frame Development – A Universe is Comprised of Many Worlds </p>
   </div>
 
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">
@@ -27,11 +27,11 @@ sidenav: events_navigation
   </div>
 
   <div class="contenta">
-    <p>Speeders and Sloths: The Effects of Respondent Timing on Web Survey Data Quality <a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"> | (PDF)</a></p>
+    <p>Speeders and Sloths: The Effects of Respondent Timing on Web Survey Data Quality </p>
     <p>Response Burden and Bias in the First National Food Acquisition and Purchase Survey (FoodAPS-1): An Empirical Analysis Based on Respondent Feedback Survey<a href="{{site.baseurl}}/assets/files/docs/A_2Zhang_FoodAPS.pdf" target="_blank"> |
         (PDF)</a></p>
     <p>Changes in Interview Length over a Data Collection Period: Interviewer Learning or Shifting Respondent Characteristics?
-      <a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"> | (PDF)</a>
+      
     </p>
     <p>Smart Math Saves Time and Improves Communication<a href="{{site.baseurl}}/assets/files/docs/A2_Nielsen_2018FCSM.pdf" target="_blank">
         | (PDF)</a></p>
@@ -52,7 +52,7 @@ sidenav: events_navigation
 
   <div class="contenta">
     <p>Benchmark Assessment of Respondent Driven Sampling Data for Foreign-Born Korean Americans <a href="{{site.baseurl}}/assets/files/docs/A_4Lee_RDS_FCSM_2_15_2017.pdf" target="_blank"> | (PDF)</a></p>
-    <p>Comparing Alternatives for Estimation from Nonprobability Samples <a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"> | (PDF)</a></p>
+    <p>Comparing Alternatives for Estimation from Nonprobability Samples </p>
     <p>Combining Probability and Nonprobability Samples to Form Efficient Hybrid Estimates <a href="{{site.baseurl}}/assets/files/docs/A4_Dever_2018FCSM.pdf" target="_blank"> | (PDF)</a></p>
     <p>Discussant: Courtney Kennedy (Pew Research Center)<br />A-4KennedyDISCUSSION WEDSession A-4_1000-1145am.pdf <a href="{{site.baseurl}}/assets/files/docs/A_4KennedyDISCUSSIONWEDSessionA_4_1000_1145am.pdf" target="_blank"> | (PDF)</a></p>
   </div>
@@ -102,10 +102,10 @@ sidenav: events_navigation
     </p>
     <p>
       Assessing the Automated Imputation of Missing and Erroneous Survey Data: A Simulation-Based Approach
-      <a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"> | (PDF)</a>
+      
     </p>
     <p>
-      Edit Reduction Research in the U.S. Census Bureau’s Economic Directorate<a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"> | (PDF)</a>
+      Edit Reduction Research in the U.S. Census Bureau’s Economic Directorate
     </p>
   </div>
 
@@ -129,7 +129,7 @@ sidenav: events_navigation
 
   <div class="contenta">
     <p>
-      Sampling Design and Variance Estimation for the National Survey of WIC Participants, Wave 3<a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"> | (PDF)</a>
+      Sampling Design and Variance Estimation for the National Survey of WIC Participants, Wave 3
     </p>
     <p>
       Implications of Repeated Sampling in a Crime Survey
@@ -213,7 +213,7 @@ sidenav: events_navigation
         | (PDF)</a>
     </p>
     <p>Small Area Estimation in the Annual Survey of Public Employment and Payroll (U.S. Census Bureau)
-      <a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"> | (PDF)</a>
+      
     </p>
     <p>County-Level Estimates of Mortality and Natality Indicators from the National Vital Statistics Systema
       <a href="{{site.baseurl}}/assets/files/docs/C_4RossenMinSize.pdf" target="_blank"></a>
@@ -237,7 +237,7 @@ sidenav: events_navigation
       <a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"></a>
     </p>
     <p>
-      Using Administrative Records to Evaluate Absolute and Relative Reporting Accuracy in Surveys <a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"> | (PDF)</a>
+      Using Administrative Records to Evaluate Absolute and Relative Reporting Accuracy in Surveys 
     </p>
     <p>
       Understanding Differences in the Disability Prevalence Across Federal Surveys: Why the 2014 Survey of Income and Program Participation Stands Out
@@ -251,7 +251,7 @@ sidenav: events_navigation
 
   <div class="contenta">
     <p>Small Domain Estimation Using Probability and Non-Probability Survey Data<a href="{{site.baseurl}}/assets/files/docs/D_1Chakraborty.pdf" target="_blank"> | (PDF)</a> </p>
-    <p>On Increasing the Number of County-Level Crop Estimates <a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"> | (PDF)</a>
+    <p>On Increasing the Number of County-Level Crop Estimates 
     </p>
     <p>Small Area Estimation for Measures Related to Tobacco Use and Policies Using the Tobacco Use Supplement to the Current Population Survey
       <a href="{{site.baseurl}}/assets/files/docs/D_1LiuBFCSM2018.pdf" target="_blank"> | (PDF)</a>
@@ -341,7 +341,7 @@ sidenav: events_navigation
   <div class="contenta">
     <p>
       Towards Developing Synthetic Datasets for the Economic Census
-      <a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"> | (PDF)</a>
+      
     </p>
     <p>
       Formal Privacy and Synthetic Data for the American Community Survey
@@ -352,7 +352,7 @@ sidenav: events_navigation
     </p>
     <p>
       Challenges and Experiences Adapting Differentially Private Mechanisms to the 2020 Census
-      <a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"> | (PDF)</a>
+      
     </p>
   </div>
   <p></p>
@@ -398,7 +398,7 @@ sidenav: events_navigation
       Stemming the Rising Tide of Nonresponse<a href="{{site.baseurl}}/assets/files/docs/E_2Tillman.pdf" target="_blank"> | (PDF)</a>
     </p>
     <p>
-      Cleaning Out the Gutter: Identifying and Eliminating Deadwood from a Sampling Frame Using Trees <a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"> | (PDF)</a>
+      Cleaning Out the Gutter: Identifying and Eliminating Deadwood from a Sampling Frame Using Trees 
     </p>
   </div>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">
@@ -429,7 +429,7 @@ sidenav: events_navigation
   <div class="contenta">
     <p>Incorporating the Finite Population Correction into the Variance Estimation of a National Business Survey <a href="{{site.baseurl}}/assets/files/docs/E4_Chowdhury_2018FCSM.pdf" target="_blank"> | (PDF)</a>
     </p>
-    <p>Finding an Estimator that Minimizes Revisions in a Monthly Indicator Survey <a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"> | (PDF)</a>
+    <p>Finding an Estimator that Minimizes Revisions in a Monthly Indicator Survey 
     </p>
     <p>Effect of Nearest Neighbor Imputation on Variances Calculated by Fay’s Balanced Repeated Replication
       <a href="{{site.baseurl}}/assets/files/docs/E4_RheinFCSM2018.pdf" target="_blank"> | (PDF)</a>
@@ -464,7 +464,7 @@ sidenav: events_navigation
     </p>
     <p>Training Cognitive Testing Interviewers in Different Settings and Languages a href="pdf/F_1Schoua_Glusberg.pdf" target="_blank"&gt; | (PDF)
     </p>
-    <p>Survey Translation and the Place of Expert Review in the Question Evaluation Tool Kit: Development of Best Practices <a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"> | (PDF)</a>
+    <p>Survey Translation and the Place of Expert Review in the Question Evaluation Tool Kit: Development of Best Practices 
     </p>
     <p>Recently Resettled Refugees and their Experience with the Annual Survey of Refugees – Findings from Cognitive and In-Depth Interviews <a href="{{site.baseurl}}/assets/files/docs/F_1Dutwin.pdf" target="_blank"> | (PDF)</a>
     </p>
@@ -485,7 +485,7 @@ sidenav: events_navigation
       <a href="{{site.baseurl}}/assets/files/docs/F_2Langeland.pdf" target="_blank"> | (PDF)</a>
     </p>
     <p>Experimenting with Alternative Question Designs for “Other, Specify” Product Information in Establishment Surveys
-      <a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"> | (PDF)</a>
+      
     </p>
   </div>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">
@@ -566,16 +566,16 @@ sidenav: events_navigation
       Bayesian Methods for Surveys
     </b>
     <div class="contenta">
-      <p>Bayesian Estimation Under Informative Sampling with Unattenuated Dependence <a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"> | (PDF)</a>
+      <p>Bayesian Estimation Under Informative Sampling with Unattenuated Dependence 
       </p>
       <p>Scalable Bayes Clustering for Outlier Detection Under Informative Sampling<a href="{{site.baseurl}}/assets/files/docs/G_3Savitsky.pdf" target="_blank"> | (PDF)</a> Terrance Savitsky (Bureau of Labor Statistics)
       </p>
-      <p>Some Exercises in Covariate Selection for a Bayesian Crop Yield Forecasting Model<a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"> | (PDF)</a>
+      <p>Some Exercises in Covariate Selection for a Bayesian Crop Yield Forecasting Model
       </p>
       <p>
         Are We Under-Estimating Food Insecurity? Christian Gregory (Economic Research Service, USDA)
       </p>
-      <p>Discussant: Nathan B. Cruze (USDA National Agricultural Statistics Service)<a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"> | (PDF)</a>
+      <p>Discussant: Nathan B. Cruze (USDA National Agricultural Statistics Service)
       </p>
     </div>
   </div>
@@ -668,7 +668,7 @@ sidenav: events_navigation
     </p>
     <p> The Use of Administrative Records and the American Community Survey to Study the Characteristics of Undercounted Young Children in the 2010 Census<a href="{{site.baseurl}}/assets/files/docs/H_4FernandezetalARChildUndercountFCSM2018.pdf" target="_blank"> | (PDF)</a>
     </p>
-    <p>Logistic Regression with Linked Data<a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"> | (PDF)</a>
+    <p>Logistic Regression with Linked Data
     </p>
     <p>A Method for Assigning Weight to Variable Matching in Record Linkage<a href="{{site.baseurl}}/assets/files/docs/H4_Abdus_2018FCSM.pdf" target="_blank"> | (PDF)</a>
     </p>
@@ -707,7 +707,7 @@ sidenav: events_navigation
     </p>
     <p>Record Linkage Application in DHS USCIS Person Centric System<a href="{{site.baseurl}}/assets/files/docs/I_2kostiuk.pdf" target="_blank"> | (PDF)</a> Damian Kostiuk (U.S. Citizenship and Immigration Services)
     </p>
-    <p>Evaluation of Data Matching in Immigration Enforcement Outcome Tool<a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"> | (PDF)</a>
+    <p>Evaluation of Data Matching in Immigration Enforcement Outcome Tool
     </p>
   </div>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">
@@ -725,9 +725,9 @@ sidenav: events_navigation
     <a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">
     </a>
     <p><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"> Evaluation of Two Different Interviewing Protocols to
-        Test a Mobile Mapping Instrument for the June Area Survey</a><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"> | (PDF)</a>
+        Test a Mobile Mapping Instrument for the June Area Survey</a>
     </p>
-    <p> The Time Use Data-based Measures of the Wellbeing Effect of Community Development: An Evaluative Approach.<a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"> | (PDF)</a>
+    <p> The Time Use Data-based Measures of the Wellbeing Effect of Community Development: An Evaluative Approach.
     </p>
     <p>Sidestepping the Box: Designing a Supplemental Poverty Indicator for School Neighborhoods <a href="{{site.baseurl}}/assets/files/docs/I_3Geverdt_FCSM180302.pdf" target="_blank"> | (PDF)</a>
     </p>
@@ -738,11 +738,11 @@ sidenav: events_navigation
     </b>
   </div>
   <div class="contenta">
-    <p>Correlates of Nonresponse in the 2012 and 2014 Medical Expenditure Panel Survey<a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"> | (PDF)</a>
+    <p>Correlates of Nonresponse in the 2012 and 2014 Medical Expenditure Panel Survey
     </p>
     <p>Subnational Geography and the Overseas U.S. Citizens Population<a href="{{site.baseurl}}/assets/files/docs/I_4Turner.pdf" target="_blank"> | (PDF)</a>
     </p>
-    <p> Investigation into Responses for the Occupational Requirements Survey<a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"> | (PDF)</a>
+    <p> Investigation into Responses for the Occupational Requirements Survey
     </p>
     <p> Understanding Their Apprehension: A Look into the Federal Employee Viewpoint Survey<a href="{{site.baseurl}}/assets/files/docs/I_4GorsakFEVSOptOut.pdf" target="_blank"> | (PDF)</a>
     </p>
@@ -778,7 +778,7 @@ sidenav: events_navigation
       <a href="pdf/J1_Martin_2018FCSM.pdf" target="_blank"> | (PDF)</a>
     </p>
     <p> Discussant:
-      <a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"> | (PDF)</a> George Sheldon (U.S. Department of Veterans Affairs
+       George Sheldon (U.S. Department of Veterans Affairs
     </p>
   </div>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">
@@ -794,7 +794,7 @@ sidenav: events_navigation
       <a href="{{site.baseurl}}/assets/files/docs/J_2_Park_ERS_USDA_FIN.pdf" target="_blank"></a>
     </p>
     <p>Clarifying the Confidence Levels of PPI and CPI Forecasts in the USDA’s Food Price Outlook
-      <a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"> | (PDF)</a>
+      
     </p>
   </div>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">
