@@ -17,6 +17,12 @@ sidenav: group_navigation
 <p><strong>Recording of CDAC Meetings and Workshops:</strong></p>
 
 <table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Record</th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
       <td style="width:130px;"><strong>June 25</strong></td>

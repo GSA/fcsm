@@ -14,6 +14,12 @@ sidenav: events_navigation
 <p>Contact: Michael Hawes, Census, <a href="mailto:michael.b.hawes@census.gov">michael.b.hawes@census.gov</a> </p>
 
 <p><strong>Recording of CDAC Meetings and Workshops:</strong></p><table border="0" cellpadding="0" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Record</th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
       <td style="width:130px;">
