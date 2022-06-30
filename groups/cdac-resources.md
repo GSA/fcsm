@@ -6,8 +6,8 @@ sidenav: group_navigation
 <p><strong>CDAC Methodology and Other Reports</strong></p>
 <p>The following are reports selected by CDAC for inclusion on this site. The site is not meant to cover all methodology reports on the topics of confidentiality, privacy, statistical disclosure limitation, and related topics.</p>
 <ul>
-<li><a href="{{site.baseurl}}/assets/files/docs/checklist_799.doc">Checklist on Disclosure Potential of Proposed Data Releases</a> [Word] (July 1999)</li>
-<!-----<li><a href="{{site.baseurl}}/cdac_checklist.html">Brief Overview of the Checklist</a></li>-->
+<li><a href="{{site.baseurl}}/assets/files/docs/Checklist on Disclosure Potential of Proposed Data Releases.pdf">Checklist on Disclosure Potential of Proposed Data Releases</a> [] (July 1999)</li>
+<!-----<li><a href="{{site.baseurl}}/cdac_checklist.html">Brief Overview of the Checklist</a> <img border="0" src="{{ site.baseurl}}/assets/img/icons/acrobatsm.gif" width="auto" height="auto" hspace="0" vspace="0" align="top" alt="acrobat"></li>-->
 <li><a href="{{site.baseurl}}/assets/files/docs/brochur10.pdf" target="_blank">Brochure - "Confidentiality and Data Access Issues Among Federal Agencies"</a> <img border="0" src="{{ site.baseurl}}/assets/img/icons/acrobatsm.gif" width="auto" height="auto" hspace="0" vspace="0" align="top" alt="acrobat"> <small> (5.2 MB)</small></li><!------brochur10.pdf---------->
 <li><a href="{{site.baseurl}}/assets/files/docs/CDAC_RAP.pdf" target="_blank">Restricted Access Procedures</a> <img border="0" src="{{ site.baseurl}}/assets/img/icons/acrobatsm.gif" width="auto" height="auto" hspace="0" vspace="0" align="top" alt="acrobat"> <small> (1.4 MB)</small> <br><!-----CDAC_RAP.pdf--------->
 This document discusses methods for providing access to statistical data while limiting the risk of disclosure of confidential information. The methods include Research Data Centers (RDCs), remote access and on-line query systems, research fellowships and post-doctoral programs, and licensing agreements.</li>

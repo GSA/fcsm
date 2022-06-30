@@ -3,7 +3,13 @@ title: "Computational Statistics and the Production of Official Statistics (CSPO
 layout: page
 sidenav: group_navigation
 ---
-<p>On this page, the Geospatial Interest Group provides resources of interest to the Computational Statistics community. These might be white papers, links, tools, contact lists, meeting minutes, etc.). Keep checking back for new content. <a href="{{site.baseurl}}/groups/cspos-resources/">Contact</a> the GIG Chairs if you want to add content to the page.</p>
+<p>On this page, the Geospatial Interest Group provides resources of interest to the Computational Statistics community. These might be white papers, links, tools, contact lists, meeting minutes, etc.). Keep checking back for new content.</p>
+
+<h3>Contact: </h3>
+<ul>
+  <li>Michael Ratcliffe, <a href="mailto:michael.r.ratcliffe@census.gov">michael.r.ratcliffe@census.gov</a></li>
+  <li>Wendy Martinez, <a href="mailto:wendy.l.martinez@census.gov">wendy.l.martinez@census.gov</a></li>
+</ul>
 
 <p> <a href="{{site.baseurl}}/groups/cspos-resources/">FCSM Geospatial Interest Group Charter</a>. </p>
 
