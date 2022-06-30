@@ -5,7 +5,7 @@ sidenav: group_navigation
 ---
 <p>The work of the FCSM is conducted through various groups:  interest groups, subcommittees, and conference program committee.</p>
 
-<p><b><a id="interestgroups"></a>Interest Groups</b></p>
+<p><b>Interest Groups</b></p>
 <p>Goal:  provide ongoing opportunity for individuals interested in a particular topic to interact, exchange information on the topic, explore related issues, and produce products and/or events of interest to the group.</p>
 
 <p>Membership: generally open to all interested federal employees </p>
@@ -18,7 +18,7 @@ sidenav: group_navigation
   <li><a href="{{site.baseurl}}/groups/sogi/">Measuring Sexual Orientation and Gender Identity (SOGI) Research Interest Group</a></li>
 </ul>
 
-<p><b><a ID="subcommittees"></a>Subcommittees</b></p>
+<p><b>Subcommittees</b></p>
 
 <p>Goal:  explore some particular aspect of statistical methodology and produce a specific product within a set period of time.  Products may include reports, working papers, guidance, or recommendations. </p>
 

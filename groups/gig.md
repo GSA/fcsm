@@ -7,7 +7,7 @@ sidenav: group_navigation
 
 <p><a href="{{site.baseurl}}/groups/gig-events/"><strong>Events</strong></a></p>
 <p><a href="{{site.baseurl}}/groups/gig-presentations/"><strong>Presentations</strong></a></p>
-<p><a href="{{site.baseurl}}/groups/gig-resources/"><strong>Resources</strong></a></p>
+<p><a href="{{site.baseurl}}/groups/gig-resources/"><strong>GIG Resources</strong></a></p>
 
 <ul>
   <li>Contact: Wendy Martinez, <a href="mailto:martinez.wendy@bls.gov">martinez.wendy@bls.gov</a>, Claire Boryan (NASS), <a href="mailto:claire.boryan@usda.gov">claire.boryan@usda.gov</a></li>
