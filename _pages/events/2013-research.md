@@ -587,7 +587,7 @@ https://copafs.org/wp-content/uploads/2020/05/2013FCSMFinalProgram.pdf
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/G4_Schoua-Glusberg_2013FCSM_AC.pdf" target="_blank">Backtranslation vs. Committee Approach: An Experiment Comparing How They Perform in Questionnaire Translation</a> <small> (22.1 MB)</small></p>
   <p class="indent">Alisú Schoua-Glusberg (Research Support Services)<br>
   Ana Villar (City University, United Kingdom)</p>
-  <p style="width:50%;">Getting the Most out of a Limited Sample Size Field Test: Experiences from the National Survey on Drug Use and Health</a> <small> (166.0 MB)</small></p>
+  <p style="width:50%;">Getting the Most out of a Limited Sample Size Field Test: Experiences from the National Survey on Drug Use and Health <small> (166.0 MB)</small></p>
   <p class="indent">Jonaki Bose (Substance Abuse and Mental Health Services Administration)<br>
   Dicy Painter (Substance Abuse and Mental Health Services Administration)<br>
   Doug Currivan (RTI International)<br>
