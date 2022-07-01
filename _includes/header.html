@@ -4,6 +4,9 @@ official government website
 {% endcomment %}
 
 <div class="page-landing-page layout-demo ">
+  {% if page.sidenav %}
+  <a class="usa-skipnav" href="#sidenav">Skip to secondary navigation</a>
+  {% endif %}
   <a class="usa-skipnav" href="#main-content">Skip to main content</a>
   <div class="usa-banner">
     <div class="usa-accordion">
