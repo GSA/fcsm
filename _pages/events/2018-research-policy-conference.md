@@ -584,7 +584,6 @@ sidenav: events_navigation
   </div>
   <div class="contenta">
     <p>FDA's Approach to R Shiny Standardized, Interactive Tools
-      </a>
     </p>
     <p> R: Innovating at the Bureau of Labor Statistics
     </p>
@@ -666,7 +665,6 @@ sidenav: events_navigation
     <p> Mapping Geographic and Temporal Variations in Select Mortality and Natality Outcomes with R-INLA in Small Areas
     </p>
     <p> Crossing Boundaries: A Case Study on Building Accessible Tools to Combine Public-Use Data
-      </a>
     </p>
     <p>Evaluation of Two Different Interviewing Protocols to Test a Mobile Mapping Instrument for the June Area Survey
     </p>
