@@ -68,7 +68,7 @@ sidenav: about_navigation
 </ol>
 
 <h2 id="signatures"><b>VII. Signatures of ICSP Members</b></h2>
-<table>
+<table aria-describedby="signatures">
   <tr>
     <th role="columnheader" scope="col" width="50%">ICSP Agency Name</th>
     <th role="columnheader" scope="col">ICSP Agency Head Name</th>
