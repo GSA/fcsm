@@ -7,7 +7,7 @@
           $handle = $this.find('[aria-controls]'),
           id = $handle.attr('aria-controls'),
           $content = $this.find('#' + $handle.attr('aria-controls')),
-          open = ($content.attr('aria-expanded') == 'true');
+          open = ($handle.attr('aria-expanded') == 'true');
       
       // we didn't find the required elements, bail out
       if ($handle.length == 0 || $content.length == 0) {
