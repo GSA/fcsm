@@ -32,7 +32,7 @@ sidenav: group_navigation
 <a href="{{site.baseurl}}/groups/publications-and-resources">Publications and Resources</a>
 
 <h3 class="page-sub-heading">Contact:</h3>
-
 <ul>
-<li>Stephen Blumberg (Chair), National Center for Health Statistics, <a href="mailto:swb5@cdc.gov">swb5@cdc.gov</a></li>
+<li>Stephen Blumberg (Co-Chair), National Center for Health Statistics, <a href="mailto:swb5@cdc.gov">swb5@cdc.gov</a></li>
+<li>Morgan Earp (Co-Chair), National Center for Health Statistics, <a href="mailto:swb5@cdc.gov">swb5@cdc.gov</a></li>
 </ul>

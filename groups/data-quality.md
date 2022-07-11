@@ -18,5 +18,12 @@ sidenav: group_navigation
 	<li><a href="https://www.mathematica.org/our-publications-and-findings/publications/transparency-in-the-reporting-of-quality-for-integrated-data-a-review-of-international-standards" target="_blank">Transparency in the Reporting of Quality for Integrated Data: A Review of International Standards and Guidelines (2018)</a></li>
 	<li><a href="../../assets/docs/DataQualityAssessmentTool.pdf" target="_blank">Data Quality Assessment Tool for Administrative Data (2013)</a></li>
 </ul>    
+
+<p><strong>Contacts:</strong></p>
+<ul>
+  <li>Rolf Schmitt at <a href="mailto:Rolf.Schmitt@dot.gov">Rolf.Schmitt@dot.gov</a></li>
+  <li>Lisa Mirel at <a href="mailto:LMirel@cdc.gov">LMirel@cdc.gov</a></li>
+  <li>Darius Singpurwalla at <a href="mailto:dsingpur@nsf.gov">dsingpur@nsf.gov</a></li>
+</ul>
  
 <p><b>DISCLAIMER</b>: Materials posted on this page are released to inform interested parties of research and to encourage discussion. Opinions expressed are those of the authors and do not necessarily reflect the official position of the FCSM or the participating agencies.</p>
