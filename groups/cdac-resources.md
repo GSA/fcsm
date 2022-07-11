@@ -17,12 +17,11 @@ Characteristics, Defining Qualities and Generalizability (papers presented at th
 <li><a href="{{site.baseurl}}/assets/files/docs/CDAC_Ident.pdf" target="_blank">Identifiability in Microdata Files</a>: <img border="0" src="{{ site.baseurl}}/assets/img/icons/acrobatsm.gif" width="auto" height="auto" hspace="0" vspace="0" align="top" alt="acrobat"> <small> (2.0 MB)</small><!-------------CDAC_Ident.pdf----------->
 <br>
  This document provides an understanding of what variables and types of data might make individual respondents identifiable in a microdata file.</li>
-<li><strong>Disclosure Auditing Software:</strong> Identifies the lower and upper bounds on the values of a withheld (suppressed) cell in a tabular statistical table, among other useful measures.</li>
 <li>"The FCSM Confidentiality and Data Access Committee," Alvan O. Zarate, Jacob Bournazian and Virginia de Wolf Paper presented at the FCSM Statistical Policy Seminar: <a href="{{site.baseurl}}/assets/files/docs/CDAC_paper2000.pdf" target="_blank">Integrating Federal Statistical Information and Processes</a>  (November 8-9, 2000). <img border="0" src="{{ site.baseurl}}/assets/img/icons/acrobatsm.gif" width="auto" height="auto" hspace="0" vspace="0" align="top" alt="acrobat"> <small> (4.0 MB)</small></li><!---------CDAC_paper2000.pdf------------->
 </ul>
 <!--<p><strong>Confidential Information Protection and Statistical Efficiency Act of 2002 (CIPSEA)</strong></p>
 <ul>
-<li><a href="http://nces.ed.gov/transfer.html?location=www.whitehouse.gov/sites/default/files/omb/assets/omb/inforeg/proposed_cispea_guidance.pdf" target="_blank">CIPSEA</a> is Title V of the E-Government Act of 2002, Public Law 107-347, that was signed into law on December 17, 2002
+<li><a href="http://www.whitehouse.gov/sites/default/files/omb/assets/omb/inforeg/proposed_cispea_guidance.pdf" target="_blank">CIPSEA</a> is Title V of the E-Government Act of 2002, Public Law 107-347, that was signed into law on December 17, 2002
 <ul>
 <li>CIPSEA Subtitle A, Confidential Information Protection, affords a new level of confidentiality protection to statistical data and information collected for exclusively statistical purposes by Federal agencies</li>
 <li>CIPSEA Subtitle B, Statistical Efficiency, deals with the Census Bureau, the Bureau of Labor Statistics, and the Bureau of Economic Analysis sharing business data for exclusively statistical purposes</li>
