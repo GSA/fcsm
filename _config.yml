@@ -123,7 +123,7 @@ group_navigation:
         url: /groups/cspos/
       - name: Geospatial Interest Group (GIG)
         url: /groups/gig/
-      - name: Measuring Sexual Orientation and Gender Identity (SOGI) Research Interest Group
+      - name: Measuring Sexual Orientation and Gender Identity (SOGI) Research Group
         url: /groups/sogi/
   - name: Subcommittees
     collapsible: true

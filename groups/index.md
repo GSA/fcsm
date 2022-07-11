@@ -15,7 +15,7 @@ sidenav: group_navigation
   <li><a href="{{site.baseurl}}/groups/cdac/">Confidentiality and Data Access Committee (CDAC)</a></li>
   <li><a href="{{site.baseurl}}/groups/cspos/">Computational Statistics and the Production of Official Statistics (CSPOS) Interest Group</a></li>
 	<li><a href="{{site.baseurl}}/groups/gig/">Geospatial Interest Group (GIG)</a></li>
-  <li><a href="{{site.baseurl}}/groups/sogi/">Measuring Sexual Orientation and Gender Identity (SOGI) Research Interest Group</a></li>
+  <li><a href="{{site.baseurl}}/groups/sogi/">Measuring Sexual Orientation and Gender Identity (SOGI) Research Group</a></li>
 </ul>
 
 <p><b>Subcommittees</b></p>
