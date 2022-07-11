@@ -146,7 +146,7 @@ resource_navigation:
     url: /resources/safe-guard-data/
   - name: Data Quality
     url: /resources/data-quality-subcommittee/
-  - name: Non Responsive Bias
+  - name: Nonresponse Bias
     url: /resources/non-response-bias/
   - name: SOGI
     url: /resources/sogi/
