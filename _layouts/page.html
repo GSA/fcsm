@@ -20,9 +20,9 @@ This template is for a single page that does not have a date associated with it.
     <div class="grid-row grid-gap margin-top-6">
       {% if page.sidenav %}
         {% include sidenav.html menu=page.sidenav %}
-        <div class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
+        <div id="content" class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
       {% else %}
-        <div class="usa-layout-docs__main desktop:grid-col-12 usa-prose"></div>
+        <div id="content" class="usa-layout-docs__main desktop:grid-col-12 usa-prose"></div>
       {% endif %}
           {{ content }}
       </div>
