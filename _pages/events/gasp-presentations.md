@@ -11,8 +11,8 @@ sidenav: events_navigation
  <li><a href="{{site.baseurl}}/assets/files/docs/gasp/20181024_GASP_Program.pdf" target="_blank">20181024_GASP_Program.pdf</a></li>
  <li><a href="{{site.baseurl}}/assets/files/docs/gasp/20190923_GASP_Program.pdf" target="_blank">20190923_GASP_Program.pdf</a></li>
  <li><a href="{{site.baseurl}}/assets/files/docs/gasp/Abernethy.pdf" target="_blank">Abernethy</a></li>
- <li><a href="{{site.baseurl}}/assets/files/docs/gasp/Baumgartner.pdf" target="_blank">Baumgartner-1</a></li>
- <li><a href="{{site.baseurl}}/assets/files/docs/gasp/Baumgartner-1.pdf" target="_blank">Baumgartner-2</a></li>
+ <li><a href="{{site.baseurl}}/assets/files/docs/gasp/Baumgartner.pdf" target="_blank">Baumgartner</a></li>
+ <li><a href="{{site.baseurl}}/assets/files/docs/gasp/Baumgartner-1.pdf" target="_blank">Baumgartner-1</a></li>
  <li><a href="{{site.baseurl}}/assets/files/docs/gasp/Bechtel.pdf" target="_blank">Bechtel</a></li>
  <li><a href="{{site.baseurl}}/assets/files/docs/gasp/Bloom.pdf" target="_blank">Bloom</a></li>
  <li><a href="{{site.baseurl}}/assets/files/docs/gasp/Brown.pdf" target="_blank">Brown</a></li>
