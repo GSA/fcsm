@@ -66,8 +66,8 @@ sidenav: events_navigation
   Bob Baskin (AHRQ)</p>
   <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/2003FCSM_Smith.pdf" target="_blank">Methods for Capture-Recapture Analysis When Cases May Not Be Identified Uniquely</a>  </p>
   <p class="indent">Betsy L. Cadwell, Philip J. Smith and Andrew L. Baughman (Center for Disease Control and Prevention)</p>
-        <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;"> SESSION III-C</button><br>
-  SMALL AREA ESTIMATION</p>
+        <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;"> SESSION III-C<br>
+  SMALL AREA ESTIMATION</p></div>
   <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/2003FCSM_DickYou.pdf" target="_blank">Methods Used for Small Domain Estimation of Census Net Undercoverage in the 2001 Canadian Census</a>  </p>
   <p class="indent">Peter Dick and Yong You (Statistics Canada)</p>
   <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Evaluation of the Practical Utility of Small Domain Estimators for the U.S. Current Employment Statistics Program</a>   </p>
@@ -87,7 +87,7 @@ sidenav: events_navigation
   <p class="indent">Theodor Yitzkov and Harry Azaria (Central Bureau of Statistics, Israel)</p>
   <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/2003FCSM_daniel.pdf" target="_blank">Removing Duplication from the 2002 Census of Agriculture</a>  </p>
   <p class="indent">Kara Daniel and Tom Pordugal (National Agricultural Statistics Service, USA)</p>
-        <p class="larger"> <button type="button" class="collapsible">SESSION IV-B<br>
+       <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;"> SESSION IV-B<br>
   MODELING 2 – REGRESSION APPLICATIONS
   </div>
   <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/2003FCSM_SlikerFinal.pdf" target="_blank">Steps Toward Modeling the Distribution of Automobile Retirements</a>  </p>
@@ -99,8 +99,7 @@ sidenav: events_navigation
   <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/2003FCSM_Hertz_ellen.pdf" target="_blank">A Method of Estimating Rollover Propensity for Passenger Vehicles</a>  </p>
   <p class="indent">Ellen Hertz (National Highway Traffic Safety Administration, USA)</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;"> SESSION IV-C<br>
-    SURVEY DESIGN</button>
-  </p>
+    SURVEY DESIGN</div>
   <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/2003FCSM_Brog_Erl_Schulze.pdf" target="_blank">DATELINE: Design and Application of a Travel Survey for Long-Distance Trips Based on an International Network of Expertise</a><br>  </p>
   <p class="indent">Werner Broeg, Erhard Erl, and Brian Schulze (Socialdata, Germany)</p>
   <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/2003FCSM_Pont.pdf" target="_blank">Re-designing the UK’s Annual Structural Earnings Survey</a>  </p>
@@ -228,8 +227,7 @@ sidenav: events_navigation
   <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/2003FCSM_Stussman.pdf" target="_blank">Partials and Break-offs in the National Health Interview Survey, 2002</a>  </p>
   <p class="indent">Barbara J. Stussman, Beth L. Taylor, and Howard Riddick (National Center for Health Statistics)</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION VIII-B<br>
-  IMPUTATION</button>
-  </p>
+  IMPUTATION</div>
   <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/2003FCSM_Shieh.pdf" target="_blank">Imputation Methods on Longitudinal Studies</a>  </p>
   <p class="indent">Yann-Yann Shieh (American Institutes for Research, USA)</p>
   <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/2003FCSM_Thompson_Williams.pdf" target="_blank">Developing Imputation Models for the Services Sectors Portion of the  Economic Census</a>  </p>
