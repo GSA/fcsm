@@ -2,7 +2,6 @@
 permalink: /resources/
 title: Resources Summary
 layout: page--no-nav
-sidenav: resource_navigation
 ---
 
 <div class="margin-bottom-4"><p class="usa-intro margin-0">View resources related to statistical methodology and the federal government.</p></div>
