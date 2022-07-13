@@ -146,7 +146,7 @@ sidenav: events_navigation
   <p style="padding-left: 40px;"><a href="{{site.baseurl}}/assets/files/docs/PM2-1-Christina-CalvinDavid-FCSM_CEO_CDO_Abt_090920.pdf" target="_blank" rel="noopener noreferrer"><span style="color: #025373;"><strong>Department of Labor’s Data Exchange and Analysis Platform (DAEP)</strong></span></a><br>
   Christina Yancey (Chief Evaluation Officer, Department of Labor), David Judkins (Abt Associates) and Scott Gibbons (Department of Labor)</p>
 
-  <p style="text-align: center;"><iframe src="https://www.youtube.com/embed/1DB7D8qWVvA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+  <p style="text-align: center;"><iframe title="PM2-1: Using Data innew WAys" src="https://www.youtube.com/embed/1DB7D8qWVvA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 
   <div style="margin-top: 30px; margin-bottom: 30px; border-bottom: solid 4px #991c1f; text-align:center; padding: 20px;">
     <h2 id="SessionPM2-3"><strong>SESSION PM2-3: Communicating Fitness for Use<br>
