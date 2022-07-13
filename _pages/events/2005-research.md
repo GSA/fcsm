@@ -202,6 +202,7 @@ sidenav: events_navigation
   G. Alastair Glendenning (Novartis Pharmaceuticals Corporation, USA)</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION VII-B<br>
   ANALYZING AND IMPROVING RESPONSE<p></p>
+  </div>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2005FCSM_Bradsher-Fredrick_VIIB.pdf" target="_blank">Earlier Versus Later Respondent Assessments on Customer Surveys: Is There a Difference?</a> </p>
   <p class="indent">Howard Bradsher-Fredrick and William Weinig (Energy Information Administration, USA)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2005FCSM_Fecso_VIIB.pdf" target="_blank">Results from Recent Experiments on Improving Response Rates</a> </p>
@@ -212,9 +213,9 @@ sidenav: events_navigation
   Jill Dever (Joint Program in Survey Methodology, University of Maryland, USA)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2005FCSM_Burt_Woodwell_VIIB.pdf" target="_blank">Tests of Methods to Improve Response to Physician Surveys</a> </p>
   <p class="indent">David Woodwell and Catharine Burt (National Center for Health Statistics, USA)</p>
-  <p class="larger"></p></button><button type="button" class="collapsible">CONCURRENT SESSION VII-C<br>
-  SURVEY INTEGRATION AND PLANNING
-  </div>
+  
+  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION VII-C<br>
+  SURVEY INTEGRATION AND PLANNING</div>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2005FCSM_Marchand_Benhin_Gaudet_VIIC.pdf" target="_blank">Integrating the Canadian Annual Survey of Manufactures into the Unified Enterprise Survey: Challenges and Issues</a> </p>
   <p class="indent">Isabelle Marchand, Emmanuel Benhin and Jose Gaudet (Statistics Canada)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2005FCSM_Bushery_McGovern_VIIC.pdf" target="_blank">Implementing and Improving Quality Standards at the U.S. Census Bureau</a> </p>
