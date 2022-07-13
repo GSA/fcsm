@@ -78,11 +78,11 @@ sidenav: events_navigation
   <div class="contenta">
     <p>An Automated Refusal Conversion Strategy for Web Surveys<a href="{{site.baseurl}}/assets/files/docs/B-1LewisFCSM2018Presentation.pdf" target="_blank"> | (PDF)</a></p>
     <p>Using Close-Ended Web Probes to Inform the Redesign of the National Health
-      <a href="{{site.baseurl}}/assets/files/docs/B-1Scanlon.pdf" target="_blank"></a>
+      <a href="{{site.baseurl}}/assets/files/docs/B-1Scanlon.pdf" target="_blank">| (PDF)</a>
     </p>
     <p>The Roles of Typicality, Specificity, and Set Size in Providing Examples for Survey Questions: Evidence from an Online Study Using Self-Administered Comprehension Probes</p>
     <p>Benefits and Drawbacks of Using Crowdsourcing Techniques for Cognitive Testing
-      <a href="{{site.baseurl}}/assets/files/docs/B-1Cook.pdf" target="_blank"></a>
+      <a href="{{site.baseurl}}/assets/files/docs/B-1Cook.pdf" target="_blank">| (PDF)</a>
     </p>
     <p>Impact of Dependent Interviewing on Consistency of Answers in the American Housing Survey <a href="{{site.baseurl}}/assets/files/docs/B-1Gustafson.pdf" target="_blank"> | (PDF)</a></p>
   </div>
