@@ -4,7 +4,7 @@ layout: page
 ---
 
 <div class="fcsm-workshop-container">
-  <h3>CDAC: 2017 Workshop on New Advances in Disclosure Limitation <a style="color:red" href="{{site.baseurl}}/assets/files/docs/2017_CDAC_Workshop_Report.pdf" target="_blank">Final Report</a></h3>
+  <h2>CDAC: 2017 Workshop on New Advances in Disclosure Limitation <a style="color:red" href="{{site.baseurl}}/assets/files/docs/2017_CDAC_Workshop_Report.pdf" target="_blank">Final Report</a></h2>
   <p>Bureau of Labor Statistics Conference Center • Rooms 9 &amp; 10 Postal Square Building</p>
   <p>2 Massachusetts Ave., NE • Washington, DC 20212-0001</p>
   <p><b>September 27, 2017</b></p>
