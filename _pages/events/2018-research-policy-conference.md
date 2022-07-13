@@ -14,10 +14,10 @@ sidenav: events_navigation
   </div>
 
   <div class="contenta">
-    <p>Web-scraping &amp; Similar Tools to Capture Information for BLS Uses <a href="{{site.baseurl}}/assets/files/docs/A_1ThompsonBLSwebscrape1.pdf" target="_blank"> | (PDF)</a></p>
-    <p>SABLE: Tools for Web Crawling, Web Scraping, and Text Classification <a href="{{site.baseurl}}/assets/files/docs/A_1Dumbacher_2018FCSM.pdf" target="_blank"> | (PDF)</a></p>
+    <p>Web-scraping &amp; Similar Tools to Capture Information for BLS Uses <a aria-label="Web-scraping &amp; Similar Tools to Capture Information for BLS Uses " aria-label="Web-scraping &amp; Similar Tools to Capture Information for BLS Uses " href="{{site.baseurl}}/assets/files/docs/A_1ThompsonBLSwebscrape1.pdf" target="_blank"> | (PDF)</a></p>
+    <p>SABLE: Tools for Web Crawling, Web Scraping, and Text Classification <a aria-label="SABLE: Tools for Web Crawling, Web Scraping, and Text Classification " href="{{site.baseurl}}/assets/files/docs/A_1Dumbacher_2018FCSM.pdf" target="_blank"> | (PDF)</a></p>
     <p>Evaluating the Use of Web-Scraped List Frames to Assess Undercoverage in Surveys </p>
-    <p>Seizing Opportunities and Preserving Principles <a href="{{site.baseurl}}/assets/files/docs/A_1Sivinski.pdf" target="_blank"> |
+    <p>Seizing Opportunities and Preserving Principles <a aria-label="Seizing Opportunities and Preserving Principles " href="{{site.baseurl}}/assets/files/docs/A_1Sivinski.pdf" target="_blank"> |
         (PDF)</a></p>
     <p>Museum Frame Development – A Universe is Comprised of Many Worlds </p>
   </div>
@@ -28,12 +28,12 @@ sidenav: events_navigation
 
   <div class="contenta">
     <p>Speeders and Sloths: The Effects of Respondent Timing on Web Survey Data Quality </p>
-    <p>Response Burden and Bias in the First National Food Acquisition and Purchase Survey (FoodAPS-1): An Empirical Analysis Based on Respondent Feedback Survey<a href="{{site.baseurl}}/assets/files/docs/A_2Zhang_FoodAPS.pdf" target="_blank"> |
+    <p>Response Burden and Bias in the First National Food Acquisition and Purchase Survey (FoodAPS-1): An Empirical Analysis Based on Respondent Feedback Survey<a aria-label="Response Burden and Bias in the First National Food Acquisition and Purchase Survey (FoodAPS-1): An Empirical Analysis Based on Respondent Feedback Survey" href="{{site.baseurl}}/assets/files/docs/A_2Zhang_FoodAPS.pdf" target="_blank"> |
         (PDF)</a></p>
     <p>Changes in Interview Length over a Data Collection Period: Interviewer Learning or Shifting Respondent Characteristics?
       
     </p>
-    <p>Smart Math Saves Time and Improves Communication<a href="{{site.baseurl}}/assets/files/docs/A2_Nielsen_2018FCSM.pdf" target="_blank">
+    <p>Smart Math Saves Time and Improves Communication<a aria-label="Smart Math Saves Time and Improves Communication" href="{{site.baseurl}}/assets/files/docs/A2_Nielsen_2018FCSM.pdf" target="_blank">
         | (PDF)</a></p>
   </div>
 
@@ -42,7 +42,7 @@ sidenav: events_navigation
   </div>
 
   <div class="contenta">
-    <p>Evaluating Wealth Data in the Redesigned 2014 Survey of Income and Program Participation<a href="{{site.baseurl}}/assets/files/docs/A3_Eggleston_2018FCSM.pdf" target="_blank"> | (PDF)</a></p>
+    <p>Evaluating Wealth Data in the Redesigned 2014 Survey of Income and Program Participation<a aria-label="Evaluating Wealth Data in the Redesigned 2014 Survey of Income and Program Participation" href="{{site.baseurl}}/assets/files/docs/A3_Eggleston_2018FCSM.pdf" target="_blank"> | (PDF)</a></p>
     <p>Discussant: Howard Iams (Social Security Administration)<br />A-3_Discussant.pdf <a href="{{site.baseurl}}/assets/files/docs/A_3_Discussant.pdf" target="_blank"> | (PDF)</a></p>
   </div>
 
@@ -51,9 +51,9 @@ sidenav: events_navigation
   </div>
 
   <div class="contenta">
-    <p>Benchmark Assessment of Respondent Driven Sampling Data for Foreign-Born Korean Americans <a href="{{site.baseurl}}/assets/files/docs/A_4Lee_RDS_FCSM_2_15_2017.pdf" target="_blank"> | (PDF)</a></p>
+    <p>Benchmark Assessment of Respondent Driven Sampling Data for Foreign-Born Korean Americans <a aria-label="Benchmark Assessment of Respondent Driven Sampling Data for Foreign-Born Korean Americans " href="{{site.baseurl}}/assets/files/docs/A_4Lee_RDS_FCSM_2_15_2017.pdf" target="_blank"> | (PDF)</a></p>
     <p>Comparing Alternatives for Estimation from Nonprobability Samples </p>
-    <p>Combining Probability and Nonprobability Samples to Form Efficient Hybrid Estimates <a href="{{site.baseurl}}/assets/files/docs/A4_Dever_2018FCSM.pdf" target="_blank"> | (PDF)</a></p>
+    <p>Combining Probability and Nonprobability Samples to Form Efficient Hybrid Estimates <a aria-label="Combining Probability and Nonprobability Samples to Form Efficient Hybrid Estimates " href="{{site.baseurl}}/assets/files/docs/A4_Dever_2018FCSM.pdf" target="_blank"> | (PDF)</a></p>
     <p>Discussant: Courtney Kennedy (Pew Research Center)<br />A-4KennedyDISCUSSION WEDSession A-4_1000-1145am.pdf <a href="{{site.baseurl}}/assets/files/docs/A_4KennedyDISCUSSIONWEDSessionA_4_1000_1145am.pdf" target="_blank"> | (PDF)</a></p>
   </div>
 
@@ -62,13 +62,13 @@ sidenav: events_navigation
   </div>
 
   <div class="contenta">
-    <p>Session Chair Introduction <a href="{{site.baseurl}}/assets/files/docs/A-5SessionChairIntroductionFCSM2018.pdf" target="_blank"> |
+    <p>Session Chair Introduction <a aria-label="Session Chair Introduction " href="{{site.baseurl}}/assets/files/docs/A-5SessionChairIntroductionFCSM2018.pdf" target="_blank"> |
         (PDF)</a></p>
-    <p>Overview of Transparent Quality Reporting<a href="{{site.baseurl}}/assets/files/docs/A-5EltingeDataQuality02272018.pdf" target="_blank"> | (PDF)</a></p>
-    <p>Quality of Input Data <a href="{{site.baseurl}}/assets/files/docs/A-5PRELLInputDataQuality28Feb2018.pdf" target="_blank"> | (PDF)</a>
+    <p>Overview of Transparent Quality Reporting<a aria-label="Overview of Transparent Quality Reporting" href="{{site.baseurl}}/assets/files/docs/A-5EltingeDataQuality02272018.pdf" target="_blank"> | (PDF)</a></p>
+    <p>Quality of Input Data <a aria-label="Quality of Input Data " href="{{site.baseurl}}/assets/files/docs/A-5PRELLInputDataQuality28Feb2018.pdf" target="_blank"> | (PDF)</a>
     </p>
-    <p>Quality of Data Processing <a href="{{site.baseurl}}/assets/files/docs/20180125_Schafer.pdf" target="_blank"> | (PDF)</a></p>
-    <p>Quality of Output Statistical Products and Services<a href="{{site.baseurl}}/assets/files/docs/A-5PARKEROutputDataQuality.pdf" target="_blank"> | (PDF)</a></p>
+    <p>Quality of Data Processing <a aria-label="Quality of Data Processing " href="{{site.baseurl}}/assets/files/docs/20180125_Schafer.pdf" target="_blank"> | (PDF)</a></p>
+    <p>Quality of Output Statistical Products and Services<a aria-label="Quality of Output Statistical Products and Services" href="{{site.baseurl}}/assets/files/docs/A-5PARKEROutputDataQuality.pdf" target="_blank"> | (PDF)</a></p>
   </div>
 
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">
@@ -76,7 +76,7 @@ sidenav: events_navigation
   </div>
 
   <div class="contenta">
-    <p>An Automated Refusal Conversion Strategy for Web Surveys<a href="{{site.baseurl}}/assets/files/docs/B-1LewisFCSM2018Presentation.pdf" target="_blank"> | (PDF)</a></p>
+    <p>An Automated Refusal Conversion Strategy for Web Surveys<a aria-label="An Automated Refusal Conversion Strategy for Web Surveys" href="{{site.baseurl}}/assets/files/docs/B-1LewisFCSM2018Presentation.pdf" target="_blank"> | (PDF)</a></p>
     <p>Using Close-Ended Web Probes to Inform the Redesign of the National Health
       <a href="{{site.baseurl}}/assets/files/docs/B-1Scanlon.pdf" target="_blank">| (PDF)</a>
     </p>
@@ -84,7 +84,7 @@ sidenav: events_navigation
     <p>Benefits and Drawbacks of Using Crowdsourcing Techniques for Cognitive Testing
       <a href="{{site.baseurl}}/assets/files/docs/B-1Cook.pdf" target="_blank">| (PDF)</a>
     </p>
-    <p>Impact of Dependent Interviewing on Consistency of Answers in the American Housing Survey <a href="{{site.baseurl}}/assets/files/docs/B-1Gustafson.pdf" target="_blank"> | (PDF)</a></p>
+    <p>Impact of Dependent Interviewing on Consistency of Answers in the American Housing Survey <a aria-label="Impact of Dependent Interviewing on Consistency of Answers in the American Housing Survey " aria-label="Impact of Dependent Interviewing on Consistency of Answers in the American Housing Survey " href="{{site.baseurl}}/assets/files/docs/B-1Gustafson.pdf" target="_blank"> | (PDF)</a></p>
   </div>
 
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">
