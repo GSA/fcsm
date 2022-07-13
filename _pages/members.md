@@ -1,5 +1,5 @@
 ---
-permalink: /members/
+permalink: /about/members/
 title: Members
 layout: page
 sidenav: about_navigation

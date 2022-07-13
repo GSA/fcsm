@@ -1,5 +1,5 @@
 ---
-permalink: /charter/
+permalink: /about/charter/
 layout: page
 title: Office of Management and Budget Charter of the Federal Committee on Statistical Methodology
 sidenav: about_navigation
