@@ -12,7 +12,7 @@ sidenav: resource_navigation
 
 <a class="fcsm-main-links" href="https://nces.ed.gov/fcsm/dpt" target="_blank">Data Protection Toolkit (beta)</a>
 
-<a class="fcsm-main-links" href="{{site.baseurl}}/resources/safe-guard-data">Charter</a>
+<a class="fcsm-main-links" href="{{site.baseurl}}/assets/files/docs/Subcommittee on Updating Statistical Methods for Safeguarding Protected Data Charter Signed 042619.pdf">Charter</a>
 
 <h3 class="page-sub-heading">Contact:</h3>
 
