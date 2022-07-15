@@ -11,7 +11,7 @@ sidenav: group_navigation
   <li>Wendy Martinez, <a href="mailto:wendy.l.martinez@census.gov">wendy.l.martinez@census.gov</a></li>
 </ul>
 
-<p> <a href="{{site.baseurl}}/groups/cspos-resources/">FCSM Geospatial Interest Group Charter</a>. </p>
+<p> <a href="{{ site.baseurl }}/assets/files/docs/Checklist on Disclosure Potential of Proposed Data Releases.pdf">FCSM Geospatial Interest Group Charter</a>. </p>
 
 
 <p><b>DISCLAIMER</b>: Materials posted on this page are released to inform interested parties of research and to encourage discussion. Opinions expressed are those of the authors and do not necessarily reflect the official position of the FCSM or the participating agencies.</p>
