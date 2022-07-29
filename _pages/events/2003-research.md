@@ -8,7 +8,7 @@ sidenav: events_navigation
 <a class="usa-button" href="{{site.baseurl}}/events/fcsm-research-conferences/">Back</a>
 <div class="fcsm-internal-pages">
   <h2 class="page-sub-title">2003 Research Conference</h2>
-  <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank"><strong>FINAL PROGRAM</strong></a>  </p>
+  <!------<p style="width:50%"><strong>FINAL PROGRAM</strong>  </p>---->
   <p><strong>Resources and Proceedings</strong></p>
   <p>Unless noted, all of these documents  are in Portable Document Format [PDF]. To view them you will need the Adobe®  Acrobat® Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
   <p style="float:left; padding-right: 30px;" class="larger">KEYNOTE - <a href="{{site.baseurl}}/assets/files/docs/2003FCSM_keynotespeaker.pdf" target="_blank"><strong>There and Back Again:  Demographic Survey Sampling in the 21st Century</strong></a>  <br>
@@ -29,7 +29,7 @@ sidenav: events_navigation
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION II-B<br>
   MODELING 1 – SIMULATION
   </div>
-  <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Bayesian Analysis of Nonignorable Missing Categorical Data: An Application to Bone Mineral Density and Family Income</a><br>  </p>
+  <p style="width:50%">Bayesian Analysis of Nonignorable Missing Categorical Data: An Application to Bone Mineral Density and Family Income<br>  </p>
   <p class="indent">Balgobin Nandram (Worcester Polytechnic Institute, USA)<br>
   Jai Won Choi and Lawrence Cox (National Center for Health Statistics, USA)</p>
   <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/2003FCSM_Angle.pdf" target="_blank">Imitating the Salamander: Reproduction of the Truncated Right Tail of an Income Distribution</a>  </p>
@@ -60,7 +60,7 @@ sidenav: events_navigation
   </div>
   <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/2003FCSM_Pearcy.pdf" target="_blank">Measuring Reduction in Disparity Among Several Rates</a>  </p>
   <p class="indent">Jeffrey Pearcy and Kenneth Keppel (National Center for Health Statistics, USA)</p>
-  <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Innovative Design and Analysis Strategies in the Evaluation of The National Youth Anti-Drug Media Campaign: Propensity Scores and Counterfactual Projection Weights in a National Probability Survey</a>  </p>
+  <p style="width:50%">Innovative Design and Analysis Strategies in the Evaluation of The National Youth Anti-Drug Media Campaign: Propensity Scores and Counterfactual Projection Weights in a National Probability Survey  </p>
   <p class="indent">Robert Orwin, David Judkins, Paul Zador, Sanjeev Sridharan (Westat, USA)<br>
   Robert Hornik (University of Pennsylvania, USA)<br>
   Bob Baskin (AHRQ)</p>
@@ -70,11 +70,11 @@ sidenav: events_navigation
   SMALL AREA ESTIMATION</p></div>
   <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/2003FCSM_DickYou.pdf" target="_blank">Methods Used for Small Domain Estimation of Census Net Undercoverage in the 2001 Canadian Census</a>  </p>
   <p class="indent">Peter Dick and Yong You (Statistics Canada)</p>
-  <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Evaluation of the Practical Utility of Small Domain Estimators for the U.S. Current Employment Statistics Program</a>   </p>
+  <p style="width:50%">Evaluation of the Practical Utility of Small Domain Estimators for the U.S. Current Employment Statistics Program   </p>
   <p class="indent">John Eltinge and Moon Jung Cho (Bureau of Labor Statistics, USA )</p>
   <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/2003FCSM_Slud.pdf" target="_blank">Assessing Fit of SAIPE Models to Census and CPS County Child-poverty Rates</a>  </p>
   <p class="indent">Eric Slud (U.S. Census Bureau and University of Maryland, USA)</p>
-  <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">On Small Area Estimation Under Informative Sampling</a>  </p>
+  <p style="width:50%">On Small Area Estimation Under Informative Sampling  </p>
   <p class="indent">Danny Pfefferman (Hebrew University, Israel and University of Southampton,<br>
   United Kingdom)<br>
   Michael Sverchkov (Bureau of Labor Statistics, USA)</p>
@@ -128,7 +128,7 @@ sidenav: events_navigation
   <p class="indent">Elizabeth Martin, Robert Fay, and Elizabeth Krejsa  (U.S. Census Bureau)</p>
   <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/2003FCSM_MulryBean.pdf" target="_blank">Census and Administrative Records Duplication Study</a>  </p>
   <p class="indent">Mary Mulry, Susanne Bean, D. Mark Bauder, Deborah Wagner,  Thomas Mule, and Rita Petroni  (U.S. Census Bureau)</p>
-  <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">A Bayesian Approach to 2000 Census Evaluation Using A.C.E. Survey Data and Demographic Analysis</a>  </p>
+  <p style="width:50%">A Bayesian Approach to 2000 Census Evaluation Using A.C.E. Survey Data and Demographic Analysis  </p>
   <p class="indent">Michael Elliott (University of Pennsylvania, USA)<br>
   Roderick Little  (University of Michigan, USA)</p>
   <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/2003FCSM_fetter_kott.pdf" target="_blank">Developing a Coverage Adjustment Strategy for the 2002 Census of Agriculture</a>  </p>
@@ -143,7 +143,7 @@ sidenav: events_navigation
   <p>  Cyntrica Eaton, Kent Norman, Anna Rivadeneira, and Cyntrica Eaton  (University of Maryland, USA)</p>
   <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/2003FCSM_Fox.pdf" target="_blank">Usability Issues Associated with Converting Establishment Surveys to  Web-Based Data Collection</a>  </p>
   <p class="indent">Jean Fox, William Mockovak, Sylvia Fisher, and Christine Rho  (Bureau of Labor Statistics, USA)</p>
-  <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Conceptual and Practical Issues in the Statistical Design and Analysis of Usability Tests</a>  </p>
+  <p style="width:50%">Conceptual and Practical Issues in the Statistical Design and Analysis of Usability Tests  </p>
   <p class="indent">John Bosley, John Eltinge, Jean Fox, and Scott Fricker (Bureau of Labor Statistics, USA)</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;"> SESSION VI-B<br>
   ADMINISTRATIVE RECORDS I
@@ -181,7 +181,7 @@ sidenav: events_navigation
   <p class="indent">Kristen Miller, Paul Beatty, and Beth Canfield (National Center for Health Statistics)</p>
   <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/2003FCSM_wilcoxhood.pdf" target="_blank">Developing an Analysis System for Agricultural Surveys and Censuses</a>  </p>
   <p class="indent">Arnie Wilcox and Robert Hood (National Agricultural Statistics Service)</p>
-  <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">A Less Intrusive Variant on Cell Suppression to Protect the Confidentiality of Business Statistics</a>  </p>
+  <p style="width:50%">A Less Intrusive Variant on Cell Suppression to Protect the Confidentiality of Business Statistics  </p>
   <p class="indent">Gordon Sande (Sande &amp; Associates, Inc.)</p>
   <p class="date"><a name="TuesdayPm"></a>TUESDAY PM</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION VII-A<br>
@@ -198,9 +198,9 @@ sidenav: events_navigation
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION VII-B<br>
   ADMINISTRATIVE RECORDS II
   </div>
-  <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">The Use of Administrative Data to Compute Measure of Size for New Employer Births</a>  </p>
+  <p style="width:50%">The Use of Administrative Data to Compute Measure of Size for New Employer Births  </p>
   <p class="indent">Lora Gillott, James Burton, and Carol King (U.S. Census Bureau)</p>
-  <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Exploring Social Security Payment History Matched with the Survey of Income and Program Participation</a>  </p>
+  <p style="width:50%">Exploring Social Security Payment History Matched with the Survey of Income and Program Participation  </p>
   <p class="indent">James Sears and Kalman Rupp (Social Security Administration, USA)</p>
   <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/2003FCSM_Wyant.pdf" target="_blank">Use of Medicaid and Medicare Administrative Claims Data in Litigation and Regulation</a>  </p>
   <p class="indent">Timothy Wyant (Decipher, Inc., USA)<br>
@@ -239,7 +239,7 @@ sidenav: events_navigation
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION VIII-C<br>
   METADATA AND DATA MINING
   </div>
-  <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/construction.pdf" target="_blank">Identification of Driver and Vehicle Characteristics through Data Mining the Highway Crash Data</a>  </p>
+  <p style="width:50%">Identification of Driver and Vehicle Characteristics through Data Mining the Highway Crash Data  </p>
   <p class="indent">Santokh Singh (National Highway Traffic Safety Administration, USA)</p>
   <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/2003FCSM_SchaferRogers.pdf" target="_blank">Designing Data Collection, Processing and Dissemination Instruments with Reusable Metadata for the U.S. Census Bureau’s 2002 Economic Census Initiative,    Using XML and Web Services</a>  </p>
   <p class="indent">Steven Schafer and Roy Rogers, IV  (Fenestra Technologies Corporation, USA)</p>
