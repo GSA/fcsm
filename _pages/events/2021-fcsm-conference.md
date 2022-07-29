@@ -102,7 +102,7 @@ Elise Christopher (National Center for Education Statistics)</p>
 <strong>Session Chair:</strong> Brian W. Ward (National Center for Health Statistics)</p>
 <p><a href="{{ site.baseurl }}/assets/files/docs/B2Blumberg.pdf" target="_blank" rel="noopener"><span style="color: #025373;"><strong>Impact of the Pandemic on National Health Interview Survey Data Collection</strong></span></a><br>
 Stephen J. Blumberg (National Center for Health Statistics)</p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/B2Blumberg.pdf {{ site.baseurl }}/assets/files/docs/B2DeFrances.pdf" target="_blank" rel="noopener"><span style="color: #025373;"><strong>COVID-19 Pandemic Impact on the NCHS Provider-Based Sutveys</strong></span></a><br>
+<p><a href="{{ site.baseurl }}/assets/files/docs/B2DeFrances.pdf" target="_blank" rel="noopener"><span style="color: #025373;"><strong>COVID-19 Pandemic Impact on the NCHS Provider-Based Sutveys</strong></span></a><br>
 Carol DeFrances, Brian W. Ward, and Manisha Sengupta (National Center for Health Statistics)</p>
 <p><a href="{{ site.baseurl }}/assets/files/docs/B2Paulose.pptx" target="_blank" rel="noopener"><span style="color: #025373;"><strong>The National Health and Nutrition Examination Survey (NHANES): The Impact of the COVID-19 Pandemic on Data Collection and Release</strong></span></a><br>
 Ryne Paulose-Ram, Jessica E. Graber, and Namanjeet Ahluwalia (National Center for Health Statistics)</p>
