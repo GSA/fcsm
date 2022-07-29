@@ -22,7 +22,7 @@ title: Federal Committee on Statistical Methodology (FCSM)
 description: >- # this means to ignore newlines until "baseurl:"
   The Federal Committee on Statistical Methodology (FCSM) is an interagency committee dedicated to improving the quality of Federal statistics.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://fcsm.gov" 
+url: "https://www.fcsm.gov" 
   # the base hostname & protocol for your site, e.g. https://example.com.
   # Required to support the jekyll-sitemap plugin below.
   # Uncomment the url line when ready to push to production. If using different branches for multiple
