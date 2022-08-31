@@ -13,7 +13,6 @@ sidenav: group_navigation
 <p><strong>Contact:</strong> </p>
 <ul>
   <li>John Finamore (co-chair), National Center for Science and Engineering Statistics, <a href="mailto:jfinamor@nsf.gov">jfinamor@nsf.gov</a></li>
-  <li>Anne Parker (co-chair), Internal Revenue Service, <a href="mailto:ann.s.parker@irs.gov">ann.s.parker@irs.gov</a> </li>
 </ul>
 
 <p><b>DISCLAIMER</b>: Materials posted on this page are released to inform interested parties of research and to encourage discussion. Opinions expressed are those of the authors and do not necessarily reflect the official position of the FCSM or the participating agencies.</p>

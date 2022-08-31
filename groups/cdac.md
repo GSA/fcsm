@@ -12,7 +12,11 @@ sidenav: group_navigation
   <li><a href="{{site.baseurl}}/resources/2017-workshop">2017 Workshop on New Advances in Disclosure Limitation (September 27, 2017)</a></li>
 </ul>
 
-<p>Contact: Michael Hawes, Census, <a href="mailto:michael.b.hawes@census.gov">michael.b.hawes@census.gov</a> </p>
+<p>Contact:</p>
+<ul>
+  <li>Michael Hawes, Census, <a href="mailto:michael.b.hawes@census.gov">michael.b.hawes@census.gov</a></li>
+  <li>Ellen Galantucci, (co-chair), <a href="mailto:egalantucci@fmc.gov">egalantucci@fmc.gov</a></li>
+</ul>
 
 <p><strong>Recording of CDAC Meetings and Workshops:</strong></p>
 
