@@ -12,4 +12,5 @@ sidenav: group_navigation
 <p><strong>Contact</strong>:</p>
 <ul>
 	<li>Michael Hawes (Chair), U.S. Census Bureau, <a href="mailto:michael.b.hawes@census.gov">michael.b.hawes@census.gov</a></li>
+	<li>Ellen Galantucci (Co-Chair), <a href="mailto:egalantucci@fmc.gov">egalantucci@fmc.gov</a></li>
 </ul>

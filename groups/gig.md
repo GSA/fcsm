@@ -5,6 +5,7 @@ sidenav: group_navigation
 ---
 <p>The purpose of the Geospatial Interest Group (GIG) is to share information on geospatial methodologies across federal agencies, to identify areas of common research, to coordinate collaborative research projects in those areas, and to disseminate methodological information related to geospatial data. </p>
 
+<p><a href="{{site.baseurl}}/assets/files/docs/Geospatial Interest Group Charter_signed.pdf"><strong>Charter</strong></a></p>
 <p><a href="{{site.baseurl}}/groups/gig-events/"><strong>Events</strong></a></p>
 <p><a href="{{site.baseurl}}/groups/gig-presentations/"><strong>Presentations</strong></a></p>
 <p><a href="{{site.baseurl}}/groups/gig-resources/"><strong>GIG Resources</strong></a></p>
