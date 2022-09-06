@@ -184,12 +184,14 @@ small {
         display: inline-block;
         margin-left: 2px;
         transform: rotate(0deg) !important;
+        -webkit-mask:none !important;
     }
 
     .usa-banner__button[aria-expanded="true"]:hover::after {
         background-image: url("../assets/img/angle-arrow-up-primary-hover.png"), linear-gradient(transparent, transparent);
         background-color: transparent !important;
         transform: rotate(0deg) !important;
+        -webkit-mask: none !important;
     }
 
     .usa-banner__button::after {
@@ -201,11 +203,13 @@ small {
         display: inline-block;
         margin-left: 2px;
         background-color: transparent !important;
+        -webkit-mask: none !important;
     }
 
     .usa-banner__button:hover::after {
         background-image: url("../assets/img/angle-arrow-down-primary-hover.png"), linear-gradient(transparent, transparent);
         background-color: transparent !important;
+        -webkit-mask: none !important;
     }
 }
 
@@ -236,5 +240,6 @@ small {
         width: 0.5rem;
         margin-left: 2px;
         background-color: transparent !important;
+        -webkit-mask: none !important;
     }
 }
