@@ -116,8 +116,8 @@ group_navigation:
   - name: Interest Groups
     collapsible: true
     children:
-      - name: Adaptive Survey Design Interest Group
-        url: /groups/adig/
+      - name: Innovating Data Collection Interest Group
+        url: /groups/idcig/
       - name: Confidentiality and Data Access Committee (CDAC)
         url: /groups/cdac/
       - name: Computational Statistics and the Production of Official Statistics (CSPOS) Interest Group
