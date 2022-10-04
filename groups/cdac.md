@@ -6,6 +6,9 @@ sidenav: group_navigation
 
 <p>The Confidentiality and Data Access Committee (CDAC) is an FCSM interest group focusing on issues related to statistical disclosure limitation (de-identification) and controlled access to confidential data. CDAC's membership primarily includes federal employees from across government who manage their agencies' Disclosure Review Boards and tiered-data access programs. CDAC serves as an information-sharing forum to foster collaboration on current research activities, to explore new research ideas, and to provide assistance to agencies across government on confidentiality and data access issues</p>
 <p>CDAC is sponsored by the Federal Committee on Statistical Methodology to provide a forum for staff members of Federal statistical agencies who work on confidentiality and data access topics to communicate among themselves, exchange ideas, etc.</p>
+
+<p>Please contact the group chair(s) if you are a federal employee and interested in participating.</p>
+
 <ul>
   <li><a href="{{site.baseurl}}/groups/cdac-about">About CDAC</a></li>
   <li><a href="{{site.baseurl}}/groups/cdac-resources">Resources for Confidentiality and Data Access</a></li>

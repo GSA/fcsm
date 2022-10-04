@@ -5,6 +5,8 @@ sidenav: group_navigation
 ---
 <p>The Measuring Sexual Orientation and Gender Identity (SOGI) Research Group explores the best practices of the measurement of SOGI in the context of Federal information collections. The Group provides ongoing opportunities for individuals interested in statistical methods or data quality related to SOGI to interact, exchange information, and explore issues related to this topic.</p>
 
+<p>Please contact the group chair(s) if you are a federal employee and interested in participating.</p>
+
 <p><a href="{{site.baseurl}}/assets/files/docs/SOGI_RG_Charter.pdf">SOGI Research Group Charter</a></p>
 
 <ul>

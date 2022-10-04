@@ -17,6 +17,8 @@ sidenav: group_navigation
   <li>Creating a dialog between information technology staff at different agencies.</li>
 </ul>
 
+<p>Please contact the group chair(s) if you are a federal employee and interested in participating.</p>
+
 <p><strong><a href="{{site.baseurl}}/groups/cspos-resources/">CSPOS Resources</a></strong></p>
 <p><strong><a href="{{site.baseurl}}/groups/cspos-gasp/">Government Advances in Statistical Programming (GASP)</a></strong></p>
 <p><strong><a href="{{site.baseurl}}/groups/cspos-presentations/">Presentations</a></strong></p>
