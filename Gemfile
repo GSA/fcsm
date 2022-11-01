@@ -7,7 +7,7 @@ gem "autoprefixer-rails"
 gem 'eventmachine', '1.2.7', git: 'https://github.com/eventmachine/eventmachine.git', tag: 'v1.2.7'
 
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.15"
+  gem "jekyll-feed", "~> 0.17"
   gem 'jekyll-redirect-from'
   gem 'jekyll-paginate-v2', "3.0.0"
   gem 'jekyll-sitemap'
