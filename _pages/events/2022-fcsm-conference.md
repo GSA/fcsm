@@ -512,6 +512,458 @@ S. Grace Deng, <i>Energy Information Administration</i><br>
 Katie Lewis, <i>Energy Information Administration</i>
 </p>
 
+<h2 class="text-left"><span class="text-dark-grey">Session D-2. Dying for Better Data: Using Administrative Records to Improve the Quality and Utility of Health Survey Data</span></h2>
+<p>Organizer: Scott Boggess, <i>U.S. Census Bureau</i><br>
+Chair: Scott Boggess, <i>U.S. Census Bureau</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/D2.1_Aram.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Assessing Data Quality in Population-Based Surveys Linked to End-Stage Renal Disease Administrative Data</strong></span></a><br>
+Jonathan Aram, <i>National Center for Health Statistics</i><br>
+Crescent B. Martin, <i>National Center for Health Statistics</i><br>
+Lisa B. Mirel, <i>National Center for Health Statistics</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/D2.2_Hegland.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Linking the Medical Expenditure Panel Survey-Insurance Component to Administrative Records: A New Approach to Inferring Establishment Links</strong></span></a><br>
+Thomas Hegland, <i>Agency for Healthcare Research and Quality</i><br>
+Ed Miller, <i>Agency for Healthcare Research and Quality</i><br>
+Alice Zawacki, <i>U.S. Census Bureau</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/D2.3_Mirel.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Race and Ethnicity Modeling Applied to Linked Health Data</strong></span></a><br>
+Lisa B. Mirel, <i>National Center for Health Statistics</i><br>
+Jessie L. Parker, <i>National Center for Health Statistics</i><br>
+Dean Resnick, <i>NORC at the University of Chicago</i><br>
+Christine Cox, <i>NORC at the University of Chicago</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/D2.4_Linders.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Developing a Physician-Employer Linked Dataset</strong></span></a><br>
+Dennis Linders, <i>U.S. Census Bureau</i><br>
+Victoria Udalova, <i>U.S. Census Bureau</i><br>
+Alice Zawacki, <i>U.S. Census Bureau</i><br>
+Kate Vavra-Musser, <i>University of Southern California</i>
+</p>
+<p><span class="text-dark-blue"><strong>Discussant:</strong></span><br>
+Paul Beatty, <i>U.S. Census Bureau</i>
+</p>
+
+<h2 class="text-left"><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/D3_ParkRodgersHellerstein.pdf" target="_blank" rel="noopener"><span class="text-dark-grey">Session D-3. Evaluation of EEOC Collection of Pay Data: Quality for Intended Use and Recommendations for the Future</span></a></h2>
+<p>Organizer: Jennifer Park, <i>Committee on National Statistics</i><br>
+Chair: William Rodgers III, <i>Federal Reserve Bank of St. Louis</i>
+</p>
+<p><span class="text-dark-blue"><strong>Evaluation of Pay Data in EEO-1 Component 2</strong></span><br>
+Claudia Goldin, <i>Harvard University</i><br>
+Siwei Chang, <i>New York University</i>
+</p>
+<p><span class="text-dark-blue"><strong>Measures of Sex, Race/Ethnicity, and other Protected Groups in EEO-1 Component 2</strong></span><br>
+Lee Badgett, <i>University of Massachusetts, Amherst</i><br>
+Valerie Wilson, <i>EPI</i>
+</p>
+<p><span class="text-dark-blue"><strong>Use of EEO-1 Component 2 Data for Initial EEOC Investigations</strong></span><br>
+Elizabeth Hirsh, <i>University of British Columbia</i><br>
+Kristen Olson, <i>University of Nebraska</i><br>
+Don Tomaskovic-Devey, <i>University of Massachusetts, Amherst</i>
+</p>
+<p><span class="text-dark-blue"><strong>Use of EEO-1 Component 2 Data for Employer Self-Assessment and National Comparisons</strong></span><br>
+Judy Hellerstein, <i>University of Maryland</i><br>
+Lisette Garcia, <i>Pennsylvania State</i>
+</p>
+<p><span class="text-dark-blue"><strong>Discussant:</strong></span><br>
+Meghan Maury, <i>White House Office of Science and Technology Policy</i>
+</p>
+
+<h2 class="text-left"><span class="text-dark-grey">Session D-4. Statistical Issues in Research to Inform Evidence-based Nutrition Security Policymaking </span></h2>
+<p>Organizer: Andrea C. Carlson, <i>Economic Research Service</i><br>
+Chair: Elina T. Page, <i>Economic Research Service</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/D4.1_MeyersMathieu.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Data Required to Inform Nutrition Security Policy</strong></span></a><br>
+Kevin Meyers Mathieu, <i>Food and Nutrition Service</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/D4.2_Kantor.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Capturing Nutrition Information for Food Items Reported in FoodAPS-2: Survey Methodological Enhancements for Evidence-based Policymaking and Research</strong></span></a><br>
+Linda Kantor, <i>Economic Research Service</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/D4.3_Carlson.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Statistical properties of the Purchase-to-Plate Crosswalk: A comparison of Healthy Eating Index scores across Federal surveys</strong></span></a><br>
+Andrea C Carlson, <i>Economic Research Service</i>
+</p>
+<p><span class="text-dark-blue"><strong>Comparison of Purchase to Plate National Average Prices for NHANES to Other Federal Food Expenditure and Price Index Measures</strong></span><br>
+Christopher Lowe, <i>Economic Research Service</i>
+</p>
+<p><span class="text-dark-blue"><strong>Discussant:</strong></span><br>
+Sara Bleich, <i>Food and Nutrition Service</i>
+</p>
+
+
+<h2 class="text-left"><span class="text-dark-grey">Session D-5. Reimagining NCES and the Education Data Ecosystem for the 21st Century</span></h2>
+<p>Organizers:<br> Melissa Chiu, <i>Committee on National Statistics</i><br>
+          Marie Marcum, <i>National Center for Education Statistics</i><br>
+Chair:<br> Melissa Chiu, <i>Committee on National Statistics</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/D5.1_Ohara.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>A Vision and Roadmap for Education Statistics: Overview of the CNSTAT Study</strong></span></a><br>
+Amy O’Hara, <i>Georgetown University</i><br>
+Melissa Chiu, <i>Committee on National Statistics</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/D5.2_Carr.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Embracing a New Vision for Education Statistics</strong></span></a><br>
+Peggy Carr, <i>National Center for Education Statistics</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/D5.3_Dinkes.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Private Sector Roles in the Future Education Data Ecosystem</strong></span></a><br>
+Rachel Dinkes, <i>Knowledge Alliance</i>
+</p>
+<p><span class="text-dark-blue"><strong>Discussant:</strong></span><br>
+Anthony Nerino, <i>Office of Management and Budget</i>
+</p>
+
+<h2 class="text-left"><span class="text-dark-grey">Session D-6. Evaluating Methods for Evaluating Questionnaires</span></h2>
+<p>
+Organizer: Doug Williams, <i>Bureau of Labor Statistics</i><br>
+Chair: Doug Williams, <i>Bureau of Labor Statistics</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/D6.1_Smith.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Understanding the Interviewer in Cognitive Interviewing: Reflexivity and Improving Data Quality</strong></span></a><br>
+Zachary Smith, <i>National Center for Health Statistics</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/D6.2_Steiger.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>A Comparison of Questionnaire Evaluation Methods to Assess the Airborne Hazards and Open Burn Pit Registry</strong></span></a><br>
+Darby Steiger, <i>Westat</i><br>
+April Fales, <i>Westat</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/D6.3_Barlas.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Effects of and Reactions to Response Formats for Race and Ethnicity Measurement in the U.S.</strong></span></a><br>
+Frances M. Barlas, <i>Ipsos Public Affairs</i><br>
+Kip Davis, <i>Ipsos Public Affairs</i><br>
+Randall Thomas, <i>Ipsos Public Affairs</i><br>
+Megan Hendrich, <i>Ipsos Public Affairs</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/D6.4_Smith.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Correlates of Item Nonresponse to Open-Ended Web Probes</strong></span></a><br>
+Zachary Smith, <i>National Center for Health Statistics</i><br>
+Kristen Cibelli Hibben, <i>National Center for Health Statistics</i><br>
+Travis Hoppe, <i>National Center for Health Statistics</i><br>
+Valerie Ryan, <i>National Center for Health Statistics</i><br>
+Ben Rogers, <i>National Center for Health Statistics</i><br>
+Paul Scanlon, <i>National Center for Health Statistics</i><br>
+Kristen Miller, <i>National Center for Health Statistics</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/D6.5_Fox.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Facilitating Innovation in Survey Systems with Human-Centered Design</strong></span></a><br>
+Jean E. Fox, <i>Bureau of Labor Statistics</i><br>
+Scott Arden, <i>Bureau of Labor Statistics</i><br>
+Tod Sirois, <i>Bureau of Labor Statistics</i>
+</p>
+
+<div class="conference-session-box">
+<h2 class="text-center"><span class="text-dark-blue">Concurrent Session E<br>
+Wednesday, October 26<br>
+1:15 - 3:00 pm</span></h2>
+</div>
+
+
+<h2 class="text-left"><span class="text-dark-grey">Session E-1. Statistical Modeling</span></h2>
+<p>
+Organizer: Joe Conklin, <i>Bureau of Justice Statistics</i><br>
+Chair: Joe Conklin, <i>Bureau of Justice Statistics</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/E1.1_Angle.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Applying a Model of Income Distribution, Adopted as Econophysics, to Estimating Non-Compliance with the Individual Federal Income Tax</strong></span></a><br>
+John Angle ORCID, <i>Tresoria, LLC</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/E1.2_Nava.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>A Bayesian Model of the Probabilistic Role of Weather Variations on Crop Yield Potential</strong></span></a><br>
+Noé J Nava, <i>Economics Research Service</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/E1.3_Lin v2.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Methods and Assumptions of the CPS ASEC Tax Model and Imputing 2020 Stimulus Payments</strong></span></a><br>
+Daniel Lin, <i>U.S. Census Bureau</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/E1.4_Rupasingha.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Place-Based Tax Incentives and Minority Employment: Evidence from New Market Tax Credit (NMTC) Program</strong></span></a><br>
+Anil Rupasingha, <i>Economic Research Service</i><br>
+Alexander Marre, <i>Federal Reserve Bank of Cleveland</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/E1.5_Montalvo.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Skill Profiles and Portability of Credentials for the Technical Workforce</strong></span></a><br>
+Cesar Montalvo, <i>University of Virginia</i><br>
+Haleigh Tomlin, <i>Washington and Lee University</i><br>
+Leonel Siwe, <i>University of Virginia</i><br>
+Vicki Lancaster, <i>University of Virginia</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/E1.6_Erciulescu.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Discussant:</strong></span></a><br>
+Andreea Erciulescu, <i>Westat</i>
+</p>
+
+
+<h2 class="text-left"><span class="text-dark-grey">Session E-2. Mosaic Data Linkage</span></h2>
+<p>
+Organizer: Xuan Pham, <i>Economic Research Service</i><br>
+Chair: Jeffrey Gonzalez, <i>Bureau of Labor Statistics</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/E2.1_Foster.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Estimating Foreign-Born Emigration Using Longitudinal Tax and Social Security Data</strong></span></a><br>
+Thomas B. Foster, <i>U.S. Census Bureau</i><br>
+Anthony Knapp, <i>U.S. Census Bureau</i><br>
+Erik Vickstrom, <i>U.S. Census Bureau</i>
+</p>
+<p><span class="text-dark-blue"><strong>Mobility of U.S.-trained Early Career Research Scientists and Engineers</strong></span><br>
+Christina Freyman, <i>National Science Foundation</i><br>
+Wan-Ying Chang, <i>National Science Foundation</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/E2.3_Ikoma.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Exploration of NAEP-SSOCS linkage: Investigating the Association between Behavioral Incidents, School Behavioral Climate, and NAEP Mathematics Achievement</strong></span></a><br>
+Saki Ikoma, <i>American Institutes for Research</i><br>
+Paul Bailey, <i>American Institutes for Research</i><br>
+Jizhi Zhang, <i>American Institutes for Research</i><br>
+Kelly Guinn, <i>ICF</i><br>
+Markus Broer, <i>American Institutes for Research</i>
+</p>
+
+
+<h2 class="text-left"><span class="text-dark-grey">Session E-3. Modernizing Bias Reduction Techniques</span></h2>
+<p>
+Organizer: Richard Chard, <i>Office of Research, Evaluation, and Statistics</i><br>
+Chair: Doug Williams, <i>Bureau of Labor Statistics</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/E3.1_Kim.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Seroprevalence of SARS-CoV-2 Antibodies: Representativeness of Nonprobability Serology Samples from Multiple Commercial Laboratories in the United States</strong></span></a><br>
+Yun Kim, <i>ICF</i><br>
+Ronaldo Iachan, <i>ICF</i><br>
+Adam Lee, <i>ICF</i><br>
+Lee Harding, <i>ICF</i><br>
+Kristie Clarke, <i>CDC</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/E3.2_Chaney.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Finding and Handling Bias in Clustered Randomized Trials</strong></span></a><br>
+Bradford Chaney, <i>National Academies of Sciences, Engineering, and Medicine</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/E3.3_Kweon.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Analyzing Nonresponses for National Census of Ferry Operators</strong></span></a><br>
+Young-Jun Kweon, <i>Bureau of Transportation Statistics</i><br>
+Aubrey Nguyen, <i>Bureau of Transportation Statistics</i><br>
+Clara Reschovsky, <i>Bureau of Transportation Statistics</i>
+</p>
+
+<h2 class="text-left"><span class="text-dark-grey">Session E-4. Topics in Income Volatility Measurement</span></h2>
+<p>
+Organizer: Mark A Klee, <i>U.S. Census Bureau</i><br>
+Chair: Rebecca Heller, <i>Congressional Budget Office</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/E4.1_Carr.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Reconciling Trends in Male Earnings Volatility: Evidence from the SIPP Survey and Administrative Data</strong></span></a><br>
+Michael Carr, <i>University of Massachusetts, Boston</i><br>
+Robert Moffitt, <i>Johns Hopkins University</i><br>
+Emily Wiemers, <i>Syracuse University</i>
+</p>
+<p><span class="text-dark-blue"><strong>Projecting Monthly Poverty Rates in the United States: New Estimates from the Survey of Income and Program Participation</strong></span><br>
+Lewis Warren, <i>U.S. Census Bureau</i><br>
+Ani Silwal, <i>U.S. Census Bureau</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/E4.3_Bennett.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>A Stitch in Time: Evaluating Seam Bias in the Redesigned SIPP</strong></span></a><br>
+Neil Bennett, <i>U.S. Census Bureau</i><br>
+Mark A Klee, <i>U.S. Census Bureau</i><br>
+Robert Munk, <i>U.S. Census Bureau</i>
+</p>
+<p><span class="text-dark-blue"><strong>Discussant:</strong></span><br>
+Charles Hokayem, <i>U.S. Census Bureau</i>
+</p>
+
+<h2 class="text-left"><span class="text-dark-grey">Session E-5. Implementing Title III of the Evidence Act: A Framework to Expanding Data Access for Evidence Building</span></h2>
+<p>
+Organizer: John Finamore, <i>National Center for Science and Engineering Statistics</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/E5.1_Rivers.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>ICSP’s Vision for Implementing Title III of the Evidence Act</strong></span></a><br>
+Emilda Rivers, <i>National Center for Science and Engineering Statistics</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/E5.2_Sivinski.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>The Trust Regulation: Documenting the Fundamental Responsibilities of Recognized Statistical Agencies or Units </strong></span></a><br>
+Robert Sivinski, <i>Office of Management and Budget</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/E5.3_Stefanou.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>The Access Regulation: Expanding Secure Access to CIPSEA Data Assets </strong></span></a><br>
+Spiro Stefanou, <i>Economic Research Service</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/E5.4_Marten.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>The Standard Application Process: Creating Uniformity in the Process for Requesting Access to Restricted Data </strong></span></a><br>
+Alex Marten, <i>Environmental Protection Agency</i>
+</p>
+
+<h2 class="text-left"><span class="text-dark-grey">Session E-6. Measuring Sex, Gender Identity, and Sexual Orientation: Findings of the National Academies </span></h2>
+<p>
+Organizer: Tara Becker, <i>National Academies of Sciences, Engineering, and Medicine</i><br>
+Chair: Katrina Stone, <i>National Academies of Sciences, Engineering, and Medicine</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/E6.1_Bates.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Guidelines for the Measurement of Sex and Gender</strong></span></a><br>
+Nancy Bates, <i>U.S. Census Bureau (Retired)</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/E6.2_Baker.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Measuring Sexual Orientation Identity and Gender Identity: Findings from the National Academies</strong></span></a><br>
+Kellan Baker, <i>Whitman-Walker Institute</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/E6.3_Becker.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Developing Measures of Intersex Status/Differences in Sex Development at the Population Level </strong></span></a><br>
+Tara Becker, <i>National Academies of Sciences, Engineering, and Medicine</i><br>
+Katharine Dalke, <i>Penn State University</i>
+</p>
+<p><span class="text-dark-blue"><strong>Discussant:</strong></span><br>
+Christina Dragon, <i>National Institutes of Health Sexual and Gender Minority Research Office</i>
+</p>
+
+<div class="conference-session-box">
+<h2 class="text-center"><span class="text-dark-blue">Concurrent Session F<br>
+Wednesday, October 26<br>
+3:15 - 5:00 pm</span></h2>
+</div>
+
+<h2 class="text-left"><span class="text-dark-grey">Session F-1. Applications of Statistical Methods in Economic Areas</span></h2>
+<p>
+Organizer: Chris Moriarity, <i>National Center for Health Statistics</i><br>
+Chair: Chris Moriarity, <i>National Center for Health Statistics</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F1.1_Vargas.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>What Most Affects the Probability of Receiving Public Assistance? Examining the Effect of Family Background and Educational Attainment on Receiving Public Assistance with Multivariate Regression Analysis</strong></span></a><br>
+Patricia I. Vargas, <i>U.S. Department of State</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F1.2_Brown.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Alternative Data and Hedonic Price Indexes in the U.S. Consumer Price Index: A Review of Recent Research</strong></span></a><br>
+Craig Brown, <i>Bureau of Labor Statistics</i><br>
+Jeremy Smucker, <i>Bureau of Labor Statistics</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F1.3_Siwe.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Skilled Technical Workforce Classification</strong></span></a><br>
+Guy Leonel Siwe, <i>University of Virginia</i><br>
+Cesar Montalvo, <i>University of Virginia</i><br>
+Vicki Lancaster, <i>University of Virginia</i><br>
+Haleigh Tomlin, <i>University of Virginia</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F1.4_Klick.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>United States Inflation Experience across the Income Distribution</strong></span></a><br>
+Joshua Klick, <i>Bureau of Labor Statistics</i><br>
+Anya Stockburger, <i>Bureau of Labor Statistics</i>
+</p>
+
+<h2 class="text-left"><span class="text-dark-grey">Session F-2. Innovations from the Criminal Justice Administrative Records System (CJARS) Project</span></h2>
+<p>
+Organizer: Keith Finlay, <i>U.S. Census Bureau</i><br>
+Chair: <a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F2.0_Finlay.pdf" target="_blank" rel="noopener">Keith Finlay</a>, <i>U.S. Census Bureau</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F2.1_Muller-Smith.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Hierarchical Approaches to Text-based Offense Classification</strong></span></a><br>
+Michael Mueller-Smith, <i>University of Michigan</i><br>
+Jay Choi, <i>University of Michigan</i><br>
+David Kilmer, <i>Measures for Justice</i><br>
+Sema A. Taheri, <i>Measures for Justice</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F2.1_Mueller-Smith.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>CJARS Data Quality Automation</strong></span></a><br>
+Brian Miller, <i>University of Michigan</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F2.3_Street.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Measuring Intergenerational Exposure to the U.S. Justice System: Evidence from Longitudinal Links between Survey and Administrative Data</strong></span></a><br>
+Brittany Street, <i>University of Missouri</i><br>
+Keith Finlay, <i>U.S. Census Bureau</i><br>
+Michael Mueller-Smith, <i>University of Michigan</i>
+</p>
+<p><span class="text-dark-blue"><strong>Discussant:</strong></span><br>
+Anne Morrison Piehl, <i>Rutgers University</i>
+</p>
+
+<h2 class="text-left"><span class="text-dark-grey">Session F-3. Drawing Optimal Statistical Inferences from Nonprobability or Low Response-rate Probability Surveys: Some Recent Advances and Applications</span></h2>
+<p>
+Organizer: Yulei He, <i>National Center for Health Statistics</i><br>
+Chair: Yulei He, <i>National Center for Health Statistics</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F3.1_Irimata.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Variable Inclusion Strategies for Adjusting the Weights of Surveys Subject to Selection Bias</strong></span></a><br>
+Katherine Irimata, <i>National Center for Health Statistics</i><br>
+Yan Li, <i>University of Maryland</i><br>
+Yulei He, <i>National Center for Health Statistics</i><br>
+Jennifer D. Parker, <i>National Center for Health Statistics</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F3.2_Kang.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Generating Survey Weights Using a Machine-learning Method and the Entropy Balancing Calibration Technique</strong></span></a><br>
+Joseph Kang, <i>U.S. Census Bureau</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F3.3_Savitsky.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Methods for Combining Probability and Nonprobability Samples Under Unknown Overlaps</strong></span></a><br>
+Terrance D. Savitsky, <i>Bureau of Labor Statistics</i><br>
+Matthew R. Williams, <i>RTI International</i><br>
+Julie Gershunskaya, <i>Bureau of Labor Statistics</i><br>
+Vladislav Beresovsky, <i>National Center for Health Statistics</i><br>
+Nels G. Johnson, <i>U.S. Department of Agriculture</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F3Andridge.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>New Measures for Assessing Non-ignorable Selection Bias in Non-probability Samples and Low Response Rate Probability Samples</strong></span></a><br>
+Rebecca Andridge, <i>Ohio State University</i><br>
+Brady T. West, <i>University of Michigan</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F3.5_Kott.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Discussant:</strong></span></a><br>
+Phillip S. Kott, <i>RTI International</i>
+</p>
+
+<h2 class="text-left"><span class="text-dark-grey"></span>Session F-4. The Need for a National Study of Post-Secondary Faculty</h2>
+<p>
+Organizer: Hans-Joerg Tiede, <i>American Association of University Professors</i><br>
+Chair: Felice Levine, <i>American Education Research Association</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F4.1_Arbeit.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Defining, Counting and Understanding Faculty in the United States: Strengths and Limitations of Current Higher Education Data</strong></span></a><br>
+Caren Arbeit, <i>RTI</i><br>
+KC Culver, <i>University of Southern California</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F4.2_Perna.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Data: The Foundation of Efforts to Advance Equity and Diversity among our Nation’s Faculty</strong></span></a><br>
+Laura Perna, <i>University of Pennsylvania</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F4.3_Townsend.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>The Importance and Value of Discipline-Level Data</strong></span></a><br>
+Robert Townsend, <i>American Academy of Arts and Sciences</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F4.4_Tiede.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>NSOPF Institution-Level Data on Personnel Policies and Practices </strong></span></a><br>
+Hans-Joerg Tiede, <i>American Association of University Professors</i>
+</p>
+<p><span class="text-dark-blue"><strong>Discussant:</strong></span><br>
+Valerie Martin Conley, <i>Idaho State University</i>
+</p>
+
+<h2 class="text-left"><span class="text-dark-grey">Session F-5. Classifying Settlement Form and Function: Urban, Rural, Metropolitan and Micropolitan Area Definitions and Classifications</span></h2>
+<p>
+Organizer: Michael Ratcliffe, <i>U.S. Census Bureau</i><br>
+Chair: Michael Ratcliffe, <i>U.S. Census Bureau</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F5.1_Ratcliffe.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>The Census Bureau's Urban and Rural Classification and Overview of 2020 Census Urban Area Criteria</strong></span></a><br>
+Michael Ratcliffe, <i>U.S. Census Bureau</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F5.2_Mackun.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>The 2020 Standards for Delineating Core Based Statistical Areas</strong></span></a><br>
+Paul Mackun, <i>U.S. Census Bureau</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F5.3_Cromartie.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Understanding Rural Definitions </strong></span></a><br>
+John Cromartie, <i>Economic Research Service</i>
+</p>
+<p><span class="text-dark-blue"><strong>The Effects of Geography on Data Quality</strong></span><br>
+Rolf R. Schmitt, <i>Bureau of Transportation Statistics</i><br>
+Ed Strocko, <i>Bureau of Transportation Statistics</i>
+</p>
+
+<h2 class="text-left"><span class="text-dark-grey">Session F-6. Reporting on the Pulse of America – Rapid Data and Collection and Information Sharing Initiatives in the Federal Government</span></h2>
+<p>
+Organizer: Chris Chapman, <i>National Center for Education Statistics</i><br>
+Chair: Stephen Blumberg, <i>National Center for Health Statistics</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F6.1_Fields.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Household Pulse Survey. Foundation For a Rapid Response, High-Frequency Household Data System</strong></span></a><br>
+Jason Fields, <i>U.S. Census Bureau</i><br>
+Jennifer Hunter Childs, <i>U.S. Census Bureau</i><br>
+Cassandra Logan, <i>U.S. Census Bureau</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F6.2_Hansen.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>School Pulse Panel and Development of a Rapid Response Data Collection System for Establishment Studies - Design, Challenges, and Accomplishments </strong></span></a><br>
+Rachel Hansen, <i>National Center for Education Statistics</i><br>
+Ryan Iaconelli, <i>National Center for Education Statistics</i><br>
+Rebecca Bielamowicz, <i>National Center for Education Statistics</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F6.3_Blumberg.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Leveraging Commercial Online Survey Panels for Timely and Actionable Health Statistics</strong></span></a><br>
+Stephen Blumberg, <i>National Center for Health Statistics</i><br>
+Jennifer Parker, <i>National Center for Health Statistics</i><br>
+Paul Scanlon, <i>National Center for Health Statistics</i><br>
+Jonaki Bose, <i>National Center for Health Statistics</i><br>
+Amy Brown, <i>National Center for Health Statistics</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F6.4_Sivinski.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Discussant:</strong></span></a><br>
+Robert Sivinski, <i>Office of Management and Budget</i>
+</p>
+
+<div class="conference-session-box">
+<h2 class="text-center"><span class="text-dark-blue">Concurrent Session G<br>
+Thursday, October 27<br>
+8:30 – 10:15 am</span></h2>
+</div>
+
+<h2 class="text-left"><span class="text-dark-grey">Session G-1. Insights from the Congressional Watchdog on Equity in Evaluation Design</span></h2>
+<p>
+Organizer: Sirin Yaemsiri, <i>Government Accountability Office</i><br>
+<a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/G1.0_Smith.pdf" target="_blank" rel="noopener">Chair</a>: Jared Smith, <i>Government Accountability Office</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/G1.1_Vartivarian.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Geospatial Analysis and Regression Modeling to Assess Social and Demographic Disparities in Locations of Lead Water Pipes and Pavement Conditions of the National Highway System</strong></span></a><br>
+Sonya Vartivarian, <i>Government Accountability Office</i><br>
+Mark Braza, <i>Government Accountability Office</i><br>
+Caitlin Cusati, <i>Government Accountability Office</i><br>
+Diane Raynes, <i>Government Accountability Office</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/G1.2_Guo.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Assessing Disparities in FEMA Flood Map Investments using Multivariate Analysis</strong></span></a><br>
+Lijia Guo, <i>Government Accountability Office</i><br>
+Joel Aldape, <i>Government Accountability Office</i><br>
+Mark Braza, <i>Government Accountability Office</i><br>
+John Vocino, <i>Government Accountability Office</i>
+
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/G1.3_Parks.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Survival Analysis Modeling of Promotions in the State Department’s Workforce</strong></span></a><br>
+Moon Parks, <i>Government Accountability Office</i><br>
+Nisha Rai, <i>Government Accountability Office</i><br>
+Melinda Cordero, <i>Government Accountability Office</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/G1.4_Tessin.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Imputing Race and Ethnicity in Federal Administrative Data: Two Applications of Bayesian Improved Surname Geocoding (BISG)</strong></span></a><br>
+Jeff Tessin, <i>Government Accountability Office</i>
+</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/G1.5_Tirado.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Discussant:</strong></span></a><br>
+Frances Tirado, <i>Government Accountability Office</i>
+</p>
+
+
 
 
 
