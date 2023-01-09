@@ -380,7 +380,7 @@ Gabriel Amaro, <i>U.S. Census Bureau</i>
 <a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/C4.2_Jarmin.pdf" target="_blank" rel="noopener">Ron Jarmin</a>, <i>U.S. Census Bureau</i><br>
 <a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/C4.3_Potok.pdf" target="_blank" rel="noopener">Nancy Potok</a>, <i>NAPx Consulting</i>
 </p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/C4.4_Auerbach.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Discussant: </strong></span></a><br>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/C4.4_Auerbach.pdf" aria-label="Jonathan Auerbach" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Discussant: </strong></span></a><br>
 Jonathan Auerbach, <i>George Mason University</i>
 </p>
 
@@ -944,7 +944,7 @@ Frances Tirado, <i>Government Accountability Office</i>
 <strong>Organizer:</strong> Michael L. Cohen, <i>Committee on National Statistics</i><br>
 <strong>chair:</strong> Dan Kasprzyk, <i>NORC at the University of Chicago</i>
 </p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/G2.1_Nusser V2.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Transparency of Official Statistics: Part of the Recent Emphasis on Reproducibility of Scientific Activities</strong></span></a><br>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/G2.1_Nusser_v2.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Transparency of Official Statistics: Part of the Recent Emphasis on Reproducibility of Scientific Activities</strong></span></a><br>
 Sarah Nusser, <i>Iowa State University</i>
 </p>
 <p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/G2.2_Vilhuber.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>The Use of Modern Software Development Tools for Documentation of Methods Used </strong></span></a><br>
@@ -1173,7 +1173,7 @@ Erica Olmsted-Hawala, <i>U.S. Census Bureau</i>
 <p><strong>Input Field Formatting</strong><br>
 Temika Holland, <i>U.S. Census Bureau</i>
 </p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/H5.8_Fox.pptx" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Discussant:</strong></span></a><br>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/H5.8_Fox.pptx" aria-label="Jean Fox" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Discussant:</strong></span></a><br>
 Jean Fox, <i>Bureau of Labor Statistics</i>
 </p>
 
