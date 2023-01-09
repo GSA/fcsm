@@ -5,7 +5,7 @@ layout: page
 sidenav: events_navigation
 ---
 <h2><span class="text-dark-blue">Federal Committee on Statistical Methodology 2022 Research and Policy Conference</span></h2>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/FCSM+2022+Program_Draft2.7.pdf" target="_blank" rel="noopener"><strong><span class="text-dark-blue">FCSM 2022 Program</span></strong></a> (click to download)</p>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/FCSM_2022_Program_Draft2.7.pdf" target="_blank" rel="noopener"><strong><span class="text-dark-blue">FCSM 2022 Program</span></strong></a> (click to download)</p>
 <p class="conference-date">October 25-27, 2022<br>
 Walter E. Washington Convention Center<br>
 Washington, DC</p>
@@ -92,7 +92,7 @@ Benjamin YoungJin Tae, <i>ISR Foundation</i>
 
 <h2 class="text-left"><span class="text-dark-grey">Session A-4. Best Practices for Monitoring and Evaluating the ARP, IIJA and Other Programs: Report of the Department of Commerce Data Governance Working Group</span></h2>
 <p><strong>Organizer:</strong> Carla Medalia, <i>U.S. Census Bureau</i><br>
-<a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/A4.0_Page.pdf" target="_blank" rel="noopener"><strong>Chair</strong></a>: Ben Page, <i>Department of Commerce</i></p>
+<a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/A4.0_Page.pdf" aria-label="Ben Page" target="_blank" rel="noopener"><strong>Chair</strong></a>: Ben Page, <i>Department of Commerce</i></p>
 <p><span class="text-dark-blue"><a class="text-dark-blue" href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/A4.1_Jarmin.pdf" target="_blank" rel="noopener"><strong>Framework for Enabling Program Evaluation in the Federal Government </strong></a></span><br>
 Ron Jarmin, <i>U.S. Census Bureau</i>
 </p>
@@ -787,7 +787,7 @@ Anya Stockburger, <i>Bureau of Labor Statistics</i>
 <h2 class="text-left"><span class="text-dark-grey">Session F-2. Innovations from the Criminal Justice Administrative Records System (CJARS) Project</span></h2>
 <p>
 <strong>Organizer:</strong> Keith Finlay, <i>U.S. Census Bureau</i><br>
-<a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F2.0_Finlay.pdf" target="_blank" rel="noopener"><strong>Chair</strong></a>: Keith Finlay, <i>U.S. Census Bureau</i>
+<a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F2.0_Finlay.pdf" aria-label="Keith Finlay" target="_blank" rel="noopener"><strong>Chair</strong></a>: Keith Finlay, <i>U.S. Census Bureau</i>
 </p>
 <p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F2.1_Mueller-Smith.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Hierarchical Approaches to Text-based Offense Classification</strong></span></a><br>
 Michael Mueller-Smith, <i>University of Michigan</i><br>
@@ -872,7 +872,7 @@ Paul Mackun, <i>U.S. Census Bureau</i>
 <p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F5.3_Cromartie.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Understanding Rural Definitions </strong></span></a><br>
 John Cromartie, <i>Economic Research Service</i>
 </p>
-<p><strong>The Effects of Geography on Data Quality</strong><br>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F5.4_Schmitt.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>The Effects of Geography on Data Quality</strong></span></a><br>
 Rolf R. Schmitt, <i>Bureau of Transportation Statistics</i><br>
 Ed Strocko, <i>Bureau of Transportation Statistics</i>
 </p>
@@ -912,7 +912,7 @@ Thursday, October 27<br>
 <h2 class="text-left"><span class="text-dark-grey">Session G-1. Insights from the Congressional Watchdog on Equity in Evaluation Design</span></h2>
 <p>
 <strong>Organizer:</strong> Sirin Yaemsiri, <i>Government Accountability Office</i><br>
-<a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/G1.0_Smith.pdf" target="_blank" rel="noopener"><strong>Chair</strong></a>: Jared Smith, <i>Government Accountability Office</i>
+<a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/G1.0_Smith.pdf" aria-label="Jared Smith" target="_blank" rel="noopener"><strong>Chair</strong></a>: Jared Smith, <i>Government Accountability Office</i>
 </p>
 <p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/G1.1_Vartivarian.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Geospatial Analysis and Regression Modeling to Assess Social and Demographic Disparities in Locations of Lead Water Pipes and Pavement Conditions of the National Highway System</strong></span></a><br>
 Sonya Vartivarian, <i>Government Accountability Office</i><br>
@@ -998,7 +998,7 @@ Aubrey Limburg, <i>U.S. Census Bureau</i><br>
 Victoria Udalova, <i>U.S. Census Bureau</i><br>
 Adam Kurczewski, <i>U.S. Census Bureau</i>
 </p>
-<p><strong>Address Frame Enhancement with Administrative Data using an Interactive Mapping Dashboard</strong><br>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/G4.3_Fiorio.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Address Frame Enhancement with Administrative Data using an Interactive Mapping Dashboard</strong></span></a><br>
 Lee Fiorio, <i>NORC at the University of Chicago</i><br>
 Ned English, <i>NORC at the University of Chicago</i><br>
 Chang Zhao, <i>NORC at the University of Chicago</i><br>
@@ -1152,10 +1152,10 @@ Katie Genadek, <i>U.S. Census Bureau</i>
 <strong>Organizer:</strong> Elizabeth Nichols, <i>U.S. Census Bureau</i><br>
 <strong>chair:</strong> Lora Rosenberger, <i>U.S. Census Bureau</i>
 </p>
-<p><strong>Data Ingest and Collection for the Enterprise</strong><br>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/H5.1_Miller.pptx" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Data Ingest and Collection for the Enterprise</strong></span></a><br>
 Leslie Miller, <i>U.S. Census Bureau</i>
 </p>
-<p><strong>Linear Navigation Guideline </strong><br>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/H5.1_Nichols Feuer Katz Horwitz Olmsted-Hawala Holland.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Linear Navigation Guideline </strong></span></a><br>
 Elizabeth Nichols, <i>U.S. Census Bureau</i>
 </p>
 <p><strong>Edit Validations</strong><br>
@@ -1173,7 +1173,7 @@ Erica Olmsted-Hawala, <i>U.S. Census Bureau</i>
 <p><strong>Input Field Formatting</strong><br>
 Temika Holland, <i>U.S. Census Bureau</i>
 </p>
-<p><strong>Discussant:</strong><br>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/H5.8_Fox.pptx" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Discussant:</strong></span></a><br>
 Jean Fox, <i>Bureau of Labor Statistics</i>
 </p>
 
