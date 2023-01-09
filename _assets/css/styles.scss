@@ -243,3 +243,25 @@ small {
         -webkit-mask: none !important;
     }
 }
+
+//conference page
+
+.text-dark-blue {
+  color: #025373;
+}
+
+.text-dark-grey {
+  color: #3a3a3a;
+}
+
+.conference-session-box {
+  float: left; 
+  width: 85%; 
+  padding: 10px; 
+  margin: 20px; 
+  border: gray 2px solid;
+}
+
+.conference-date {
+  font-size: 20px;
+}
