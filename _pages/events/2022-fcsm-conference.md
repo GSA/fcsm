@@ -872,7 +872,7 @@ Paul Mackun, <i>U.S. Census Bureau</i>
 <p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F5.3_Cromartie.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Understanding Rural Definitions </strong></span></a><br>
 John Cromartie, <i>Economic Research Service</i>
 </p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F5.4_Schmitt.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>The Effects of Geography on Data Quality</strong></span></a><br>
+<p><strong>The Effects of Geography on Data Quality</strong><br>
 Rolf R. Schmitt, <i>Bureau of Transportation Statistics</i><br>
 Ed Strocko, <i>Bureau of Transportation Statistics</i>
 </p>
@@ -1152,7 +1152,7 @@ Katie Genadek, <i>U.S. Census Bureau</i>
 <strong>Organizer:</strong> Elizabeth Nichols, <i>U.S. Census Bureau</i><br>
 <strong>chair:</strong> Lora Rosenberger, <i>U.S. Census Bureau</i>
 </p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/H5.1_Miller.pptx" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Data Ingest and Collection for the Enterprise</strong></span></a><br>
+<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/H5.1_Miller.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Data Ingest and Collection for the Enterprise</strong></span></a><br>
 Leslie Miller, <i>U.S. Census Bureau</i>
 </p>
 <p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/H5.1_Nichols Feuer Katz Horwitz Olmsted-Hawala Holland.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Linear Navigation Guideline </strong></span></a><br>
