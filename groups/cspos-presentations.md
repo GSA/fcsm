@@ -5,7 +5,7 @@ layout: page
 sidenav: group_navigation
 ---
 
-<p>The CSPOS interest group holds seminars throughout the year. Recorded seminars (if available) and slides will be posted to this web page. <a href="{{site.baseurl}}/groups/cspos-presentations/">Contact</a> the CSPOS Chairs if you want to add content to the page.</p>
+<p>The CSPOS interest group holds seminars throughout the year. Recorded seminars (if available) and slides will be posted to this web page. <a href="{{site.baseurl}}/groups/cspos/">Contact</a> the CSPOS Chairs if you want to add content to the page.</p>
 
 <ul>
  <li><a href="{{site.baseurl}}/assets/files/docs/gasp/20181024_GASP_Program.pdf" target="_blank">20181024_GASP_Program.pdf</a></li>
