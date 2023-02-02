@@ -25,6 +25,6 @@ sidenav: group_navigation
 
 <p><strong>Contacts:</strong></p>
 <ul>
-  <li>Nathan Cruze (Co-chair) at <a href="mailto:nathan.cruze@nass.usda.gov">nathan.cruze@usda.gov</a></li>
-  <li>Wendy Martinez (FCSM Liaison) at <a href="mailto:martinez.wendy@bls.gov">martinez.wendy@bls.gov</a></li>
+  <li>Nathan Cruze (Co-chair) at <a href="mailto:nathan.b.cruze@nasa.gov">nathan.b.cruze@nasa.gov</a></li>
+  <li>Wendy Martinez (FCSM Liaison) at <a href="mailto:wendy.l.martinez@census.gov">wendy.l.martinez@census.gov</a></li>
 </ul>
