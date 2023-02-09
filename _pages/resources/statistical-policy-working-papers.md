@@ -54,7 +54,7 @@ sidenav: resource_navigation
 <h3 class="page-sub-heading">CONFIDENTIALITY AND DISSEMINATION</h3>
 <ul>
 <li><a href="{{site.baseurl}}/assets/files/docs/spwp24.pdf" target="_blank">Report on Electronic Dissemination of Statistical Data, 1995 (WP 24)</a></li>
-<li><a href="{{site.baseurl}}/assets/files/docs/spwp22.pdf" target="_blank">Report on Statistical Disclosure Limitation Methodology, (Revised 2005), 1994 (WP 22)</a></li>
+<li><a href="{{site.baseurl}}/assets/files/docs/spwp22WithFrontNote.pdf" target="_blank">Report on Statistical Disclosure Limitation Methodology, (Revised 2005), 1994 (WP 22)</a></li>
 <li><a href="{{site.baseurl}}/assets/files/docs/spwp7.pdf" target="_blank">An Interagency Review of Time-Series Revision Policies, 1982 (WP 7)</a></li>
 <li><a href="{{site.baseurl}}/assets/files/docs/spwp2.pdf" target="_blank">Report on Statistical Disclosure and Disclosure-Avoidance Techniques, 1978 (WP 2)</a></li>
 </ul>
