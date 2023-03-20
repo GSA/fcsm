@@ -93,7 +93,7 @@ Tuesday, November 2nd<br>
 <strong>Session Chair:</strong> Doug Williams (Bureau of Labor Statistics)</p>
 <p><a href="{{ site.baseurl }}/assets/files/docs/B1Martinez.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Best Practices for Collecting Gender and Sex Data</strong></span></a><br>
 Wendy Martinez (Bureau of Labor Statistics), Suzanne Thornton (Swarthmore), Dooti Roy, Stephen Perry, Donna LaLonde, Renee Ellis, and David J. Corliss</p>
-<p><strong>Measuring Sexual Orientation and Gender Identity Among College Graduates: Results from a Methodological Experiment Using a Non-Probability Sample</strong><br>
+<p><span class="text-dark-blue"><a class="text-dark-blue" href="{{ site.baseurl }}/assets/files/docs/B1.2_Morrison 2021 FCSM Conference.pdf" target="_blank" rel="noopener"><strong>Measuring Sexual Orientation and Gender Identity Among College Graduates: Results from a Methodological Experiment Using a Non-Probability Sample</strong></a></span><br>
 Rebecca L. Morrison (National Center for Science &amp; Engineering Statistics), Jesse Chandler (Mathematica), Flora Lan, and Karen S. Hamrick (National Center for Science &amp; Engineering Statistics)</p>
 <p><span class="text-dark-blue"><a class="text-dark-blue" href="{{ site.baseurl }}/assets/files/docs/B1Christopher.pdf" target="_blank" rel="noopener"><strong>Assessing Measurement Error in Sex and Gender Identity Measures in an NCES Survey</strong></a></span><br>
 Elise Christopher (National Center for Education Statistics)</p>
