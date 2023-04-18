@@ -22,7 +22,7 @@ sidenav: group_navigation
 <p><strong><a href="{{site.baseurl}}/groups/cspos-resources/">CSPOS Resources</a></strong></p>
 <p><strong><a href="{{site.baseurl}}/groups/cspos-gasp/">Government Advances in Statistical Programming (GASP)</a></strong></p>
 <p><strong><a href="{{site.baseurl}}/groups/cspos-presentations/">Presentations</a></strong></p>
-<p><strong><a href="{{site.baseurl}}/assets/files/docs/GASP 2023 Call for Abstracts FINAL.pdf">GASP 2023 Conference Call for Abstracts (due April 2)</a></strong></p>
+<p><strong><a href="{{site.baseurl}}/assets/files/docs/GASP 2023 Call for Abstracts FINAL-extended submission date.pdf">GASP 2023 Conference Call for Abstracts (due April 2)</a></strong></p>
 
 <p><strong>Contacts:</strong></p>
 <ul>
