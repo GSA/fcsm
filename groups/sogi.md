@@ -57,6 +57,10 @@ This working paper summarizes the initial work of the Interagency Working Group 
 
 <p>The California Health Interview Survey (CHIS) is the nation's largest state health survey and a critical source of data on Californians as well as on the state's various racial and ethnic groups. Policymakers, researchers, health experts, members of the media and others depend on CHIS for credible and comprehensive data on the health of Californians.</p>
 
+<p><a href="https://www.nationalacademies.org/our-work/measuring-sex-gender-identity-and-sexual-orientation-for-the-national-institutes-of-health"><strong>National Academies | Measuring Sex, Gender Identity, and Sexual Orientation for the National Institutes of Health</strong></a></p>
+
+<p>This study brought together a multidisciplinary team of experts to develop clear guidelines outlining the guiding principles and best practices for collecting sexual orientation and gender identity information in research and non-research surveys to improve the NIH’s ability to identify and address the specific needs of these populations.</p>
+
 
 <!-- GOES ON THE DATA QUALITY PAGE!!!!!!!
 <ul>
