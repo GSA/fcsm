@@ -25,7 +25,7 @@ sidenav: resource_navigation
 <li>NRB adjustment procedures.</li>
 </ol>
 
-<p>The Subcommittee is currently working on the second objective and is developing a set of best practices and guidelines for reporting on evaluations of nonresponse bias. The Subcommittee is also working with the FCSM to create a mechanism for collecting future nonresponse bias studies and monitoring the use and impact of the FCSM NRB best practices and guidelines.</p>
+<p>In June 2023, the Subcommittee completed the second objective with publication of “<a href="{{site.baseurl}}/assets/files/docs/FCSM NRBA Report 062623.pdf">Best Practices for Nonresponse Bias Reporting</a>”. The Subcommittee is also working with the FCSM to create a mechanism for collecting future nonresponse bias studies and monitoring the use and impact of the FCSM NRB best practices and guidelines.</p>
 
 <a href="{{site.baseurl}}/assets/files/docs/nrb-charter.pdf">Charter</a>
 
@@ -36,3 +36,4 @@ sidenav: resource_navigation
 <ul>
 <li>Stephen Blumberg (Chair), National Center for Health Statistics, <a href="mailto:swb5@cdc.gov">swb5@cdc.gov</a></li>
 </ul>
+
