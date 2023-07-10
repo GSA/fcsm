@@ -18,7 +18,7 @@ sidenav: group_navigation
 
   <p>Jill M. Montaquila and Kristen M. Olson. 2012. <a href="https://higherlogicdownload.s3.amazonaws.com/AMSTAT/20d2b15c-9cc4-4c39-807c-088d6a8b6228/UploadedImages/WebinarFiles/NRBiasWebinarApril2012.pdf" target="_blank"><strong>Webinar: Practical Tools for Nonresponse Bias Studies</strong></a>. Sponsored by Survey Research Methods Section, American Statistical Association, and the American Association for Public Opinion Research.&nbsp;</p>
 
-  <p>Elise Christopher, Morgan Earp, Tala Fakhouri, Steven Frenk, Kathryn Downey Piscopo, and Peter Miller. 2018. <a href="https://nces.ed.gov/FCSM/pdf/D_2Christopher.pdf" target="_blank"><strong>A Systematic Review of Nonresponse Bias Studies in Federally Sponsored Surveys</strong></a>. Proceedings of the Federal Committee on Statistical Methodology 2018 Research and Policy Conference.</p>
+  <p>Elise Christopher, Morgan Earp, Tala Fakhouri, Steven Frenk, Kathryn Downey Piscopo, and Peter Miller. 2018. <a href="https://nces.ed.gov/FCSM/pdf/D_2Christopher.pdf" target="_blank"><strong>Lessons from Nonresponse Bias Studies Involving Federal Surveys</strong></a>. Proceedings of the Federal Committee on Statistical Methodology 2018 Research and Policy Conference.</p>
 
   <p>Tala H. Fakhouri, Jennifer Madans, Peter Miller, Morgan, Kathryn Downey Piscopo, Steven M. Frenk, and Elise Christopher. 2021. <a href="{{site.baseurl}}/assets/files/docs/J5Fakhouri.pdf" target="_blank"><strong>A Systematic Review of Nonresponse Bias Studies in Federally Sponsored Surveys</strong></a>. Presented at the Federal Committee on Statistical Methodology 2021 Research and Policy Conference.</p>
 
