@@ -10,7 +10,7 @@ sidenav: group_navigation
 
   <p><strong><u>Guidance</u></strong></p>
 
-  <p>The American Association for Public Opinion Research. 2016. <a href="https://www.aapor.org/Standards-Ethics/Standard-Definitions-(1).aspx" target="_blank"><strong>Standard Definitions: Final Dispositions of Case Codes and Outcome Rates for Surveys</strong></a>. 9th edition.</p>
+  <p>The American Association for Public Opinion Research. 2016. <a href="https://aapor.org/wp-content/uploads/2022/11/Standard-Definitions20169theditionfinal.pdf" target="_blank"><strong>Standard Definitions: Final Dispositions of Case Codes and Outcome Rates for Surveys</strong></a>. 9th edition.</p>
 
   <p>Office of Information and Regulatory Affairs, Office of Management and Budget. 2016. <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/inforeg/pmc_survey_guidance_2006.pdf" target="_blank"><strong>Questions and Answers When Designing Surveys for Information Collections</strong></a>.</p>
 
