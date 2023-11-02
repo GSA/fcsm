@@ -10,9 +10,7 @@ package-lock.json
 .idea
 .DS_Store
 assets/uswds/
-!assets/uswds/.gitkeep
 assets/js/uswds*
-assets/uswds/fonts/
 assets/img/
 assets/fonts/
 assets/js/uswds.js
