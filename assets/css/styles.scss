@@ -1,3 +1,6 @@
+---
+---
+// https://jekyllrb.com/docs/assets/
 /*
 * * * * * ==============================
 * * * * * ==============================
@@ -7,7 +10,6 @@
 ========================================
 ========================================
 */
-
 // -------------------------------------
 // Import individual theme settings
 @import "theme/uswds-theme-general";
@@ -18,20 +20,19 @@
 @import "theme/uswds-theme-components";
 
 // Set correct paths for use with asset pipeline
-$theme-font-path: "fonts";
-$theme-image-path: "img";
+$theme-font-path: "../uswds/fonts";
+$theme-image-path: "../uswds/img";
 $theme-show-notifications: false;
 
 // -------------------------------------
 // Import individual USWDS packages...
 @import "scss/packages/required";
-@import "overrides/all";
 @import "scss/packages/global";
 
 @import "scss/packages/uswds-components";
 @import "scss/packages/uswds-utilities";
 
-@import "custom/resources";
+@import "../_sass/resources.scss";
 /*
 ----------------------------------------
 USWDS THEME CUSTOM STYLES
@@ -47,8 +48,8 @@ i.e.
 ----------------------------------------
 */
 
-@import "menu-collapsible.scss";
-@import "carousel.scss";
+@import "../_sass/menu-collapsible.scss";
+@import "../_sass/carousel.scss";
 
 h2, h3, h4 {
   font-family: Merriweather Web, Georgia, Cambria, Times New Roman, Times, serif !important;
