@@ -9,6 +9,6 @@ Gemfile.lock
 package-lock.json
 .idea
 .DS_Store
-assets/uswds/*
+assets/uswds/
 !assets/uswds/.gitkeep
 assets/js/uswds*
