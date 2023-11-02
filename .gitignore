@@ -12,7 +12,6 @@ package-lock.json
 assets/uswds/
 !assets/uswds/.gitkeep
 assets/js/uswds*
-
 assets/img/
 assets/fonts/
 assets/js/uswds.js
