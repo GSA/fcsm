@@ -24,6 +24,7 @@ $theme-font-path: "../uswds/fonts";
 $theme-image-path: "../uswds/img";
 $theme-show-notifications: false;
 
+
 // -------------------------------------
 // Import individual USWDS packages...
 @import "scss/packages/required";
@@ -50,6 +51,10 @@ i.e.
 
 @import "../_sass/menu-collapsible.scss";
 @import "../_sass/carousel.scss";
+@import "../_sass/add-background-svg.scss";
+@import "../_sass/all.scss";
+@import "../_sass/font-face.scss";
+@import "../_sass/hero.scss";
 
 h2, h3, h4 {
   font-family: Merriweather Web, Georgia, Cambria, Times New Roman, Times, serif !important;
@@ -177,7 +182,7 @@ small {
 @media screen and (min-width: 640px) {
     .usa-banner__button[aria-expanded="true"]::after {
         background-color: transparent !important;
-        background-image: url("../assets/img/angle-arrow-up-primary.png"), linear-gradient(transparent, transparent);
+        background-image: url("/assets/img/angle-arrow-up-primary.png"), linear-gradient(transparent, transparent);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: 0.5rem;
@@ -189,14 +194,14 @@ small {
     }
 
     .usa-banner__button[aria-expanded="true"]:hover::after {
-        background-image: url("../assets/img/angle-arrow-up-primary-hover.png"), linear-gradient(transparent, transparent);
+        background-image: url("/assets/img/angle-arrow-up-primary-hover.png"), linear-gradient(transparent, transparent);
         background-color: transparent !important;
         transform: rotate(0deg) !important;
         -webkit-mask: none !important;
     }
 
     .usa-banner__button::after {
-        background-image: url("../assets/img/angle-arrow-down-primary.png"), linear-gradient(transparent, transparent);
+        background-image: url("/assets/img/angle-arrow-down-primary.png"), linear-gradient(transparent, transparent);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: 0.5rem;
@@ -208,7 +213,7 @@ small {
     }
 
     .usa-banner__button:hover::after {
-        background-image: url("../assets/img/angle-arrow-down-primary-hover.png"), linear-gradient(transparent, transparent);
+        background-image: url("/assets/img/angle-arrow-down-primary-hover.png"), linear-gradient(transparent, transparent);
         background-color: transparent !important;
         -webkit-mask: none !important;
     }
@@ -218,7 +223,7 @@ small {
 
     .usa-banner__button[aria-expanded="true"]::after {
         border: 0;
-        background-image: url("../assets/img/close-blue-60v-alt.png"), linear-gradient(transparent, transparent);
+        background-image: url("/assets/img/close-blue-60v-alt.png"), linear-gradient(transparent, transparent);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: 1rem;
@@ -231,7 +236,7 @@ small {
     }
 
     .usa-banner__header-action::after {
-        background-image: url("../assets/img/angle-arrow-down-primary.png"), linear-gradient(transparent, transparent);
+        background-image: url("/assets/img/angle-arrow-down-primary.png"), linear-gradient(transparent, transparent);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: 0.5rem;
@@ -265,4 +270,9 @@ small {
 
 .conference-date {
   font-size: 20px;
+}
+
+
+.usa-link--external::after {
+    background-color: transparent;
 }
