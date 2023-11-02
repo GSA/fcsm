@@ -182,7 +182,7 @@ small {
 @media screen and (min-width: 640px) {
     .usa-banner__button[aria-expanded="true"]::after {
         background-color: transparent !important;
-        background-image: url("/assets/img/angle-arrow-up-primary.png"), linear-gradient(transparent, transparent);
+        background-image: url("../img/angle-arrow-up-primary.png"), linear-gradient(transparent, transparent);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: 0.5rem;
@@ -213,7 +213,7 @@ small {
     }
 
     .usa-banner__button:hover::after {
-        background-image: url("/assets/img/angle-arrow-down-primary-hover.png"), linear-gradient(transparent, transparent);
+        background-image: url("../img/angle-arrow-down-primary-hover.png"), linear-gradient(transparent, transparent);
         background-color: transparent !important;
         -webkit-mask: none !important;
     }
@@ -223,7 +223,7 @@ small {
 
     .usa-banner__button[aria-expanded="true"]::after {
         border: 0;
-        background-image: url("/assets/img/close-blue-60v-alt.png"), linear-gradient(transparent, transparent);
+        background-image: url("../img/close-blue-60v-alt.png"), linear-gradient(transparent, transparent);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: 1rem;
@@ -236,7 +236,7 @@ small {
     }
 
     .usa-banner__header-action::after {
-        background-image: url("/assets/img/angle-arrow-down-primary.png"), linear-gradient(transparent, transparent);
+        background-image: url("../img/angle-arrow-down-primary.png"), linear-gradient(transparent, transparent);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: 0.5rem;
