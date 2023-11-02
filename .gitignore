@@ -13,8 +13,8 @@ assets/uswds/
 !assets/uswds/.gitkeep
 assets/js/uswds*
 
-assets/img
-assets/fonts
+assets/img/
+assets/fonts/
 assets/js/uswds.js
 assets/js/uswds.min.js
 assets/js/uswds.min.js.map
