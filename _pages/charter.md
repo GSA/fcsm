@@ -68,11 +68,14 @@ sidenav: about_navigation
 </ol>
 
 <h2 id="signatures"><b>VII. Signatures of ICSP Members</b></h2>
-<table aria-label="signatures">
+<table border="0" cellpadding="0" cellspacing="0" aria-label="signatures">
+  <thead>  
   <tr>
     <th role="columnheader" scope="col" width="50%"><b>ICSP Agency Name</b></th>
     <th role="columnheader" scope="col"><b>ICSP Agency Head Name</b></th>
   </tr>
+  </thead>
+  <tbody>
   <tr>
     <td>Office of Management and Budget</td>
     <td>Nancy Potok</td>
@@ -133,5 +136,6 @@ sidenav: about_navigation
     <td>Statistics and Analytics Service, Office of Enterprise Integration, Department of Veterans Affairs</td>
     <td>Tom Garin</td>
   </tr>
+  </tbody>
 </table>
 <p class="text-base">(Revised December 2017)</p>
