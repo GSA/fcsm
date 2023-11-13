@@ -8,6 +8,7 @@ sidenav: group_navigation
 <p><strong>Recent publications and presentations:</strong></p>
 
 <ul>
+	<li><a href="{{ site.baseurl }}/assets/files/docs/FCSM.23.02_DQ_case_studies_FINAL.pdf">A Framework for Data Quality: Case Studies (FCSM 23-02)</a></li>
 	<li><a href="{{ site.baseurl }}/assets/files/docs/2021-09-10_Leveraging_the_Data_Quality_Framework_Workshop_Slides.pdf">Leveraging the Data Quality Framework Workshop Slides (September 10, 2021)</a></li>
 	<li><a href="{{ site.baseurl }}/assets/files/audio/Data_Quality_Framework.m4v">Leveraging the Data Quality Framework Workshop Recording (September 10, 2021)</a></li>
 	<li><a href="{{ site.baseurl }}/assets/files/docs/FCSM.20.04_A_Framework_for_Data_Quality.pdf" target="_blank">A Framework for Data Quality</a></li>
