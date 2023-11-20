@@ -33,6 +33,6 @@ sidenav: group_navigation
 
 <h3 class="page-sub-heading">Contact:</h3>
 <ul>
-<li>Stephen Blumberg (Co-Chair), National Center for Health Statistics, <a href="mailto:swb5@cdc.gov">swb5@cdc.gov</a></li>
-<li>Morgan Earp (Co-Chair), National Center for Health Statistics, <a href="mailto:swb5@cdc.gov">swb5@cdc.gov</a></li>
+<li>Tala Fakhouri (Co-Chair), Food and Drug Administration, <a href="mailto:tala.fakhouri@fda.hhs.gov">tala.fakhouri@fda.hhs.gov</a></li>
+<li>Morgan Earp (Co-Chair), National Center for Health Statistics, <a href="mailto:qkh5@cdc.gov">qkh5@cdc.gov</a></li>
 </ul>
