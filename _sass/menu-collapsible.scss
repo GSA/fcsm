@@ -1,0 +1,20 @@
+.usa-menu-collapsible {
+  [aria-controls] {
+    background-image: url("../img/usa-icons/add.svg"),linear-gradient(transparent,transparent);
+    background-repeat: no-repeat;
+    background-size: 1.5rem;
+    background-position: right 1.25rem center;
+  }
+  
+  &__content {
+    display: none;
+  }
+  &.open {
+    [aria-controls] {
+      background-image: url("../img/usa-icons/remove.svg"),linear-gradient(transparent,transparent);
+    }
+    .usa-menu-collapsible__content {
+      display: initial;
+    }
+  }
+}

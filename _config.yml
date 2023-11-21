@@ -210,6 +210,7 @@ collections:
 
 permalink: pretty
 
+
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
 # The values here represent the defaults if nothing is set
@@ -267,27 +268,19 @@ exclude:
   - docker-compose.yml
   - Dockerfile
 
-assets:
-  digest: false
-  autoprefixer:
-    browsers:
-      - "> 2%"
-      - "last 2 versions"
-      - "IE 11"
-      - "not dead"
-  compression: true
-  sources:
+autoprefixer:
+  browsers:
+    - "> 2%"
+    - "last 2 versions"
+    - "IE 11"
+    - "not dead"
+
+sass:
+  source_dir: _sass
+  load_paths:
     - node_modules/uswds/dist
-    - node_modules/uswds/dist/img
-    - node_modules/uswds/dist/js
-    - node_modules/uswds/dist/scss
-    - node_modules/netlify-cms/dist
-    - _assets/img
-    - _assets/js
-    - _assets/css
-  defaults:
-    js:  { integrity: false }
-    css: { integrity: false }
-    img: { integrity: false }
-  features:
-    integrity: false
+  sourcemap: development
+  quiet_deps: true
+  style: compressed
+  verbose: true
+

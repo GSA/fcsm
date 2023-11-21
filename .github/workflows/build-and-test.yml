@@ -5,7 +5,7 @@ on: [push]
 jobs:
   build:
     name: Install, build and test site with pa11y-ci and htmlproofer.
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     env:
       LANG: en_US.UTF-8
       LANGUAGE: en_US
@@ -25,6 +25,7 @@ jobs:
       - name: Install ruby.
         uses: ruby/setup-ruby@v1
         with:
+          ruby-version: 3.1
           bundler-cache: true
 
       - name: Install node.js.
@@ -35,8 +36,8 @@ jobs:
       - name: Install NPM dependencies.
         run: npm install
 
-      - name: Build and start up jekyll server.
-        run: npm run build && npm run start-detached
+      - name: Start up jekyll server.
+        run: npm run start-detached
 
       - name: Run pa11y-ci.
         run: npm run pa11y-ci:sitemap
