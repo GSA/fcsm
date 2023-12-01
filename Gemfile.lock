@@ -17,7 +17,7 @@ GEM
       fiber-annotation
       io-event (~> 1.1)
       timers (~> 4.1)
-    autoprefixer-rails (10.4.15.0)
+    autoprefixer-rails (10.4.16.0)
       execjs (~> 2)
     colorator (1.1.0)
     concurrent-ruby (1.2.2)
@@ -122,7 +122,6 @@ GEM
     tzinfo-data (1.2023.3)
       tzinfo (>= 1.0.0)
     unicode-display_width (1.8.0)
-    wdm (0.1.1)
     webrick (1.8.1)
     yell (2.2.2)
     zeitwerk (2.6.12)
@@ -143,7 +142,6 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   tzinfo-data
-  wdm (~> 0.1.0)
   webrick (~> 1.8)
 
 RUBY VERSION
