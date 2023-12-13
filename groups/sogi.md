@@ -61,6 +61,10 @@ This working paper summarizes the initial work of the Interagency Working Group 
 
 <p>This study brought together a multidisciplinary team of experts to develop clear guidelines outlining the guiding principles and best practices for collecting sexual orientation and gender identity information in research and non-research surveys to improve the NIH’s ability to identify and address the specific needs of these populations.</p>
 
+<p><a href="https://www.urban.org/research/publication/do-no-harm-guide-collecting-analyzing-and-reporting-gender-and-sexual?utm_source=urban_EA&utm_campaign=dnh_gender&utm_id=race_and_equity&utm_term=race_and_equity&utm_content=R"><strong>Urban Institute | Do No Harm Guide: Collecting, Analyzing, and Reporting Gender and Sexual Orientation Data</strong></a></p>
+
+<p>This guide provides a series of considerations and recommendations regarding collecting, analyzing, and communicating quantitative data on gender, gender identity, and sexual orientation relying on more than two dozen original interviews, a scan of the existing literature, and evaluations of existing data sets from around the world.</p>
+
 
 <!-- GOES ON THE DATA QUALITY PAGE!!!!!!!
 <ul>

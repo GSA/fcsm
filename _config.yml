@@ -151,6 +151,8 @@ resource_navigation:
     url: /resources/non-response-bias/
   - name: SOGI
     url: /resources/sogi/
+  - name: Equitable Data Toolkit
+    url: /resources/equitable-data-toolkit/
 
 events_navigation:
   - name: FCSM Research and Policy Conferences
