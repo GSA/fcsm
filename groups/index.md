@@ -22,7 +22,7 @@ sidenav: group_navigation
 
 <p>Goal:  explore some particular aspect of statistical methodology and produce a specific product within a set period of time.  Products may include reports, working papers, guidance, or recommendations. </p>
 
-<p>Membership: selected from FCSM members. </p>
+<p>Membership: Determined by the FCSM</p>
 
 <ul>
   <li><a href="{{site.baseurl}}/groups/fssr-subcommittee/">Federal Statistical System Research Subcommittee</a></li>
