@@ -124,8 +124,8 @@ group_navigation:
         url: /groups/cspos/
       - name: Geospatial Interest Group (GIG)
         url: /groups/gig/
-      - name: Measuring Sexual Orientation and Gender Identity (SOGI) Research Group
-        url: /groups/sogi/
+      - name: Sexual Orientation, Gender Identity, and Sex Characteristics (SOGISC) Interest Group
+        url: /groups/sogisc-ig/
   - name: Subcommittees
     collapsible: true
     children:
@@ -137,6 +137,8 @@ group_navigation:
         url: /groups/data-safeguards/
       - name: Nonresponse Bias Working Group
         url: /groups/nonresponse-bias/
+      - name: Sexual Orientation, Gender Identity, and Sex Characteristics (SOGISC) Subcommittee
+        url: /groups/sogisc/
 
 resource_navigation:
   - name: Resources Summary

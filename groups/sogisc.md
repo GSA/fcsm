@@ -1,13 +1,13 @@
 ---
-title: Measuring Sexual Orientation and Gender Identity Research Group
+title: Sexual Orientation, Gender Identity, and Sex Characteristics Subcommittee
 layout: page
 sidenav: group_navigation
 ---
-<p>The Measuring Sexual Orientation and Gender Identity (SOGI) Research Group explores the best practices of the measurement of SOGI in the context of Federal information collections. The Group provides ongoing opportunities for individuals interested in statistical methods or data quality related to SOGI to interact, exchange information, and explore issues related to this topic.</p>
+<p>The Sexual Orientation, Gender Identity, and Sex Characteristics (SOGISC) Subcommittee promotes coordination between federal agencies on issues relating to measuring sexual orientation and gender identity in federal data collections.</p>
 
-<p>Please contact the group chair(s) if you are a federal employee and interested in participating.</p>
+<p>The SOGISC Subcommittee advises the FCSM and the Interagency Council on Statistical Policy (ICSP) on SOGISC measurement issues, provides technical assistance as needed across Federal agencies on SOGISC measurement issues, and oversees meetings of the FCSM <a href="{{site.baseurl}}/groups/sogisc-ig/">Sexual Orientation, Gender Identity, and Sex Characteristics (SOGISC) Interest Group</a>.</p>
 
-<p><a href="{{site.baseurl}}/assets/files/docs/SOGI_RG_Charter.pdf">SOGI Research Group Charter</a></p>
+<p><a href="{{site.baseurl}}/assets/files/docs/SOGISC Subcommittee Charter FINAL 2024.01.26 signed.pdf">SOGISC Subcommittee Charter</a></p>
 
 <ul>
   <li>Contact: Jennifer Ortman (U.S. Census Bureau), <a href="mailto:jennifer.m.ortman@census.gov">jennifer.m.ortman@census.gov</a> or Karen Parker (NIH), <a href="mailto:Klparker@mail.nih.gov">Klparker@mail.nih.gov</a></li>
