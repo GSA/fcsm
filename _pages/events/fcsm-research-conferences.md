@@ -9,7 +9,7 @@ sidenav: events_navigation
 <ul class="fcsm-research-links">
   <li>
     <p><a class="fcsm-main-links" href="{{site.baseurl}}/events/2023-fcsm-conference/">2023 FCSM Research and Policy Conference</a><br />
-    October 24-26, 2022</p>
+    October 24-26, 2023</p>
   </li>
   <li>
     <p><a class="fcsm-main-links" href="{{site.baseurl}}/events/2022-fcsm-conference/">2022 FCSM Research and Policy Conference</a><br />
