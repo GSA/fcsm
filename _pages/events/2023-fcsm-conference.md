@@ -9,8 +9,8 @@ sidenav: events_navigation
 
 [FCSM 2023 Program]({{site.baseurl}}/assets/files/docs/2023-conference-docs/FCSM+2023+Program_FINAL-1.pdf){:target="_blank"} (click to download)
 
-October 24-26, 2023
-College Park Marriott Hotel and Conference Center 
+October 24-26, 2023  
+College Park Marriott Hotel and Conference Center  
 Hyattsville, MD
 
 **Hosted By:** Council of Professional Associations on Federal Statistics
@@ -177,7 +177,7 @@ Anil Battalahalli, *Westat*
 ## Session A-6: Application of Retail Scanner Data to Calculate Monthly Area Price Measures for Foods
 
 **Organizer:** Mary K. Muth, *RTI International*  
-**[Chair]({{site.baseurl}}/assets/files/docs/2023-conference-docs/A6.0_McLaughlin.pdf){:target="_blank"}:** Patrick McLaughlin, *Economic Research Service*  
+<a class="bold" aria-label="McLaughlin" target="_blank" href="{{site.baseurl}}/assets/files/docs/2023-conference-docs/A6.0_McLaughlin.pdf">Chair</a><b>:</b> Patrick McLaughlin, *Economic Research Service*  
 **Discussant:** Ana Aizcorbe, *Bureau of Economic Analysis*
 
 [Nonprobability Weighting for Retail Scanner Data]({{site.baseurl}}/assets/files/docs/2023-conference-docs/A6.1_Kinney.pdf){:target="_blank"}  
@@ -333,7 +333,7 @@ Morgan Earp, *National Center for Health Statistics*
 John R. Pleis, *National Center for Health Statistics*  
 Lauren Rossen, *National Center for Health Statistics*
 
-[Techniques Tested to Improve Representation of Racial and Ethnic Minority, Younger, and Maternity Patients in a National Hospital Experience of Care Survey]({{site.baseurl}}/assets/files/docs/2023-conference-docs/B4.6_Lehrman.pdf){:target="_blank"}  
+<a aria-label="Techniques Tested to Improve Representation" target="_blank" href="{{site.baseurl}}/assets/files/docs/2023-conference-docs/B4.6_Lehrman.pdf">Techniques Tested to Improve Representation of Racial and Ethnic Minority, Younger, and Maternity Patients in a National Hospital Experience of Care Survey</a><br>
 William Lehrman, *Centers for Medicare and Medicaid Services*  
 Marc N. Elliott, *RAND*  
 Julie A. Brown, *RAND*  
@@ -400,7 +400,7 @@ Amy O’Hara, *Georgetown University*
 **Chair:** Bob Sivinski, *Office of Management and Budget*  
 **Discussant:** Rogelio Saenz, *University of Texas-San Antonio*
 
-[Content-Related Proposals from the Interagency Technical Working Group on Race and Ethnicity Standards: Question Format and “Middle Eastern or North African”]({{site.baseurl}}/assets/files/docs/2023-conference-docs/C2.ALL_Branum_Jenkins_Saindon.pdf){:target="_blank"}  
+<a aria-label="Content-Related Proposals" target="_blank" href="{{site.baseurl}}/assets/files/docs/2023-conference-docs/C2.ALL_Branum_Jenkins_Saindon.pdf">Content-Related Proposals from the Interagency Technical Working Group on Race and Ethnicity Standards: Question Format and “Middle Eastern or North African”</a><br>
 Susan Jenkins, *Department of Health and Human Services*
 
 [Implementation-Related Proposals from the Interagency Technical Working Group on Race and Ethnicity Standards]({{site.baseurl}}/assets/files/docs/2023-conference-docs/C2.ALL_Branum_Jenkins_Saindon.pdf){:target="_blank"}  
@@ -413,7 +413,7 @@ Jennifer Saindon, *Office of Management and Budget*
 
 **Organizer:** Renee Gindi, *National Center for Health Statistics*  
 **Chair:** Sheila Franco, *National Center for Health Statistics*  
-**[Discussant]({{site.baseurl}}/assets/files/docs/2023-conference-docs/C3.4D_Combs.pdf){:target="_blank"}:** Bryan Combs, *National Agricultural Statistics Service*
+<a class="bold" aria-label="Combs" target="_blank" href="{{site.baseurl}}/assets/files/docs/2023-conference-docs/C3.4D_Combs.pdf">Discussant</a><b>:</b> Bryan Combs, *National Agricultural Statistics Service*
 
 [The Health, United States Redesign Research and Findings]({{site.baseurl}}/assets/files/docs/2023-conference-docs/C3.1ALL_Franco-Jones_Gindi.pdf){:target="_blank"}  
 Sheila Franco, *National Center for Health Statistics*
@@ -484,7 +484,7 @@ Wednesday, October 25<br>
 
 **Organizer:** Mark A. Klee, *U.S. Census Bureau*  
 **Chair:** Barbara Downs, *U.S. Census Bureau*  
-**[Discussant]({{site.baseurl}}/assets/files/docs/2023-conference-docs/D1.4D_Bolitzer.pdf){:target="_blank"}:** Benjamin Bolitzer, *Department of Commerce*
+<a class="bold" aria-label="Bolitzer" target="_blank" href="{{site.baseurl}}/assets/files/docs/2023-conference-docs/D1.4D_Bolitzer.pdf">Discussant</a><b>:</b> Benjamin Bolitzer, *Department of Commerce*
 
 [The Demographics of the Recipients of the First Economic Impact Payment]({{site.baseurl}}/assets/files/docs/2023-conference-docs/D1.1_Voorheis.pdf){:target="_blank"}  
 John Voorheis, *U.S. Census Bureau*  
@@ -743,7 +743,7 @@ Marina Vornovitsky, *Centers for Medicare and Medicaid Services*
 
 **Organizer:** Terrance D. Savitsky, *Bureau of Labor Statistics*  
 **Chair:** Terrance D. Savitsky, *Bureau of Labor Statistics*  
-**[Discussant]({{site.baseurl}}/assets/files/docs/2023-conference-docs/E4.5D_Hu.pdf){:target="_blank"}:** Monika Hu, *Vassar College*
+<a class="bold" aria-label="Hu E-4" target="_blank" href="{{site.baseurl}}/assets/files/docs/2023-conference-docs/E4.5D_Hu.pdf">Discussant</a><b>:</b> Monika Hu, *Vassar College*
 
 [Synthesis for Complex Surveys]({{site.baseurl}}/assets/files/docs/2023-conference-docs/E4.1_SI.pdf){:target="_blank"}  
 Yajuan Si, *University of Michigan*  
@@ -881,7 +881,7 @@ Lee Fiorio, *University of Washington*
 **Organizer:** Jennifer M. Ortman, *U.S. Census Bureau*  
 **Chair:** Christina Dragon, *National Institutes of Health*  
 
-[Sex and Gender Identity Measurement in Criminal Justice System Administrative Data: Evidence from the Instrument Redesign Efforts for the Bureau of Justice Statistics’ Survey of Sexual Victimization]({{site.baseurl}}/assets/files/docs/2023-conference-docs/F3.1_Buehler.pdf){:target="_blank"}  
+<a aria-label="Sex and Gender Identity Measurement" target="_blank" href="{{site.baseurl}}/assets/files/docs/2023-conference-docs/F3.1_Buehler.pdf">Sex and Gender Identity Measurement in Criminal Justice System Administrative Data: Evidence from the Instrument Redesign Efforts for the Bureau of Justice Statistics’ Survey of Sexual Victimization</a><br>
 Emily Buehler, *Bureau of Justice Statistics*  
 Greta B. Clark, *U.S. Census Bureau*  
 Krysten Mesner, *U.S. Census Bureau*  
@@ -918,7 +918,7 @@ Nancy Potok, *NAPx Consulting*
 [Theory of Change Showing Value of ERS Statistical Data]({{site.baseurl}}/assets/files/docs/2023-conference-docs/F4.2_Stefanou.pdf){:target="_blank"}  
 Spiro Stefanou, *Economic Research Service*
 
-[Tackling Declining Response Rates: Increasing Response Rates by Farmers Because They Can See How Their Responses Can be Used to Benefit Their Own Businesses as Well as the Public]({{site.baseurl}}/assets/files/docs/2023-conference-docs/F4.3_Hamer.pdf){:target="_blank"}  
+<a aria-label="Tackling Declining Response Rates" target="_blank" href="{{site.baseurl}}/assets/files/docs/2023-conference-docs/F4.3_Hamer.pdf">Tackling Declining Response Rates: Increasing Response Rates by Farmers Because They Can See How Their Responses Can be Used to Benefit Their Own Businesses as Well as the Public</a><br>
 Hubert Hamer, *National Agricultural Statistics Service*
 
 [Forging New Partnerships: A vision for Education Statistics]({{site.baseurl}}/assets/files/docs/2023-conference-docs/F4.4_DeLaRosa.pdf){:target="_blank"}  
@@ -930,8 +930,8 @@ Emilda Rivers, *National Center for Science and Engineering Statistics*
 ## Session F-5: Testing a New Combined Race and Ethnicity Question in Household Surveys: Agency Methods and Results
 
 **Organizer:** Rebecca L. Morrison, *Bureau of Labor Statistics*  
-**[Chair]({{site.baseurl}}/assets/files/docs/2023-conference-docs/F5.0_Morrison.pdf){:target="_blank"}:** Rebecca L. Morrison, *Bureau of Labor Statistics*  
-**[Discussant]({{site.baseurl}}/assets/files/docs/2023-conference-docs/F5.5D_Steiger.pdf){:target="_blank"}:** Darby Steiger, *SSRS*
+<a class="bold" aria-label="Morrison F-5" target="_blank" href="{{site.baseurl}}/assets/files/docs/2023-conference-docs/F5.0_Morrison.pdf">Chair</a><b>:</b> Rebecca L. Morrison, *Bureau of Labor Statistics*  
+<a class="bold" aria-label="Steiger" target="_blank" href="{{site.baseurl}}/assets/files/docs/2023-conference-docs/F5.5D_Steiger.pdf">Discussant</a><b>:</b> Darby Steiger, *SSRS*
 
 [Quantitative Testing Results from a New Race and Ethnicity Question from the Bureau of Labor Statistics]({{site.baseurl}}/assets/files/docs/2023-conference-docs/F5.1_Walker.pdf){:target="_blank"}  
 Tywanquila Walker, *Bureau of Labor Statistics*  
@@ -952,7 +952,7 @@ Alisú Schoua-Glusberg, *RSS*
 Aleia Clark Fobia, *U.S. Census Bureau*  
 Jennifer Childs, *U.S. Census Bureau*
 
-[A Cognitive Interview Evaluation of the Proposed Combined Race and Ethnicity Question for Statistical Policy Directive 15, Standards for Maintaining, Collecting, and Presenting Federal Data on Race and Ethnicity]({{site.baseurl}}/assets/files/docs/2023-conference-docs/F5.4_Willson.pdf){:target="_blank"}  
+<a aria-label="A Cognitive Interview Evaluation" target="_blank" href="{{site.baseurl}}/assets/files/docs/2023-conference-docs/F5.4_Willson.pdf">A Cognitive Interview Evaluation of the Proposed Combined Race and Ethnicity Question for Statistical Policy Directive 15, Standards for Maintaining, Collecting, and Presenting Federal Data on Race and Ethnicity</a><br>
 Stephanie Willson, *National Center for Health Statistics*
 
 ## Session F-6: Applications of Modeling and Post Randomization to Improve Estimation
@@ -1027,7 +1027,7 @@ Sandra García-Uribe, *Banco de España*
 
 **Organizer:** Julie D. Weeks, *National Center for Health Statistics*  
 **Chair:** Laryssa Mykyta, *National Center for Health Statistics*  
-**[Discussant]({{site.baseurl}}/assets/files/docs/2023-conference-docs/G2.4D_Madans.pdf){:target="_blank"}:** Jennifer Madans, *Center for Inclusive Policy*
+<a class="bold" aria-label="Madans" target="_blank" href="{{site.baseurl}}/assets/files/docs/2023-conference-docs/G2.4D_Madans.pdf">Discussant</a><b>:</b> Jennifer Madans, *Center for Inclusive Policy*
 
 [An Introduction to the Washington Group Short Set on Functioning]({{site.baseurl}}/assets/files/docs/2023-conference-docs/G2.1_Golden.pdf){:target="_blank"}  
 Cordell Golden, *National Center for Health Statistics*
@@ -1224,13 +1224,13 @@ Paul Schroeder, *COPAFS*
 [ASA: Promoting the Practice and Profession of Statistics®]({{site.baseurl}}/assets/files/docs/2023-conference-docs/H5.4_Pierson.pdf){:target="_blank"}  
 Steve Pierson, *American Statistical Association*
 
-[WSS: Live or Work in the Metropolitan Washington, DC Area? Use Statistical or Data Science Methods or Data? If the Answers to These Questions are "Yes," Join the Washington Statistical Society (WSS)]({{site.baseurl}}/assets/files/docs/2023-conference-docs/H5.5_Tanenbaum.pdf){:target="_blank"}  
+<a aria-label="Join the Washington Statistical Society (WSS)" target="_blank" href="{{site.baseurl}}/assets/files/docs/2023-conference-docs/H5.5_Tanenbaum.pdf">WSS: Live or Work in the Metropolitan Washington, DC Area? Use Statistical or Data Science Methods or Data? If the Answers to These Questions are “Yes,” Join the Washington Statistical Society (WSS)</a><br>
 Erin Tanenbaum, *NORC at the University of Chicago*
 
 ## Session H-6: What is Consumer Inflation? A Family of Indexes Tells the Story
 
 **Organizer:** Anya Stockburger, *Bureau of Labor Statistics*  
-**[Chair]({{site.baseurl}}/assets/files/docs/2023-conference-docs/H6.0_Garner.pdf){:target="_blank"}:** Thesia Garner, *Bureau of Labor Statistics*  
+<a class="bold" aria-label="Garner" target="_blank" href="{{site.baseurl}}/assets/files/docs/2023-conference-docs/H6.0_Garner.pdf">Chair</a><b>:</b> Thesia Garner, *Bureau of Labor Statistics*  
 **Discussant:** Ana Aizcorbe, *Bureau of Economic Analysis*
 
 [A History of BLS Research Consumer Price Indexes and the Equivalized Income Quintile Series]({{site.baseurl}}/assets/files/docs/2023-conference-docs/H6.1_Klick.pdf){:target="_blank"}  
@@ -1260,7 +1260,7 @@ Thursday, October 26<br>
 
 **Organizer:** Lisa B Mirel, *National Center for Science and Engineering Statistics*  
 **Chair:** Elizabeth Mannshardt, *National Center for Science and Engineering Statistics*  
-**[Discussant]({{site.baseurl}}/assets/files/docs/2023-conference-docs/I1.4D_Mirel.pdf){:target="_blank"}:** Lisa B Mirel, *National Center for Science and Engineering Statistics*
+<a class="bold" aria-label="Mirel" target="_blank" href="{{site.baseurl}}/assets/files/docs/2023-conference-docs/I1.4D_Mirel.pdf">Discussant</a><b>:</b> Lisa B Mirel, *National Center for Science and Engineering Statistics*
 
 [Linking the Policy and Utility of Linked Data in Science and Engineering]({{site.baseurl}}/assets/files/docs/2023-conference-docs/I1.1_Finamore.pdf){:target="_blank"}  
 John Finamore, *National Center for Science and Engineering Statistics*  
@@ -1297,7 +1297,7 @@ Jake Schild, *Bureau of Labor Statistics*
 ## Session I-3: A Roadmap for Disclosure Avoidance in the Survey of Income and Program Participation
 
 **Organizer:** Brad Chaney, *National Academies of Sciences, Engineering, and Medicine*  
-**[Chair]({{site.baseurl}}/assets/files/docs/2023-conference-docs/I3.0_Chaney.pdf){:target="_blank"}:** Brad Chaney, *National Academies of Sciences, Engineering, and Medicine*  
+<a class="bold" aria-label="Chaney" target="_blank" href="{{site.baseurl}}/assets/files/docs/2023-conference-docs/I3.0_Chaney.pdf">Chair</a><b>:</b> Brad Chaney, *National Academies of Sciences, Engineering, and Medicine*  
 **Discussant:** Caleb R. Floyd, *U.S. Census Bureau*
 
 **Assessing the Level of Disclosure Risk in SIPP**  
@@ -1319,7 +1319,7 @@ Scott Holan, *University of Missouri*
 ## Session I-4: Building on GDP: The Future of Economic Statistics
 
 **Organizer:** Bob Sivinski, *Office of Management and Budget*  
-**[Chair]({{site.baseurl}}/assets/files/docs/2023-conference-docs/I4.0_Arora.pdf){:target="_blank"}:** Vipin Arora, *Bureau of Economic Analysis*  
+<a class="bold" aria-label="Arora" target="_blank" href="{{site.baseurl}}/assets/files/docs/2023-conference-docs/I4.0_Arora.pdf">Chair</a><b>:</b> Vipin Arora, *Bureau of Economic Analysis*  
 
 [Global Supply Chains: New Resources and the Path Forward]({{site.baseurl}}/assets/files/docs/2023-conference-docs/I4.1_Howells.pdf){:target="_blank"}  
 Tom Howells, *Bureau of Economic Analysis*
@@ -1425,7 +1425,7 @@ Caroline Bruckner, *American University*
 Emily Molfino, *U.S. Census Bureau*  
 Sallie Keller, *U.S. Census Bureau*
 
-[Discovering Hidden Patterns in County-Level Diagnosed Diabetes Incidence in The United States Using Neural Networks: A Spatio-Temporal Analysis From 2011 to 2020]({{site.baseurl}}/assets/files/docs/2023-conference-docs/J2.3_Xie.pdf){:target="_blank"}  
+<a aria-label="Discovering Hidden Patterns in County-Level Diagnosed Diabetes Incidence" target="_blank" href="{{site.baseurl}}/assets/files/docs/2023-conference-docs/J2.3_Xie.pdf">Discovering Hidden Patterns in County-Level Diagnosed Diabetes Incidence in The United States Using Neural Networks: A Spatio-Temporal Analysis From 2011 to 2020</a><br>
 Hui Xie, *Centers for Disease Control and Prevention*  
 Deborah B. Rolka, *Centers for Disease Control and Prevention*
 
@@ -1532,7 +1532,7 @@ Renee Ellis, *U.S. Census Bureau*
 ## Session K-2: Collecting Race and Ethnicity in Establishment Surveys: Agency Methods and Results
 
 **Organizer:** Rebecca L. Morrison, *Bureau of Labor Statistics*  
-**[Chair]({{site.baseurl}}/assets/files/docs/2023-conference-docs/K2.0_Morrison.pdf){:target="_blank"}:** Rebecca L. Morrison, *Bureau of Labor Statistics*  
+<a class="bold" aria-label="Morrison K-2" target="_blank" href="{{site.baseurl}}/assets/files/docs/2023-conference-docs/K2.0_Morrison.pdf">Chair</a><b>:</b> Rebecca L. Morrison, *Bureau of Labor Statistics*  
 **Discussant:** Jeri Mulrow, *Westat*  
 **Location:** Chesapeake B
 
@@ -1593,7 +1593,7 @@ Kranti Mulik, *USDA*
 ## Session K-5: Seize the Data: Program Oversight, Policy Recommendations, and Insights from Using Linked Survey and Administrative Data
 
 **Organizer:** Sirin Yaemsiri, *Government Accountability Office*  
-**[Chair]({{site.baseurl}}/assets/files/docs/2023-conference-docs/K5.0_Smith.pdf){:target="_blank"}:** Jared Smith, *Government Accountability Office*  
+<a class="bold" aria-label="Smith" target="_blank" href="{{site.baseurl}}/assets/files/docs/2023-conference-docs/K5.0_Smith.pdf">Chair</a><b>:</b> Jared Smith, *Government Accountability Office*  
 **Discussant:** Jeff Tessin, *Government Accountability Office*
 
 [Blending Probability Sampling with API and Administrative Data: Estimating Recall Rates for Rideshare Vehicles in the 50 States]({{site.baseurl}}/assets/files/docs/2023-conference-docs/K5.1_Mohanty.pdf){:target="_blank"}  
