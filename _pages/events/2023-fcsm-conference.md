@@ -73,7 +73,7 @@ Elizabeth Ann Carson, *Bureau of Justice Statistics*
 
 [Noncitizen Coverage and its Effects on U.S. Statistics]({{site.baseurl}}/assets/files/docs/2023-conference-docs/A2.3_Brown.pdf){:target="_blank"}  
 J. David Brown, *U.S. Census Bureau*  
-Mlsty Heggeness, *University of Kansas*  
+Misty Heggeness, *University of Kansas*  
 Marta Murray-Close, *U.S. Census Bureau*
 
 [Combining Data Sources to Produce Nationally Representative Estimates of Hospital Encounter Characteristics]({{site.baseurl}}/assets/files/docs/2023-conference-docs/A2.4_Breidt.pdf){:target="_blank"}  
@@ -192,14 +192,11 @@ Abigail Okrent, *Economic Research Service*
 
 <hr>
 <h2 class="text-center"><span class="text-dark-blue">Plenary Session<br>
-11:00 AM - 12:15 PM<br>
+Tuesday, October 24<br>
 Organizer: Linda J. Young, <i>National Agricultural Statistics Service</i><br>
 Chair: Karin Orvis, <i>Office of Management and Budget</i>
 </span></h2>
 <hr>
-
-**Organizer:** Linda J. Young, National Agricultural Statistics Service  
-**Chair:** Karin Orvis, Office of Management and Budget 
 
 **Opening Remarks**  
 Karin Orvis, *Office of Management and Budget*
