@@ -918,7 +918,7 @@ Spiro Stefanou, *Economic Research Service*
 <a aria-label="Tackling Declining Response Rates" target="_blank" href="{{site.baseurl}}/assets/files/docs/2023-conference-docs/F4.3_Hamer.pdf">Tackling Declining Response Rates: Increasing Response Rates by Farmers Because They Can See How Their Responses Can be Used to Benefit Their Own Businesses as Well as the Public</a><br>
 Hubert Hamer, *National Agricultural Statistics Service*
 
-[Forging New Partnerships: A vision for Education Statistics]({{site.baseurl}}/assets/files/docs/2023-conference-docs/F4.4_DeLaRosa.pdf){:target="_blank"}  
+[Forging New Partnerships: A vision for Education Statistics]({{site.baseurl}}/assets/files/docs/2023-conference-docs/F4.4_Delarosa.pdf){:target="_blank"}  
 Josh DeLaRosa, *National Center for Education Statistics*
 
 [NCSES: Making Connections Across the Data Ecosystem]({{site.baseurl}}/assets/files/docs/2023-conference-docs/F4.5_Rivers.pdf){:target="_blank"}  
@@ -1399,7 +1399,7 @@ Maria Perez-Patron, *U.S. Census Bureau*
 Brad Foster, *U.S. Census Bureau*  
 Brian Knop, *U.S. Census Bureau*
 
-[Estimating the Prevalence of Food Security for HUD Subsidized Housing Units though Data Linkage]({{site.baseurl}}/assets/files/docs/2023-conference-docs/J1.3_Helms.pdf){:target="_blank"}  
+[Estimating the Prevalence of Food Security for HUD Subsidized Housing Units though Data Linkage]({{site.baseurl}}/assets/files/docs/2023-conference-docs/J1.3_Molfino.pdf){:target="_blank"}  
 Veronica E. Helms, *Department of Housing and Urban Development*  
 Emily Molfino, *U.S. Census Bureau*
 
