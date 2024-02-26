@@ -643,7 +643,7 @@ Wednesday, October 25<br>
 
 **Organizer:** Alisha Coleman-Jensen, *Economic Research Service*  
 **Chair:** Alisha Coleman-Jensen, *Economic Research Service*  
-**Discussant:** Darcy Miller, *National Agricultural Statistics Service*
+<a href="{{site.baseurl}}/assets/files/docs/2023-conference-docs/E1.6D_Miller.pdf" class="bold" aria-label="Darcy Miller" target="_blank">Discussant</a><b>:</b> Darcy Miller, *National Agricultural Statistics Service*
 
 [Count Me In: Challenges of Conducting a Cognitive Interview Study with Adults with an Intellectual and Developmental Disability]({{site.baseurl}}/assets/files/docs/2023-conference-docs/E1.1_MacFadyen.pdf){:target="_blank"}  
 Ann MacFadyen, *National Center for Health Statistics*  
@@ -1055,7 +1055,7 @@ Harrison Quick, *Drexel University*
 ## Session G-4: Advances in Implementing Title III of the Evidence Act: Enhancing Public Trust in Official Statistics and Expanding Data Access for Evidence Building
 
 **Organizer:** John Finamore, *National Center for Science and Engineering Statistics*  
-**Chair:** Karin Orvis, *Office of Management and Budget*  
+<a href="{{site.baseurl}}/assets/files/docs/2023-conference-docs/G4.0_Orvis.pdf" class="bold" aria-label="Darcy Miller" target="_blank">Chair</a><b>:</b> Karin Orvis, *Office of Management and Budget*  
 
 [Building Trust in Federal Statistics]({{site.baseurl}}/assets/files/docs/2023-conference-docs/G4.1_Leslie.pdf){:target="_blank"}  
 Kerrie Leslie, *Office of Management and Budget*
