@@ -198,10 +198,10 @@ Chair: Karin Orvis, <i>Office of Management and Budget</i>
 </span></h2>
 <hr>
 
-**Opening Remarks**  
+[Opening Remarks]({{site.baseurl}}/assets/files/docs/2023-conference-docs/Plenary_Orvis.pdf){:target="_blank"}  
 Karin Orvis, *Office of Management and Budget*
 
-**New Challenges and New Opportunities for the Federal Statistical System**  
+[New Challenges and New Opportunities for the Federal Statistical System]({{site.baseurl}}/assets/files/docs/2023-conference-docs/Plenary_Abraham.pdf){:target="_blank"}  
 Katharine G. Abraham, *University of Maryland*
 
 Approaching the five-year anniversary of the signing of the Evidence Act, the Federal statistical system faces many challenges but also an exciting new set of opportunities. Under the Act, statistical agency leaders are being asked to play an expanded role as stewards of the data held by the Federal government. Working together and with the government’s program agencies—and, in some cases, with holders of private sector data—the agencies can help to better meet the growing demand for reliable information about our society and economy and about the effectiveness of policy interventions to address societal concerns. Embracing these opportunities will increase the agencies’ relevance in a rapidly changing world and position the federal statistical system well for the coming decades.
@@ -643,7 +643,7 @@ Wednesday, October 25<br>
 
 **Organizer:** Alisha Coleman-Jensen, *Economic Research Service*  
 **Chair:** Alisha Coleman-Jensen, *Economic Research Service*  
-<a href="{{site.baseurl}}/assets/files/docs/2023-conference-docs/E1.6D_Miller.pdf" class="bold" aria-label="Darcy Miller" target="_blank">Discussant</a><b>:</b> Darcy Miller, *National Agricultural Statistics Service*
+<a href="{{site.baseurl}}/assets/files/docs/2023-conference-docs/E1.6D_Miller.pdf" class="bold" aria-label="Discussant - Darcy Miller" target="_blank">Discussant</a><b>:</b> Darcy Miller, *National Agricultural Statistics Service*
 
 [Count Me In: Challenges of Conducting a Cognitive Interview Study with Adults with an Intellectual and Developmental Disability]({{site.baseurl}}/assets/files/docs/2023-conference-docs/E1.1_MacFadyen.pdf){:target="_blank"}  
 Ann MacFadyen, *National Center for Health Statistics*  
@@ -697,7 +697,7 @@ Sammuel Young, *Arizona State University & U.S. Census Bureau*
 Adji Fatou Diagne, *U.S. Census Bureau*  
 Adela Luque, *U.S. Census Bureau*
 
-[Imputing for Extraordinary Sample Events: A Story of Targeted Donor Pools and Administrative Data]({{site.baseurl}}/assets/files/docs/2023-conference-docs/E2.3_Rhein.pdf){:target="_blank"}  
+[Imputing for Extraordinary Sample Events: A Story of Targeted Donor Pools and Administrative Data]({{site.baseurl}}/assets/files/docs/2023-conference-docs/E2.3_Rhein_paper.pdf){:target="_blank"}  
 Bradley Rhein, *Bureau of Labor Statistics*
 
 [Estimating the U.S. Citizen Voting-Age Population (CVAP) Using Blended Survey Data, Administrative Record data, and Modeling]({{site.baseurl}}/assets/files/docs/2023-conference-docs/E2.4_Brown.pdf){:target="_blank"}  
@@ -957,7 +957,7 @@ Stephanie Willson, *National Center for Health Statistics*
 **Organizer:** Jennifer Rhorer, *National Agricultural Statistics Service*  
 **Chair:** Jennifer Rhorer, *Naltional Agricultural Statistics Service*
 
-[On Response Model Selection and its Use for Testing Bias of Mean Estimates in Case of Not Missing at Random Nonresponse]({{site.baseurl}}/assets/files/docs/2023-conference-docs/F6.1_Sverchkov.pdf){:target="_blank"}  
+[On Response Model Selection and its Use for Testing Bias of Mean Estimates in Case of Not Missing at Random Nonresponse]({{site.baseurl}}/assets/files/docs/2023-conference-docs/F6.1_Sverchkov_paper.pdf){:target="_blank"}  
 Michael Sverchkov, *Bureau of Labor Statistics*
 
 [Two Not-So-Different Approaches for Dealing with Not-Missing-at-Random Unit Nonresponse]({{site.baseurl}}/assets/files/docs/2023-conference-docs/F6.2_Kott.pdf){:target="_blank"}  
@@ -1055,7 +1055,7 @@ Harrison Quick, *Drexel University*
 ## Session G-4: Advances in Implementing Title III of the Evidence Act: Enhancing Public Trust in Official Statistics and Expanding Data Access for Evidence Building
 
 **Organizer:** John Finamore, *National Center for Science and Engineering Statistics*  
-<a href="{{site.baseurl}}/assets/files/docs/2023-conference-docs/G4.0_Orvis.pdf" class="bold" aria-label="Darcy Miller" target="_blank">Chair</a><b>:</b> Karin Orvis, *Office of Management and Budget*  
+<a href="{{site.baseurl}}/assets/files/docs/2023-conference-docs/G4.0_Orvis.pdf" class="bold" aria-label="Chair - Karin Orvis" target="_blank">Chair</a><b>:</b> Karin Orvis, *Office of Management and Budget*  
 
 [Building Trust in Federal Statistics]({{site.baseurl}}/assets/files/docs/2023-conference-docs/G4.1_Leslie.pdf){:target="_blank"}  
 Kerrie Leslie, *Office of Management and Budget*
