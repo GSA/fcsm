@@ -37,7 +37,7 @@ sidenav: events_navigation
  <li><a href="{{site.baseurl}}/assets/files/docs/gasp/Holt.pdf" target="_blank">Holt</a></li>
  <li><a href="{{site.baseurl}}/assets/files/docs/gasp/Hutchison.pdf" target="_blank">Hutchison</a></li>
  <li><a href="{{site.baseurl}}/assets/files/docs/gasp/Kery.pdf" target="_blank">Kery</a></li>
- <li><a href="{{site.baseurl}}/assets/files/docs/gasp/Kolenikov.pdf" target="_blank">Kolenikov</a></li>
+ <li><a href="{{site.baseurl}}/assets/files/docs/gasp/GASP2019-Kolenikov.pdf" target="_blank">Kolenikov</a></li>
  <li><a href="{{site.baseurl}}/assets/files/docs/gasp/Kopp-1.pdf" target="_blank">Kopp-1</a></li>
  <li><a href="{{site.baseurl}}/assets/files/docs/gasp/Kopp.pdf" target="_blank">Kopp</a></li>
  <li><a href="{{site.baseurl}}/assets/files/docs/gasp/Korkmaz.pdf" target="_blank">Korkmaz</a></li>
