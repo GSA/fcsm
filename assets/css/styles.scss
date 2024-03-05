@@ -276,11 +276,20 @@ small {
     background-color: transparent;
 }
 
+.conference a {
+  color: #025373;
+  font-weight: bolder;
+}
+
 @media screen and (max-width: 768px){ 
   .usa-banner__header-flag {
     max-width: fit-content;
     float: initial;
 }
+}
+
+.title-background {
+  background: linear-gradient(90deg, #122f52 0%, #085096 100%);
 }
 
 //footer font size
