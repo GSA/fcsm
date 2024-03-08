@@ -151,8 +151,8 @@ resource_navigation:
     url: /resources/data-quality-subcommittee/
   - name: Nonresponse Bias
     url: /resources/non-response-bias/
-  - name: SOGI
-    url: /resources/sogi/
+  - name: SOGISC
+    url: /groups/sogisc/
   - name: Equitable Data Toolkit
     url: /resources/equitable-data-toolkit/
 
