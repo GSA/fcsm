@@ -271,6 +271,7 @@ exclude:
   - Gemfile.lock
   - docker-compose.yml
   - Dockerfile
+  - _unpublished
 
 autoprefixer:
   browsers:
