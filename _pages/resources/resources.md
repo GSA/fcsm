@@ -52,10 +52,10 @@ layout: page--no-nav
   <li class="tablet:grid-col-6 usa-card">
     <div class="usa-card__container radius-md border-2px border-base-lightest shadow-1">
       <header class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/resources/sogi">Measuring Sexual Orientation and Gender Identity</a></h2>
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/groups/sogisc">Measuring Sexual Orientation, Gender Identity, and Sex Characteristics</a></h2>
       </header>
       <div class="usa-card__body">
-        <p>Explores the best practices of the measurement of SOGI in the context of federal information collections.</p>
+        <p>Explores the best practices of the measurement of SOGISC in the context of federal information collections.</p>
       </div>
     </div>
   </li>
