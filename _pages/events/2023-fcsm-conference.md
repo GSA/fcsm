@@ -1287,7 +1287,7 @@ Liana Fox, *U.S. Census Bureau*
 [Health Inclusive Poverty Measure Estimates in the United States: 2022]({{site.baseurl}}/assets/files/docs/2023-conference-docs/I2.3_Creamer.pdf){:target="_blank"}  
 John Creamer, *U.S. Census Bureau*
 
-[Accounting for Rents and Net Implicit Rental Income in an SPM-like Measure through the Use of Rental Equivalence for Owner-occupied Housing]({{site.baseurl}}/assets/files/docs/2023-conference-docs/I2.4_Garner.pdf){:target="_blank"}  
+[Accounting for Rents and Net Implicit Rental Income in an SPM-like Measure through the Use of Rental Equivalence for Owner-occupied Housing]({{site.baseurl}}/assets/files/docs/2023-conference-docs/I2.4_Garner_paper.pdf){:target="_blank"}  
 Thesia I. Garner, *Bureau of Labor Statistics*  
 Jake Schild, *Bureau of Labor Statistics*
 
