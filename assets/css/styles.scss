@@ -10,29 +10,36 @@
 ========================================
 */
 // -------------------------------------
-// Import individual theme settings
-@import "theme/uswds-theme-general";
-@import "theme/uswds-theme-typography";
-@import "theme/uswds-theme-spacing";
-@import "theme/uswds-theme-color";
-@import "theme/uswds-theme-utilities";
-@import "theme/uswds-theme-components";
 
-// Set correct paths for use with asset pipeline
-$theme-font-path: "../fonts";
-$theme-image-path: "../uswds/img";
-$theme-show-notifications: false;
+@use "uswds" with (
+  $theme-font-path: "../fonts",
+  $theme-image-path: "../uswds/img",
+  $theme-font-role-heading: "sans",
+  $height-settings: (
+    output: true,
+    responsive: true,
+    active: false,
+    focus: false,
+    hover: false,
+    visited: false,
+  ),
+  $theme-show-notifications: false,
+);
 
+@forward "../_sass/menu-collapsible.scss";
+@forward "../_sass/add-background-svg.scss";
+@forward "../_sass/font-face.scss";
+@forward "../_sass/hero.scss";
+@forward "../_sass/carousel.scss";
+@forward "../_sass/resources.scss";
 
-// -------------------------------------
-// Import individual USWDS packages...
-@import "scss/packages/required";
-@import "scss/packages/global";
+@forward "theme/uswds-theme-general";
+@forward "theme/uswds-theme-typography";
+@forward "theme/uswds-theme-spacing";
+@forward "theme/uswds-theme-color";
+@forward "theme/uswds-theme-utilities";
+@forward "theme/uswds-theme-components";
 
-@import "scss/packages/uswds-components";
-@import "scss/packages/uswds-utilities";
-
-@import "../_sass/resources.scss";
 /*
 ----------------------------------------
 USWDS THEME CUSTOM STYLES
@@ -48,12 +55,6 @@ i.e.
 ----------------------------------------
 */
 
-@import "../_sass/menu-collapsible.scss";
-@import "../_sass/carousel.scss";
-@import "../_sass/add-background-svg.scss";
-@import "../_sass/all.scss";
-@import "../_sass/font-face.scss";
-@import "../_sass/hero.scss";
 
 h2, h3, h4 {
   font-family: Merriweather Web, Georgia, Cambria, Times New Roman, Times, serif !important;
