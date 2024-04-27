@@ -26,19 +26,19 @@
   $theme-show-notifications: false,
 );
 
-@forward "../_sass/menu-collapsible.scss";
-@forward "../_sass/add-background-svg.scss";
-@forward "../_sass/font-face.scss";
-@forward "../_sass/hero.scss";
-@forward "../_sass/carousel.scss";
-@forward "../_sass/resources.scss";
+@forward "../../_sass/menu-collapsible.scss";
+@forward "../../_sass/add-background-svg.scss";
+@forward "../../_sass/font-face.scss";
+@forward "../../_sass/hero.scss";
+@forward "../../_sass/carousel.scss";
+@forward "../../_sass/resources.scss";
 
-@forward "theme/uswds-theme-general";
-@forward "theme/uswds-theme-typography";
-@forward "theme/uswds-theme-spacing";
-@forward "theme/uswds-theme-color";
-@forward "theme/uswds-theme-utilities";
-@forward "theme/uswds-theme-components";
+// @forward "theme/uswds-theme-general";
+// @forward "theme/uswds-theme-typography";
+// @forward "theme/uswds-theme-spacing";
+// @forward "theme/uswds-theme-color";
+// @forward "theme/uswds-theme-utilities";
+// @forward "theme/uswds-theme-components";
 
 /*
 ----------------------------------------
@@ -62,6 +62,10 @@ h2, h3, h4 {
 
 .usa-prose>h2 {
   font-size: 1.8rem !important;
+}
+
+.usa-prose>p:first-child {
+  margin-top: 0;
 }
 
 // default mode hide banner
@@ -297,5 +301,11 @@ small {
 .usa-footer {
   h2 {
       font-size: 16.96px;
+  }
+}
+
+@media (min-width: 64em) {
+  .usa-header--extended .usa-logo {
+      max-width: 50%;
   }
 }
