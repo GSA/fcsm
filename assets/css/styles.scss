@@ -225,19 +225,19 @@ small {
 
 @media screen and (max-width: 640px) {
 
-    .usa-banner__button[aria-expanded="true"]::after {
-        border: 0;
-        background-image: url("../img/close-blue-60v-alt.png"), linear-gradient(transparent, transparent);
-        background-repeat: no-repeat;
-        background-position: center center;
-        background-size: 1rem;
-        content: '';
-        display: inline-block;
-        height: 3rem;
-        width: 3rem;
-        margin-left: 0;
-        background-color: transparent !important;
-    }
+    // .usa-banner__button[aria-expanded="true"]::after {
+    //     border: 0;
+    //     background-image: url("../img/close-blue-60v-alt.png"), linear-gradient(transparent, transparent);
+    //     background-repeat: no-repeat;
+    //     background-position: center center;
+    //     background-size: 1rem;
+    //     content: '';
+    //     display: inline-block;
+    //     height: 3rem;
+    //     width: 3rem;
+    //     margin-left: 0;
+    //     background-color: transparent !important;
+    // }
 
     .usa-banner__header-action::after {
         background-image: url("../img/angle-arrow-down-primary.png"), linear-gradient(transparent, transparent);
@@ -252,6 +252,19 @@ small {
         background-color: transparent !important;
         -webkit-mask: none !important;
     }
+}
+
+@media (max-width: 39.99em) {
+  @supports (mask: url("")) {
+      .usa-banner__button[aria-expanded=true]::after {
+          background: none;
+          background-color: #005ea2;
+          mask-image: url(../img/close-blue-60v-alt.svg), linear-gradient(transparent, transparent);
+          mask-position: center center;
+          mask-repeat: no-repeat;
+          mask-size: 1rem 1rem;
+      }
+  }
 }
 
 //conference page
