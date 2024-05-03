@@ -104,7 +104,7 @@ sidenav: events_navigation
   <p class="indent">Diane Willimack</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Doyle.pdf" target="_blank">Striking the Balance between Privacy and Production in Demographic Surveys: Implementation of the Respondent Identification Policy</a>  </p>
   <p class="indent">Patricia Doyle, Nancy Bates, and Gerald Gates</p>
-  <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_singer.pdf" target="_blank">Formal Discussion</a>  </p>
+  <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_singer.pdf" aria-label="Eleanor Singer's formal discussion" target="_blank">Formal Discussion</a>  </p>
   <p class="indent">Eleanor Singer</p>
   <p class="date"><a id="s6b" name="s6b"></a>SESSION VI-B<br><br>
   STATISTICAL USES OF ADMINISTRATIVE RECORDS</p>
@@ -140,7 +140,7 @@ sidenav: events_navigation
   <p class="indent">Olivia Blum and Rinat Calvo</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Iannacchione.pdf" target="_blank">Evaluating the Use of Residential Mailing Addresses in a Metropolitan Household Survey</a>  </p>
   <p class="indent">Vincent Iannacchione, Jennifer Staab, and David Redden</p>
-  <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Elhami.pdf" target="_blank">Formal Discussion</a>  </p>
+  <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Elhami.pdf" aria-label="Shoreh Elhami's formal discussion" target="_blank">Formal Discussion</a>  </p>
   <p class="indent">Shoreh Elhami</p>
   <p class="date"><a id="s8b" name="s8b"></a>SESSION VIII-B<br><br>
   COGNITIVE RESEARCH AND USABILITY TESTING IN SURVEY PROCESSES</p>
@@ -173,7 +173,7 @@ sidenav: events_navigation
   <p class="indent">Donna Glassbrenner</p>
   <p>A Partial Order Approach to Record Linkage  </p>
   <p class="indent">Dean Judson</p>
-  <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Shapiro.pdf" target="_blank">Formal Discussion</a>  </p>
+  <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Shapiro.pdf" aria-label="Gary Shapiro's formal discussion" target="_blank">Formal Discussion</a>  </p>
   <p class="indent">Gary Shapiro</p>
   <p class="date"><a id="s11a" name="s11a"></a>SESSION XI-A<br><br>
   DATA QUALITY AND NONSAMPLING ERROR, PART 2</p>
@@ -183,7 +183,7 @@ sidenav: events_navigation
   <p class="indent">Marianne Bitler and John Wolken</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Sadeghi.pdf" target="_blank">The Quality vs. Timeliness Tradeoff in BLS ES-202 Administrative Statistics</a>  </p>
   <p class="indent">Akbar Sadeghi and Richard Clayton</p>
-  <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Kasprzyk.pdf" target="_blank">Formal Discussion</a>  </p>
+  <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Kasprzyk.pdf" aria-label="Daniel Kasprzyk's formal discussion" target="_blank">Formal Discussion</a>  </p>
   <p class="indent">Daniel Kasprzyk</p>
   <p class="date"><a id="s11b" name="s11b"></a>SESSION XI-B<br><br>
   CENSUS AND SURVEY EVALUATION METHODOLOGIES</p>

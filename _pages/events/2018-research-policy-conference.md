@@ -31,7 +31,6 @@ sidenav: events_navigation
     <p>Response Burden and Bias in the First National Food Acquisition and Purchase Survey (FoodAPS-1): An Empirical Analysis Based on Respondent Feedback Survey<a aria-label="Response Burden and Bias in the First National Food Acquisition and Purchase Survey (FoodAPS-1): An Empirical Analysis Based on Respondent Feedback Survey" href="{{site.baseurl}}/assets/files/docs/A_2Zhang_FoodAPS.pdf" target="_blank"> |
         (PDF)</a></p>
     <p>Changes in Interview Length over a Data Collection Period: Interviewer Learning or Shifting Respondent Characteristics?
-      
     </p>
     <p>Smart Math Saves Time and Improves Communication<a aria-label="Smart Math Saves Time and Improves Communication" href="{{site.baseurl}}/assets/files/docs/A2_Nielsen_2018FCSM.pdf" target="_blank">
         | (PDF)</a></p>
@@ -43,7 +42,7 @@ sidenav: events_navigation
 
   <div class="contenta">
     <p>Evaluating Wealth Data in the Redesigned 2014 Survey of Income and Program Participation<a aria-label="Evaluating Wealth Data in the Redesigned 2014 Survey of Income and Program Participation" href="{{site.baseurl}}/assets/files/docs/A3_Eggleston_2018FCSM.pdf" target="_blank"> | (PDF)</a></p>
-    <p>Discussant: Howard Iams (Social Security Administration)<br />A-3_Discussant.pdf <a href="{{site.baseurl}}/assets/files/docs/A_3_Discussant.pdf" target="_blank"> | (PDF)</a></p>
+    <p>Discussant: Howard Iams (Social Security Administration)<br />A-3_Discussant.pdf <a href="{{site.baseurl}}/assets/files/docs/A_3_Discussant.pdf" target="_blank" aria-label="A-3_Discussant"> | (PDF)</a></p>
   </div>
 
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">
@@ -54,7 +53,7 @@ sidenav: events_navigation
     <p>Benchmark Assessment of Respondent Driven Sampling Data for Foreign-Born Korean Americans <a aria-label="Benchmark Assessment of Respondent Driven Sampling Data for Foreign-Born Korean Americans " href="{{site.baseurl}}/assets/files/docs/A_4Lee_RDS_FCSM_2_15_2017.pdf" target="_blank"> | (PDF)</a></p>
     <p>Comparing Alternatives for Estimation from Nonprobability Samples </p>
     <p>Combining Probability and Nonprobability Samples to Form Efficient Hybrid Estimates <a aria-label="Combining Probability and Nonprobability Samples to Form Efficient Hybrid Estimates " href="{{site.baseurl}}/assets/files/docs/A4_Dever_2018FCSM.pdf" target="_blank"> | (PDF)</a></p>
-    <p>Discussant: Courtney Kennedy (Pew Research Center)<br />A-4KennedyDISCUSSION WEDSession A-4_1000-1145am.pdf <a href="{{site.baseurl}}/assets/files/docs/A_4KennedyDISCUSSIONWEDSessionA_4_1000_1145am.pdf" target="_blank"> | (PDF)</a></p>
+    <p>Discussant: Courtney Kennedy (Pew Research Center)<br />A-4KennedyDISCUSSION WEDSession A-4_1000-1145am.pdf <a href="{{site.baseurl}}/assets/files/docs/A_4KennedyDISCUSSIONWEDSessionA_4_1000_1145am.pdf" target="_blank" aria-label="Discussant: Courtney Kennedy (Pew Research Center)"> | (PDF)</a></p>
   </div>
 
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">
@@ -78,11 +77,11 @@ sidenav: events_navigation
   <div class="contenta">
     <p>An Automated Refusal Conversion Strategy for Web Surveys<a aria-label="An Automated Refusal Conversion Strategy for Web Surveys" href="{{site.baseurl}}/assets/files/docs/B-1LewisFCSM2018Presentation.pdf" target="_blank"> | (PDF)</a></p>
     <p>Using Close-Ended Web Probes to Inform the Redesign of the National Health
-      <a href="{{site.baseurl}}/assets/files/docs/B-1Scanlon.pdf" target="_blank">| (PDF)</a>
+      <a href="{{site.baseurl}}/assets/files/docs/B-1Scanlon.pdf" target="_blank" aria-label="Using Close-Ended Web Probes to Inform the Redesign of the National Health">| (PDF)</a>
     </p>
     <p>The Roles of Typicality, Specificity, and Set Size in Providing Examples for Survey Questions: Evidence from an Online Study Using Self-Administered Comprehension Probes</p>
     <p>Benefits and Drawbacks of Using Crowdsourcing Techniques for Cognitive Testing
-      <a href="{{site.baseurl}}/assets/files/docs/B-1Cook.pdf" target="_blank">| (PDF)</a>
+      <a href="{{site.baseurl}}/assets/files/docs/B-1Cook.pdf" target="_blank" aria-label="Benefits and Drawbacks of Using Crowdsourcing Techniques for Cognitive Testing">| (PDF)</a>
     </p>
     <p>Impact of Dependent Interviewing on Consistency of Answers in the American Housing Survey <a aria-label="Impact of Dependent Interviewing on Consistency of Answers in the American Housing Survey " aria-label="Impact of Dependent Interviewing on Consistency of Answers in the American Housing Survey " href="{{site.baseurl}}/assets/files/docs/B-1Gustafson.pdf" target="_blank"> | (PDF)</a></p>
   </div>
@@ -98,16 +97,15 @@ sidenav: events_navigation
     </p>
     <p>
       Evaluating Hot Deck with Propensity Matching for the Advance Monthly Retail Trade Survey (MARTS)
-      <a href="{{site.baseurl}}/assets/files/docs/B-2ThompsonBechtelCzaplickiFCSM2018_final.pdf" target="_blank"> | (PDF)</a>
+      <a href="{{site.baseurl}}/assets/files/docs/B-2ThompsonBechtelCzaplickiFCSM2018_final.pdf" aria-label="Evaluating Hot Deck with Propensity Matching for the Advance Monthly Retail Trade Survey (MARTS)" target="_blank"> | (PDF)</a>
     </p>
     <p>
       Assessing the Automated Imputation of Missing and Erroneous Survey Data: A Simulation-Based Approach
-      <a href="{{site.baseurl}}/assets/files/docs/B-2Terrie.pdf" target="_blank"> | (PDF)</a>
-      
+      <a href="{{site.baseurl}}/assets/files/docs/B-2Terrie.pdf" aria-label="Assessing the Automated Imputation of Missing and Erroneous Survey Data: A Simulation-Based Approach" target="_blank"> | (PDF)</a>
     </p>
     <p>
       Edit Reduction Research in the U.S. Census Bureau’s Economic Directorate
-      <a href="{{site.baseurl}}/assets/files/docs/B-2Diamond.pdf" target="_blank"> | (PDF)</a>
+      <a href="{{site.baseurl}}/assets/files/docs/B-2Diamond.pdf" aria-label="Edit Reduction Research in the U.S. Census Bureau’s Economic Directorate" target="_blank"> | (PDF)</a>
     </p>
   </div>
 
@@ -117,7 +115,7 @@ sidenav: events_navigation
 
   <div class="contenta">
     <p>
-      Household Incomes in Tax Data: Using Addresses to Move from Tax Unit to Household Income Distributions<a href="{{site.baseurl}}/assets/files/docs/B-3Larrimore.pdf" target="_blank"> | (PDF)</a>
+      Household Incomes in Tax Data: Using Addresses to Move from Tax Unit to Household Income Distributions<a href="{{site.baseurl}}/assets/files/docs/B-3Larrimore.pdf" aria-label="Household Incomes in Tax Data: Using Addresses to Move from Tax Unit to Household Income Distributions" target="_blank"> | (PDF)</a>
     </p>
     <p>
       Calculating a Supplemental Poverty Measure in the Survey of Income and Program Participation
@@ -134,13 +132,13 @@ sidenav: events_navigation
     </p>
     <p>
       Implications of Repeated Sampling in a Crime Survey
-      <a href="{{site.baseurl}}/assets/files/docs/B-4Kena.pdf" target="_blank"> | (PDF)</a>
+      <a href="{{site.baseurl}}/assets/files/docs/B-4Kena.pdf" aria-label="Implications of Repeated Sampling in a Crime Survey" target="_blank"> | (PDF)</a>
     </p>
     <p>
-      Assessing How Well Students in Economics Experiments Model Decision-Making for Non-Student Populations<a href="{{site.baseurl}}/assets/files/docs/B-4RoschFCSMStudentsasModelsv3.pdf" target="_blank"> | (PDF)</a>
+      Assessing How Well Students in Economics Experiments Model Decision-Making for Non-Student Populations<a href="{{site.baseurl}}/assets/files/docs/B-4RoschFCSMStudentsasModelsv3.pdf" aria-label="Assessing How Well Students in Economics Experiments Model Decision-Making for Non-Student Populations" target="_blank"> | (PDF)</a>
     </p>
     <p>
-      Using Social Media for a Probability Sample: Is It Possible?<a href="{{site.baseurl}}/assets/files/docs/B-4Berzofsky.pdf" target="_blank"> | (PDF)</a>
+      Using Social Media for a Probability Sample: Is It Possible?<a href="{{site.baseurl}}/assets/files/docs/B-4Berzofsky.pdf" target="_blank" aria-label="Using Social Media for a Probability Sample: Is It Possible?"> | (PDF)</a>
     </p>
     <p>
       Comparing Random and Nonrandom Samples Using Model-Implied Randomization<br>

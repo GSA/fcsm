@@ -245,7 +245,7 @@ sidenav: events_navigation
   <p style="width:50%;" class="indent">Gerald Gates (Gerald Gates Privacy Consulting, USA)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2009FCSM_Davern_IX-A.pdf" target="_blank">Investing in A Data Quality Assurance Program for Administrative Data Linked to Survey Data for Policy Research Purposes Is Essential</a>  </p>
   <p style="width:50%;" class="indent">Michael Davern (University of Minnesota, USA)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2009FCSM_Fay_IX-A.pdf" target="_blank">Discussant:</a>  </p>
+  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2009FCSM_Fay_IX-A.pdf" aria-label="Robert Fay's discussion" target="_blank">Discussant:</a>  </p>
   <p style="width:50%;" class="indent">Robert Fay (Westat, USA)</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION IX-B<br>
   WEB SURVEYS
@@ -306,7 +306,7 @@ sidenav: events_navigation
   <p style="width:50%;" class="indent">Majnu John and Madhu Mazumdar (Weill Cornell Medical College, USA)</p>
   <p style="width:50%;">Sampling from Discrete Distributions: Application to An Editing Problem  </p>
   <p style="width:50%;" class="indent">Lawrence Cox (National Center for Health Statistics, USA) and Marco Better (OptTek Systems, Inc., USA)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2009FCSM_Cohen_XI-A.pdf" target="_blank">Discussant:</a>  </p>
+  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2009FCSM_Cohen_XI-A.pdf" aria-label="Michael P. Cohen's discussion" target="_blank">Discussant:</a>  </p>
   <p style="width:50%;" class="indent">Michael P. Cohen (Statistical Consultant, NORC at the University of Chicago, and George Mason University, USA)</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION XI-B<br>
   INCOME AND THE BUSINESS CYCLE

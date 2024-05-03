@@ -493,7 +493,7 @@ Katie Lewis, <i>Energy Information Administration</i>
 <strong>chair:</strong> Scott Boggess, <i>U.S. Census Bureau</i>
 </p>
 <p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/D2.1_Aram.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Assessing Data Quality in Population-Based Surveys Linked to End-Stage Renal Disease Administrative Data [Presentation]</strong></span></a><br>
-<a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/D2_Aram_FCSM_Proceedings.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>[Paper]</strong></span></a><br>
+<a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/D2_Aram_FCSM_Proceedings.pdf" aria-label="Assessing Data Quality in Population-Based Surveys Linked to EndStage Renal Disease Administrative Data" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>[Paper]</strong></span></a><br>
 Jonathan Aram, <i>National Center for Health Statistics</i><br>
 Crescent B. Martin, <i>National Center for Health Statistics</i><br>
 Lisa B. Mirel, <i>National Center for Health Statistics</i>
@@ -504,7 +504,7 @@ Ed Miller, <i>Agency for Healthcare Research and Quality</i><br>
 Alice Zawacki, <i>U.S. Census Bureau</i>
 </p>
 <p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/D2.3_Mirel.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Race and Ethnicity Modeling Applied to Linked Health Data [Presentation]</strong></span></a><br>
-<a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/D2Mirel_FCSM_Proceedings.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>[Paper]</strong></span></a><br>
+<a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/D2Mirel_FCSM_Proceedings.pdf" aria-label="Race and Ethnicity Modeling Applied to Linked Heath Care Data" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>[Paper]</strong></span></a><br>
 Lisa B. Mirel, <i>National Center for Health Statistics</i><br>
 Jessie L. Parker, <i>National Center for Health Statistics</i><br>
 Dean Resnick, <i>NORC at the University of Chicago</i><br>

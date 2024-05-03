@@ -26,8 +26,8 @@ sidenav: group_navigation
 <table>
   <thead>
     <tr>
-      <th>Date</th>
-      <th>Record</th>
+      <th scope="col">Date</th>
+      <th scope="col">Record</th>
     </tr>
   </thead>
   <tbody>
