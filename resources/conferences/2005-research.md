@@ -4,16 +4,12 @@ layout: page
 ---
 <p><strong>Resources and Proceedings</strong></p>
 <p>Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe&reg; Acrobat&reg; Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
-<!--<p><strong><a id="top" name="top"></a>Jump to ...</strong><br>
-Monday <a href="#MondayAM">AM</a> / <a href="#MondayPM"> PM</a><br>
-Tuesday <a href="#TuesdayAM">AM</a> / <a href="#TuesdayPM">PM</a><br>
-<a href="#Wednesday">Wednesday</a></p>-->
 <p class="larger" style="float: left; padding-right: 30px;">KEYNOTE<br>
 SPEAKER</p>
 <p style="float: left;  width: 70%;"><strong>A National Statistical System in a Rapidly Changing World </strong><br>
 Miron Straf (The National Academies of Science, USA)</p>
 <p><br clear="all"></p>
-<p class="date"><a name="MondayAM"></a>MONDAY AM</p>
+<p class="date">MONDAY AM</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION II-A<br>
 TIME SERIES AND STATISTICAL MODELING</button></p>
 <p style="width:50%;"><a href="../assets/docs/2005FCSM_Asparouhov_Muthen_IIA.pdf" target="_blank">Multivariate Statistical Modeling with Survey Data</a> <small> (292 KB)</small></p>
@@ -50,7 +46,7 @@ Paola Vicard (University Roma Tre, Italy)</p>
 Jai Won Choi (National Center for Health Statistics, USA)</p>
 <p>Discussant</p>
 <p class="indent">Myron Katzoff (National Center for Health Statistics, USA)</p>
-<p class="date"><a id="MondayPM" name="MondayPM"></a>MONDAY PM</p>
+<p class="date">MONDAY PM</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION III-A<br>
 INTERNET APPLICATIONS AND SURVEY MODE COMPARISONS</button></p>
 <p style="width:50%;"><a href="../assets/docs/2005FCSM_Ganapathi_Myers_Allred_IIIA.pdf" target="_blank">Innovative Web-Based Documentation System Designed for the National Survey on Drug Use and Health</a> <small> (374 KB)</small></p>
@@ -106,7 +102,7 @@ ADVANCES IN FRAME DEVELOPMENT</button></p>
 Phillip Kott (National Agricultural Statistical Service, USA)</p>
 <p>Discussant</p>
 <p class="indent">William Wigton</p>
-<p class="date"><a id="TuesdayAM" name="TuesdayAM"></a>TUESDAY AM</p>
+<p class="date">TUESDAY AM</p>
 <p class="larger">TECHNICAL DEMONSTRATIONS</p>
 <p style="width:50%;"><a href="../assets/docs/2005FCSM_OReilly_Ray_TechDemo.pdf" target="_blank">Blaise IS (Computer Assisted Interviewing Software for the Web)</a> <small> (765 KB)</small></p>
 <p class="indent">Jim O'Reilly (Westat, USA)</p>
@@ -173,7 +169,7 @@ LINKING ADMINISTRATIVE AND SURVEY DATA</button></p>
 <p class="indent">Lydia Scoon-Rogers (U.S. Census Bureau)</p>
 <p>Discussant</p>
 <p class="indent">Dan Kasprzyk (Mathematica Policy Research, USA)</p>
-<p class="date"><a id="TuesdayPM" name="TuesdayPM"></a>TUESDAY PM</p>
+<p class="date">TUESDAY PM</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION VII-A<br>
 ADMINISTRATIVE DATA AND DATA QUALITY</button></p>
 <p style="width:50%;"><a href="../assets/docs/2005FCSM_Trepanier_Julien_Kovar_VIIA.pdf" target="_blank">Reporting Data Quality When Survey and Administrative Data Are Combined</a> <small> (274 KB)</small></p>
@@ -207,7 +203,7 @@ SURVEY INTEGRATION AND PLANNING</button></p>
 <p class="indent">Marla Smith and Jan Matuszko (U.S. Environmental Protection Agency)</p>
 <p style="width:50%;"><a href="../assets/docs/2005FCSM_Pont_Tate_-Smith_Perry_VIIC.pdf" target="_blank">Integrated Redevelopment of the ONS's Business Surveys and Business Register through the Business Surveys Integration Project and Register Re-engineering Project</a> <small> (431 KB)</small></p>
 <p class="indent">Mark Pont, Pam Tate, Paul Smith and, John Perry (Office for National Statistics, United Kingdom)</p>
-<p class="date"><a id="WednesdayAM" name="WednesdayAM"></a>WEDNESDAY AM</p>
+<p class="date">WEDNESDAY AM</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION VIII-A<br>
 QUALITATIVE EVALUATION</button></p>
 <p style="width:50%;"><a href="../assets/docs/2005FCSM_Dean_Schwerin_Rogers_VIIIA.pdf" target="_blank">Determining Best Practices for Usability Test Methodology: A Comparison of Assessment Methods</a> <small> (324 KB)</small></p>

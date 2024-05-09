@@ -19,7 +19,7 @@ sidenav: events_navigation
   <p>PLENARY - <b><a href="{{site.baseurl}}/assets/files/docs/Plenary_Chetty_2015FCSM.pdf" rel="">Using Federal Administrative Data to Evaluate and Improve Economic Policy</a></b> <br>
   SESSION - Dr. Raj Chetty (Bloomberg Professor of Economics at Harvard University)</p>
   <hr>
-  <p class="date"><a id="TuesdayAm"></a>TUESDAY AM, DECEMBER 1</p>
+  <p class="date">TUESDAY AM, DECEMBER 1</p>
 
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION A-1:<br>
     LINKING ADMINISTRATIVE RECORDS TO ENHANCE DATA
@@ -86,7 +86,7 @@ sidenav: events_navigation
   Kelly Wilkin (U.S. Census Bureau)</p>
   <p>Bridging a Survey Redesign Using Multiple Imputation: An Application to the 2014 CPS ASEC</p>
   <p class="indent">Jonathan Rothbaum (U.S. Census Bureau)</p>
-  <p class="date"><a id="TuesdayPM"></a>TUESDAY PM, DECEMBER 1</p>
+  <p class="date">TUESDAY PM, DECEMBER 1</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION B-1:<br>
   ABSTRACTION TO EXTRACTION: EXPERIENCES FROM THE NATIONAL HOSPITAL CARE SURVEY IN USING ADMINISTRATIVE CLAIMS AND ELECTRONIC HEALTH RECORD DATA</div>
 
@@ -252,7 +252,7 @@ sidenav: events_navigation
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/C4_Christopher_2015FCSM.pdf" rel="">Adaptive Design Experimentation in the High School Longitudinal Study of 2009 Second Follow-up Field Test: Investigating Incentive Treatments</a>  </p><!----pdf/C4_Christopher_2015FCSM.pdf---------->
   <p class="indent">Elise Christopher (National Center for Education Statistics)</p>
 
-  <p class="date"><a id="WednesdayAM"></a>WEDNESDAY AM, DECEMBER 2</p>
+  <p class="date">WEDNESDAY AM, DECEMBER 2</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION D-1:<br>
   IMPUTATION, MULTIPLE IMPUTATION AND ADMINISTRATIVE RECORDS</div>
 
@@ -442,7 +442,7 @@ sidenav: events_navigation
   <p class="indent">Chao Wei (George Washington University)<br><!-----pdf/E4_Wei_2015FCSM.pdf---->
   Chen Song (George Washington University)</p>
 
-  <p class="date"><a id="WednesdayPM" name="WednesdayPM"></a>WEDNESDAY PM, DECEMBER 2</p>
+  <p class="date">WEDNESDAY PM, DECEMBER 2</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION F-1:<br>
   COMPARING AND UNDERSTANDING DIFFERENCES IN ESTIMATES ACROSS SURVEYS</div>
 
@@ -579,7 +579,7 @@ sidenav: events_navigation
   Jennifer Hasche (National Opinion Research Center at the University of Chicago)<br>
   Katie Dekker (National Opinion Research Center at the University of Chicago)<br>
   Christina Park (National Institutes of Health)</p>
-  <p class="date"><a id="ThursdayAM" name="ThursdayAM"></a>THURSDAY AM, DECEMBER 3</p>
+  <p class="date">THURSDAY AM, DECEMBER 3</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION H-1:<br>
   CHALLENGES AND BENEFITS FROM LINKING ADMINISTRATIVE AND SURVEY DATA</div>
 
@@ -741,7 +741,7 @@ sidenav: events_navigation
   Lauren Bowers (U.S. Census Bureau)<br>
   Wesley Basel (U.S. Census Bureau)<br>
   Samuel Szelepka (U.S. Census Bureau)</p>
-  <p class="date"><a id="ThursdayPM" name="ThursdayPM"></a>THURSDAY PM, DECEMBER 3</p>
+  <p class="date">THURSDAY PM, DECEMBER 3</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION J-1:<br>
   ADAPTIVE DESIGN II</div>
 

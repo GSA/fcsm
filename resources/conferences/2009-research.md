@@ -5,16 +5,12 @@ layout: page
 <p style="width:50%;"><a href="../assets/docs/2009FCSMResearchProgram.pdf" target="_blank"><strong>FINAL PROGRAM</strong></a>  <small> (2 MB)</small></p>
 <p><strong>Resources and Proceedings</strong></p>
 <p>Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe&reg; Acrobat&reg; Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
-<!--<p><a id="top" name="top"></a><strong>Jump to ...</strong><br>
-Monday <a href="#MondayAM">AM</a> / <a href="#MondayPM">PM</a><br>
-Tuesday <a href="#TuesdayAM">AM</a> / <a href="#TuesdayPM">PM</a><br>
-Wednesday <a href="#WednesdayAM">AM</a> / <a href="#WednesdayPM">PM</a></p>-->
 <p class="larger" style="float: left; padding-right: 30px;">PLENARY<br>
 SESSION</p>
 <p style="float: left; width: 70%;"><strong><a href="../assets/docs/construction.pdf" target="_blank">What We Don't Know Could Hurt Us: Some Reflections on the Measurement of Economic Activity</a></strong>  <small> (440 KB)</small><br>
 Katharine G. Abraham (University of Maryland)</p>
 <p><br clear="all"></p>
-<p class="date"><a id="MondayAM" name="MondayAM"></a>MONDAY AM</p>
+<p class="date">MONDAY AM</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION II-A<br>
 REDESIGNING THE NATIONAL CRIME VICTIMIZATION SURVEY</button></p>
 <p style="width:50%;"><a href="../assets/docs/2009FCSM_Fay_II-A.pdf" target="_blank">Assessing Sample Design Options for the National Crime Victimization Survey</a>  <small> (251 KB)</small></p>
@@ -47,7 +43,7 @@ BAYESIAN METHODS</button></p>
 <p style="width:50%;" class="indent">Ana Rappold (U.S. Environmental Protection Agency) and Marco Ferreira (University of Missouri, USA)</p>
 <p>The Spatio-Temporal Determinants of Charter School Site Selection in New York City</p>
 <p style="width:50%;" class="indent">Charisse Gulosino (Brown University, USA)</p>
-<p class="date"><a name="MondayPM"></a> MONDAY PM</p>
+<p class="date">MONDAY PM</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION III-A<br>
 ISSUES IN DATA CONFIDENTIALITY AND DISCLOSURE RISK</button></p>
 <p style="width:50%;"><a href="../assets/docs/construction.pdf" target="_blank">Incorporating Quality Measures in Tabular Data Protected by Perturbation Methods</a>  <small> (440 KB)</small></p>
@@ -76,7 +72,7 @@ EVALUATING AND IMPROVING SAMPLE COVERAGE AND DATA COLLECTION PROCEDURES</button>
 <p style="width:50%;" class="indent">Howard Speizer, Susan Kinsey, Richard Heman-Ackah and M. Rita Thissen (RTI International, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/2009FCSM_Stevens_III-C.pdf" target="_blank">The Influence of State-Specific, Programmatic Characteristics in the Modeling of Medicaid Undercount: A Record-Check Study of the 2001 Current Population Survey Annual Social and Economic Supplement (CPS ASEC)</a>  <small> (492 KB)</small></p>
 <p style="width:50%;" class="indent">Matthew Stevens (U.S. Census Bureau)</p>
-<p class="date"><a name="TuesdayAM"></a> TUESDAY AM</p>
+<p class="date">TUESDAY AM</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION IV-A<br>
 MODELING OF DATA</button></p>
 <p style="width:50%;"><a href="../assets/docs/2009FCSM_Zang_IV-A.pdf" target="_blank">Project for the Evaluation of the Economic and Safety Situation of the Street Transportation Using a Cost-Effective Methodology: The Case of Cameroon</a>  <small> (696 KB)</small></p>
@@ -171,7 +167,7 @@ VARIANCE ESTIMATION</button></p>
 <p style="width:50%;" class="indent">John Eltinge and Moon Jung Cho (Bureau of Labor Statistics, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/construction.pdf" target="_blank">On Point Estimation and Variance Estimation for Mean Expenditures in the Consumer Expenditure Survey</a>  <small> (440 KB)</small></p>
 <p style="width:50%;" class="indent">Michail Sverchkov, John Eltinge, and Lawrence Ernst (Bureau of Labor Statistics, USA)</p>
-<p class="date"><a name="TuesdayPM"></a> TUESDAY PM</p>
+<p class="date">TUESDAY PM</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION VII-A<br>
 INFORMED CONSENT AND PARTICIPATION</button></p>
 <p style="width:50%;"><a href="../assets/docs/2009FCSM_Caspar_VII-A.pdf" target="_blank">Securing Informed Consent from Less Educated Respondents: Results from the National Inmate Survey</a>  <small> (313 KB)</small></p>
@@ -216,7 +212,7 @@ FORECASTING</button></p>
 <p style="width:50%;" class="indent">Ali Dadpay, Charlie Han, and David Chesser (Macrosys Research, USA) and Antony Homan (U.S. Department of Transportation)</p>
 <p>Seasonal Adjustment of Short Time Series with Calendar Effect Treatments - Applied Methods in the Bureau of Labor Statistics</p>
 <p style="width:50%;" class="indent">Brian Dahlin (Bureau of Labor Statistics, USA)</p>
-<p class="date"><a name="WednesdayAM"></a> WEDNESDAY AM</p>
+<p class="date">WEDNESDAY AM</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION IX-A<br>
 ISSUES CONCERNING THE STATISTICAL USE OF ADMINISTRATIVE RECORDS</button></p>
 <p>Overview of Open Research Questions in Methodological and Empirical Work with Statistical Uses of Administrative Records</p>
@@ -271,7 +267,7 @@ ADVANCES IN AGRICULTURAL FRAME DEVELOPMENT AND USE</button></p>
 <p style="width:50%;" class="indent">Denise Abreu, Kara Daniel, William Iwig, and Stan Hoge (National Agricultural Statistics Service, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/2009FCSM_Bellow_X-C.pdf" target="_blank">Comparison of Methods for Updating Census Based Estimates of Number of Farms to Non-Census Years</a>  <small> (685 KB)</small></p>
 <p style="width:50%;" class="indent">Michael Bellow (National Agricultural Statistics Service, USA) and Phillip Kott (RTI International, USA)</p>
-<p class="date"><a name="WednesdayPM"></a> WEDNESDAY PM</p>
+<p class="date">WEDNESDAY PM</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION XI-A<br>
 APPLICATIONS OF SAMPLING</button></p>
 <p style="width:50%;"><a href="../assets/docs/2009FCSM_Day_XI-A.pdf" target="_blank">Evolutionary Algorithms for Optimal Sample Design</a>  <small> (331 KB)</small></p>

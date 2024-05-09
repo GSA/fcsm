@@ -4,20 +4,15 @@ layout: page
 ---
 <p>Washington Convention Center, Washington, DC<br>
 January 10-12, 2012<br>
-<a name="top"></a><br>
 <a href="../assets/docs/construction.pdf" target="_blank"><strong>FINAL PROGRAM</strong></a>  <small> (404 KB)</small></p>
 <p><strong>Resources and Proceedings</strong></p>
 <p style="width: 50%;">Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe&reg; Acrobat&reg; Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
-<!--<p><strong>Jump to ...</strong><br>
-Tuesday <a href="#TuesdayAM">AM</a> / <a href="#TuesdayPM"> PM</a><br>
-Wednesday <a href="#WednesdayAM">AM</a> / <a href="#WednesdayPM">PM</a><br>
-Thursday <a href="#ThursdayAM">AM</a> / <a href="#ThursdayPM">PM</a></p>-->
 			
 <p class="larger" style="float: left; padding-right: 30px; ">PLENARY SESSION</p>
 <p style="float: left;  width: 60%;"><a href="../assets/docs/construction.pdf" target="_blank"><strong>"Who is This Survey Designed for, the 'Agency' or the Respondent?"</strong></a>  <small> (404 KB)</small><br>
 Don Dillman (Washington State University, USA)</p>
 <p><br clear="all"></p>
-<p class="date"><a name="TuesdayAM"></a>TUESDAY AM</p>
+<p class="date">TUESDAY AM</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION I-A<br>
 	INCENTIVES: A LOOK ACROSS STUDIES AND TIME</button></p>
 <p style="width:50%;"><a href="../assets/docs/Hastedt_2012FCSM_I-A.pdf" target="_blank">More Money? The Impact of Larger Incentives on Response Rates in Two Phase Mail Survey</a>  <small> (539 KB)</small></p>
@@ -57,7 +52,7 @@ NEW APPROACHES TO OLD PROBLEMS IN IMPUTATION</button></p>
 <p style="width:50%;" class="indent">Dean Judson (Decision Analytics, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/construction.pdf" target="_blank">Estimating Personal Transfers From the United States</a>  <small> (404 KB)</small></p>
 <p style="width:50%;" class="indent">Rachel Soloveichik and Anne Flatness (Bureau of Economic Analysis, USA)</p>
-<p class="date"><a name="TuesdayPM"></a>TUESDAY PM</p>
+<p class="date">TUESDAY PM</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION II-A<br>
 SIMULATION MODELS OF FEDERAL SURVEYS</button></p>
 <p style="width:50%;"><a href="../assets/docs/Cox_2012FCSM_II-A.pdf" target="_blank">The Case for Simulation Models of Federal Surveys</a>  <small> (216 KB)</small></p>
@@ -130,7 +125,7 @@ INCOME</button></p>
 <p style="width:50%;" class="indent">Joseph Barth, John Tillinghast, and Mary Mulry (U.S. Census Bureau)</p>
 <p style="width:50%;"><a href="../assets/docs/Czajka_2012FCSM_III-D.pdf" target="_blank">Getting More From Survey Income Measures: Empirically-Based Recommendations for Improving Accuracy and Efficiency</a>  <small> (346 KB)</small></p>
 <p style="width:50%;" class="indent">John Czajka (Mathematica Policy Research, USA) and Gabrielle Denmead (Consultant, USA)</p>
-<p class="date"><a name="WednesdayAM"></a>WEDNESDAY AM</p>
+<p class="date">WEDNESDAY AM</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION IV-A<br>
 SMALL AREA ESTIMATION</button></p>
 <p style="width:50%;"><a href="../assets/docs/construction.pdf" target="_blank">Effect of Model Misspecification on Small Area Estimation of Proportions from the National Ambulatory Medical Care Survey (NAMCS) Data</a><br>  <small> (404 KB)</small></p>
@@ -205,7 +200,7 @@ STATISTICAL METHODS</button></p>
 <p style="width:50%;" class="indent">Kevin Tolliver (U.S. Census Bureau)</p>
 <p style="width:50%;"><a href="../assets/docs/Davenport_2012FCSM_V-D.pdf" target="_blank">Quantification of Profile Matches</a>  <small> (381 KB)</small></p>
 <p style="width:50%;" class="indent">Ernest Davenport, Jr. and Mark Davison (University of Minnesota, USA)</p>
-<p class="date"><a name="WednesdayPM"></a>WEDNESDAY PM</p>
+<p class="date">WEDNESDAY PM</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION VI-A<br>
 VARIANCE ESTIMATION</button></p>
 <p style="width:50%;"><a href="../assets/docs/construction.pdf" target="_blank">Can Post-Imputation Calibration Mitigate Possible Bias in Rubin's Multiple Imputation Variance Estimator?</a>  <small> (404 KB)</small></p>
@@ -276,7 +271,7 @@ CHALLENGING ISSUES FOR TODAY AND TOMORROW: INNOVATIVE APPROACHES</button></p>
 <p style="width:50%;" class="indent">Matthew Virgile (U.S. Census Bureau)</p>
 <p style="width:50%;"><a href="../assets/docs/construction.pdf" target="_blank">Statistics on Temporal and Spatial Activity Based on Mobile Phone Network Data</a>  <small> (404 KB)</small></p>
 <p style="width:50%;" class="indent">Edwin de Jonge, Merijn van Pelt, and Marko Roos (Statistics Netherlands)</p>
-<p class="date"><a name="ThursdayAM"></a>THURSDAY AM</p>
+<p class="date">THURSDAY AM</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION VIII-A<br>
 MULTIPLE IMPUTATION</button></p>
 <p style="width:50%;"><a href="../assets/docs/Drechsler_2012FCSM_VIII-A.pdf" target="_blank">MI Double Feature: Multiple Imputation to Address Nonresponse and Rounding Errors in Income Questions Simultaneously</a>  <small> (383 KB)</small></p>
@@ -344,7 +339,7 @@ SAMPLING FOR EVERY OCCASION</button></p>
 <p style="width:50%;" class="indent">Kevin McKinney (U.S. Census Bureau)</p>
 <p style="width:50%;"><a href="../assets/docs/Bell_2012FCSM_IX-D.pdf" target="_blank">Estimates of External Bias in Impact Evaluations That Select Sites Purposively</a>  <small> (75 KB)</small></p>
 <p style="width:50%;" class="indent">Stephen Bell and Robert Olsen (Abt Associates, USA) and Larry Orr and Elizabeth Stuart (Johns Hopkins University, USA)</p>
-<p class="date"><a name="ThursdayPM"></a>THURSDAY PM</p>
+<p class="date">THURSDAY PM</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION X-A<br>
 BAYESIAN STATISTICAL METHODS</button></p>
 <p style="width:50%;"><a href="../assets/docs/Little_2012FCSM_X-A.pdf" target="_blank">Calibrated Bayes: Spanning the Divide Between Frequentist and Bayesian Inference</a>  <small> (465 KB)</small></p>

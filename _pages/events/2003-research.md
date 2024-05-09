@@ -15,7 +15,7 @@ sidenav: events_navigation
   SPEAKER - Colm O’Muircheartaigh (NORC, University of Chicago)</p>
   <hr>
   <p><br class="clear"></p>
-  <p class="date"><a name="MondayAM"></a>MONDAY AM</p>
+  <p class="date">MONDAY AM</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION II-A<br>
     DISCLOSURE (SESSION 1)
     </div>
@@ -47,7 +47,7 @@ sidenav: events_navigation
   Frederick Conrad (University of Michigan, USA)</p>
   <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/2003FCSM_Esposito.pdf" target="_blank">A Framework Relating Questionnaire Design-and-Evaluation Processes to Sources of Measurement Error</a>  </p>
   <p class="indent">James Esposito (Bureau of Labor Statistics, USA)</p>
-  <p class="date"><a name="MondayPm"></a>MONDAY PM</p>
+  <p class="date">MONDAY PM</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION III-A<br>
   DISCLOSURE (SESSION 2)
   </div>
@@ -107,7 +107,7 @@ sidenav: events_navigation
   <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/2003FCSM_Saavedra_Weir.pdf" target="_blank">The Use of Permanent Random Numbers in a Multi-Product Petroleum Sales Survey: Twenty Years of a Developing Design</a><br>   </p>
   <p class="indent">Pedro Saavedra (ORC Macro, USA)<br>
   Paula Weir (Energy Information Administration, USA)</p>
-  <p class="date"><a name="TuesdayAm"></a>TUESDAY AM</p>
+  <p class="date">TUESDAY AM</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">SESSION V-A<br>
     LINGUISTIC AND CULTURAL ISSUES IN SURVEY AND QUESTIONNAIRE DESIGN
     </div>
@@ -183,7 +183,7 @@ sidenav: events_navigation
   <p class="indent">Arnie Wilcox and Robert Hood (National Agricultural Statistics Service)</p>
   <p style="width:50%">A Less Intrusive Variant on Cell Suppression to Protect the Confidentiality of Business Statistics  </p>
   <p class="indent">Gordon Sande (Sande &amp; Associates, Inc.)</p>
-  <p class="date"><a name="TuesdayPm"></a>TUESDAY PM</p>
+  <p class="date">TUESDAY PM</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION VII-A<br>
   MEASURING AND REPORTING SURVEY QUALITY MEASURES
   </div>
@@ -214,7 +214,7 @@ sidenav: events_navigation
   <p class="indent">Marco Cutaia and Stefano Pisani (Italian Revenue Agency, Italy)</p>
   <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/2003FCSM_KellerWigton.pdf" target="_blank">Composite Predictions of Yield for Agricultural Commodities</a>  </p>
   <p class="indent">Timothy Keller and William Wigton (National Agricultural Statistics Service, USA)</p>
-  <p class="date"><a name="Wednesday"></a>WEDNESDAY ALL SESSIONS</p>
+  <p class="date">WEDNESDAY ALL SESSIONS</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION VIII-A<br>
   EVALUATION OF THE DATA QUALITY IMPACT OF SURVEY AND DISSEMINATION PROCESSES
   </div>

@@ -15,7 +15,7 @@ sidenav: events_navigation
   SESSION I - Stephen Fienberg</p>
   <hr>
   <p><br class="clear"></p>
-  <p class="date"><a id="s2a" name="s2a"></a>SESSION II-A<br />MODEL-BASED SURVEY ESTIMATION; BAYESIAN STATISTICAL METHODS AND SOFTWARE</p>
+  <p class="date">SESSION II-A<br />MODEL-BASED SURVEY ESTIMATION; BAYESIAN STATISTICAL METHODS AND SOFTWARE</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Chand.pdf" target="_blank">Small Area Estimates from the American Community Survey Using a Housing Unit Model</a>  </p>
   <p class="indent">Nanak Chand and Donald Malec</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Popoff.pdf" target="_blank">Measuring the Number of People Without Health Insurance: A Test of a Synthetic Estimates Approach for Small Area Estimates Using SIPP Microdata</a>  <br><br>
@@ -27,7 +27,7 @@ sidenav: events_navigation
   <a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Eltinge_Figures_1-4.pdf" target="_blank"><i>Diagrams 1-4</i></a>  <br><br>
   <a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Eltinge_Figures_5-6.pdf" target="_blank"><i>Diagrams 5-6</i></a>  </p>
   <p class="indent">John Eltinge and Amang Sukasih</p>
-  <p class="date"><a id="s2b" name="s2b"></a>SESSION II-B<br><br>
+  <p class="date">SESSION II-B<br><br>
   DATA MINING, DATA WAREHOUSING, AND METADATA</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Liddy.pdf" target="_blank">An NLP Approach for Improving Access to Statistical Information for the Masses</a>  </p>
   <p class="indent">Elizabeth Liddy and Jennifer Liddy</p>
@@ -37,7 +37,7 @@ sidenav: events_navigation
   <p class="indent">Carol Hert</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Romeu.pdf" target="_blank">Operations Research/Statistics Techniques: A Key to Quantitative Data Mining</a>  </p>
   <p class="indent">Jorge Romeu</p>
-  <p class="date"><a id="s3a" name="s3a"></a>SESSION III-A<br><br>
+  <p class="date">SESSION III-A<br><br>
   USES OF ADVANCED TECHNOLOGIES FOR DATA COLLECTION, PROCESSING AND DISSEMINATION, PART 1</p>
   <p>Computer Audio Recorded Interviewing (CARI): Additional Feasibility Efforts of Monitoring Field Interview Performance  </p>
   <p class="indent">Deborah Herget, Paul Biemer, Jeremy Morton, and Kelly Sand</p>
@@ -46,7 +46,7 @@ sidenav: events_navigation
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Searson.pdf" target="_blank">Strategies to Implement Electronic Collection of Multiple Worksite Report Data</a>  </p>
   <p class="indent">Michael Searson</p>
   <p>Formal Discussion: Martha Johnson</p>
-  <p class="date"><a id="s3b" name="s3b"></a>SESSION III-B<br><br>
+  <p class="date">SESSION III-B<br><br>
   TREATMENT OF MISSING DATA</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Fetter.pdf" target="_blank">Mass Imputation of Agricultural Economic Data Missing by Design – A Simulation Study of Two Regression Based Techniques</a>  </p>
   <p class="indent">Matt Fetter</p>
@@ -56,7 +56,7 @@ sidenav: events_navigation
   <p class="indent">Michael Greene, Linda Smith, Mark Levenson, Signe Hiser, and Jean Mah</p>
   <p>Formal Discussion  </p>
   <p class="indent">Nathaniel Schenker</p>
-  <p class="date"><a id="s4a" name="s4a"></a>SESSION IV-A<br><br>
+  <p class="date">SESSION IV-A<br><br>
   USES OF ADVANCED TECHNOLOGIES FOR DATA COLLECTION, PROCESSING, AND DISSEMINATION, PART II</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Boucher.pdf" target="_blank">Laying the Foundation for Electronic Dissemination: Statistics Canada’s Output Database, CANSIM II</a>  </p>
   <p class="indent">Louis Boucher</p>
@@ -66,7 +66,7 @@ sidenav: events_navigation
   <p class="indent">Colleen Blessing, Robert Rutchik, Howard Bradsher-Fredrick, Herbert Miller, and Renee Miller</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Best.pdf" target="_blank">Developing Internet Dissemination in Step with Client Expectations</a>  </p>
   <p class="indent">Pamela Best</p>
-  <p class="date"><a id="s4b" name="s4b"></a>SESSION IV-B<br><br>
+  <p class="date">SESSION IV-B<br><br>
   IMPROVING COVERAGE AND RESPONSE RATES</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Fecso.pdf" target="_blank">Experiences with Incentives in a Public Attitudes Survey Using RDD</a>  </p>
   <p class="indent">Ron Fecso</p>
@@ -76,7 +76,7 @@ sidenav: events_navigation
   <p class="indent">Michael Horrigan, Rupa Datta, and James Walker</p>
   <p>Incentive Effects Across Gender Groups in a Federal Survey on Sexual Behavior and Fertility</p>
   <p class="indent">Robert Groves, William Mosher, and Eleanor Singer</p>
-  <p class="date"><a id="s5a" name="s5a"></a>SESSION V-A<br><br>
+  <p class="date">SESSION V-A<br><br>
   CONFIDENTIALITY AND DISCLOSURE ISSUES IN DATA RELEASE AND DATA LINKAGE,<br> PART 1</p>
   <p>On Disclosure Protection for Nontraditional Statistical Outputs</p>
   <p class="indent">Arnold Reznek and David Merrell</p>
@@ -86,7 +86,7 @@ sidenav: events_navigation
   <p class="indent">Jerome Reiter</p>
   <p>A Disclosure Treatment Strategy of Public Use Micro Data Files Based Upon Optimal Sampling Design Considerations</p>
   <p class="indent">A.C. Singh, Moshe Feder, George Dunteman, and Feng Yu</p>
-  <p class="date"><a id="s5b" name="s5b"></a>SESSION V-B<br><br>
+  <p class="date">SESSION V-B<br><br>
   ESTIMATION AND VARIANCE ESTIMATION</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Burck.pdf" target="_blank">A General Method for Estimating the Variances of X11-ARIMA Estimators</a>  </p>
   <p class="indent">Luisa Burck and Michail Sverchkov</p>
@@ -96,7 +96,7 @@ sidenav: events_navigation
   <p class="indent">Harold Mantel, Milorad Kovacevic, Owen Phillips, and Georgia Roberts</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Griffiths.pdf" target="_blank">Current Population Survey State-Level Variance Estimation</a>  </p>
   <p class="indent">Richard Griffiths and Khandaker Mansur</p>
-  <p class="date"><a id="s6a" name="s6a"></a>SESSION VI-A<br><br>
+  <p class="date">SESSION VI-A<br><br>
   CONFIDENTIALITY AND DISCLOSURE ISSUES IN DATA RELEASE AND DATA LINKAGE,<br> PART 2</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Nichols.pdf" target="_blank">Balancing Confidentiality and Burden Concerns in Censuses and Surveys of Large Businesses</a>  </p>
   <p class="indent">Elizabeth Nichols and Diane Willimack</p>
@@ -106,7 +106,7 @@ sidenav: events_navigation
   <p class="indent">Patricia Doyle, Nancy Bates, and Gerald Gates</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_singer.pdf" aria-label="Eleanor Singer's formal discussion" target="_blank">Formal Discussion</a>  </p>
   <p class="indent">Eleanor Singer</p>
-  <p class="date"><a id="s6b" name="s6b"></a>SESSION VI-B<br><br>
+  <p class="date">SESSION VI-B<br><br>
   STATISTICAL USES OF ADMINISTRATIVE RECORDS</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Hoffman.pdf" target="_blank">Changes in the Use of Education Administrative Records: The Common Core of Data</a>  </p>
   <p class="indent">Lee Hoffman and Beth Young</p>
@@ -115,7 +115,7 @@ sidenav: events_navigation
   <p>The Assessment of Survey of Income and Program Participation (SIPP), Benefit Data Using Longitudinal Administrative Records<br> </p>
   <p class="indent">Kalman Rupp, Minh Huynh, and James Sears</p>
   <p>Formal Discussion: Fritz Scheuren</p>
-  <p class="date"><a id="s7a" name="s7a"></a>SESSION VII-A<br><br>
+  <p class="date">SESSION VII-A<br><br>
   INTERNET AND OTHER FORMS OF DATA COLLECTION</p>
   <p>AESDirect – Internet Data Collection of U.S. Export Information </p>
   <p class="indent">Charles Woods</p>
@@ -124,7 +124,7 @@ sidenav: events_navigation
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Huggins.pdf" target="_blank">Probability Based Internet Surveys: A Synopsis of Early Methods and Survey Research Results</a>  </p>
   <p class="indent">Vicki Huggins and Joe Eyeman</p>
   <p>Formal Discussion: Tim Gabel</p>
-  <p class="date"><a id="s7b" name="s7b"></a>SESSION VII-B<br><br>
+  <p class="date">SESSION VII-B<br><br>
   SAMPLE DESIGN AND ESTIMATION</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Cohen.pdf" target="_blank">Sample Size Considerations for Multilevel Surveys</a>  </p>
   <p class="indent">Michael Cohen</p>
@@ -132,7 +132,7 @@ sidenav: events_navigation
   <p class="indent">Phillip Kott, Per Gösta Andersson, and Olle Nerman</p>
   <p>Formal Discussion  </p>
   <p class="indent">Stephen Haslett</p>
-  <p class="date"><a id="s8a" name="s8a"></a>SESSION VIII-A<br><br>
+  <p class="date">SESSION VIII-A<br><br>
   ISSUES IN GEOSPATIAL DATA COLLECTION</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Nusser.pdf" target="_blank">Using Digital Geospatial Information to Locate Sample Units in the Field</a> </p>
   <p class="indent">Sarah Nusser and Jean Fox</p>
@@ -142,7 +142,7 @@ sidenav: events_navigation
   <p class="indent">Vincent Iannacchione, Jennifer Staab, and David Redden</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Elhami.pdf" aria-label="Shoreh Elhami's formal discussion" target="_blank">Formal Discussion</a>  </p>
   <p class="indent">Shoreh Elhami</p>
-  <p class="date"><a id="s8b" name="s8b"></a>SESSION VIII-B<br><br>
+  <p class="date">SESSION VIII-B<br><br>
   COGNITIVE RESEARCH AND USABILITY TESTING IN SURVEY PROCESSES</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Krosnick.pdf" target="_blank">Optimizing Survey Measurement Accuracy by Matching Question Design to Respondent Memory Organization</a>  </p>
   <p class="indent">Jon Krosnick and Michael Silver</p>
@@ -152,10 +152,10 @@ sidenav: events_navigation
   <p class="indent">Jean Fox</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Murphy.pdf" target="_blank">Building Usability into Electronic Data-Collection Forms for Economic Censuses and Surveys</a>  </p>
   <p class="indent">Elizabeth Murphy, Elizabeth Nichols, Amy Anderson, M. Diane Harley, and Kimberly Pressley</p>
-  <p class="date"><a id="ps9" name="ps9"></a>PLENARY SESSION IX</p>
+  <p class="date">PLENARY SESSION IX</p>
   <p>Federal Statistics: The “Right” Balance between Accountability and Autonomy</p>
   <p class="indent">Kenneth Prewitt</p>
-  <p class="date"><a id="s10a" name="s10a"></a>SESSION X-A<br><br>
+  <p class="date">SESSION X-A<br><br>
   DATA QUALITY AND NONSAMPLING ERROR, PART 1</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Thompson.pdf" target="_blank">Investigation of Selective Editing Procedures Using Quinquennial Data</a>  </p>
   <p class="indent">Katherine Thompson and Susan Hostetter</p>
@@ -165,7 +165,7 @@ sidenav: events_navigation
   <p class="indent">Frederick Conrad and Mick Couper</p>
   <p>Using Respondent Requests for Help to Develop Quality Data Collection Instruments: The 2000 Census of Agriculture Content Test  </p>
   <p class="indent">Jaki McCarthy</p>
-  <p class="date"><a id="s10b" name="s10b"></a>SESSION X-B<br><br>
+  <p class="date">SESSION X-B<br><br>
   NEW APPROACHES IN SAMPLE DESIGN, ESTIMATION AND RECORD LINKAGE</p>
   <p>Changes in Sampling Units in Surveys of Businesses  </p>
   <p class="indent">Jock Black</p>
@@ -175,7 +175,7 @@ sidenav: events_navigation
   <p class="indent">Dean Judson</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Shapiro.pdf" aria-label="Gary Shapiro's formal discussion" target="_blank">Formal Discussion</a>  </p>
   <p class="indent">Gary Shapiro</p>
-  <p class="date"><a id="s11a" name="s11a"></a>SESSION XI-A<br><br>
+  <p class="date">SESSION XI-A<br><br>
   DATA QUALITY AND NONSAMPLING ERROR, PART 2</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Haworth.pdf" target="_blank">Delivering and Measuring Data Quality in UK National Statistics</a>  </p>
   <p class="indent">Marta Haworth and Jean Martin</p>
@@ -185,7 +185,7 @@ sidenav: events_navigation
   <p class="indent">Akbar Sadeghi and Richard Clayton</p>
   <p><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Kasprzyk.pdf" aria-label="Daniel Kasprzyk's formal discussion" target="_blank">Formal Discussion</a>  </p>
   <p class="indent">Daniel Kasprzyk</p>
-  <p class="date"><a id="s11b" name="s11b"></a>SESSION XI-B<br><br>
+  <p class="date">SESSION XI-B<br><br>
   CENSUS AND SURVEY EVALUATION METHODOLOGIES</p>
   <p>Estimating Reliability and Bias from Reinterviews with Application to the 1998 Dress Rehearsal Race Question  </p>
   <p class="indent">Paul Biemer and Henry Woltman</p>
