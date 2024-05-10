@@ -8,6 +8,7 @@ sidenav: group_navigation
 <p>The SOGISC Subcommittee advises the FCSM and the Interagency Council on Statistical Policy (ICSP) on SOGISC measurement issues, provides technical assistance as needed across Federal agencies on SOGISC measurement issues, and oversees meetings of the FCSM <a href="{{site.baseurl}}/groups/sogisc-ig/">Sexual Orientation, Gender Identity, and Sex Characteristics (SOGISC) Interest Group</a>.</p>
 
 <p><a href="{{site.baseurl}}/assets/files/docs/SOGISC Subcommittee Charter FINAL 2024.01.26 signed.pdf">SOGISC Subcommittee Charter</a></p>
+<p><a href="{{site.baseurl}}/assets/files/docs/FCSM SOGISC Subcommittee 2024.pdf">SOGISC Subcommittee Membership List</a></p>
 
 <ul>
   <li>Contact: Jennifer Ortman (U.S. Census Bureau), <a href="mailto:jennifer.m.ortman@census.gov">jennifer.m.ortman@census.gov</a> or Karen Parker (NIH), <a href="mailto:Klparker@mail.nih.gov">Klparker@mail.nih.gov</a></li>
