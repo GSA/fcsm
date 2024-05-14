@@ -9,10 +9,6 @@ November 4-6, 2013</p>
 <p style="width:50%;"><a href="http://www.copafs.org/seminars/fcsm2013research.htmlx"><strong>PRESENTATIONS</strong></a> (posted on the COPAFS website)</p>
 <p><strong>Resources and Proceedings</strong></p>
 <p>Unless noted, all of these documents are in Portable Document Format [PDF].</p>
-<!--<p><strong><a id="top" name="top"></a>Jump to ...</strong><br>
-Monday <a href="#MondayAM">AM</a> / <a href="#MondayPM"> PM</a><br>
-Tuesday <a href="#TuesdayAM">AM</a> / <a href="#TuesdayPM">PM</a><br>
-Wednesday <a href="#WednesdayAM">AM</a> / <a href="#WednesdayPM">PM</a></p>-->
 <p class="larger" style="float: left; padding-right: 30px;">PLENARY<br>
 SESSION</p>
 <p style="float: left; width: 70%;"><strong><a href="../assets/docs/Plenary_Tourangeau_2013FCSM.pdf" target="_blank">Confronting the Challenges of Household Surveys by Mixing Modes</a></strong> <small> (6.8 MB)</small></p>
@@ -20,7 +16,7 @@ SESSION</p>
 <p>Dr. Roger Tourangeau (Westat)</p>
 <hr>
 <p><br class="clear"></p>
-<p class="date"><a id="MondayAm" name="MondayAm"></a>MONDAY AM, NOVEMBER 4</p>
+<p class="date">MONDAY AM, NOVEMBER 4</p>
 
 
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION A-1:<br>
@@ -97,8 +93,7 @@ Brett Fried (University of Minnesota - SHADAC)</p>
 <p class="indent">James Noon (U.S. Census Bureau)<br>
 Leticia Fernandez (U.S. Census Bureau)<br>
 Sonya Rastogi (U.S. Census Bureau)</p>
-<p class="date">
-<a id="MondayPM" name="MondayPM"></a>MONDAY PM, NOVEMBER 4</p>
+<p class="date">MONDAY PM, NOVEMBER 4</p>
 
 
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION B-1:<br>
@@ -248,7 +243,7 @@ Ashleigh Davis (ICF International)</p>
 Jacqueline Pflieger (ICF International)<br>
 Frances Barlas (ICF International)<br>
 Randall Thomas (GfK Custom Research, LLC)</p>
-<p class="date"><a id="TuesdayAM" name="TuesdayAM"></a>TUESDAY AM, NOVEMBER 5</p>
+<p class="date">TUESDAY AM, NOVEMBER 5</p>
 
 
 
@@ -400,7 +395,7 @@ Lucilla Tan (Bureau of Labor Statistics)<br>
 Scott Fricker (Bureau of Labor Statistics)</p>
 <p style="width:50%;"><a href="../assets/docs/construction.pdf" target="_blank">A Model for Matching Error for Triple System Estimation</a> <small> (440.0 MB)</small></p><!-----pdf/E4_Griffin_2013FCSM-508.pdf------>
 <p class="indent">Richard Griffin (U.S. Census Bureau)</p>
-<p class="date"><a id="TuesdayPM" name="TuesdayPM"></a>TUESDAY PM, NOVEMBER 5</p>
+<p class="date">TUESDAY PM, NOVEMBER 5</p>
 
 
 
@@ -568,7 +563,7 @@ Dicy Painter (Substance Abuse and Mental Health Services Administration)<br>
 Doug Currivan (RTI International)<br>
 Larry Kroutil (RTI International)<br>
 Kevin Wang (RTI International)</p>
-<p class="date"><a id="WednesdayAM" name="WednesdayAM"></a>WEDNESDAY AM, NOVEMBER 6</p>
+<p class="date">WEDNESDAY AM, NOVEMBER 6</p>
 
 
 
@@ -728,7 +723,7 @@ Linda Young (National Agricultural Statistics Service)<br>
 Denise Abreu (National Agricultural Statistics Service)<br>
 Shu Wang (University of Florida)<br>
 Andrea Lamas (National Agricultural Statistics Service)</p>
-<p class="date"><a id="WednesdayPM" name="WednesdayPM"></a>WEDNESDAY PM, NOVEMBER 6</p>
+<p class="date">WEDNESDAY PM, NOVEMBER 6</p>
 
 
 

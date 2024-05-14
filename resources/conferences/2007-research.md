@@ -5,11 +5,6 @@ layout: page
 <p style="width:50%;"><a href="../assets/docs/2007FCSMResearchProgram.pdf" target="_blank"><strong>FINAL PROGRAM</strong></a>  <small> (498 KB)</small></p>
 <p><strong>Resources and Proceedings</strong></p>
 <p style="width:50%;">Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe&reg; Acrobat&reg; Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
-<!--<p><strong><a id="top" name="top"></a>Jump to ...</strong><br>
-Monday <a href="#MondayAM">AM</a> / <a href="#MondayPM"> PM</a><br>
-Tuesday <a href="#TuesdayAM">AM</a> / <a href="#TuesdayPM">PM</a><br>
-Wednesday <a href="#WednesdayAM">AM</a></p>
-<p class="date"><a name="MondayAM"></a>MONDAY AM</p>-->
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION II-A<br>
 MONITORING, MEASURING, AND ADJUSTING FOR NON-RESPONSE I</button></p>
 <p style="width:50%;"><a href="../assets/docs/2007FCSM_Graber-II-A.pdf" target="_blank">Monitoring Response to a Multi-Wave Medical Establishment Survey: How Different Are Responders From Nonresponders?</a>  <small> (199 KB)</small></p>
@@ -40,7 +35,7 @@ FRAMES AND COVERAGE</button></p>
 <p class="indent">Xijian Liu (U.S. Census Bureau)</p>
 <p style="width:50%;"><a href="../assets/docs/2007FCSM_Clark-II-C.pdf" target="_blank">Impact of Preliminary Versus Final Economic Census Data on the Universe Extraction Process for Current Business Surveys</a>  <small> (284 KB)</small></p>
 <p class="indent">Kari Clark and Carol King (U.S. Census Bureau)</p>
-<p class="date"><a name="MondayPM"></a>MONDAY PM</p>
+<p class="date">MONDAY PM</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION III-A<br>
 DISCLOSURE I</button></p>
 <p style="width:50%;"><a href="../assets/docs/construction.pdf" target="_blank">Comparative Evaluation of Four Different Sensitive Tabular Data Protection Methods Using a Real Life Table Structure of Complex Hierarchies and Links</a>  <small> (440 KB)</small></p>
@@ -97,7 +92,7 @@ TOPICS IN ESTIMATION AND MODELING FOR NATIONAL AND INTERNATIONAL SURVEYS</button
 <p class="indent">Swamy Paravastu and Tamara Zimmerman (Bureau of Labor Statistics, USA) and Jatinder Mehta (Temple University, USA)</p>
 <p style="width:50%;"><a href="../assets/docs/2007FCSM_Asiala-IV-C.pdf" target="_blank">Weighting and Estimation Research Methodology and Results From the American Community Survey Family Equalization Project</a>  <small> (242 KB)</small></p>
 <p class="indent">Mark Asiala (U.S. Census Bureau)</p>
-<p class="date"><a name="TuesdayAM"></a>TUESDAY AM</p>
+<p class="date">TUESDAY AM</p>
 <p class="larger">TECHNICAL DEMONSTRATIONS</p>
 <p class="indent"><a href="../assets/docs/2007FCSM_Anolik-TD.pdf" target="_blank">Making Sense of Data via the Web - A Case Study Using Agricultural Data</a>  <small> (21 KB)</small></p>
 <p class="indent">Irwin Anolik (National Agricultural Statistics Service, USA)</p>
@@ -171,7 +166,7 @@ ADMINISTRATIVE RECORDS: APPLICATIONS OF DATA LINKAGES</button></p>
 <p class="indent">Amy O'Hara (U.S. Census Bureau)</p>
 <p style="width:50%;"><a href="../assets/docs/2007FCSM_Halse.VI-C.pdf" target="_blank">The Use of Free School Meal Status as a Proxy for Socio-Economic Status: Evidence From Matching the Longitudinal Study of Young People in England to the National Pupil Database</a>  <small> (303 KB)</small></p>
 <p class="indent">James Halse and Andrew Ledger (Department for Children, Schools and Families, United Kingdom)</p>
-<p class="date"><a name="TuesdayPM"></a>TUESDAY PM</p>
+<p class="date">TUESDAY PM</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION VII-A<br>
 MAKING MUSIC OUT OF ALL THAT NOISE: USING ADMINISTRATIVE RECORDS AND SURVEY DATA IN HARMONY</button></p>
 <p style="width:50%;"><a href="../assets/docs/2007FCSM_Davern-VII-A.pdf" target="_blank">Validating Health Insurance Coverage Survey Estimates: A Comparison Between Self-Reported Coverage and Administrative Data Records</a><br>  <small> (360 KB)</small></p>
@@ -218,7 +213,7 @@ DATA QUALITY</button></p>
 <p class="indent">Steven Hill (Agency for Healthcare Research and Quality, USA)</p>
 <p>Quality of Income Data in Household Surveys: Lessons From a Comparative Analysis</p>
 <p class="indent">Gabrielle Denmead (Denmead Services, USA), John Czajka and Robert Weathers (Mathematica Policy Research, Inc., USA) and Joan Turek (U.S. Department of Health and Human Services)</p>
-<p class="date"><a name="WednesdayAM"></a>WEDNESDAY AM</p>
+<p class="date">WEDNESDAY AM</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION IX-A<br>
 CHALLENGES AND STRATEGIES IN QUESTIONNAIRE DESIGN</button></p>
 <p>Effects of Language and Culture on Interpretation of Translated "Confidentiality" and "Mandatory" Survey Messages</p>
