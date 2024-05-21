@@ -10,29 +10,36 @@
 ========================================
 */
 // -------------------------------------
-// Import individual theme settings
-@import "theme/uswds-theme-general";
-@import "theme/uswds-theme-typography";
-@import "theme/uswds-theme-spacing";
-@import "theme/uswds-theme-color";
-@import "theme/uswds-theme-utilities";
-@import "theme/uswds-theme-components";
 
-// Set correct paths for use with asset pipeline
-$theme-font-path: "../fonts";
-$theme-image-path: "../uswds/img";
-$theme-show-notifications: false;
+@use "uswds" with (
+  $theme-font-path: "../fonts",
+  $theme-image-path: "../uswds/img",
+  $theme-font-role-heading: "sans",
+  $height-settings: (
+    output: true,
+    responsive: true,
+    active: false,
+    focus: false,
+    hover: false,
+    visited: false,
+  ),
+  $theme-show-notifications: false,
+);
 
+@forward "../../_sass/menu-collapsible.scss";
+@forward "../../_sass/add-background-svg.scss";
+@forward "../../_sass/font-face.scss";
+@forward "../../_sass/hero.scss";
+@forward "../../_sass/carousel.scss";
+@forward "../../_sass/resources.scss";
 
-// -------------------------------------
-// Import individual USWDS packages...
-@import "scss/packages/required";
-@import "scss/packages/global";
+// @forward "theme/uswds-theme-general";
+// @forward "theme/uswds-theme-typography";
+// @forward "theme/uswds-theme-spacing";
+// @forward "theme/uswds-theme-color";
+// @forward "theme/uswds-theme-utilities";
+// @forward "theme/uswds-theme-components";
 
-@import "scss/packages/uswds-components";
-@import "scss/packages/uswds-utilities";
-
-@import "../_sass/resources.scss";
 /*
 ----------------------------------------
 USWDS THEME CUSTOM STYLES
@@ -48,12 +55,6 @@ i.e.
 ----------------------------------------
 */
 
-@import "../_sass/menu-collapsible.scss";
-@import "../_sass/carousel.scss";
-@import "../_sass/add-background-svg.scss";
-@import "../_sass/all.scss";
-@import "../_sass/font-face.scss";
-@import "../_sass/hero.scss";
 
 h2, h3, h4 {
   font-family: Merriweather Web, Georgia, Cambria, Times New Roman, Times, serif !important;
@@ -61,6 +62,10 @@ h2, h3, h4 {
 
 .usa-prose>h2 {
   font-size: 1.8rem !important;
+}
+
+.usa-prose>p:first-child {
+  margin-top: 0;
 }
 
 // default mode hide banner
@@ -139,7 +144,7 @@ h2, h3, h4 {
 }
 
 a {
-  color: #007DBC;
+  color: #006cab;
   &:hover {
     color: #04284d;
   }
@@ -220,19 +225,19 @@ small {
 
 @media screen and (max-width: 640px) {
 
-    .usa-banner__button[aria-expanded="true"]::after {
-        border: 0;
-        background-image: url("../img/close-blue-60v-alt.png"), linear-gradient(transparent, transparent);
-        background-repeat: no-repeat;
-        background-position: center center;
-        background-size: 1rem;
-        content: '';
-        display: inline-block;
-        height: 3rem;
-        width: 3rem;
-        margin-left: 0;
-        background-color: transparent !important;
-    }
+    // .usa-banner__button[aria-expanded="true"]::after {
+    //     border: 0;
+    //     background-image: url("../img/close-blue-60v-alt.png"), linear-gradient(transparent, transparent);
+    //     background-repeat: no-repeat;
+    //     background-position: center center;
+    //     background-size: 1rem;
+    //     content: '';
+    //     display: inline-block;
+    //     height: 3rem;
+    //     width: 3rem;
+    //     margin-left: 0;
+    //     background-color: transparent !important;
+    // }
 
     .usa-banner__header-action::after {
         background-image: url("../img/angle-arrow-down-primary.png"), linear-gradient(transparent, transparent);
@@ -241,12 +246,23 @@ small {
         background-size: 0.5rem;
         content: '';
         display: inline-block;
-        height: 0.5rem;
-        width: 0.5rem;
         margin-left: 2px;
         background-color: transparent !important;
         -webkit-mask: none !important;
     }
+}
+
+@media (max-width: 39.99em) {
+  @supports (mask: url("")) {
+      .usa-banner__button[aria-expanded=true]::after {
+          background: none;
+          background-color: #005ea2;
+          mask-image: url(../img/close-blue-60v-alt.svg), linear-gradient(transparent, transparent);
+          mask-position: center center;
+          mask-repeat: no-repeat;
+          mask-size: 1rem 1rem;
+      }
+  }
 }
 
 //conference page
@@ -297,4 +313,14 @@ small {
   h2 {
       font-size: 16.96px;
   }
+}
+
+@media (min-width: 64em) {
+  .usa-header--extended .usa-logo {
+      max-width: 50%;
+  }
+}
+
+.usa-identifier__identity-disclaimer a.usa-identifier__required-link {
+  color: #dfe1e2 !important;
 }

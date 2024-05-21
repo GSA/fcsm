@@ -10,14 +10,13 @@ sidenav: events_navigation
   <h2 class="page-sub-title">2012 Research Conference</h2>
   <p>Washington Convention Center, Washington, DC<br>
   January 10-12, 2012<br>
-  <a name="top"></a><br>
   <strong>FINAL PROGRAM</strong>  </p>
   <p><strong>Resources and Proceedings</strong></p>
   <p style="width: 50%;">Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe® Acrobat® Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
 
   <p class="larger" style="float: left; padding-right: 30px; ">PLENARY -<strong>"Who is This Survey Designed for, the 'Agency' or the Respondent?"</strong>  <br />SESSION - Don Dillman (Washington State University, USA)</p>
   <p><br clear="all"></p>
-  <p class="date"><a name="TuesdayAM"></a>TUESDAY AM</p>
+  <p class="date">TUESDAY AM</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION I-A<br>
     INCENTIVES: A LOOK ACROSS STUDIES AND TIME
     </div>
@@ -61,7 +60,7 @@ sidenav: events_navigation
   <p style="width:50%;" class="indent">Dean Judson (Decision Analytics, USA)</p>
   <p style="width:50%;">Estimating Personal Transfers From the United States  </p>
   <p style="width:50%;" class="indent">Rachel Soloveichik and Anne Flatness (Bureau of Economic Analysis, USA)</p>
-  <p class="date"><a name="TuesdayPM"></a>TUESDAY PM</p>
+  <p class="date">TUESDAY PM</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION II-A<br>
   SIMULATION MODELS OF FEDERAL SURVEYS
   </div>
@@ -142,7 +141,7 @@ sidenav: events_navigation
   <p style="width:50%;" class="indent">Joseph Barth, John Tillinghast, and Mary Mulry (U.S. Census Bureau)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/Czajka_2012FCSM_III-D.pdf" target="_blank">Getting More From Survey Income Measures: Empirically-Based Recommendations for Improving Accuracy and Efficiency</a>  </p>
   <p style="width:50%;" class="indent">John Czajka (Mathematica Policy Research, USA) and Gabrielle Denmead (Consultant, USA)</p>
-  <p class="date"><a name="WednesdayAM"></a>WEDNESDAY AM</p>
+  <p class="date">WEDNESDAY AM</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION IV-A<br>
   SMALL AREA ESTIMATION
   </div>
@@ -225,7 +224,7 @@ sidenav: events_navigation
   <p style="width:50%;" class="indent">Kevin Tolliver (U.S. Census Bureau)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/Davenport_2012FCSM_V-D.pdf" target="_blank">Quantification of Profile Matches</a>  </p>
   <p style="width:50%;" class="indent">Ernest Davenport, Jr. and Mark Davison (University of Minnesota, USA)</p>
-  <p class="date"><a name="WednesdayPM"></a>WEDNESDAY PM</p>
+  <p class="date">WEDNESDAY PM</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION VI-A<br>
   VARIANCE ESTIMATION
   </div>
@@ -303,7 +302,7 @@ sidenav: events_navigation
   <p style="width:50%;" class="indent">Matthew Virgile (U.S. Census Bureau)</p>
   <p style="width:50%;">Statistics on Temporal and Spatial Activity Based on Mobile Phone Network Data  </p>
   <p style="width:50%;" class="indent">Edwin de Jonge, Merijn van Pelt, and Marko Roos (Statistics Netherlands)</p>
-  <p class="date"><a name="ThursdayAM"></a>THURSDAY AM</p>
+  <p class="date">THURSDAY AM</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION VIII-A<br>
   MULTIPLE IMPUTATION
   </div>
@@ -379,7 +378,7 @@ sidenav: events_navigation
   <p style="width:50%;" class="indent">Kevin McKinney (U.S. Census Bureau)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/Bell_2012FCSM_IX-D.pdf" target="_blank">Estimates of External Bias in Impact Evaluations That Select Sites Purposively</a>  </p>
   <p style="width:50%;" class="indent">Stephen Bell and Robert Olsen (Abt Associates, USA) and Larry Orr and Elizabeth Stuart (Johns Hopkins University, USA)</p>
-  <p class="date"><a name="ThursdayPM"></a>THURSDAY PM</p>
+  <p class="date">THURSDAY PM</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION X-A<br>
   BAYESIAN STATISTICAL METHODS
   </div>

@@ -5,17 +5,13 @@ layout: page
 <p style="width:50%"><a href="../assets/docs/construction.pdf" target="_blank"><strong>FINAL PROGRAM</strong></a>  <small> (440 KB)</small></p>
 <p><strong>Resources and Proceedings</strong></p>
 <p>Unless noted, all of these documents  are in Portable Document Format [PDF]. To view them you will need the Adobe&reg;  Acrobat&reg; Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
-<!--<p><strong><a name="top" id="top"></a>Jump to ...</strong><br>
-Monday <a href="#MondayAM">AM</a> / <a href="#MondayPM"> PM</a><br>
-Tuesday <a href="#TuesdayAM">AM</a> / <a href="#TuesdayPM">PM</a><br>
-<a href="#Wednesday">Wednesday</a></p>-->
 <p style="float:left; padding-right: 30px;" class="larger">KEYNOTE<br>
 SPEAKER</p>
 <p style="float:left; font-size:125%;width:70%;"><a href="../assets/docs/2003FCSM_keynotespeaker.pdf" target="_blank"><strong>There and Back Again:  Demographic Survey Sampling in the 21st Century</strong></a>  <small>(660 KB)</small><br>
 Colm O'Muircheartaigh (NORC, University of Chicago)</p><br>
 <hr>
 <p><br class="clear"></p>
-<p class="date"><a name="MondayAM"></a>MONDAY AM</p>
+<p class="date">MONDAY AM</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION II-A<br>
 	DISCLOSURE (SESSION 1)</button></p>
 <p style="width:50%"><a href="../assets/docs/2003FCSM_Manriquez-Boudreau.pdf" target="_blank"> Research into the Possibility of Releasing Hierarchical Public Use Microdata Files for the Canadian Census of Population</a>  <small> (283 KB)</small></p>
@@ -44,7 +40,7 @@ Johnny Blair (Abt Associates Inc., USA)<br>
 Frederick Conrad (University of Michigan, USA)</p>
 <p style="width:50%"><a href="../assets/docs/2003FCSM_Esposito.pdf" target="_blank">A Framework Relating Questionnaire Design-and-Evaluation Processes to Sources of Measurement Error</a>  <small> (260 KB)</small></p>
 <p class="indent">James Esposito (Bureau of Labor Statistics, USA)</p>
-<p class="date"><a name="MondayPm"></a>MONDAY PM</p>
+<p class="date">MONDAY PM</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION III-A<br>
 DISCLOSURE (SESSION 2)</button></p>
 <p style="width:50%"><a href="../assets/docs/2003FCSM_Provencal.pdf" target="_blank">Waivers in Business Surveys: A Systematic Approach to Increase the Amount of Publishable Information</a>  <small> (283 KB)</small></p>
@@ -101,7 +97,7 @@ MODELING 2 - REGRESSION APPLICATIONS</button></p>
 <p style="width:50%"><a href="../assets/docs/2003FCSM_Saavedra_Weir.pdf" target="_blank">The Use of Permanent Random Numbers in a Multi-Product Petroleum Sales Survey: Twenty Years of a Developing Design</a><br>  <small> (149 KB)</small> </p>
 <p class="indent">Pedro Saavedra (ORC Macro, USA)<br>
 Paula Weir (Energy Information Administration, USA)</p>
-<p class="date"><a name="TuesdayAm"></a>TUESDAY AM</p>
+<p class="date">TUESDAY AM</p>
 <p class="larger"><button type="button" class="collapsible">SESSION V-A<br>
 	LINGUISTIC AND CULTURAL ISSUES IN SURVEY AND QUESTIONNAIRE DESIGN</button></p>
 <p style="width:50%"><a href="../assets/docs/2003FCSM_Pan.pdf" target="_blank">The Role of Sociolinguistics in Federal Survey Development</a>  <small> (231 KB)</small></p>
@@ -172,7 +168,7 @@ J.N.K. Rao (Carleton University, Canada)</p>
 <p class="indent">Arnie Wilcox and Robert Hood (National Agricultural Statistics Service)</p>
 <p style="width:50%"><a href="../assets/docs/construction.pdf" target="_blank">A Less Intrusive Variant on Cell Suppression to Protect the Confidentiality of Business Statistics</a>  <small> (440 KB)</small></p>
 <p class="indent">Gordon Sande (Sande &amp; Associates, Inc.)</p>
-<p class="date"><a name="TuesdayPm"></a>TUESDAY PM</p>
+<p class="date">TUESDAY PM</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION VII-A<br>
 MEASURING AND REPORTING SURVEY QUALITY MEASURES</button></p>
 <p style="width:50%"><a href="../assets/docs/2003FCSM_doyle.pdf" target="_blank">Quality at the Item Level Terms, Methods, and Guidelines for Cross-Survey Comparisons, A Summary</a>  <small> (402 KB)</small></p>
@@ -200,7 +196,7 @@ ECONOMIC INDICATORS</button></p>
 <p class="indent">Marco Cutaia and Stefano Pisani (Italian Revenue Agency, Italy)</p>
 <p style="width:50%"><a href="../assets/docs/2003FCSM_KellerWigton.pdf" target="_blank">Composite Predictions of Yield for Agricultural Commodities</a>  <small> (128 KB)</small></p>
 <p class="indent">Timothy Keller and William Wigton (National Agricultural Statistics Service, USA)</p>
-<p class="date"><a name="Wednesday"></a>WEDNESDAY ALL SESSIONS</p>
+<p class="date">WEDNESDAY ALL SESSIONS</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION VIII-A<br>
 EVALUATION OF THE DATA QUALITY IMPACT OF SURVEY AND DISSEMINATION PROCESSES</button></p>
 <p style="width:50%"><a href="../assets/docs/2003FCSM_Smith_jordan.pdf" target="_blank">Evaluation of U.S. EPA's Screener Questionnaire for the Aquatic Animal  Production Industry and Comparison to USDA Data</a>  <small> (155 KB)</small></p>

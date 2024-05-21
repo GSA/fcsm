@@ -10,20 +10,9 @@ sidenav: events_navigation
   <h2 class="page-sub-title">1999 Research Conference</h2>
   <p><strong>Resources and Proceedings</strong></p>
   <p>Unless noted, all of these documents  are in Portable Document Format [PDF]. To view them you will need the Adobe®  Acrobat® Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
-  <!--<p><a name="top" id="top"></a><strong>Jump to …</strong><br>
-  <span style="float:left;width:30%;padding-bottom:20px;"><a href="#ps1">Plenary Session I</a><br>
-  <a href="#banq">Banquet Session</a><br>
-  Sessions <a href="#s2a">II-A</a> / <a href="#s2b">II-B</a><br>
-  Sessions <a href="#s3a">III-A</a> / <a href="#s3b">III-B</a><br>
-  Sessions <a href="#s4a">IV-A</a> / <a href="#s4b">IV-B</a><br>
-  Sessions <a href="#s5a">V-A</a> / <a href="#s5b">V-B</a></span><span style="float:left;width:30%;padding-bottom:20px;">Sessions <a href="#s6a">VI-A</a> / <a href="#s6b">VI-B</a><br>
-  Sessions <a href="#s7a">VII-A</a> / <a href="#s7b">VII-B</a><br>
-  Sessions <a href="#s8a">VIII-A</a> / <a href="#s8b">VIII-B</a><br>
-  Sessions<a href="#s9a"> IX-A</a> / <a href="#s9b">IX-B</a><br>
-  Sessions <a href="#s10a">X-A</a> / <a href="#s10b">X-B</a><br>-->
   <a href="#demo">Technical Demonstrations</a><br>
   <br clear="all"><p></p>
-  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;"><a name="ps1" id="ps1"></a>PLENARY SESSION 1<br>
+  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">PLENARY SESSION 1<br>
   Organizer: Cynthia Clark
   </div>
   <p>Introductory Remarks  </p>
@@ -32,11 +21,11 @@ sidenav: events_navigation
   <p class="indent">Bailar</p>
   <p>Role of Researchers in Program Decisions  </p>
   <p class="indent">Barron</p>
-  <p class="date"><a name="banq" id="banq"></a>BANQUET SESSION<br>
+  <p class="date">BANQUET SESSION<br>
   Organizer: Lynda Carlson</p>
   <p>Statistics and Sound Bites: Statistical Literacy in the Age of the Internet </p>
   <p class="indent">Moore</p>
-  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;"><a name="s2a" id="s2a"></a>SESSION II-A<br>
+  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">SESSION II-A<br>
   Organizer: Tom Petska
   </div>
   <p>Use of Tax Data in the Production of Provincial Economic Statistics  </p>
@@ -47,7 +36,7 @@ sidenav: events_navigation
   <p class="indent">Prevost, Leggieri</p>
   <p>Formal Discussion  </p>
   <p class="indent">Scheuren</p>
-  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;"><a name="s2b" id="s2b"></a>SESSION II-B<br>
+  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">SESSION II-B<br>
   Organizer: Ed Spar
   </div>
   <p>Statistical Metadata Research at the Census Bureau  </p>
@@ -59,7 +48,7 @@ sidenav: events_navigation
   <p class="indent">Yost, Nealon</p>
   <p>Formal Discussion  </p>
   <p class="indent">Dippo</p>
-  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;"><a name="s3a" id="s3a"></a>SESSION III-A<br>
+  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">SESSION III-A<br>
   Organizer: Susan Hinkins
   </div>
   <p>Frame Development for Surveys of Financial Institutions: Using Administrative Data from Regulatory Agencies  </p>
@@ -70,7 +59,7 @@ sidenav: events_navigation
   <p class="indent">Scalia</p>
   <p>Small-Area Population Estimation Technique Using Administrative Records and Evaluation of Results with Loss Functions and Optimization Criteria<br> </p>
   <p class="indent">Bryan</p>
-  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;"><a name="s3b" id="s3b"></a>SESSION III-B<br>
+  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">SESSION III-B<br>
     Organizer: Marilyn McMillen
     </div>
   <p>The Survey of Income and Program Participation (SIPP) Methods Panel–Improving Income Measurement  </p>
@@ -81,7 +70,7 @@ sidenav: events_navigation
   <p class="indent">Biemer, Bushery</p>
   <p>Some Observations on Price Index Estimators  </p>
   <p class="indent">Lent, Leaver, Dorfman</p>
-  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;"><a name="s4a" id="s4a"></a>SESSION IV-A<br>
+  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">SESSION IV-A<br>
     Organizer: Dale Atkinson
     </div>
   <p>Small Domain Estimation of Employment Using CES and ES202 Data  </p>
@@ -92,7 +81,7 @@ sidenav: events_navigation
   <p class="indent">Alexander, Chand</p>
   <p>Formal Discussion  </p>
   <p class="indent">Cohen</p>
-  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;"><a name="s4b" id="s4b"></a>SESSION IV-B<br>
+  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">SESSION IV-B<br>
     Organizer: Steve Cohen
     </div>
   <p>Bridging the Gap between the Theory and Practice of Analysis of Data from Complex Surveys — Some Statistics Canada Experiences  </p>
@@ -103,7 +92,7 @@ sidenav: events_navigation
   <p class="indent">Hadden, Maury</p>
   <p>Adolescent Cigarette Use: Effects of Race/Ethnicity and School Racial/Ethnic Composition  </p>
   <p class="indent">Johnson</p>
-  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;"><a name="s5a" id="s5a"></a>SESSION V-A<br>
+  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">SESSION V-A<br>
     Organizer: Ed Spar
     </div>
   <p>Combining Register-Based and Traditional Census Processes as a Pre-Defined Strategy in Census Planning  </p>
@@ -114,7 +103,7 @@ sidenav: events_navigation
   <p class="indent">Jay Johnson</p>
   <p>Formal Discussion  </p>
   <p class="indent">Scheuren</p>
-  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;"><a name="s5b" id="s5b"></a>SESSION V-B<br>
+  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">SESSION V-B<br>
   Organizer: Steve Cohen
   </div>
   <p>A Cognitive Appraisal Methodology for Establishment Survey Questionnaires  </p>
@@ -125,7 +114,7 @@ sidenav: events_navigation
   <p class="indent">Conrad, Schober</p>
   <p>Developing and Testing Aggregate Reporting Forms for Data on Race and Ethnicity  </p>
   <p class="indent">Schechter, Stinson, Moy</p>
-  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;"><a name="s6a" id="s6a"></a>SESSION VI-A<br>
+  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">SESSION VI-A<br>
   Organizer: Marilyn McMillen
   </div>
   <p>The Design of a One Number Census in the UK  </p>
@@ -136,7 +125,7 @@ sidenav: events_navigation
   <p class="indent">Dumais, Eghbal, Jacod, Isnard, Vinot</p>
   <p>Formal Discussion  </p>
   <p class="indent">Hogan</p>
-  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;"><a name="s6b" id="s6b"></a>SESSION VI-B<br>
+  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">SESSION VI-B<br>
   Organizer: Carol King
   </div>
   <p>Validation of Fourth and Eighth Grade Students’ Responses to Reading, Math, and Science NAEP Background Items: Use of Cognitive Interviewing Techniques with Teachers and Students  </p>
@@ -147,7 +136,7 @@ sidenav: events_navigation
   <p class="indent">Paletta, Mihorean</p>
   <p>Evaluating the Displaced-Worker/Job-Tenure Supplement to the CPS: An Illustration of Multimethod Quality Assessment Research  </p>
   <p class="indent">Esposito</p>
-  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;"><a name="s7a" id="s7a"></a>SESSION VII-A<br>
+  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">SESSION VII-A<br>
   Organizer: Susan Hinkins
   </div>
   <p>Planning for the 2001 Census Coverage Survey in England and Wales  </p>
@@ -158,7 +147,7 @@ sidenav: events_navigation
   <p class="indent">Elliott Little</p>
   <p>Validation of Causality for the Dual System Estimation Procedure in the Census 2000 Dress Rehearsal  </p>
   <p class="indent">Hawala</p>
-  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;"><a name="s7b" id="s7b"></a>SESSION VII-B<br>
+  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">SESSION VII-B<br>
   Organizer: Dale Atkinson
   </div>
   <p>Increasing the Effectiveness of Ratio Edits by Using Joint Transformed Variables  </p>
@@ -169,7 +158,7 @@ sidenav: events_navigation
   <p class="indent">Perritt, Todaro</p>
   <p>Implementation of the Graphical Editing Analysis Query System  </p>
   <p class="indent">Lu, Weir, Emery</p>
-  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;"><a name="s8a" id="s8a"></a>SESSION VIII-A<br>
+  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">SESSION VIII-A<br>
   Organizer: Charles Alexander, Jr.
   </div>
   <p>Using the American Community Survey to Enhance the Current Population Survey: Opportunities and Issues  </p>
@@ -182,7 +171,7 @@ sidenav: events_navigation
   <p class="indent">Kirkendall</p>
   <p>Formal Discussion  </p>
   <p class="indent">Knox</p>
-  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;"><a name="s8b" id="s8b"></a>SESSION VIII-B<br>
+  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">SESSION VIII-B<br>
     Organizer: Ron Fecso
     </div>
   <p>National Estimates of an Audited Variable with a Large Number of Missing Values  </p>
@@ -193,7 +182,7 @@ sidenav: events_navigation
   <p class="indent">Schiopu-Kratina</p>
   <p>Modeling and Imputation of Semicontinuous Survey Variables  </p>
   <p class="indent">Schafer, Olsen</p>
-  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;"><a name="s9a" id="s9a"></a>SESSION IX-A<br>
+  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">SESSION IX-A<br>
     Organizer: Tom Petska
     </div>
   <p>Time Series and Cross-Sectional Analysis and Modelling in the Monitoring of UK Labour Market  </p>
@@ -204,7 +193,7 @@ sidenav: events_navigation
   <p class="indent">Broadbent, Iwig</p>
   <p>Disability Research Using Survey Data Matched to Social Security Administration Record Data  </p>
   <p class="indent">Rupp, Davies</p>
-  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;"><a name="s9b" id="s9b"></a>SESSION IX-B<br>
+  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">SESSION IX-B<br>
     Organizer: Marilyn McMillen
     </div>
   <p>Standards for Final Disposition Codes and Outcome Rates for Surveys  </p>
@@ -215,7 +204,7 @@ sidenav: events_navigation
   <p class="indent">Slud</p>
   <p>Survey Attrition: A Taxonomy and the Search for Valid Instruments to Correct for Biases  </p>
   <p class="indent">Dolton, Lindeboom, Van den Berg</p>
-  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;"><a name="s10a" id="s10a"></a>SESSION X-A<br>
+  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">SESSION X-A<br>
     Organizer: Ed Spar
     </div>
   <p>Use of Stratum Mixing to Reduce Primary-Unit-Level Identification Risk in Public-Use Survey Datasets  </p>
@@ -226,7 +215,7 @@ sidenav: events_navigation
   <p class="indent">Massell</p>
   <p>Formal Discussion  </p>
   <p class="indent">Roehrig</p>
-  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;"><a name="s10b" id="s10b"></a>SESSION X-B<br>
+  <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">SESSION X-B<br>
     Organizer: Ron Fecso
     </div>
   <p>Respondent Acceptance of Touch-Tone Data Entry in Cognitive Interviews on HIV/STD Risk Behaviors  </p>
@@ -235,7 +224,7 @@ sidenav: events_navigation
   <p class="indent">Murphy, Tedesco, Marquis, Roske-Hofstrand, Hoffman, Saner, Harris</p>
   <p>Internet Data Collection at the U.S. Census Bureau  </p>
   <p class="indent">Kanarek, Sedivi</p>
-  <p class="date"><a name="demo" id="demo"></a>TECHNICAL DEMONSTRATIONS<br>
+  <p id="demo" class="date">TECHNICAL DEMONSTRATIONS<br>
   Organizer: Steve Cohen</p>
   <p>Disseminating Distributed Statistical Data: The ADDSIA Project  </p>
   <p class="indent">Lamb</p>

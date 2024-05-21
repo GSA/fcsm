@@ -5,19 +5,6 @@ layout: page
 <p><strong><a href="../assets/docs/2001FCSMResearchProgram.pdf" target="_blank">FINAL PROGRAM</a> </strong>  <small> (137 KB)</small></p>
 <p><strong>Resources and Proceedings</strong></p>
 <p>Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe&reg; Acrobat&reg; Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
-<!--<p><a id="top" name="top"></a><strong>Jump to ...</strong><br>
-<span style="float: left; width: 30%; padding-bottom: 20px;"><a href="#ps1">Plenary Session I</a><br>
-Sessions <a href="#s2a">II-A</a> / <a href="#s2b">II-B</a><br>
-Sessions <a href="#s3a">III-A</a> / <a href="#s3b">III-B</a><br>
-Sessions <a href="#s4a">IV-A</a> / <a href="#s4b">IV-B</a><br>
-Sessions <a href="#s5a">V-A</a> / <a href="#s5b">V-B</a><br>
-Sessions <a href="#s6a">VI-A</a> / <a href="#s6b">VI-B</a></span><span style="float: left; width: 30%; padding-bottom: 20px;">Sessions <a href="#s7a">VII-A</a> / <a href="#s7b">VII-B</a><br>
-Sessions <a href="#s8a">VIII-A</a> / <a href="#s8b">VIII-B</a><br>
-<a href="#ps9">Plenary Session IX</a><br>
-Sessions <a href="#s10a">X-A</a> / <a href="#s10b">X-B</a><br>
-Sessions <a href="#s11a">XI-A</a> / <a href="#s11b">XI-B</a></span></p>
-<p><br clear="all"></p>-->
-
 <p class="" style="float: left;padding-right: 30px">PLENARY<br>
 SESSION I</p>
 
@@ -65,7 +52,7 @@ TREATMENT OF MISSING DATA</p>
 <p class="indent">Pasi Piela and Seppo Laaksonen</p>
 <p><a href="../assets/docs/2001FCSM_Greene.pdf" target="_blank">Raking Fire Data</a>  <small> (268 KB)</small></p>
 <p class="indent">Michael Greene, Linda Smith, Mark Levenson, Signe Hiser, and Jean Mah</p>
-<p><a href="../assets/docs/construction.pdf" target="_blank">Formal Discussion</a>  <small> (440 KB)</small></p>
+<p><a href="../assets/docs/construction.pdf" aria-label="Nathaniel Schenker's formal discussion" target="_blank">Formal Discussion</a>  <small> (440 KB)</small></p>
 <p class="indent">Nathaniel Schenker</p>
 <p class="date"><a id="s4a" name="s4a"></a>SESSION IV-A<br><br>
 USES OF ADVANCED TECHNOLOGIES FOR DATA COLLECTION, PROCESSING, AND DISSEMINATION, PART II</p>
@@ -115,7 +102,7 @@ CONFIDENTIALITY AND DISCLOSURE ISSUES IN DATA RELEASE AND DATA LINKAGE,<br> PART
 <p class="indent">Diane Willimack</p>
 <p><a href="../assets/docs/2001FCSM_Doyle.pdf" target="_blank">Striking the Balance between Privacy and Production in Demographic Surveys: Implementation of the Respondent Identification Policy</a>  <small> (300 KB)</small></p>
 <p class="indent">Patricia Doyle, Nancy Bates, and Gerald Gates</p>
-<p><a href="../assets/docs/2001FCSM_singer.pdf" target="_blank">Formal Discussion</a>  <small> (147 KB)</small></p>
+<p><a href="../assets/docs/2001FCSM_singer.pdf" aria-label="Eleanor Singer's formal discussion" target="_blank">Formal Discussion</a>  <small> (147 KB)</small></p>
 <p class="indent">Eleanor Singer</p>
 <p class="date"><a id="s6b" name="s6b"></a>SESSION VI-B<br><br>
 STATISTICAL USES OF ADMINISTRATIVE RECORDS</p>
@@ -151,7 +138,7 @@ ISSUES IN GEOSPATIAL DATA COLLECTION</p>
 <p class="indent">Olivia Blum and Rinat Calvo</p>
 <p><a href="../assets/docs/2001FCSM_Iannacchione.pdf" target="_blank">Evaluating the Use of Residential Mailing Addresses in a Metropolitan Household Survey</a>  <small> (458 KB)</small></p>
 <p class="indent">Vincent Iannacchione, Jennifer Staab, and David Redden</p>
-<p><a href="../assets/docs/2001FCSM_Elhami.pdf" target="_blank">Formal Discussion</a>  <small> (115 KB)</small></p>
+<p><a href="../assets/docs/2001FCSM_Elhami.pdf" aria-label="Shoreh Elhami's formal discussion" target="_blank">Formal Discussion</a>  <small> (115 KB)</small></p>
 <p class="indent">Shoreh Elhami</p>
 <p class="date"><a id="s8b" name="s8b"></a>SESSION VIII-B<br><br>
 COGNITIVE RESEARCH AND USABILITY TESTING IN SURVEY PROCESSES</p>
@@ -184,7 +171,7 @@ NEW APPROACHES IN SAMPLE DESIGN, ESTIMATION AND RECORD LINKAGE</p>
 <p class="indent">Donna Glassbrenner</p>
 <p><a href="../assets/docs/construction.pdf" target="_blank">A Partial Order Approach to Record Linkage</a>  <small> (440 KB)</small></p>
 <p class="indent">Dean Judson</p>
-<p><a href="../assets/docs/2001FCSM_Shapiro.pdf" target="_blank">Formal Discussion</a>  <small> (82.9 KB)</small></p>
+<p><a href="../assets/docs/2001FCSM_Shapiro.pdf" aria-label="Gary Shapiro's formal discussion" target="_blank">Formal Discussion</a>  <small> (82.9 KB)</small></p>
 <p class="indent">Gary Shapiro</p>
 <p class="date"><a id="s11a" name="s11a"></a>SESSION XI-A<br><br>
 DATA QUALITY AND NONSAMPLING ERROR, PART 2</p>
@@ -194,7 +181,7 @@ DATA QUALITY AND NONSAMPLING ERROR, PART 2</p>
 <p class="indent">Marianne Bitler and John Wolken</p>
 <p><a href="../assets/docs/2001FCSM_Sadeghi.pdf" target="_blank">The Quality vs. Timeliness Tradeoff in BLS ES-202 Administrative Statistics</a>  <small> (185 KB)</small></p>
 <p class="indent">Akbar Sadeghi and Richard Clayton</p>
-<p><a href="../assets/docs/2001FCSM_Kasprzyk.pdf" target="_blank">Formal Discussion</a>  <small> (159 KB)</small></p>
+<p><a href="../assets/docs/2001FCSM_Kasprzyk.pdf" aria-label="Daniel Kasprzyk's formal discussion" target="_blank">Formal Discussion</a>  <small> (159 KB)</small></p>
 <p class="indent">Daniel Kasprzyk</p>
 <p class="date"><a id="s11b" name="s11b"></a>SESSION XI-B<br><br>
 CENSUS AND SURVEY EVALUATION METHODOLOGIES</p>

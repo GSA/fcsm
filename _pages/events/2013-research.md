@@ -18,7 +18,7 @@ https://copafs.org/wp-content/uploads/2020/05/2013FCSMFinalProgram.pdf
   <p>PLENARY - <strong><a href="{{site.baseurl}}/assets/files/docs/Plenary_Tourangeau_2013FCSM.pdf" target="_blank">Confronting the Challenges of Household Surveys by Mixing Modes</a></strong> <br />
   SESSION - Dr. Roger Tourangeau (Westat)</p>
   <hr />
-  <p class="date"><a id="MondayAm" name="MondayAm"></a>MONDAY AM, NOVEMBER 4</p>
+  <p class="date">MONDAY AM, NOVEMBER 4</p>
 
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION A-1:<br>
   CONSIDERATIONS WHEN ADOPTING ADDRESS-BASED SAMPLING FOR FEDERAL SURVEYS
@@ -98,8 +98,7 @@ https://copafs.org/wp-content/uploads/2020/05/2013FCSMFinalProgram.pdf
   <p class="indent">James Noon (U.S. Census Bureau)<br>
   Leticia Fernandez (U.S. Census Bureau)<br>
   Sonya Rastogi (U.S. Census Bureau)</p>
-  <p class="date">
-  <a id="MondayPM" name="MondayPM"></a>MONDAY PM, NOVEMBER 4</p>
+  <p class="date">MONDAY PM, NOVEMBER 4</p>
 
 
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION B-1:<br>
@@ -257,7 +256,7 @@ https://copafs.org/wp-content/uploads/2020/05/2013FCSMFinalProgram.pdf
   Jacqueline Pflieger (ICF International)<br>
   Frances Barlas (ICF International)<br>
   Randall Thomas (GfK Custom Research, LLC)</p>
-  <p class="date"><a id="TuesdayAM" name="TuesdayAM"></a>TUESDAY AM, NOVEMBER 5</p>
+  <p class="date">TUESDAY AM, NOVEMBER 5</p>
 
 
 
@@ -417,7 +416,7 @@ https://copafs.org/wp-content/uploads/2020/05/2013FCSMFinalProgram.pdf
   Scott Fricker (Bureau of Labor Statistics)</p>
   <p style="width:50%;">A Model for Matching Error for Triple System Estimation </p><!-----pdf/E4_Griffin_2013FCSM-508.pdf------>
   <p class="indent">Richard Griffin (U.S. Census Bureau)</p>
-  <p class="date"><a id="TuesdayPM" name="TuesdayPM"></a>TUESDAY PM, NOVEMBER 5</p>
+  <p class="date">TUESDAY PM, NOVEMBER 5</p>
 
 
 
@@ -593,7 +592,7 @@ https://copafs.org/wp-content/uploads/2020/05/2013FCSMFinalProgram.pdf
   Doug Currivan (RTI International)<br>
   Larry Kroutil (RTI International)<br>
   Kevin Wang (RTI International)</p>
-  <p class="date"><a id="WednesdayAM" name="WednesdayAM"></a>WEDNESDAY AM, NOVEMBER 6</p>
+  <p class="date">WEDNESDAY AM, NOVEMBER 6</p>
 
 
 
@@ -761,7 +760,7 @@ https://copafs.org/wp-content/uploads/2020/05/2013FCSMFinalProgram.pdf
   Denise Abreu (National Agricultural Statistics Service)<br>
   Shu Wang (University of Florida)<br>
   Andrea Lamas (National Agricultural Statistics Service)</p>
-  <p class="date"><a id="WednesdayPM" name="WednesdayPM"></a>WEDNESDAY PM, NOVEMBER 6</p>
+  <p class="date">WEDNESDAY PM, NOVEMBER 6</p>
 
 
 

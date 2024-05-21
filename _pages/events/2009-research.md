@@ -13,7 +13,7 @@ sidenav: events_navigation
   <p>Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe® Acrobat® Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
   <p class="larger" style="float: left; padding-right: 30px;">PLENARY - <strong>What We Don’t Know Could Hurt Us:<br />Some Reflections on the Measurement of Economic Activity</strong>  <br />SESSION - Katharine G. Abraham (University of Maryland)</p>
   <p><br clear="all"></p>
-  <p class="date"><a id="MondayAM" name="MondayAM"></a>MONDAY AM</p>
+  <p class="date">MONDAY AM</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION II-A<br>
   REDESIGNING THE NATIONAL CRIME VICTIMIZATION SURVEY
   </div>
@@ -49,7 +49,7 @@ sidenav: events_navigation
   <p style="width:50%;" class="indent">Ana Rappold (U.S. Environmental Protection Agency) and Marco Ferreira (University of Missouri, USA)</p>
   <p>The Spatio-Temporal Determinants of Charter School Site Selection in New York City</p>
   <p style="width:50%;" class="indent">Charisse Gulosino (Brown University, USA)</p>
-  <p class="date"><a name="MondayPM"></a> MONDAY PM</p>
+  <p class="date">MONDAY PM</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION III-A<br>
   ISSUES IN DATA CONFIDENTIALITY AND DISCLOSURE RISK
   </div>
@@ -81,7 +81,7 @@ sidenav: events_navigation
   <p style="width:50%;" class="indent">Howard Speizer, Susan Kinsey, Richard Heman-Ackah and M. Rita Thissen (RTI International, USA)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2009FCSM_Stevens_III-C.pdf" target="_blank">The Influence of State-Specific, Programmatic Characteristics in the Modeling of Medicaid Undercount: A Record-Check Study of the 2001 Current Population Survey Annual Social and Economic Supplement (CPS ASEC)</a>  </p>
   <p style="width:50%;" class="indent">Matthew Stevens (U.S. Census Bureau)</p>
-  <p class="date"><a name="TuesdayAM"></a> TUESDAY AM</p>
+  <p class="date"> TUESDAY AM</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION IV-A<br>
   MODELING OF DATA
   </div>
@@ -185,7 +185,7 @@ sidenav: events_navigation
   <p style="width:50%;" class="indent">John Eltinge and Moon Jung Cho (Bureau of Labor Statistics, USA)</p>
   <p style="width:50%;">On Point Estimation and Variance Estimation for Mean Expenditures in the Consumer Expenditure Survey </p>
   <p style="width:50%;" class="indent">Michail Sverchkov, John Eltinge, and Lawrence Ernst (Bureau of Labor Statistics, USA)</p>
-  <p class="date"><a name="TuesdayPM"></a> TUESDAY PM</p>
+  <p class="date">TUESDAY PM</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION VII-A<br>
   INFORMED CONSENT AND PARTICIPATION
   </div>
@@ -235,7 +235,7 @@ sidenav: events_navigation
   <p style="width:50%;" class="indent">Ali Dadpay, Charlie Han, and David Chesser (Macrosys Research, USA) and Antony Homan (U.S. Department of Transportation)</p>
   <p>Seasonal Adjustment of Short Time Series with Calendar Effect Treatments – Applied Methods in the Bureau of Labor Statistics</p>
   <p style="width:50%;" class="indent">Brian Dahlin (Bureau of Labor Statistics, USA)</p>
-  <p class="date"><a name="WednesdayAM"></a> WEDNESDAY AM</p>
+  <p class="date">WEDNESDAY AM</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION IX-A<br>
   ISSUES CONCERNING THE STATISTICAL USE OF ADMINISTRATIVE RECORDS
   </div>
@@ -245,7 +245,7 @@ sidenav: events_navigation
   <p style="width:50%;" class="indent">Gerald Gates (Gerald Gates Privacy Consulting, USA)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2009FCSM_Davern_IX-A.pdf" target="_blank">Investing in A Data Quality Assurance Program for Administrative Data Linked to Survey Data for Policy Research Purposes Is Essential</a>  </p>
   <p style="width:50%;" class="indent">Michael Davern (University of Minnesota, USA)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2009FCSM_Fay_IX-A.pdf" target="_blank">Discussant:</a>  </p>
+  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2009FCSM_Fay_IX-A.pdf" aria-label="Robert Fay's discussion" target="_blank">Discussant:</a>  </p>
   <p style="width:50%;" class="indent">Robert Fay (Westat, USA)</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION IX-B<br>
   WEB SURVEYS
@@ -296,7 +296,7 @@ sidenav: events_navigation
   <p style="width:50%;" class="indent">Denise Abreu, Kara Daniel, William Iwig, and Stan Hoge (National Agricultural Statistics Service, USA)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2009FCSM_Bellow_X-C.pdf" target="_blank">Comparison of Methods for Updating Census Based Estimates of Number of Farms to Non-Census Years</a>  </p>
   <p style="width:50%;" class="indent">Michael Bellow (National Agricultural Statistics Service, USA) and Phillip Kott (RTI International, USA)</p>
-  <p class="date"><a name="WednesdayPM"></a> WEDNESDAY PM</p>
+  <p class="date"> WEDNESDAY PM</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION XI-A<br>
   APPLICATIONS OF SAMPLING
   </div>
@@ -306,7 +306,7 @@ sidenav: events_navigation
   <p style="width:50%;" class="indent">Majnu John and Madhu Mazumdar (Weill Cornell Medical College, USA)</p>
   <p style="width:50%;">Sampling from Discrete Distributions: Application to An Editing Problem  </p>
   <p style="width:50%;" class="indent">Lawrence Cox (National Center for Health Statistics, USA) and Marco Better (OptTek Systems, Inc., USA)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2009FCSM_Cohen_XI-A.pdf" target="_blank">Discussant:</a>  </p>
+  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2009FCSM_Cohen_XI-A.pdf" aria-label="Michael P. Cohen's discussion" target="_blank">Discussant:</a>  </p>
   <p style="width:50%;" class="indent">Michael P. Cohen (Statistical Consultant, NORC at the University of Chicago, and George Mason University, USA)</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION XI-B<br>
   INCOME AND THE BUSINESS CYCLE

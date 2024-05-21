@@ -23,11 +23,11 @@ sidenav: group_navigation
 
 <p><strong>Recording of CDAC Meetings and Workshops:</strong></p>
 
-<table>
+<table aria-label="Recording of CDAC Meetings and Workshops">
   <thead>
     <tr>
-      <th>Date</th>
-      <th>Record</th>
+      <th scope="col">Date</th>
+      <th scope="col">Record</th>
     </tr>
   </thead>
   <tbody>

@@ -13,7 +13,7 @@ sidenav: events_navigation
   <p class="larger" style="float: left; padding-right: 30px;">KEYNOTE - <strong>A National Statistical System in a Rapidly Changing World </strong><br>
   SPEAKER - Miron Straf (The National Academies of Science, USA)</p>
   <p><br clear="all"></p>
-  <p class="date"><a name="MondayAM"></a>MONDAY AM</p>
+  <p class="date">MONDAY AM</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION II-A<br>
   TIME SERIES AND STATISTICAL MODELING
   </div>
@@ -53,7 +53,7 @@ sidenav: events_navigation
   Jai Won Choi (National Center for Health Statistics, USA)</p>
   <p>Discussant</p>
   <p class="indent">Myron Katzoff (National Center for Health Statistics, USA)</p>
-  <p class="date"><a id="MondayPM" name="MondayPM"></a>MONDAY PM</p>
+  <p class="date">MONDAY PM</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION III-A<br>
   INTERNET APPLICATIONS AND SURVEY MODE COMPARISONS
   </div>
@@ -114,7 +114,7 @@ sidenav: events_navigation
   Phillip Kott (National Agricultural Statistical Service, USA)</p>
   <p>Discussant</p>
   <p class="indent">William Wigton</p>
-  <p class="date"><a id="TuesdayAM" name="TuesdayAM"></a>TUESDAY AM</p>
+  <p class="date">TUESDAY AM</p>
   <p class="larger">TECHNICAL DEMONSTRATIONS</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2005FCSM_OReilly_Ray_TechDemo.pdf" target="_blank">Blaise IS (Computer Assisted Interviewing Software for the Web)</a> </p>
   <p class="indent">Jim O’Reilly (Westat, USA)</p>
@@ -187,7 +187,7 @@ sidenav: events_navigation
   <p class="indent">Lydia Scoon-Rogers (U.S. Census Bureau)</p>
   <p>Discussant</p>
   <p class="indent">Dan Kasprzyk (Mathematica Policy Research, USA)</p>
-  <p class="date"><a id="TuesdayPM" name="TuesdayPM"></a>TUESDAY PM</p>
+  <p class="date">TUESDAY PM</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION VII-A<br>
   ADMINISTRATIVE DATA AND DATA QUALITY
   </div>
@@ -224,7 +224,7 @@ sidenav: events_navigation
   <p class="indent">Marla Smith and Jan Matuszko (U.S. Environmental Protection Agency)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2005FCSM_Pont_Tate_-Smith_Perry_VIIC.pdf" target="_blank">Integrated Redevelopment of the ONS’s Business Surveys and Business Register through the Business Surveys Integration Project and Register Re-engineering Project</a> </p>
   <p class="indent">Mark Pont, Pam Tate, Paul Smith and, John Perry (Office for National Statistics, United Kingdom)</p>
-  <p class="date"><a id="WednesdayAM" name="WednesdayAM"></a>WEDNESDAY AM</p>
+  <p class="date">WEDNESDAY AM</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION VIII-A<br>
   QUALITATIVE EVALUATION
   </div>
