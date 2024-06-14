@@ -78,14 +78,6 @@
         <div class="grid-col-12 tablet:grid-col-4">
           <div class="grid-row flex-align-center margin-y-4">
             <div class="grid-col-auto">
-              <img class="usa-footer__logo-img margin-right-1 width-8" alt="Logo: General Service Administration" src="{{ '/assets/img/gsa-logo.png' | relative_url }}" > 
-            </div>
-            <div class="grid-col-fill">
-              <a href="https://www.gsa.gov/" ><span>General Services Administration</span></a>
-            </div>
-          </div>
-          <div class="grid-row flex-align-center margin-y-4">
-            <div class="grid-col-auto">
               <img class="usa-footer__logo-img margin-right-1 width-8" alt="Logo: White House Office of Management and Budget" src="{{ '/assets/img/exec-office-logo.png' | relative_url }}"> 
             </div>
             <div class="grid-col-fill">
@@ -104,85 +96,58 @@
     </div>
     <!-- end -->    
   </div>
+
   <div class="usa-identifier">
-    <section
-      class="usa-identifier__section usa-identifier__section--masthead"
-      aria-label="General Services Administration"
-    >
-      <div class="usa-identifier__container">
-        <div class="usa-identifier__logos">
-          <a href="" class="usa-identifier__logo"
-            ><img
-              class="usa-identifier__logo-img"
-              src="{{ site.baseurl }}/assets/img/gsa-logo.png"
-              alt="General Services Administration logo"
-              role="img"
-          /></a>
+    <section class="usa-identifier__section usa-identifier__section--masthead"
+             aria-label="General Services Administration">
+        <div class="usa-identifier__container">
+            <div class="usa-identifier__identity" aria-label="Agency">
+                <p class="usa-identifier__identity-domain">FCSM.gov</p>
+                <p class="usa-identifier__identity-disclaimer">
+                    An official website of the Federal Government
+                </p>
+            </div>
         </div>
-        <div class="usa-identifier__identity" aria-label="Agency description">
-          <p class="usa-identifier__identity-domain">fcsm.gov</p>
-          <p class="usa-identifier__identity-disclaimer">
-            An official website of the <a class="usa-link usa-identifier__required-link " href="https://www.gsa.gov/">General Services Administration</a>
-          </p>
-        </div>
-      </div>
     </section>
-    <nav
-      class="usa-identifier__section usa-identifier__section--required-links"
-      aria-label="Important links,"
-    >
-      <div class="usa-identifier__container">
-        <ul class="usa-identifier__required-links-list">
-          <li class="usa-identifier__required-links-item">
-            <a
-              href="https://www.gsa.gov/about-us"
-              class="usa-identifier__required-link usa-link "
-              >About GSA</a
-            >
-          </li>
-          <li class="usa-identifier__required-links-item">
-            <a href="https://www.gsa.gov/website-information/accessibility-aids/" class="usa-identifier__required-link usa-link "
-              >Accessibility support</a
-            >
-          </li>
-          <li class="usa-identifier__required-links-item">
-            <a href="https://www.gsa.gov/reference/freedom-of-information-act-foia" class="usa-identifier__required-link usa-link "
-              >FOIA requests</a
-            >
-          </li>
-          <li class="usa-identifier__required-links-item">
-            <a href="https://www.gsa.gov/reference/civil-rights-programs/the-no-fear-act" class="usa-identifier__required-link usa-link "
-              >No FEAR Act data</a
-            >
-          </li>
-          <li class="usa-identifier__required-links-item">
-            <a href="https://www.gsa.gov/about-us/organization/gsa-office-of-inspector-general/" class="usa-identifier__required-link usa-link "
-              >Office of the Inspector General</a
-            >
-          </li>
-          <li class="usa-identifier__required-links-item">
-            <a href="https://www.gsa.gov/reference/reports/budget-performance/" class="usa-identifier__required-link usa-link "
-              >Performance reports</a
-            >
-          </li>
-          <li class="usa-identifier__required-links-item">
-            <a href="https://www.gsa.gov/website-information/website-policies/" class="usa-identifier__required-link usa-link "
-              >Privacy policy</a
-            >
-          </li>
-        </ul>
-      </div>
+    <nav class="usa-identifier__section usa-identifier__section--required-links"
+         aria-label="Important links,">
+        <div class="usa-identifier__container">
+            <ul class="usa-identifier__required-links-list">
+                <li class="usa-identifier__required-links-item">
+                    <a href="https://www.whitehouse.gov/omb/"
+                       class="usa-identifier__required-link usa-link usa-link--external" target="_blank" rel="noopener" >About OMB</a>
+                </li>
+                <li class="usa-identifier__required-links-item">
+                    <a href="https://www.gsa.gov/website-information/accessibility-aids/" class="usa-identifier__required-link usa-link usa-link--external" target="_blank" rel="noopener" >Accessibility support</a>
+                </li>
+                <li class="usa-identifier__required-links-item">
+                    <a href="https://www.gsa.gov/reference/freedom-of-information-act-foia" class="usa-identifier__required-link usa-link usa-link--external" target="_blank" rel="noopener" >FOIA requests</a>
+                </li>
+                <li class="usa-identifier__required-links-item">
+                    <a href="https://www.gsa.gov/reference/civil-rights-programs/notification-and-federal-employee-antidiscrimination-and-retaliation-act-of-2002" class="usa-identifier__required-link usa-link usa-link--external" target="_blank" rel="noopener" >No FEAR Act data</a>
+                </li>
+                <li class="usa-identifier__required-links-item">
+                    <a href="https://www.gsaig.gov/" class="usa-identifier__required-link usa-link usa-link--external" target="_blank" rel="noopener" >Office of the Inspector General</a>
+                </li>
+                <li class="usa-identifier__required-links-item">
+                    <a href="https://www.gsa.gov/reference/reports/budget-performance/" class="usa-identifier__required-link usa-link usa-link--external" target="_blank" rel="noopener" >Performance reports</a>
+                </li>
+                <li class="usa-identifier__required-links-item">
+                    <a href="https://www.gsa.gov/website-information/website-policies/" class="usa-identifier__required-link usa-link usa-link--external" target="_blank" rel="noopener" >Privacy policy</a>
+                </li>
+            </ul>
+        </div>
     </nav>
-    <section
-      class="usa-identifier__section usa-identifier__section--usagov"
-      aria-label="U.S. government information and services,"
-    >
-      <div class="usa-identifier__container">
-        <div class="usa-identifier__usagov-description">
-          Looking for U.S. government information and services?
+    <section class="usa-identifier__section usa-identifier__section--usagov"
+             aria-label="U.S. government information and services,">
+        <div class="usa-identifier__container">
+            <div class="usa-identifier__usagov-description">
+                Looking for U.S. government information and services?
+            </div>
+            <a href="https://www.usa.gov/" class="usa-identifier__required-link usa-link usa-link--external" target="_blank" rel="noopener" >Visit USA.gov</a>
         </div>
-        <a href="https://www.usa.gov/" class="usa-link">Visit USA.gov</a>
-      </div>
     </section>
-  </div>
+</div>
+
+
 </footer>
