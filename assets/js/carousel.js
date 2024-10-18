@@ -148,11 +148,20 @@ circleStore.forEach(circle => {
 })
 })
 
+//Handle Tab feature on initialize carousel button
+let missionButton = document.querySelector('#mission-button');
 
-
-
-
-
+//Handle event in case of tab and focus shifts
+missionButton.addEventListener('keydown', function(event) {
+    if (event.key === 'Tab') {
+        event.preventDefault();
+        if (event.shiftKey) {
+            leftArrow.querySelector('span').focus();
+        } else {
+            rightArrow.querySelector('span').focus();
+        }
+    }
+});
 
 
 
