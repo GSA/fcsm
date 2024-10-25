@@ -164,7 +164,18 @@ missionButton.addEventListener('keydown', function(event) {
     }
 });
 
+let rightArrow = document.querySelector('.right-arrow span');
+rightArrow.addEventListener('keydown', function(event) {
+    if (event.key === 'Tab') {
+        event.preventDefault();
+        startAnim("right");
 
+        setTimeout(() => {
+            let nextSlideFirstElement = document.querySelector('.circle-container .circle:nth-child(1)');
+            nextSlideFirstElement.focus();
+        }, 500);
+    }
+});
 
 function changeScreenCircleClick(circleIndex, direction) {
     inAnim = true;
