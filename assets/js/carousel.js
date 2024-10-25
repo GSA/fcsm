@@ -165,15 +165,20 @@ missionButton.addEventListener('keydown', function(event) {
 });
 
 let rightArrow = document.querySelector('.right-arrow span');
+let lastFocusedRightArrow = false;
 rightArrow.addEventListener('keydown', function(event) {
     if (event.key === 'Tab') {
         event.preventDefault();
         startAnim("right");
+        lastFocusedRightArrow = true;
 
         setTimeout(() => {
             let nextSlideFirstElement = document.querySelector('.circle-container .circle:nth-child(1)');
-            nextSlideFirstElement.focus();
-        }, 500);
+            if (nextSlideFirstElement && lastFocusedRightArrow) {
+                nextSlideFirstElement.focus();
+                lastFocusedRightArrow = false;
+            }
+        }, animTime);
     }
 });
 
