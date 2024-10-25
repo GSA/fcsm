@@ -159,7 +159,7 @@ missionButton.addEventListener('keydown', function(event) {
         if (event.shiftKey) {
             leftArrow.querySelector('span').focus();
         } else {
-            rightArrow.querySelector('span').focus();
+            firstCircleButton.focus(); 
         }
     }
 });
