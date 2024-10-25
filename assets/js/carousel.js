@@ -150,6 +150,7 @@ circleStore.forEach(circle => {
 
 //Handle Tab feature on initialize carousel button
 let missionButton = document.querySelector('#mission-button');
+let firstCircleButton = document.querySelector('.circle-container .circle:nth-child(1)');
 
 //Handle event in case of tab and focus shifts
 missionButton.addEventListener('keydown', function(event) {
