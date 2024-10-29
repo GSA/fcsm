@@ -1,10 +1,11 @@
 ---
-title: Computational Statistics and the Production of Official Statistics (CSPOS)
+title: Data Science for Federal Statistics (DSFS)
 subtitle: Government Advances in Statistical Programming (GASP)
 layout: page
 sidenav: group_navigation
+permalink: /groups/dsfs-gasp/
 ---
-<p>The major product from the FCSM CSPOS group is the premier conference Government Advances in Statistical Programming (GASP!). GASP! Is an annual event with the first one starting in the fall of 2018. It attracts speakers and attendees from government, academia, and industry. Presentations showcase the innovative applications and problems being addressed in the government. The 2023 GASP! Conference is planned for May or June.</p>
+<p>The major product from the FCSM DSFS group is the premier conference Government Advances in Statistical Programming (GASP!). GASP! Is an annual event with the first one starting in the fall of 2018. It attracts speakers and attendees from government, academia, and industry. Presentations showcase the innovative applications and problems being addressed in the government. The 2023 GASP! Conference is planned for May or June.</p>
 
 <p>Video presentations can be <a href="https://www.youtube.com/playlist?list=PLqsWXJV2Utrf6Yq7fhef8p4piM8M-ZTK3" target="_blank">found on YouTube</a>.</p>
 
