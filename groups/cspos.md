@@ -13,7 +13,6 @@ common research, practice, and challenges, to coordinate collaborative research 
 and to disseminate relevant information. Topics of growing interest machine learning methods and
 natural language processing. A recurrent focus of the group's activities is organizing the GASP!
 (Government Advances in Statistical Programming) conferences.</p>
-<br/>
 <p><strong>DSFS Areas of Interest</strong></p>
 <ul>
   <li>New and emerging computational methods in statistics such a machine learning methods
