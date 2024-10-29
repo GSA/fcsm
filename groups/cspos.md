@@ -1,31 +1,38 @@
 ---
-title: Computational Statistics and the Production of Official Statistics (CSPOS)
+title: Data Science for Federal Statistics (DSFS)
 layout: page
 sidenav: group_navigation
+permalink: /groups/dsfs/
 ---
-<p>The purpose of this interest group is to share information on computational statistics and the production of official statistics across federal agencies, to identify areas of common research, to coordinate collaborative research projects in those areas, and to disseminate information related to computational statistical methods and the implementation of these methods to produce official statistics</p>
-<p><strong>Background Reports</strong></p>
-<p>FCSM Interest Group on Computational Statistics and the Production of Official Statistics Proposal <a href="{{site.baseurl}}/assets/files/docs/FCSM_CSPOS_Proposed_Interest_Group.pdf" target="_blank">FCSM CSPOS Proposed Interest Group.</a> </p>
-<p>Solicitation of Interest: FCSM Interest Group on Computational Statistics and the Production of Official Statistics (CSPOS) <a href="{{site.baseurl}}/assets/files/docs/FCSM_CSPOS_Solicitation_Final.pdf" target="_blank">FCSM CSPOS Solicitation Final.</a> </p>
-<p><strong>CSPOS Areas of Interest</strong></p>
+<p>The purpose of this interest group (previously, the Computational Statistics and the Production of
+Official Statistics Interest Group) is to share information on data science methods and uses across
+federal agencies. These applications are broad ranging, including the use of data science methods and
+insights for the production of statistics and data products, for internal administrative activities of
+agencies, and for research purposes. The interest group provides opportunities to identify areas of
+common research, practice, and challenges, to coordinate collaborative research projects in those areas,
+and to disseminate relevant information. Topics of growing interest machine learning methods and
+natural language processing. A recurrent focus of the group's activities is organizing the GASP!
+(Government Advances in Statistical Programming) conferences.</p>
+<br/>
+<p><strong>DSFS Areas of Interest</strong></p>
 <ul>
-  <li>New and emerging computational methods in statistics such as Hierarchical Bayesian model integration through Gaussian fields and parallel implementations of machine learning methods.</li>
-  <li>Training statistical and information technology staff on emerging programming languages such as R and python.</li>
+  <li>New and emerging computational methods in statistics such a machine learning methods
+and natural language processing.</li>
+  <li>Training statistical and information technology staff on open-source programming
+languages such a R and Python.</li>
   <li>Sharing best practices for implementation and maintenance of statistical software.</li>
   <li>Identifying opportunities for collaboration on statistical computing projects.</li>
-  <li>Creating a dialog between information technology staff and statisticians.</li>
-  <li>Creating a dialog between information technology staff at different agencies.</li>
 </ul>
 
 <p>Please contact the group chair(s) if you are a federal employee and interested in participating.</p>
 
-<p><strong><a href="{{site.baseurl}}/groups/cspos-resources/">CSPOS Resources</a></strong></p>
-<p><strong><a href="{{site.baseurl}}/groups/cspos-gasp/">Government Advances in Statistical Programming (GASP)</a></strong></p>
-<p><strong><a href="{{site.baseurl}}/groups/cspos-presentations/">Presentations</a></strong></p>
+<p><strong><a href="{{site.baseurl}}/groups/dsfs-resources/">DSFS Resources</a></strong></p>
+<p><strong><a href="{{site.baseurl}}/groups/dsfs-gasp/">Government Advances in Statistical Programming (GASP)</a></strong></p>
+<p><strong><a href="{{site.baseurl}}/groups/dsfs-presentations/">Presentations</a></strong></p>
 <p><strong><a href="{{site.baseurl}}/assets/files/docs/GASP-2023-program-with-abstracts-2023-06-13.pdf">GASP 2023 Conference (June 14-15) Agenda</a></strong></p>
 
 <p><strong>Contacts:</strong></p>
 <ul>
-  <li>Nathan Cruze (Co-chair) at <a href="mailto:nathan.b.cruze@nasa.gov">nathan.b.cruze@nasa.gov</a></li>
-  <li>Wendy Martinez (FCSM Liaison) at <a href="mailto:wendy.l.martinez@census.gov">wendy.l.martinez@census.gov</a></li>
+  <li>José Bayoán Santiago Calderón (Co-chair) at <a href="mailto:Jose.Santiago-Calderon@bea.gov">jose.santiago-calderon@bea.gov</a></li>
+  <li>Ellen Galantucci (FCSM Liaison) at <a href="mailto:egalantucci@fmc.gov">egalantucci@fmc.gov</a></li>
 </ul>
