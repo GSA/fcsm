@@ -3,7 +3,7 @@ title: GASP Presentations
 layout: page
 sidenav: events_navigation
 ---
-<p>The major product from the FCSM Computational Statistics and Production of Official Statistics (CSPOS) group is the premier conference Government Advances in Statistical Programming (GASP!). GASP! Is an annual event with the first one starting in the fall of 2018. It attracts speakers and attendees from government, academia, and industry. Presentations showcase the innovative applications and problems being addressed in the government. </p>
+<p>The major product from the FCSM Data Science for Federal Statistics (DSFS) group is the premier conference Government Advances in Statistical Programming (GASP!). GASP! Is an annual event with the first one starting in the fall of 2018. It attracts speakers and attendees from government, academia, and industry. Presentations showcase the innovative applications and problems being addressed in the government. </p>
 
 <p>Presentations for 2018 and 2019 conferences can be <a href="https://www.youtube.com/playlist?list=PLqsWXJV2Utrf6Yq7fhef8p4piM8M-ZTK3" target="_blank">found on YouTube</a>.</p>
 

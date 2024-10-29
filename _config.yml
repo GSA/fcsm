@@ -120,8 +120,8 @@ group_navigation:
         url: /groups/idcig/
       - name: Confidentiality and Data Access Committee (CDAC)
         url: /groups/cdac/
-      - name: Computational Statistics and the Production of Official Statistics (CSPOS) Interest Group
-        url: /groups/cspos/
+      - name: Data Science for Federal Statistics (DSFS) Interest Group
+        url: /groups/dsfs/
       - name: Geospatial Interest Group (GIG)
         url: /groups/gig/
       - name: Sexual Orientation, Gender Identity, and Sex Characteristics (SOGISC) Interest Group
