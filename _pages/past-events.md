@@ -4,7 +4,7 @@ layout: page
 ---
 <ul>
   <li><a href="groups/cdac.html">Recordings of CDAC Meetings and Workshops</a></li>
-  <li><a href="groups/cspos-gasp.html">GASP presentations</a></li>
+  <li><a href="groups/dsfs-gasp.html">GASP presentations</a></li>
   <li><a href="groups/gig-presentations.html">GIG Presentations</a></li>
 </ul>
 		
