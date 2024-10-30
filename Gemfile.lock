@@ -79,10 +79,6 @@ GEM
       jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
-    jekyll-seo-tag (2.8.0)
-      jekyll (>= 3.8, < 5.0)
-    jekyll-sitemap (1.4.0)
-      jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.4.0)
@@ -136,7 +132,7 @@ GEM
     tzinfo-data (1.2023.3)
       tzinfo (>= 1.0.0)
     unicode-display_width (2.5.0)
-    webrick (1.8.1)
+    webrick (1.8.2)
     yell (2.2.2)
     zeitwerk (2.6.12)
 
@@ -155,8 +151,6 @@ DEPENDENCIES
   jekyll-paginate-v2 (= 3.0.0)
   jekyll-redirect-from
   jekyll-sass-converter (~> 3.0)
-  jekyll-seo-tag
-  jekyll-sitemap
   tzinfo-data
   webrick (~> 1.8)
 
