@@ -1,9 +1,10 @@
 ---
-title: "Computational Statistics and the Production of Official Statistics (CSPOS): Resources"
+title: "Data Science for Federal Statistics (DSFS): Resources"
 layout: page
 sidenav: group_navigation
+permalink: /groups/dsfs-resources/
 ---
-<p>On this page, the Computational Statistics and the Production of Official Statistics Interest Group provides resources of interest to the Computational Statistics community. These might be white papers, links, tools, contact lists, meeting minutes, etc.). Keep checking back for new content.</p>
+<p>On this page, the Data Science for Federal Statistics Interest Group provides resources of interest to the Computational Statistics community. These might be white papers, links, tools, contact lists, meeting minutes, etc.). Keep checking back for new content.</p>
 
 <h3>Contact: </h3>
 <ul>

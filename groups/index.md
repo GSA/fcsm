@@ -13,7 +13,7 @@ sidenav: group_navigation
 <ul>
 	<li><a href="{{site.baseurl}}/groups/idcig/">Innovating Data Collection Interest Group</a></li>
   <li><a href="{{site.baseurl}}/groups/cdac/">Confidentiality and Data Access Committee (CDAC)</a></li>
-  <li><a href="{{site.baseurl}}/groups/cspos/">Computational Statistics and the Production of Official Statistics (CSPOS) Interest Group</a></li>
+  <li><a href="{{site.baseurl}}/groups/dsfs/">Data Science for Federal Statistics (DSFS) Interest Group</a></li>
 	<li><a href="{{site.baseurl}}/groups/gig/">Geospatial Interest Group (GIG)</a></li>
   <li><a href="{{site.baseurl}}/groups/sogisc-ig/">Sexual Orientation, Gender Identity, and Sex Characteristics (SOGISC) Interest Group</a></li>
 </ul>
