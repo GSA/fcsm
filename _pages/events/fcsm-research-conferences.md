@@ -3,10 +3,12 @@ title: Research and Policy Conference Resources and Proceedings
 layout: page
 sidenav: events_navigation
 ---
-
 <h2 class="page-sub-title">Research and Policy Conference Resources and Proceedings</h2>
-
 <ul class="fcsm-research-links">
+  <li>
+    <p><a class="fcsm-main-links" href="{{site.baseurl}}/events/2024-fcsm-conference">2024 FCSM Research and Policy Conference</a><br />
+    October 22-24, 2024</p>
+  </li>
   <li>
     <p><a class="fcsm-main-links" href="{{site.baseurl}}/events/2023-fcsm-conference/">2023 FCSM Research and Policy Conference</a><br />
     October 24-26, 2023</p>
