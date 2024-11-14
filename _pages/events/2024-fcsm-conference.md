@@ -32,7 +32,7 @@ Anna Maria Calcagno, _Small Business Administration_
 Olivia Gonzalez, _Small Business Administration_
 Kate Yang, _General Services Administration_
 
-[Operationalizing a Congressional Mandate: Examples from the Cybersecurity Workforce Data Initiative - Check url]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A1.2_Levanon Seligson){:target="\_blank"}  
+[Operationalizing a Congressional Mandate: Examples from the Cybersecurity Workforce Data Initiative]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A1.2_Levanon_Seligson){:target="\_blank"}  
 Amber Levanon Seligson, _National Center for Science and Engineering Statistics_
 Kelly Phou, _National Center for Science and Engineering Statistics_
 Gigi Jones,_National Center for Science and Engineering Statistics_
@@ -64,12 +64,12 @@ William Savino, _U.S. Census Bureau_
 Renuka Bhaskar, \_U.S. Census Bureau*
 Maria Perez-Patron, _U.S. Census Bureau_
 
-[Maximizing Linkage in Address Data: Spatial, Exact, and Fuzzy Matching - Check url]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A2.2_Champney.pdf){:target="\_blank"}  
+[Maximizing Linkage in Address Data: Spatial, Exact, and Fuzzy Matching]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A2.2_Champney.pdf){:target="\_blank"}  
 Timothy Champney, _MITRE_
 Hongxun Qin, _MITRE_
 Stephanie Coffey, _U.S. Census Bureau_
 
-[Enriching Survey Data with Road Network Analysis for Emergency Response - Check url]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A2.3_Marshall.pdf){:target="\_blank"}  
+[Enriching Survey Data with Road Network Analysis for Emergency Response]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A2.3_Marshall.pdf){:target="\_blank"}  
 Joey Marshall, _U.S. Census Bureau_
 Abraham Cheung, _U.S. Census Bureau_
 Bethany DeSalvo, _U.S. Census Bureau_
@@ -77,7 +77,7 @@ Chase Sawyer, _U.S. Census Bureau_
 Heather King, _U.S. Census Bureau_
 Isabelle Notter, _U.S. Census Bureau_
 
-[Public Opinion on Specific Potential Uses of Administrative Data - Check url]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A2.4_Fobia.pdf){:target="\_blank"}  
+[Public Opinion on Specific Potential Uses of Administrative Data]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A2.4_Fobia.pdf){:target="\_blank"}  
 Aleia Fobia, _U.S. Census Bureau_
 
 ## Session A-3: Text Tactics: Natural Language Processing in Action
@@ -85,7 +85,7 @@ Aleia Fobia, _U.S. Census Bureau_
 **Organizer:** : Ellen Galantucci, _Federal Maritime Commission_  
 **Chair:** Ellen Galantucci, _Federal Maritime Commission_
 
-[Exploring Data Science Methods in Analyzing Text Information for Datasets - Check url]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A3.1_Zeng.pdf){:target="\_blank"}  
+[Exploring Data Science Methods in Analyzing Text Information for Datasets]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A3.1_Zeng.pdf){:target="\_blank"}  
 WenWei Zeng, _Bureau of Transportation Statistics_
 Cha-Chi Fan, _Bureau of Transportation Statistics_
 Ryan Grube, _Bureau of Transportation Statistics_
@@ -93,22 +93,22 @@ Young-Jun Kweon, _Bureau of Transportation Statistics_
 Berin Linfors, _U.S. Census Bureau_
 Mike Carter, _Bureau of Transportation Statistics_
 
-[Leveraging Natural Language Processing for Legislative Research - Check url]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A3.2_Samala.pdf){:target="\_blank"}  
+[Leveraging Natural Language Processing for Legislative Research]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A3.2_Samala.pdf){:target="\_blank"}  
 Pavani Samala, _Reveal Global Consulting_
 Mercera Silva, _U.S. Census Bureau_
 Amber Hennessey, _U.S. Census Bureau_
 Taylor Wilson, _Reveal Global Consulting_
 Jayram Athimoolam, _Reveal Global Consulting_
 
-[Machine Learning for In-Instrument Product Code Search - Check url]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A3.3_Wiley.pdf){:target="\_blank"}  
+[Machine Learning for In-Instrument Product Code Search]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A3.3_Wiley.pdf){:target="\_blank"}  
 Emily Wiley, _U.S. Census Bureau_  
 Clayton Knappenberger, _U.S. Census Bureau_
 
-[NLP Methods for Detecting Non-Therapeutic Drug Use in Clinical Notes - Check url]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A3.4_Adams.pdf){:target="\_blank"}  
+[NLP Methods for Detecting Non-Therapeutic Drug Use in Clinical Notes]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A3.4_Adams.pdf){:target="\_blank"}  
 Nikki Adams, _National Center for Health Statistics_  
 Rihem Badwe, _National Center for Health Statistics_
 
-[Streamlining ACS Autocoding: Leveraging Natural Language Processing and LLMs - Check url]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A3.5_Zakrzeski.pdf){:target="\_blank"}  
+[Streamlining ACS Autocoding: Leveraging Natural Language Processing and LLMs]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A3.5_Zakrzeski.pdf){:target="\_blank"}  
 Alexander Zakrzeski, _Reveal Global Consulting, LLC_  
 Julia Beckhusen, _U.S. Census Bureau_  
 Ana J Montalvo, _U.S. Census Bureau_  
@@ -148,24 +148,24 @@ Andrew Raim, _U.S. Census Bureau_
 **Organizer:** Erica Olmsted, _U.S. Census Bureau_  
 **Chair:** Erica Olmsted, _U.S. Census Bureau_
 
-[Data Modernization Efforts for the National Ambulatory Medical Care Survey - Check url]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A5.1_Cummings.pdf){:target="\_blank"}  
+[Data Modernization Efforts for the National Ambulatory Medical Care Survey]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A5.1_Cummings.pdf){:target="\_blank"}  
 Nicole Cummings, _National Center for Health Statistics_  
 Carol DeFrances, _National Center for Health Statistics_  
 Prachi Mehta, _National Center for Health Statistics_
 
-[Maximizing Overlap of NAEP School Samples to Optimize both Trend and Cross-sectional Estimates - Check url]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A5.2_Hicks.pdf){:target="\_blank"}  
+[Maximizing Overlap of NAEP School Samples to Optimize both Trend and Cross-sectional Estimates]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A5.2_Hicks.pdf){:target="\_blank"}  
 Lloyd Hicks, _Westat_  
 Amy Lin, _Westat_  
 Yiting Long, _Westat_  
 Keith Rust, _Westat_
 
-[Paradata Analysis of Participant Recruitment and Retention for COVID Household Transmission Study - Check url]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A5.3_Zhu.pdf){:target="\_blank"}  
+[Paradata Analysis of Participant Recruitment and Retention for COVID Household Transmission Study]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A5.3_Zhu.pdf){:target="\_blank"}  
 Xiaoshu Zhu, _Westat_  
 Steph Battan-Wraith, _Westat_  
 Vanessa Olivo, _Westat_  
 Kerry Grace Morrissey, _Westat_
 
-[Using the Annual Business Survey to Improve Measurement of the U.S. Cybersecurity Workforce - Check url]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A5.4_Feuer.pdf){:target="\_blank"}  
+[Using the Annual Business Survey to Improve Measurement of the U.S. Cybersecurity Workforce]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A5.4_Feuer.pdf){:target="\_blank"}  
 Shelley Feuer, _National Center for Science and Engineering Statistics_  
 Gigi Jones, _National Center for Science and Engineering Statistics_  
 Michael Prebil, _National Institute of Standards and Technology_  
@@ -177,16 +177,16 @@ Karen Wetzel, _National Institute of Standards and Technology_
 **Chair:** Rob Santos, _U.S. Census Bureau_  
 **Discussant:** Rob Santos, _U.S. Census Bureau_
 
-[Public Participation in the Review of OMB’s Race and Ethnicity Statistical Standards - Check url]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A6.1_Saindon.pdf){:target="\_blank"}  
+[Public Participation in the Review of OMB’s Race and Ethnicity Statistical Standards]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A6.1_Saindon.pdf){:target="\_blank"}  
 Jennifer Saindon, _U.S. Census Bureau_
 
-[Engaging with External Advocates: The Power of Coalition and Community Organizing - Check url]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A6.2_Anand.pdf){:target="\_blank"}  
+[Engaging with External Advocates: The Power of Coalition and Community Organizing]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A6.2_Anand.pdf){:target="\_blank"}  
 Meeta Anand, _The Leadership Conference on Civil and Human Rights_
 
-[Improving Data Collection for People with Disabilities: Challenges, Opportunities, and Recommended Actions - Check url]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A6.3_Sivinski.pdf){:target="\_blank"}  
+[Improving Data Collection for People with Disabilities: Challenges, Opportunities, and Recommended Actions]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A6.3_Sivinski.pdf){:target="\_blank"}  
 Adam Politis, _OSTP_
 
-[Elevating Equity for Indian Country in Data and Statistics - Check url]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A6.4_Malcom.pdf){:target="\_blank"}  
+[Elevating Equity for Indian Country in Data and Statistics]({{site.baseurl}}/assets/files/docs/2024-conference-docs/A/A6.4_Malcom.pdf){:target="\_blank"}  
 Jacob Malcom, _U.S. Department of the Interior, Office of the Secretary_  
 Veronica Lane, _U.S. Department of the Interior, Office of the Assistant Secretary for Indian Affairs_
 
@@ -201,7 +201,7 @@ Chair: Karin Orvis, <i>Office of Management and Budget</i>
 [Welcome and Annual Update on the U.S. Federal Statistical System]({{site.baseurl}}/assets/files/docs/2024-conference-docs/Session_A7_Plenary/A7.1_Gonzalez.pdf){:target="\_blank"}  
 Karin Orvis, _Office of Management and Budget_  
 
-[Federal Statistics: Building on the Past, Looking to the Future - Check url]({{site.baseurl}}/assets/files/docs/2024-conference-docs/Session_A7_Plenary/A7.2_Orvis.pdf){:target="\_blank"}  
+[Federal Statistics: Building on the Past, Looking to the Future]({{site.baseurl}}/assets/files/docs/2024-conference-docs/Session_A7_Plenary/A7.2_Orvis.pdf){:target="\_blank"}  
 Jeri Mulrow, _Westat_  
 
 
