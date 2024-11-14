@@ -430,7 +430,7 @@ Patuxent
 [Drift vs Shift: Decoupling Trends and Changepoint Analysis]({{site.baseurl}}/assets/files/docs/2024-conference-docs/C/C3.1_Matteson.pdf){:target="\_blank"}   
 David S. Matteson, _Cornell University and National Institute of Statistical Sciences_
 
-[On an Empirical Likelihood-Based Solution to Approximate Bayesian Computation Problem]({{site.baseurl}}/assets/files/docs/2024-conference-docs/C/C2.2_Kaputa.pdf){:target="\_blank"}  
+[On an Empirical Likelihood-Based Solution to Approximate Bayesian Computation Problem]({{site.baseurl}}/assets/files/docs/2024-conference-docs/C/C3.2_Chaudhuri.pdf){:target="\_blank"}  
 Sanjay Chaudhuri, _University of Nebraska-Lincoln and National University of Singapore_  
 Subhroshekhar Ghosh, _National University of Singapore_  
 Pham Thi Kim Cuc, _National University of Singapore_
@@ -441,10 +441,10 @@ Luca Sartore, _National Institute of Statistical Sciences and National Agricultu
 Habtamu Benecha, _National Agricultural Statistics Service_  
 Bruce A. Craig, _Purdue University and National Agricultural Statistics Service_
 
-[Securing Confidentiality in Machine Learning Models]({{site.baseurl}}/assets/files/docs/2024-conference-docs/C/C2.4_Xiong.pdf){:target="\_blank"}  
+[Securing Confidentiality in Machine Learning Models]({{site.baseurl}}/assets/files/docs/2024-conference-docs/C/C3.4_Galantucci.pdf){:target="\_blank"}  
 Ellen Galantucci, _Federal Maritime Commission_
 
-[On A Machine Learning Framework for Studying Imbalanced Spatio-Temporal Data]({{site.baseurl}}/assets/files/docs/2024-conference-docs/C/C3.4_Galantucci.pdf){:target="\_blank"}  
+[On A Machine Learning Framework for Studying Imbalanced Spatio-Temporal Data]({{site.baseurl}}/assets/files/docs/2024-conference-docs/C/C3.5_Chatterjee.pdf){:target="\_blank"}  
 Snigdhansu (Ansu) Chatterjee, _University of Maryland, Baltimore County_
 
 ## Session C-4: Visualizing Insights: Unveiling the Power of Data
@@ -822,11 +822,11 @@ Amy Symens Smith, _U.S. Census Bureau_
 [U.S. Department of Education’s SOGI Data Action Plan]({{site.baseurl}}/assets/files/docs/2024-conference-docs/E/E6.3_Christopher.pdf){:target="\_blank"}   
 Elise Christopher, _National Center for Education Statistics_
 
-[The U.S. Department of Housing and Urban Development’s SOGI Data Action Plan]({{site.baseurl}}/assets/files/docs/2024-conference-docs/C/C2.4_Xiong.pdf){:target="\_blank"}   
+[The U.S. Department of Housing and Urban Development’s SOGI Data Action Plan]({{site.baseurl}}/assets/files/docs/2024-conference-docs/E/E6.4_Carter.pdf){:target="\_blank"}   
 George Carter, _Department of Housing and Urban Development_  
 Gretchen Armstrong, _Department of Housing and Urban Development_
 
-[Action on SOGI Data & Delivering on EO 14075 at Department of Health and Human Services]({{site.baseurl}}/assets/files/docs/2024-conference-docs/E/E6.4_Carter.pdf){:target="\_blank"}   
+[Action on SOGI Data & Delivering on EO 14075 at Department of Health and Human Services]({{site.baseurl}}/assets/files/docs/2024-conference-docs/E/E6.5_Dragon.pdf){:target="\_blank"}   
 Christina N Dragon, _Office of the Assistant Secretary for Health_  
 Adrian Shanker, _Office of the Assistant Secretary for Health_  
 Karen Parker, _National Institutes of Health_
@@ -1051,15 +1051,15 @@ Benjamin Reist, _NORC at the University of Chicago_
 **Chair**: Barbara A. Downs, _U.S. Census Bureau_  
 Chesapeake B
 
-[Enhancing School Safety Through the Indicators of School Crime and Safety Program: The Value of Cross-Agency Collaboration]({{site.baseurl}}/assets/files/docs/2024-conference-docs/G/G2.2_Hart.pdf){:target="\_blank"}   
+[Enhancing School Safety Through the Indicators of School Crime and Safety Program: The Value of Cross-Agency Collaboration]({{site.baseurl}}/assets/files/docs/2024-conference-docs/G/G2.1_DeLaRosa.pdf){:target="\_blank"}   
 Josue DeLaRosa, _National Center for Education Statistics_  
 Veronique Irwin, _National Center for Education Statistics_
 
-[Toward a 21st Century National Data Infrastructure: Managing Privacy and Confidentiality Risks with Blended Data]({{site.baseurl}}/assets/files/docs/2024-conference-docs/G/G2.3_Jones.pdf){:target="\_blank"}   
+[Toward a 21st Century National Data Infrastructure: Managing Privacy and Confidentiality Risks with Blended Data]({{site.baseurl}}/assets/files/docs/2024-conference-docs/G/G2.2_Hart.pdf){:target="\_blank"}   
 Nick Hart, _Data Foundation_  
 Jennifer Park, _Committee on National Statistics_
 
-[Unleashing the Promise of Evidence-Based Decision-Making: The Power of the “3 Cs”]({{site.baseurl}}/assets/files/docs/2024-conference-docs/G/G3.0_Choi.pdf){:target="\_blank"}   
+[Unleashing the Promise of Evidence-Based Decision-Making: The Power of the “3 Cs”]({{site.baseurl}}/assets/files/docs/2024-conference-docs/G/G2.3_Jones.pdf){:target="\_blank"}   
 Alyssa Holdren, _Bureau of Economic Analysis_  
 Barbara Downs, _U.S. Census Bureau_  
 Erica Zielewski, _Office of Management and Budget_
@@ -1074,7 +1074,7 @@ Erica Zielewski, _Office of Management and Budget_
 [Quantifying the Wage Gap for Black Women and Its Effect Beyond the Dollar ($)]({{site.baseurl}}/assets/files/docs/2024-conference-docs/G/G3.1_Jean-Charles.pdf){:target="\_blank"}   
 Keisha Jean Charles, _Bureau of Labor Statistics_
 
-[Association of Unfair Treatment in Health Care Settings with Multi-dimensional Measures of Race Among Hispanic/Latinx Adults]({{site.baseurl}}/assets/files/docs/2024-conference-docs/G/G3.3_Lowe.pdf){:target="\_blank"}   
+[Association of Unfair Treatment in Health Care Settings with Multi-dimensional Measures of Race Among Hispanic/Latinx Adults](#){:target="\_blank"}   
 Dulce Gonzalez, _Urban Institute_  
 Michael Karpman, _Urban Institute_  
 Geneivive M. Kenney, _Urban Institute_
@@ -1082,15 +1082,15 @@ Geneivive M. Kenney, _Urban Institute_
 [Examining Shifts in the Black Latino Population in the Census Bureau’s Modified Race Question]({{site.baseurl}}/assets/files/docs/2024-conference-docs/G/G3.3_Lowe.pdf){:target="\_blank"}   
 Ricardo Lowe, _The University of Texas-Austin_
 
-[Street Race and the Intra-categorical Complexity within Asian Americans]({{site.baseurl}}/assets/files/docs/2024-conference-docs/G/G3.6_DeLaRosa.pdf){:target="\_blank"}   
+[Street Race and the Intra-categorical Complexity within Asian Americans](#){:target="\_blank"}   
 Sharan K. Mehta, _The University of New Mexico_  
 Edward D. Vargas, _Arizona State University_  
 Yasmiyn Irizarry, _The University of Texas, Austin_
 
-[Racial and Ethnic Categories and the Measurement of Inequality: The Case of U.S. Latinos]({{site.baseurl}}/assets/files/docs/2024-conference-docs/G/G3.6_DeLaRosa.pdf){:target="\_blank"}   
+[Racial and Ethnic Categories and the Measurement of Inequality: The Case of U.S. Latinos](#){:target="\_blank"}   
 Karen Lee, _DePaul University_
 
-[Bridging Data Gaps in Educational Equity: An Intersectional Analysis Leveraging NPSAS]({{site.baseurl}}/assets/files/docs/2024-conference-docs/G/G3.6_DeLaRosa.pdf){:target="\_blank"}   
+[Bridging Data Gaps in Educational Equity: An Intersectional Analysis Leveraging NPSAS]({{site.baseurl}}/assets/files/docs/2024-conference-docs/G/G3.6_DeLaRosa.pdf){:target="\_blank"}    
 Josué (Josh) DeLaRosa, _National Center for Education Statistics_
 
 ## Session G-4: The Roles of Data Quality and Transparency in Supporting Scientific Integrity for Statistical Agencies
@@ -1330,7 +1330,7 @@ Emanuel Ben-David, _U.S. Census Bureau_
 **Discussant:** Clara Reschovsky, _Bureau of Transportation Statistics_  
  Room 0105
 
-[NHTS Overview and Policy Applications]({{site.baseurl}}/assets/files/docs/2024-conference-docs/C/C2.4_Xiong.pdf){:target="\_blank"}   
+[NHTS Overview and Policy Applications]({{site.baseurl}}/assets/files/docs/2024-conference-docs/H/H6.1_Jenkins.pdf){:target="\_blank"}   
 Daniel Jenkins, _Federal Highway Administration_
 
 [Exploring Shifts in Mobility in the U.S.: An Analysis of Travel Trends Using the NHTS]({{site.baseurl}}/assets/files/docs/2024-conference-docs/H/H6.1_Jenkins.pdf){:target="\_blank"}   
@@ -1346,7 +1346,7 @@ Elizabeth Sloan, _Battelle_
 Ta Lui, _Battelle_  
 Filmon Habtemichael, _Battelle_
 
-[Unveiling the Roadmap: The Utility and Functionality of NHTS Data Dissemination Tools]({{site.baseurl}}/assets/files/docs/2024-conference-docs/H/H6.3_Pate.pdf){:target="\_blank"}   
+[Unveiling the Roadmap: The Utility and Functionality of NHTS Data Dissemination Tools]({{site.baseurl}}/assets/files/docs/2024-conference-docs/H/H6.4_Wang.pdf){:target="\_blank"}   
 C. Ross Wang, _Oak Ridge National Laboratory_  
 Layla Sun, _MacroSys_
 
@@ -1516,10 +1516,10 @@ Ujjayini Das, Srijeeta Mitra, _University of Maryland_
 [Considerations for Defining a Framework for Reproducibility in Survey Data Processing]({{site.baseurl}}/assets/files/docs/2024-conference-docs/J/J1.3_Rice.pdf){:target="\_blank"}   
 Kiegan Rice, Stas Kolenikov, Amy Ihde, Quentin Brummet, Karen Grigorian, Lauren Seward, _NORC at the University of Chicago_
 
-[Algorithmic Bias: Developing a Multidimensional Framework]({{site.baseurl}}/assets/files/docs/2024-conference-docs/J/J1.5_Lazovich.pdf){:target="\_blank"}   
+[Algorithmic Bias: Developing a Multidimensional Framework](#){:target="\_blank"}   
 Ruhan Circi, Juanita Hicks, _American Institutes for Research_
 
-[Official Statistics for Responsible AI: The Role of the Federal Statistical System in Enabling a More Accountable AI/ML Ecosystem]({{site.baseurl}}/assets/files/docs/2024-conference-docs/J/J2.1_CHILDS.pdf){:target="\_blank"}   
+[Official Statistics for Responsible AI: The Role of the Federal Statistical System in Enabling a More Accountable AI/ML Ecosystem]({{site.baseurl}}/assets/files/docs/2024-conference-docs/J/J1.5_Lazovich.pdf){:target="\_blank"}   
 Tomo Lazovich, Michael Walton, Atul Rawal, Anna Vasylytsya, Curtis Mitchell, Diamond Nwankwo, _U.S. Census Bureau_
 
 ## Session J-2: Communicating Quality in an Evolving Federal Data Ecosystem
@@ -1538,7 +1538,7 @@ Erika Tyagi, _Urban Institute_
 [Building Capacity to Communicate Data Quality: Actions at a Non-statistical Agency]({{site.baseurl}}/assets/files/docs/2024-conference-docs/J/J2.3_Malcom.pdf){:target="\_blank"}   
 Jacob Malcom, _Department of the Interior_
 
-[Tiers of Quality for Tiers of Access in Privacy-protected Data Products]({{site.baseurl}}/assets/files/docs/2024-conference-docs/J/J3.4_Cidade.pdf){:target="\_blank"}   
+[Tiers of Quality for Tiers of Access in Privacy-protected Data Products]({{site.baseurl}}/assets/files/docs/2024-conference-docs/J/J2.4_Snoke.pdf){:target="\_blank"}   
 Joshua Snoke, _RAND_
 
 ## Session J-3: Advancing Equity in Survey Research: Innovations in Survey Research and Assessment
@@ -1626,7 +1626,7 @@ Wendy Van de Kerckhove, _Westat_
 Tom Krenzke, _Westat_  
 Benjamin Schneider, _Westat_
 
-[Tax Education is a Form of Wealth Insurance: Linking FFIEC Data, IRS Gig-Ecosystem Data and Digital Divide Data to Identify Tax Education Outreach Needs]({{site.baseurl}}/assets/files/docs/2024-conference-docs/J/J6.2_Welsh.pdf){:target="\_blank"}   
+[Tax Education is a Form of Wealth Insurance: Linking FFIEC Data, IRS Gig-Ecosystem Data and Digital Divide Data to Identify Tax Education Outreach Needs](#){:target="\_blank"}   
 Barbara J. Robles, PhD, _Federal Reserve Board (Retired)_  
 Caroline Bruckner, _American University_  
 Marjorie E. Kornhauser, _Tulane University_
@@ -1637,7 +1637,7 @@ Marjorie E. Kornhauser, _Tulane University_
 **Chair:** Elina T. Page, _Economic Research Service_  
  Room 0105
 
-[CDC’s Youth Risk Behavior Surveillance System and Improved Usefulness of School-based Surveillance Data]({{site.baseurl}}/assets/files/docs/2024-conference-docs/J/J6.2_Welsh.pdf){:target="\_blank"}   
+[CDC’s Youth Risk Behavior Surveillance System and Improved Usefulness of School-based Surveillance Data](#){:target="\_blank"}   
 Jennifer C. Smith-Grant, _Centers for Disease Control and Prevention_  
 Shari Shanklin, _Centers for Disease Control and Prevention_  
 Kathleen H. Krause, _Centers for Disease Control and Prevention_
