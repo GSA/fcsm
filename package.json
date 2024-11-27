@@ -10,11 +10,11 @@
     "htmlproofer": "bundle exec htmlproofer --no-enforce-https --allow-missing-href _site"
   },
   "dependencies": {
-    "@uswds/uswds": "3.8.0",
-    "netlify-cms": "^2.10.179"
+    "@uswds/uswds": "3.10.0",
+    "netlify-cms": "^2.10.192"
   },
   "devDependencies": {
-    "pa11y-ci": "^2.4.0",
-    "rimraf": "^3.0.2"
+    "pa11y-ci": "^3.1.0",
+    "rimraf": "^4.4.1"
   }
 }
