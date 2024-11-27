@@ -3,7 +3,7 @@ title: 2005 Research Conference
 layout: page
 ---
 <p><strong>Resources and Proceedings</strong></p>
-<p>Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe&reg; Acrobat&reg; Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
+<p>Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe&reg; Acrobat&reg; Reader which is available for free from the <a class="usa-link--external" href="http://www.adobe.com/">Adobe Web site</a>.</p>
 <p class="larger" style="float: left; padding-right: 30px;">KEYNOTE<br>
 SPEAKER</p>
 <p style="float: left;  width: 70%;"><strong>A National Statistical System in a Rapidly Changing World </strong><br>

@@ -4,7 +4,7 @@ layout: page
 ---
 <p style="width:50%;"><a href="../assets/docs/2007FCSMResearchProgram.pdf" target="_blank"><strong>FINAL PROGRAM</strong></a>  <small> (498 KB)</small></p>
 <p><strong>Resources and Proceedings</strong></p>
-<p style="width:50%;">Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe&reg; Acrobat&reg; Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
+<p style="width:50%;">Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe&reg; Acrobat&reg; Reader which is available for free from the <a class="usa-link--external" href="http://www.adobe.com/">Adobe Web site</a>.</p>
 <p class="larger"><button type="button" class="collapsible">CONCURRENT SESSION II-A<br>
 MONITORING, MEASURING, AND ADJUSTING FOR NON-RESPONSE I</button></p>
 <p style="width:50%;"><a href="../assets/docs/2007FCSM_Graber-II-A.pdf" target="_blank">Monitoring Response to a Multi-Wave Medical Establishment Survey: How Different Are Responders From Nonresponders?</a>  <small> (199 KB)</small></p>

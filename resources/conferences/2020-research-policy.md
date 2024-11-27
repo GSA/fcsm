@@ -922,7 +922,7 @@ pandemic.&nbsp; The timely release of estimates from the monthly household
 labor force survey would show the impact of the pandemic and efforts to contain
 it on measures of employment and unemployment.&nbsp; We had a rare opportunity
 to quickly add a limited number of questions that might offer more information
-about how people were affected by the pandemic.&nbsp; The <a
+about how people were affected by the pandemic.&nbsp; The <a class="usa-link--external"
 href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.bls.gov%2Fcovid19%2Fmeasuring-the-effects-of-the-coronavirus-covid-19-pandemic-using-the-current-population-survey.htm&amp;data=02%7C01%7C%7C3115aba1d35b41c777d308d81a122c88%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C0%7C0%7C637288012644332935&amp;sdata=0%2BUKgQckvCl%2Fqe5Z%2BoCjwZLQKeUGsT9AsX54Ax9Fsks%3D&amp;reserved=0">new
 questions</a><span style='font-family:
 "Cambria",serif'> were crafted, reviewed, and submitted in a few weeks as the

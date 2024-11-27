@@ -4,7 +4,7 @@ layout: page
 ---
 <p><strong><a href="../assets/docs/2001FCSMResearchProgram.pdf" target="_blank">FINAL PROGRAM</a> </strong>  <small> (137 KB)</small></p>
 <p><strong>Resources and Proceedings</strong></p>
-<p>Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe&reg; Acrobat&reg; Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
+<p>Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe&reg; Acrobat&reg; Reader which is available for free from the <a class="usa-link--external" href="http://www.adobe.com/">Adobe Web site</a>.</p>
 <p class="" style="float: left;padding-right: 30px">PLENARY<br>
 SESSION I</p>
 

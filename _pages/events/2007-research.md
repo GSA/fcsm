@@ -10,7 +10,7 @@ sidenav: events_navigation
   <h2 class="page-sub-title">2007 Research Conference</h2>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2007FCSMResearchProgram.pdf" target="_blank"><strong>FINAL PROGRAM</strong></a>  </p>
   <p><strong>Resources and Proceedings</strong></p>
-  <p style="width:50%;">Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe® Acrobat® Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
+  <p style="width:50%;">Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe® Acrobat® Reader which is available for free from the <a class="usa-link--external" href="http://www.adobe.com/">Adobe Web site</a>.</p>
   <div style="padding: 20px; margin-top: 20px; margin-bottom: 20px; border: gray 2px solid;">CONCURRENT SESSION II-A<br>
   MONITORING, MEASURING, AND ADJUSTING FOR NON-RESPONSE I
   </div>

@@ -10,7 +10,7 @@ sidenav: resource_navigation
 
 <p>These Statistical Policy Working Papers are not Statistical Policy Directives. Statistical Policy Directives are issued by OMB and serve as minimum requirements for Federal principal statistical agencies when they engage in statistical activities. Statistical Policy Directives can be found at:</p>
 
-<a href="https://www.whitehouse.gov/omb/information-regulatory-affairs/statistical-programs-standards/" target="_blank">https://www.whitehouse.gov/omb/information-regulatory-affairs/statistical-programs-standards/</a>
+<a class="usa-link--external" href="https://www.whitehouse.gov/omb/information-regulatory-affairs/statistical-programs-standards/" target="_blank">https://www.whitehouse.gov/omb/information-regulatory-affairs/statistical-programs-standards/</a>
 
 <h3 class="page-sub-heading">DATA QUALITY FRAMEWORK</h3>
 <ul>
