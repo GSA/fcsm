@@ -9,7 +9,7 @@ sidenav: events_navigation
 <div class="fcsm-internal-pages">
   <h2 class="page-sub-title">2005 Research Conference</h2>
   <p><strong>Resources and Proceedings</strong></p>
-  <p>Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe® Acrobat® Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
+  <p>Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe® Acrobat® Reader which is available for free from the <a class="usa-link--external" href="http://www.adobe.com/">Adobe Web site</a>.</p>
   <p class="larger" style="float: left; padding-right: 30px;">KEYNOTE - <strong>A National Statistical System in a Rapidly Changing World </strong><br>
   SPEAKER - Miron Straf (The National Academies of Science, USA)</p>
   <p><br clear="all"></p>

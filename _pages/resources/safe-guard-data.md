@@ -10,7 +10,7 @@ sidenav: resource_navigation
 
 <p>The Subcommittee’s revisions to SPWP22, renamed the Data Protection Toolkit, reflect current understanding of the need to protect confidentiality and the risks of re-identification in federal data, recent developments in the knowledge and practice of statistical disclosure limitation by federal agencies, and the varieties of tiered data access mechanisms in use by the statistical system. The Data Protection Toolkit also includes automated tools, templates, statistical code, and other resources to complement the information contained in the toolkit. These online tools will enable agencies across government to improve their implementations of statistical disclosure limitation and secure/tiered data access.</p>
 
-<a class="fcsm-main-links" href="https://nces.ed.gov/fcsm/dpt" target="_blank">Data Protection Toolkit (beta)</a>
+<a class="fcsm-main-links usa-link--external" href="https://nces.ed.gov/fcsm/dpt" target="_blank">Data Protection Toolkit (beta)</a>
 
 <a class="fcsm-main-links" href="{{site.baseurl}}/assets/files/docs/Subcommittee on Updating Statistical Methods for Safeguarding Protected Data Charter Signed 042619.pdf">Charter</a>
 

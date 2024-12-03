@@ -10,7 +10,7 @@ sidenav: events_navigation
   <h2 class="page-sub-title">2009 Research Conference</h2>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/2009FCSMResearchProgram.pdf" target="_blank"><strong>FINAL PROGRAM</strong></a>  </p>
   <p><strong>Resources and Proceedings</strong></p>
-  <p>Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe® Acrobat® Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
+  <p>Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe® Acrobat® Reader which is available for free from the <a class="usa-link--external" href="http://www.adobe.com/">Adobe Web site</a>.</p>
   <p class="larger" style="float: left; padding-right: 30px;">PLENARY - <strong>What We Don’t Know Could Hurt Us:<br />Some Reflections on the Measurement of Economic Activity</strong>  <br />SESSION - Katharine G. Abraham (University of Maryland)</p>
   <p><br clear="all"></p>
   <p class="date">MONDAY AM</p>

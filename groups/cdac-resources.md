@@ -30,6 +30,6 @@ Characteristics, Defining Qualities and Generalizability (papers presented at th
 </ul>--->
 <p><strong>Additional Sources of Information</strong></p>
 <ul>
-<li><a href="http://community.amstat.org/cpc/home">American Statistical Association Committee on Privacy and Confidentiality website</a></li>
-<li><a href="https://www.census.gov/about/policies/privacy/statistical_safeguards.html">U.S. Census Bureau's Statistical Disclosure Control Web Site</a></li>
+<li><a class="usa-link--external" href="http://community.amstat.org/cpc/home">American Statistical Association Committee on Privacy and Confidentiality website</a></li>
+<li><a class="usa-link--external" href="https://www.census.gov/about/policies/privacy/statistical_safeguards.html">U.S. Census Bureau's Statistical Disclosure Control Web Site</a></li>
 </ul>

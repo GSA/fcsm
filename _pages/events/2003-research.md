@@ -10,7 +10,7 @@ sidenav: events_navigation
   <h2 class="page-sub-title">2003 Research Conference</h2>
   <!------<p style="width:50%"><strong>FINAL PROGRAM</strong>  </p>---->
   <p><strong>Resources and Proceedings</strong></p>
-  <p>Unless noted, all of these documents  are in Portable Document Format [PDF]. To view them you will need the Adobe®  Acrobat® Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
+  <p>Unless noted, all of these documents  are in Portable Document Format [PDF]. To view them you will need the Adobe®  Acrobat® Reader which is available for free from the <a class="usa-link--external" href="http://www.adobe.com/">Adobe Web site</a>.</p>
   <p style="float:left; padding-right: 30px;" class="larger">KEYNOTE - <a href="{{site.baseurl}}/assets/files/docs/2003FCSM_keynotespeaker.pdf" target="_blank"><strong>There and Back Again:  Demographic Survey Sampling in the 21st Century</strong></a>  <br>
   SPEAKER - Colm O’Muircheartaigh (NORC, University of Chicago)</p>
   <hr>

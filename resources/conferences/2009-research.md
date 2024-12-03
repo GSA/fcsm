@@ -4,7 +4,7 @@ layout: page
 ---
 <p style="width:50%;"><a href="../assets/docs/2009FCSMResearchProgram.pdf" target="_blank"><strong>FINAL PROGRAM</strong></a>  <small> (2 MB)</small></p>
 <p><strong>Resources and Proceedings</strong></p>
-<p>Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe&reg; Acrobat&reg; Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
+<p>Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe&reg; Acrobat&reg; Reader which is available for free from the <a class="usa-link--external" href="http://www.adobe.com/">Adobe Web site</a>.</p>
 <p class="larger" style="float: left; padding-right: 30px;">PLENARY<br>
 SESSION</p>
 <p style="float: left; width: 70%;"><strong><a href="../assets/docs/construction.pdf" target="_blank">What We Don't Know Could Hurt Us: Some Reflections on the Measurement of Economic Activity</a></strong>  <small> (440 KB)</small><br>
