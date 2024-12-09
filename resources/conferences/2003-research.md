@@ -4,7 +4,7 @@ layout: page
 ---
 <p style="width:50%"><a href="../assets/docs/construction.pdf" target="_blank"><strong>FINAL PROGRAM</strong></a>  <small> (440 KB)</small></p>
 <p><strong>Resources and Proceedings</strong></p>
-<p>Unless noted, all of these documents  are in Portable Document Format [PDF]. To view them you will need the Adobe&reg;  Acrobat&reg; Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
+<p>Unless noted, all of these documents  are in Portable Document Format [PDF]. To view them you will need the Adobe&reg;  Acrobat&reg; Reader which is available for free from the <a class="usa-link--external" href="http://www.adobe.com/">Adobe Web site</a>.</p>
 <p style="float:left; padding-right: 30px;" class="larger">KEYNOTE<br>
 SPEAKER</p>
 <p style="float:left; font-size:125%;width:70%;"><a href="../assets/docs/2003FCSM_keynotespeaker.pdf" target="_blank"><strong>There and Back Again:  Demographic Survey Sampling in the 21st Century</strong></a>  <small>(660 KB)</small><br>

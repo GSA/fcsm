@@ -12,7 +12,7 @@ sidenav: events_navigation
   January 10-12, 2012<br>
   <strong>FINAL PROGRAM</strong>  </p>
   <p><strong>Resources and Proceedings</strong></p>
-  <p style="width: 50%;">Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe® Acrobat® Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
+  <p style="width: 50%;">Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe® Acrobat® Reader which is available for free from the <a class="usa-link--external" href="http://www.adobe.com/">Adobe Web site</a>.</p>
 
   <p class="larger" style="float: left; padding-right: 30px; ">PLENARY -<strong>"Who is This Survey Designed for, the 'Agency' or the Respondent?"</strong>  <br />SESSION - Don Dillman (Washington State University, USA)</p>
   <p><br clear="all"></p>

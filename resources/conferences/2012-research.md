@@ -6,7 +6,7 @@ layout: page
 January 10-12, 2012<br>
 <a href="../assets/docs/construction.pdf" target="_blank"><strong>FINAL PROGRAM</strong></a>  <small> (404 KB)</small></p>
 <p><strong>Resources and Proceedings</strong></p>
-<p style="width: 50%;">Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe&reg; Acrobat&reg; Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
+<p style="width: 50%;">Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe&reg; Acrobat&reg; Reader which is available for free from the <a class="usa-link--external" href="http://www.adobe.com/">Adobe Web site</a>.</p>
 			
 <p class="larger" style="float: left; padding-right: 30px; ">PLENARY SESSION</p>
 <p style="float: left;  width: 60%;"><a href="../assets/docs/construction.pdf" target="_blank"><strong>"Who is This Survey Designed for, the 'Agency' or the Respondent?"</strong></a>  <small> (404 KB)</small><br>

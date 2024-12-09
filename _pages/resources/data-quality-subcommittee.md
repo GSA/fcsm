@@ -18,7 +18,7 @@ sidenav: resource_navigation
     <li><a href="{{site.baseurl}}/assets/files/docs/Transparent_Reporting_FCSM_19_01_092719.pdf" target="_blank">Transparent Reporting for Integrated Data Quality: Practices of Seven Federal Statistical Agencies (2019)</a></li>
     <li><a href="{{site.baseurl}}/assets/files/docs/Quality_Integrated_Data.pdf" target="_blank">Transparent Quality Reporting in the Integration of Multiple Data Sources: A Progress Report (2018)</a></li>
     <li><a href="{{site.baseurl}}/assets/files/docs/Workshop_Summary.pdf" target="_blank">Findings from the Integrated Data Workshops hosted by the Federal Committee on Statistical Methodology and Washington Statistical Society (2018)</a></li>
-    <li><a href="https://mathematica.org/publications/transparency-in-the-reporting-of-quality-for-integrated-data-a-review-of-international-standards" target="_blank">Transparency in the Reporting of Quality for Integrated Data: A Review of International Standards and Guidelines (2018)</a></li>
+    <li><a class="usa-link--external" href="https://mathematica.org/publications/transparency-in-the-reporting-of-quality-for-integrated-data-a-review-of-international-standards" target="_blank">Transparency in the Reporting of Quality for Integrated Data: A Review of International Standards and Guidelines (2018)</a></li>
     <li><a href="{{site.baseurl}}/assets/files/docs/DataQualityAssessmentTool.pdf" target="_blank">Data Quality Assessment Tool for Administrative Data (2013)</a></li>
 </ul>
 

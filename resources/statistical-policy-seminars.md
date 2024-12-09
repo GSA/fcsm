@@ -4,9 +4,9 @@ layout: page
 ---
 <p><strong>2016: <a href="2016policies/index.html">The Future of Federal Statistics - Use of Multiple Data Sources, Anchored in Fundamental Principles and Practices</a></strong> [Program]</p>
 
-<p><strong>2014: <a href="https://www.copafs.org/seminars/fcsm2014policies/index.htmlx">Official Statistics in a Changing Society - Making Choices and Balancing Tradeoffs</a> </strong> [External link to presentations]</p>
+<p><strong>2014: <a class="usa-link--external" href="https://www.copafs.org/seminars/fcsm2014policies/index.htmlx">Official Statistics in a Changing Society - Making Choices and Balancing Tradeoffs</a> </strong> [External link to presentations]</p>
 
-<p><strong>2012: <a href="https://www.copafs.org/seminars/fcsm2012policies/index.htmlx">Collaborating to Achieve Innovation and Efficiencies: Advances and Opportunities</a> </strong> [External link to presentations]</p>
+<p><strong>2012: <a class="usa-link--external" href="https://www.copafs.org/seminars/fcsm2012policies/index.htmlx">Collaborating to Achieve Innovation and Efficiencies: Advances and Opportunities</a> </strong> [External link to presentations]</p>
 
 <p><strong>2010: <a href="../assets/docs/2010FCSMPolicyProgram.pdf" target="_blank">Beyond Our Traditions: Innovative Approaches to Longstanding and Emerging Challenges</a></strong><!---pdf/2010FCSMPolicyProgram.pdf--->  </p>
 

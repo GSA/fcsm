@@ -3,7 +3,7 @@ title: 1999 Research Conference
 layout: page
 ---
 <p><strong>Resources and Proceedings</strong></p>
-<p>Unless noted, all of these documents  are in Portable Document Format [PDF]. To view them you will need the Adobe&reg;  Acrobat&reg; Reader which is available for free from the <a href="http://www.adobe.com/">Adobe Web site</a>.</p>
+<p>Unless noted, all of these documents  are in Portable Document Format [PDF]. To view them you will need the Adobe&reg;  Acrobat&reg; Reader which is available for free from the <a class="usa-link--external" href="http://www.adobe.com/">Adobe Web site</a>.</p>
 <!--<p><a name="top" id="top"></a><strong>Jump to ...</strong><br>
 <span style="float:left;width:30%;padding-bottom:20px;"><a href="#ps1">Plenary Session I</a><br>
 <a href="#banq">Banquet Session</a><br>

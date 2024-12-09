@@ -236,7 +236,7 @@ Robin A. Cohen and Carla E. Zelaya (National Center for Health Statistics)</p>
 Laryssa Mykyta, Amy Steinweg, and Katherine Keisler-Starkey (U.S. Census Bureau)</p>
 <p><strong>Using Insurance Claims Data in the Medical Price Indexes</strong><br>
 Daniel Wang, John Bieler, Brian Parker, Caleb Cho, and Brett Matsumoto (Bureau of Labor Statistics)</p>
-<p><strong>Discussant: <span class="text-dark-blue"><span>Steven Cohen (RTI)&nbsp;</span> <a class="text-dark-blue" href="https://copafs.org/wp-content/uploads/2021/12/FCSM-2021_Proceedings_SCohen_122221.pdf" target="_blank" rel="noopener">Paper</a> &nbsp;<a href="https://copafs.org/wp-content/uploads/2021/12/FCSM-101321_SCohen-V1_102221r2_psg.pptx" target="_blank" rel="noopener"><span class="text-dark-blue">Slides</span></a></span></strong></p>
+<p><strong>Discussant: <span class="text-dark-blue"><span>Steven Cohen (RTI)&nbsp;</span> <a class="text-dark-blue usa-link--external" href="https://copafs.org/wp-content/uploads/2021/12/FCSM-2021_Proceedings_SCohen_122221.pdf" target="_blank" rel="noopener">Paper</a> &nbsp;<a class="usa-link--external" href="https://copafs.org/wp-content/uploads/2021/12/FCSM-101321_SCohen-V1_102221r2_psg.pptx" target="_blank" rel="noopener"><span class="text-dark-blue">Slides</span></a></span></strong></p>
 <h2 class="text-left"><span class="text-dark-grey"><em><strong>Session D-3: </strong></em>Enhancing Transparency, Reproducibility and Privacy</span></h2>
 <p><strong>Session Liaison:</strong> Amy Lauger (Bureau of Justice Statistics)<br>
 <strong>Session Chair:</strong> Amy O'Hara (Georgetown University)</p>

@@ -6,7 +6,7 @@ layout: page
 November 4-6, 2013</p>
 
 <p style="width:50%;"><a href="../assets/docs/construction.pdf" target="_blank"><strong>FINAL PROGRAM</strong></a>  <small> (440.0 MB)</small></p><!------------pdf/2013FCSMResearchProgram.pdf--------->
-<p style="width:50%;"><a href="http://www.copafs.org/seminars/fcsm2013research.htmlx"><strong>PRESENTATIONS</strong></a> (posted on the COPAFS website)</p>
+<p style="width:50%;"><a class="usa-link--external" href="http://www.copafs.org/seminars/fcsm2013research.htmlx"><strong>PRESENTATIONS</strong></a> (posted on the COPAFS website)</p>
 <p><strong>Resources and Proceedings</strong></p>
 <p>Unless noted, all of these documents are in Portable Document Format [PDF].</p>
 <p class="larger" style="float: left; padding-right: 30px;">PLENARY<br>
