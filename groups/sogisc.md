@@ -42,7 +42,7 @@ This working paper summarizes the initial work of the Interagency Working Group 
 
 <p>Healthy People identifies public health priorities to help individuals, organizations, and communities across the United States improve health and well-being. Healthy People 2030, the initiative's fifth iteration, builds on knowledge gained over the first four decades.</p>
 
-<p><a class="usa-link--external" href="https://www.whitehouse.gov/wp-content/uploads/2023/01/SOGI-Best-Practices.pdf"><strong>Recommendations on Best Practices for the Collection of Sexual Orientation and Gender Identity Data on Federal Statistical Surveys</strong></a></p>
+<p><a class="usa-link--external" href="{{site.baseurl}}/assets/files/docs/SOGI_Best_Practices.pdf"><strong>Recommendations on Best Practices for the Collection of Sexual Orientation and Gender Identity Data on Federal Statistical Surveys</strong></a></p>
 
 <p>The Office of Management and Budget issued this report in January 2023. The report highlights the importance of continual learning, offers considerations for including SOGI items on surveys, provides example approaches for collecting and reporting this information, offers guidance on how to safeguard SOGI data, and concludes with a summary of challenges that need further research.</p>
 
