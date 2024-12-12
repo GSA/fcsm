@@ -16,5 +16,16 @@
   "devDependencies": {
     "pa11y-ci": "^3.1.0",
     "rimraf": "^4.4.1"
+  },
+  "overrides": {
+    "cross-spawn": "6.0.6",
+    "minimist": "1.2.8",
+    "remark-parse": ">=10.0.1",
+    "mdast-util-to-hast": ">=5.0.0",
+    "trim":">=0.0.3",
+    "tough-cookie": ">=4.1.4",
+    "got": ">=11.8.5",
+    "trim-newlines": ">=5.0.0",
+    "semver": ">=7.6.3"
   }
 }
