@@ -18,7 +18,7 @@ title: Search Results
   fetch(searchEndpoint).then(function(res) {
       return res.json()
     }).then(function(posts) {
-      document.getElementById('search-params').innerHTML = urlParams.get('query');
+      document.getElementById('search-params').innerHTML = encodeHTML(urlParams.get('query'));
       if (posts.web.results.length > 0) {
         document.getElementById('search-results').classList.remove('display-none');
         document.getElementById('no-results').classList.add('display-none');
@@ -48,6 +48,13 @@ title: Search Results
       document.getElementById('search-results').innerHTML = (append == true) ? previous + content : content;
     }
 
+    function encodeHTML(str) {
+      return str.replace(/&/g, '&amp;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;')
+                .replace(/"/g, '&quot;')
+                .replace(/'/g, '&#39;');
+    }
 //]]>
 </script>
 
