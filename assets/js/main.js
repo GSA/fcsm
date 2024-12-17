@@ -129,7 +129,7 @@
 			var odo = $(".odometer");
 			odo.each(function() {
 				var countNumber = $(this).attr("data-count");
-				$(this).html(countNumber);
+				$(this).text(countNumber);
 			});
         });
 
