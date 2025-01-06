@@ -62,10 +62,10 @@ layout: page--no-nav
   <li class="tablet:grid-col-6 usa-card">
     <div class="usa-card__container radius-md border-2px border-base-lightest shadow-1">
       <header class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans"><a class="usa-link--external" target="_blank" href="https://nces.ed.gov/fcsm/edt/index.html">Equitable Data Toolkit</a></h2>
+        <h2 class="usa-card__heading font-family-sans"><a class="usa-link--external" target="_blank" href="https://nces.ed.gov/fcsm/edt/index.html">Hard to Measure Populations Toolkit</a></h2>
       </header>
       <div class="usa-card__body">
-        <p>Provides federal agencies with tools that support equity analyses with a focus on historically underserved populations. Supports increasing available data, improving the accuracy of analyses, and ensuring ethical and secure data governance to improve the representation of underserved populations in federal data and analyses.</p>
+        <p>Supports increasing available data, improving the accuracy of analyses, and ensuring ethical and secure data governance to improve the representation of underserved populations in federal data and analyses.</p>
       </div>
     </div>
   </li>
