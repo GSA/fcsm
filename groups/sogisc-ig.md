@@ -2,6 +2,7 @@
 title: Sexual Orientation, Gender Identity, and Sex Characteristics Interest Group
 layout: page
 sidenav: group_navigation
+published: false
 ---
 
 <p>The Sexual Orientation, Gender Identity, and Sex Characteristics (SOGISC) Interest Group provides ongoing opportunities for federal employees interested in statistical methods or data quality related to measuring sexual orientation, gender identity, and sex characteristics (SOGISC) to interact, exchange information, and explore issues related to this topic.</p>

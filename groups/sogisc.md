@@ -2,6 +2,7 @@
 title: Sexual Orientation, Gender Identity, and Sex Characteristics Subcommittee
 layout: page
 sidenav: group_navigation
+published: false
 ---
 <p>The Sexual Orientation, Gender Identity, and Sex Characteristics (SOGISC) Subcommittee promotes coordination between federal agencies on issues relating to measuring sexual orientation and gender identity in federal data collections.</p>
 
