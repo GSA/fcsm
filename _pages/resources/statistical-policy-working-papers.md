@@ -30,7 +30,7 @@ sidenav: resource_navigation
 
 <h3 class="page-sub-heading">QUESTION EVALUATION AND DATA COLLECTION</h3>
 <ul>
-<li><a href="{{site.baseurl}}/assets/files/docs/FCSM_SOGI_Terminology_FY20_Report_FINAL.pdf" target="_blank">Updates on Terminology of Sexual Orientation and Gender Identity Survey Measures (FCSM 20-03)</a></li>
+<!-- <li><a href="{{site.baseurl}}/assets/files/docs/FCSM_SOGI_Terminology_FY20_Report_FINAL.pdf" target="_blank">Updates on Terminology of Sexual Orientation and Gender Identity Survey Measures (FCSM 20-03)</a></li> -->
 <li><a href="{{site.baseurl}}/assets/files/docs/spwp47.pdf" target="_blank">Evaluating Survey Questions: An Inventory of Methods, 2016 (WP 47)</a></li>
 <li><a href="{{site.baseurl}}/assets/files/docs/spwp19.pdf" target="_blank">Computer Assisted Survey Information Collection, 1990 (WP 19)</a></li>
 <li><a href="{{site.baseurl}}/assets/files/docs/spwp12.pdf" target="_blank">The Role of Telephone Data Collection in Federal Statistics, 1984 (WP 12)</a></li>

@@ -9,7 +9,7 @@ Gemfile.lock
 package-lock.json
 .idea
 .DS_Store
-assets/uswds/
+# assets/uswds/
 assets/js/uswds*
 assets/img/
 assets/fonts/
