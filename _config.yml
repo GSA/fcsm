@@ -153,7 +153,7 @@ resource_navigation:
     url: /resources/non-response-bias/
   # - name: SOGISC
   #   url: /groups/sogisc/
-  - name: Equitable Data Toolkit
+  - name: Hard-to-Measure Populations Toolkit
     url: /resources/equitable-data-toolkit/
 
 events_navigation:

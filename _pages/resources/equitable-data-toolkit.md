@@ -1,5 +1,5 @@
 ---
-title: Equitable Data Toolkit
+title: Hard-to-Measure Populations Toolkit
 layout: page
 sidenav: resource_navigation
 ---
