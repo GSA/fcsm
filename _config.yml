@@ -153,8 +153,8 @@ resource_navigation:
     url: /resources/non-response-bias/
   # - name: SOGISC
   #   url: /groups/sogisc/
-  - name: Hard-to-Measure Populations Toolkit
-    url: /resources/equitable-data-toolkit/
+  #- name: Hard-to-Measure Populations Toolkit
+  #  url: /resources/equitable-data-toolkit/
 
 events_navigation:
   - name: FCSM Research and Policy Conferences
