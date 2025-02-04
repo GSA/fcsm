@@ -1055,7 +1055,7 @@ Harrison Quick, *Drexel University*
 ## Session G-4: Advances in Implementing Title III of the Evidence Act: Enhancing Public Trust in Official Statistics and Expanding Data Access for Evidence Building
 
 **Organizer:** John Finamore, *National Center for Science and Engineering Statistics*  
-<a href="{{site.baseurl}}/assets/files/docs/2023-conference-docs/G4.0_Orvis.pdf" class="bold" aria-label="Chair - Karin Orvis" target="_blank">Chair</a><b>:</b> Karin Orvis, *Office of Management and Budget*  
+<b>Chair:</b> Karin Orvis, *Office of Management and Budget*  
 
 [Building Trust in Federal Statistics]({{site.baseurl}}/assets/files/docs/2023-conference-docs/G4.1_Leslie.pdf){:target="_blank"}  
 Kerrie Leslie, *Office of Management and Budget*
