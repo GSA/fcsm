@@ -177,18 +177,18 @@ Karen Wetzel, _National Institute of Standards and Technology_
 **Chair:** Rob Santos, _U.S. Census Bureau_  
 **Discussant:** Rob Santos, _U.S. Census Bureau_
 
-[Public Participation in the Review of OMB’s Race and Ethnicity Statistical Standards](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/A/A6.1_Saindon.pdf){:target="\_blank"}  
-Jennifer Saindon, _U.S. Census Bureau_
+<!-- [Public Participation in the Review of OMB’s Race and Ethnicity Statistical Standards](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/A/A6.1_Saindon.pdf){:target="\_blank"}  
+Jennifer Saindon, _U.S. Census Bureau_ -->
 
-[Engaging with External Advocates: The Power of Coalition and Community Organizing](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/A/A6.2_Anand.pdf){:target="\_blank"}  
-Meeta Anand, _The Leadership Conference on Civil and Human Rights_
+<!-- [Engaging with External Advocates: The Power of Coalition and Community Organizing](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/A/A6.2_Anand.pdf){:target="\_blank"}  
+Meeta Anand, _The Leadership Conference on Civil and Human Rights_ -->
 
 [Improving Data Collection for People with Disabilities: Challenges, Opportunities, and Recommended Actions](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/A/A6.3_Sivinski.pdf){:target="\_blank"}  
 Adam Politis, _OSTP_
 
-[Elevating Equity for Indian Country in Data and Statistics](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/A/A6.4_Malcom.pdf){:target="\_blank"}  
+<!-- [Elevating Equity for Indian Country in Data and Statistics](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/A/A6.4_Malcom.pdf){:target="\_blank"}  
 Jacob Malcom, _U.S. Department of the Interior, Office of the Secretary_  
-Veronica Lane, _U.S. Department of the Interior, Office of the Assistant Secretary for Indian Affairs_
+Veronica Lane, _U.S. Department of the Interior, Office of the Assistant Secretary for Indian Affairs_ -->
 
 <hr>
 <h2 class="text-center"><span class="text-dark-blue">Plenary Session<br>
@@ -288,9 +288,9 @@ Lisa B. Mirel, _National Center for Science and Engineering Statistics_
 Rob Zybrick, _HealthVerity_  
 Rui Wang, _Mathematica, Inc._
 
-[Expanding Equitable Access to Confidential Data Through the Federal Statistical Research Data Centers: A Demonstration Project](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/B/B4.4_Castro.pdf){:target="\_blank"}  
+<!-- [Expanding Equitable Access to Confidential Data Through the Federal Statistical Research Data Centers: A Demonstration Project](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/B/B4.4_Castro.pdf){:target="\_blank"}  
 Nate Ramsey, _U.S. Census Bureau_  
-Michael Castro, _U.S. Census Bureau_
+Michael Castro, _U.S. Census Bureau_ -->
 
 [Data Protection Toolkit Use Case Analysis: Leveraging and Enhancing Existing Tools within the Federal Statistical System to Promote a Shared Service Model](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/B/B4.5_Stapleton.pdf){:target="\_blank"}  
 Michael Hawes, _U.S. Census Bureau_  
@@ -338,11 +338,11 @@ Eva Ma, _Board of Governors of the Federal Reserve System_
 Kate Bachtell, _NORC at the University of Chicago_  
 Micah Sjoblom, _NORC at the University of Chicago_
 
-[Improving Outreach to Underserved Populations for Survey Data Collection](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/B/B6.4_Khau.pdf){:target="\_blank"}  
+<!-- [Improving Outreach to Underserved Populations for Survey Data Collection](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/B/B6.4_Khau.pdf){:target="\_blank"}  
 Marina Vornovitsky, _Centers for Medicare & Medicaid Services_  
 Meagan Khau, _Centers for Medicare & Medicaid Services_  
 Jennifer Vanicek, _NORC at the University of Chicago_  
-Grace Maurer, _NORC at the University of Chicago_
+Grace Maurer, _NORC at the University of Chicago_ -->
 
 [Variation in Response to an Increased Incentive by Characteristics of National Health and Nutrition Examination Survey Households](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/B/B6.5_Chen.pdf){:target="\_blank"}  
 Te-Ching Chen, _National Center for Health Statistics_  
@@ -456,10 +456,10 @@ Room 2110
 [A Combined Natural Language Annotation and Visualization Tool for the Exploratory Analysis of Federal Survey Response and Note Documents](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/C/C4.1_Hunter-Zinck.pdf){:target="\_blank"}   
 Haley Hunter-Zinck, _U.S. Census Bureau_
 
-[A Data-Driven Approach to Promoting Transparency in Diversity, Equity, Inclusion, and Accessibility (DEIA)](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/C/C4.2_Sharma.pdf){:target="\_blank"}   
+<!-- [A Data-Driven Approach to Promoting Transparency in Diversity, Equity, Inclusion, and Accessibility (DEIA)](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/C/C4.2_Sharma.pdf){:target="\_blank"}   
 Anika Sharma, _Department of State_  
 Constance M. Mayer, _Department of State_  
-Kumar Yogeeswaran, _Department of State_
+Kumar Yogeeswaran, _Department of State_ -->
 
 [So You Want To Build A Dashboard: Choosing The Right Digital Dissemination Tool](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/C/C4.3_Harding.pdf){:target="\_blank"}   
 Alex Harding, _RTI International_
@@ -603,22 +603,22 @@ Matthew R. Williams, _RTI International_
 **Chair:** Jennifer Truman, _Bureau of Justice Statistics_  
 **Room:** Chesapeake C
 
-[A Community Based Approach for Creating Business Owner Demographic Questions, Including SOGI and Disability, on the Annual Business Survey](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/D/D3.1_SteinbergABS.pdf){:target="\_blank"}  
+<!-- [A Community Based Approach for Creating Business Owner Demographic Questions, Including SOGI and Disability, on the Annual Business Survey](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/D/D3.1_SteinbergABS.pdf){:target="\_blank"}  
 Hillary Steinberg, _U.S. Census Bureau_  
-Katie Beardall, _U.S. Census Bureau_
+Katie Beardall, _U.S. Census Bureau_ -->
 
-[A Safe and Inclusive Approach to Disseminating Statistical Information about the Non-binary Population in Canada](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/D/D3.2_Girard.pdf){:target="\_blank"}  
+<!-- [A Safe and Inclusive Approach to Disseminating Statistical Information about the Non-binary Population in Canada](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/D/D3.2_Girard.pdf){:target="\_blank"}  
 Claude Girard, _Statistics Canada_  
-France-Pascale Ménard, _Statistics Canada_
+France-Pascale Ménard, _Statistics Canada_ -->
 
-[Alignment Between Free Text and Close-ended Responses for Gender and Sexuality](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/D/D3.3_Pao.pdf){:target="\_blank"}  
+<!-- [Alignment Between Free Text and Close-ended Responses for Gender and Sexuality](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/D/D3.3_Pao.pdf){:target="\_blank"}  
 Christina Pao, _Princeton University_  
 Dashram Pai, _Princeton University_  
-Yan Zhen Zhu, _Princeton University_
+Yan Zhen Zhu, _Princeton University_ -->
 
-[Demographics and Proxy Reporting on Economic Surveys: Thinking Through SOGI and Race Measures on a Survey of Youth in Residential Placement](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/D/D3.4_SteinbergCJRP.pdf){:target="\_blank"}  
+<!-- [Demographics and Proxy Reporting on Economic Surveys: Thinking Through SOGI and Race Measures on a Survey of Youth in Residential Placement](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/D/D3.4_SteinbergCJRP.pdf){:target="\_blank"}  
 Hillary Steinberg, _U.S. Census Bureau_  
-Kristin Stettler, _U.S. Census Bureau_
+Kristin Stettler, _U.S. Census Bureau_ -->
 
 
 ## Session D-4: PANEL: Defining Relevance for Statistical Collections and Data Products
@@ -813,23 +813,23 @@ Robert Martin, _Bureau of Labor Statistics_
 **Chair**: Renee Ellis, _U.S. Census Bureau_  
 **Room**: 0105
 
-[The U.S. National Science Foundation’s Sexual Orientation and Gender Identity Data Action Plan](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/E/E6.1_Anderson.pdf){:target="\_blank"}   
-Greg Anderson, _National Science Foundation_
+<!-- [The U.S. National Science Foundation’s Sexual Orientation and Gender Identity Data Action Plan](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/E/E6.1_Anderson.pdf){:target="\_blank"}   
+Greg Anderson, _National Science Foundation_ -->
 
-[The U.S. Census Bureau's SOGI Data Action Plan](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/E/E6.2_Smith.pdf){:target="\_blank"}   
-Amy Symens Smith, _U.S. Census Bureau_
+<!-- [The U.S. Census Bureau's SOGI Data Action Plan](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/E/E6.2_Smith.pdf){:target="\_blank"}   
+Amy Symens Smith, _U.S. Census Bureau_ -->
 
-[U.S. Department of Education’s SOGI Data Action Plan](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/E/E6.3_Christopher.pdf){:target="\_blank"}   
-Elise Christopher, _National Center for Education Statistics_
+<!-- [U.S. Department of Education’s SOGI Data Action Plan](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/E/E6.3_Christopher.pdf){:target="\_blank"}   
+Elise Christopher, _National Center for Education Statistics_ -->
 
-[The U.S. Department of Housing and Urban Development’s SOGI Data Action Plan](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/E/E6.4_Carter.pdf){:target="\_blank"}   
+<!-- [The U.S. Department of Housing and Urban Development’s SOGI Data Action Plan](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/E/E6.4_Carter.pdf){:target="\_blank"}   
 George Carter, _Department of Housing and Urban Development_  
-Gretchen Armstrong, _Department of Housing and Urban Development_
+Gretchen Armstrong, _Department of Housing and Urban Development_ -->
 
-[Action on SOGI Data & Delivering on EO 14075 at Department of Health and Human Services](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/E/E6.5_Dragon.pdf){:target="\_blank"}   
+<!-- [Action on SOGI Data & Delivering on EO 14075 at Department of Health and Human Services](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/E/E6.5_Dragon.pdf){:target="\_blank"}   
 Christina N Dragon, _Office of the Assistant Secretary for Health_  
 Adrian Shanker, _Office of the Assistant Secretary for Health_  
-Karen Parker, _National Institutes of Health_
+Karen Parker, _National Institutes of Health_ -->
 
 <div class="conference-session-box">
 <h2 class="text-center"><span class="text-dark-blue">Concurrent sessions F<br>
@@ -938,11 +938,11 @@ Vitaliy Novik, _U.S. Census Bureau & George Washington University_
 Jared Wold, _U.S. Census Bureau & George Mason University_  
 Samuel Young, _U.S. Census Bureau & Arizona State University_
 
-[ABS Ownership Diversity and its Association with Patenting and Venture Capital Success](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/F/F3.5_Wojan.pdf){:target="\_blank"}   
+<!-- [ABS Ownership Diversity and its Association with Patenting and Venture Capital Success](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/F/F3.5_Wojan.pdf){:target="\_blank"}   
 Gary Anderson, _National Center for Science and Engineering Statistics_  
 Audrey Kindlon, _National Center for Science and Engineering Statistics_  
 Emily Schondelmyer, _U.S. Census Bureau_  
-Timothy Wojan, _Oak Ridge Institute for Science and Education_
+Timothy Wojan, _Oak Ridge Institute for Science and Education_ -->
 
 # Session F-5: Appraise, Assess, & Apply: Advancing Alternative Data Use
 
@@ -1071,27 +1071,27 @@ Erica Zielewski, _Office of Management and Budget_
 **Discussant**: Howard Hogan, _U.S. Census Bureau_  
  Chesapeake C
 
-[Quantifying the Wage Gap for Black Women and Its Effect Beyond the Dollar ($)](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/G/G3.1_Jean-Charles.pdf){:target="\_blank"}   
-Keisha Jean Charles, _Bureau of Labor Statistics_
+<!-- [Quantifying the Wage Gap for Black Women and Its Effect Beyond the Dollar ($)](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/G/G3.1_Jean-Charles.pdf){:target="\_blank"}   
+Keisha Jean Charles, _Bureau of Labor Statistics_ -->
 
-[Association of Unfair Treatment in Health Care Settings with Multi-dimensional Measures of Race Among Hispanic/Latinx Adults](#){:target="\_blank"}   
+<!-- [Association of Unfair Treatment in Health Care Settings with Multi-dimensional Measures of Race Among Hispanic/Latinx Adults](#){:target="\_blank"}   
 Dulce Gonzalez, _Urban Institute_  
 Michael Karpman, _Urban Institute_  
-Geneivive M. Kenney, _Urban Institute_
+Geneivive M. Kenney, _Urban Institute_ -->
 
-[Examining Shifts in the Black Latino Population in the Census Bureau’s Modified Race Question](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/G/G3.3_Lowe.pdf){:target="\_blank"}   
-Ricardo Lowe, _The University of Texas-Austin_
+<!-- [Examining Shifts in the Black Latino Population in the Census Bureau’s Modified Race Question](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/G/G3.3_Lowe.pdf){:target="\_blank"}   
+Ricardo Lowe, _The University of Texas-Austin_ -->
 
-[Street Race and the Intra-categorical Complexity within Asian Americans](#){:target="\_blank"}   
+<!-- [Street Race and the Intra-categorical Complexity within Asian Americans](#){:target="\_blank"}   
 Sharan K. Mehta, _The University of New Mexico_  
 Edward D. Vargas, _Arizona State University_  
-Yasmiyn Irizarry, _The University of Texas, Austin_
+Yasmiyn Irizarry, _The University of Texas, Austin_ -->
 
-[Racial and Ethnic Categories and the Measurement of Inequality: The Case of U.S. Latinos](#){:target="\_blank"}   
-Karen Lee, _DePaul University_
+<!-- [Racial and Ethnic Categories and the Measurement of Inequality: The Case of U.S. Latinos](#){:target="\_blank"}   
+Karen Lee, _DePaul University_ -->
 
-[Bridging Data Gaps in Educational Equity: An Intersectional Analysis Leveraging NPSAS](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/G/G3.6_DeLaRosa.pdf){:target="\_blank"}    
-Josué (Josh) DeLaRosa, _National Center for Education Statistics_
+<!-- [Bridging Data Gaps in Educational Equity: An Intersectional Analysis Leveraging NPSAS](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/G/G3.6_DeLaRosa.pdf){:target="\_blank"}    
+Josué (Josh) DeLaRosa, _National Center for Education Statistics_ -->
 
 ## Session G-4: The Roles of Data Quality and Transparency in Supporting Scientific Integrity for Statistical Agencies
 
@@ -1117,11 +1117,11 @@ Josué (Josh) DeLaRosa, _National Center for Education Statistics_
 [A Strong Case for Rethinking Causal Inference](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/G/G5.1_Deke.pdf){:target="\_blank"}   
 John Deke, _Mathematica, Inc._
 
-[Advancing Equity through Enhanced Performance Measurement: A Case Study with the Pennsylvania Department of Education](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/G/G5.2_Rosendahl.pdf){:target="\_blank"}   
+<!-- [Advancing Equity through Enhanced Performance Measurement: A Case Study with the Pennsylvania Department of Education](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/G/G5.2_Rosendahl.pdf){:target="\_blank"}   
 Lena Rosendahl, _Mathematica, Inc._  
 Brian Gill, _Mathematica, Inc._  
 Lauren Forrow, _Mathematica, Inc._  
-Jennifer Starling, _Mathematica, Inc._
+Jennifer Starling, _Mathematica, Inc._ -->
 
 [Assessing the Assessment: Reinterpreting Changes in State- and District-Level NAEP Scores Using a Hierarchical Bayesian Approach](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/G/G5.3_Starling.pdf){:target="\_blank"}   
 Jennifer Starling, _Mathematica, Inc._  
@@ -1253,26 +1253,26 @@ Zachary Terner, _MITRE_
 **Chair:** Jennifer M. Ortman, _U.S. Census Bureau_  
  Chesapeake C
 
-[What’s Next for Measuring Sex and Gender on the National Health Interview Survey](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/H/H3.1_Medley.pdf){:target="\_blank"}   
+<!-- [What’s Next for Measuring Sex and Gender on the National Health Interview Survey](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/H/H3.1_Medley.pdf){:target="\_blank"}   
 Grace Medley, _National Center for Health Statistics_  
 Jim Dahlhamer, _National Center for Health Statistics_  
-Catherine Simile, _National Center for Health Statistics_
+Catherine Simile, _National Center for Health Statistics_ -->
 
-[Are You the Same People? Exploring Two-Step Gender Identity Question Options](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/H/H3.2_Ellis.pdf){:target="\_blank"}   
+<!-- [Are You the Same People? Exploring Two-Step Gender Identity Question Options](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/H/H3.2_Ellis.pdf){:target="\_blank"}   
 Christina Dragon, _National Institutes of Health_  
-Rae Ellis, _U.S. Census Bureau_
+Rae Ellis, _U.S. Census Bureau_ -->
 
-[Cognitive Testing Results for Proxy SOGI Items about Children and Adults in English and Spanish](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/H/H3.3_McNamara.pdf){:target="\_blank"}   
+<!-- [Cognitive Testing Results for Proxy SOGI Items about Children and Adults in English and Spanish](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/H/H3.3_McNamara.pdf){:target="\_blank"}   
 Michelle McNamara, _National Center for Education Statistics_  
 Maria Payri, _American Institutes for Research_  
-Danielle Battle, _American Institutes for Research_
+Danielle Battle, _American Institutes for Research_ -->
 
-[Self-Report and Proxy Measurement of Sexual Orientation and Gender Identity: An Examination of 2023 American Housing Survey (AHS) Data](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/H/H3.4_Carter.pdf){:target="\_blank"}   
+<!-- [Self-Report and Proxy Measurement of Sexual Orientation and Gender Identity: An Examination of 2023 American Housing Survey (AHS) Data](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/H/H3.4_Carter.pdf){:target="\_blank"}   
 George Carter, _Department of Housing and Urban Development_  
-Allyson Clark, _U.S. Census Bureau_
+Allyson Clark, _U.S. Census Bureau_ -->
 
-[The Current State of Sexual Orientation and Gender Identity (SOGI) Question Research at NCHS: Where We’ve Been and Where We’re Headed](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/H/H3.5_Ryan.pdf){:target="\_blank"}   
-Valerie Ryan, _National Center for Health Statistics_
+<!-- [The Current State of Sexual Orientation and Gender Identity (SOGI) Question Research at NCHS: Where We’ve Been and Where We’re Headed](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/H/H3.5_Ryan.pdf){:target="\_blank"}   
+Valerie Ryan, _National Center for Health Statistics_ -->
 
 ## Session H-4: PANEL: Measuring the Health of the Federal Statistical System
 
@@ -1403,9 +1403,9 @@ Lu Chen, _National Agricultural Statistics Service_
 Luca Sartore, _National Agricultural Statistics Service_  
 Valbona Bejleri, _National Agricultural Statistics Service_
 
-[The Inaugural Privacy and Public Policy Conference: Advancing Data Privacy and Public Policy Through Collaborative Engagement](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/I/I2.2_Bowen.pdf){:target="\_blank"}   
+<!-- [The Inaugural Privacy and Public Policy Conference: Advancing Data Privacy and Public Policy Through Collaborative Engagement](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/I/I2.2_Bowen.pdf){:target="\_blank"}   
 Claire McKay Bowen, _Urban Institute_  
-Jingchen (Monika) Hu, _Vassar College_
+Jingchen (Monika) Hu, _Vassar College_ -->
 
 [The Unintended Effects of Privacy in Decision Tasks](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/I/I2.3_Fioretto.pdf){:target="\_blank"}   
 Ferdinando Fioretto, _University of Virginia_
@@ -1424,8 +1424,8 @@ Amy O'Hara, _Georgetown University_
 **Chair:** Jordan Riddle, _Bureau of Transportation Statistics_  
  Chesapeake C
 
-[A Machine Learning Approach to Index Creation for Health-related Outcomes](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/I/I3.1_McClellan.pdf){:target="\_blank"}   
-Chandler McClellan, Patricia Keenan, Tom Selden, _Agency for Healthcare Research and Quality_
+<!-- [A Machine Learning Approach to Index Creation for Health-related Outcomes](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/I/I3.1_McClellan.pdf){:target="\_blank"}   
+Chandler McClellan, Patricia Keenan, Tom Selden, _Agency for Healthcare Research and Quality_ -->
 
 [Developing a Cost-effective, Real-Time Surveillance Tool to Monitor Workers’ PPE Concerns During Respiratory Pandemics](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/I/I3.2_Payne.pdf){:target="\_blank"}   
 Nora Y. Payne, Emily J. Haas, _National Institute for Occupational Safety and Health_
@@ -1460,17 +1460,17 @@ Rihem Badwe, Nikki Adams, _National Center for Health Statistics_
 Jessie L. Parker, Cordell Golden, Jill J. Ashman, Sonja N. Williams, Brian W. Ward, _National Center for Health Statistics_  
 A presentation on linking the NAMCS Health Center Component data to HUD administrative data to explore housing-health relationships, including methodology and plans for future linkages.
 
-[AHRQ SDOH Database: Opportunities for Geographic Data Linkages](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/I/I5.2_Keenan.pdf){:target="\_blank"}   
+<!-- [AHRQ SDOH Database: Opportunities for Geographic Data Linkages](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/I/I5.2_Keenan.pdf){:target="\_blank"}   
 Patricia S. Keenan, James Kirby, _Agency for Healthcare Research and Quality_  
-An overview of the AHRQ SDOH Database and its enhancements, including new opportunities for geographic data linkages to inform research and policy on health disparities.
+An overview of the AHRQ SDOH Database and its enhancements, including new opportunities for geographic data linkages to inform research and policy on health disparities. -->
 
 [The Long-Term Decline in Small Firms Offering Health Insurance: Drivers, Dynamics, and Mitigating Policies](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/I/I5.3_MEISELBACH.pdf){:target="\_blank"}   
 Mark K. Meiselbach, _Johns Hopkins Bloomberg School of Public Health_  
 An analysis of the decline in small firms offering health insurance and the impact of state policies, particularly minimum wage increases, on health insurance offer rates and enrollment.
 
-[A Comparison of Individual and Small Area Level Social Measures and Heterogeneity in Correlation with Health Outcomes and Mortality](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/I/I5.4_UDALOVA.pdf){:target="\_blank"}   
+<!-- [A Comparison of Individual and Small Area Level Social Measures and Heterogeneity in Correlation with Health Outcomes and Mortality](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/I/I5.4_UDALOVA.pdf){:target="\_blank"}   
 Victoria Udalova, Nicole Gladish, Aubrey Limburg, Bob Phillips, David Rehkopf, _U.S. Census Bureau, Stanford University, American Board of Family Medicine_  
-A study comparing individual and small-area level social deprivation measures and their correlation with health outcomes, mortality, and inequity factors such as age, gender, and race.
+A study comparing individual and small-area level social deprivation measures and their correlation with health outcomes, mortality, and inequity factors such as age, gender, and race. -->
 
 [Measurement Matters: Corroborating Hospital Surveys with Census Bureau Records](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/I/I5.5_ZAWACKI.pdf){:target="\_blank"}   
 Alice Zawacki, Atul Gupta, Jackson Reimer, _U.S. Census Bureau, Wharton School of Business_  
@@ -1519,8 +1519,8 @@ Kiegan Rice, Stas Kolenikov, Amy Ihde, Quentin Brummet, Karen Grigorian, Lauren 
 [Algorithmic Bias: Developing a Multidimensional Framework](#){:target="\_blank"}   
 Ruhan Circi, Juanita Hicks, _American Institutes for Research_
 
-[Official Statistics for Responsible AI: The Role of the Federal Statistical System in Enabling a More Accountable AI/ML Ecosystem](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/J/J1.5_Lazovich.pdf){:target="\_blank"}   
-Tomo Lazovich, Michael Walton, Atul Rawal, Anna Vasylytsya, Curtis Mitchell, Diamond Nwankwo, _U.S. Census Bureau_
+<!-- [Official Statistics for Responsible AI: The Role of the Federal Statistical System in Enabling a More Accountable AI/ML Ecosystem](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/J/J1.5_Lazovich.pdf){:target="\_blank"}   
+Tomo Lazovich, Michael Walton, Atul Rawal, Anna Vasylytsya, Curtis Mitchell, Diamond Nwankwo, _U.S. Census Bureau_ -->
 
 ## Session J-2: Communicating Quality in an Evolving Federal Data Ecosystem
 
@@ -1548,12 +1548,12 @@ Joshua Snoke, _RAND_
 **Discussant:** Meghan Maury, _Department of Commerce_  
  Chesapeake C
 
-[Considerations of Data Diversity and Equity in Probability Sampling and Survey Research](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/J/J3.2_Dutwin.pdf){:target="\_blank"}   
+<!-- [Considerations of Data Diversity and Equity in Probability Sampling and Survey Research](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/J/J3.2_Dutwin.pdf){:target="\_blank"}   
 David Dutwin, _NORC at the University of Chicago_  
 Ashani Johnson-Turbes, _NORC at the University of Chicago_  
-J. Michael Dennis, _NORC at the University of Chicago_
+J. Michael Dennis, _NORC at the University of Chicago_ -->
 
-[Reducing Deficit Interpretations of Large-Scale Assessment Results Displays: Exploring Score Reporting Approaches to Support Equity](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/J/J3.3_Kerzabi.pdf){:target="\_blank"}   
+<!-- [Reducing Deficit Interpretations of Large-Scale Assessment Results Displays: Exploring Score Reporting Approaches to Support Equity](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/J/J3.3_Kerzabi.pdf){:target="\_blank"}   
 Emily Kerzabi, _ETS_  
 Katherine E. Castellano, _ETS_  
 Mari Kevelson, _ETS_  
@@ -1562,11 +1562,11 @@ Eli Holder, _3iap_
 Leslie Villegas, _New America_  
 Renee Savoie, _Connecticut Department of Education_  
 Jennifer Cain, _Minnesota Department of Education_  
-Molly Prower, _ETS_
+Molly Prower, _ETS_ -->
 
-[Applying a Framework for Addressing Historically Undercounted Populations in Establishment Surveys: Lessons from the Survey of Sexual Victimization](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/J/J3.4_Cidade.pdf){:target="\_blank"}   
+<!-- [Applying a Framework for Addressing Historically Undercounted Populations in Establishment Surveys: Lessons from the Survey of Sexual Victimization](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/J/J3.4_Cidade.pdf){:target="\_blank"}   
 Melissa Cidade, _Bureau of Justice Statistics_  
-Hillary Steinberg, _U.S. Census Bureau_
+Hillary Steinberg, _U.S. Census Bureau_ -->
 
 ## Session J-4: The U.S. Federal Statistical System: Why We're Here, What We Do, Who We Are, and Career Opportunities
 
@@ -1581,12 +1581,12 @@ Karin Orvis, _Office of Management and Budget_
 [Government Data of the People, By the People, For the People: Navigating Citizen Privacy Concerns](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/J/J4.1_Bowen.pdf){:target="\_blank"}   
 Claire McKay Bowen, _Urban Institute_
 
-[Total Survey Error as a Framework for Data Equity](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/J/J4.2_Forrest.pdf){:target="\_blank"}   
+<!-- [Total Survey Error as a Framework for Data Equity](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/J/J4.2_Forrest.pdf){:target="\_blank"}   
 Sarah Forrest, _National Center for Health Statistics_  
 Katherine Irimata, _National Center for Health Statistics_  
 Morgan Earp, _National Center for Health Statistics_  
 Lauren Rossen, _National Center for Health Statistics_  
-Kristen Miller, _National Center for Health Statistics_
+Kristen Miller, _National Center for Health Statistics_ -->
 
 [Unlocking New Insights through Restricted Microdata: 30 Years of Innovative Research from Federal Statistical Research Data Centers](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/J/J4.3_Castro.pdf){:target="\_blank"}   
 Nate Ramsey, _U.S. Census Bureau_
