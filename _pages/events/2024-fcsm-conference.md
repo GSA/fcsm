@@ -1,11 +1,11 @@
 ---
 permalink: /events/2024-fcsm-conference/
-title: Federal Committee on Statistical Methodology 2023 Research and Policy Conference
+title: Federal Committee on Statistical Methodology 2024 Research and Policy Conference
 layout: conference
 sidenav: events_navigation
 ---
 
-## Federal Committee on Statistical Methodology 2023 Research and Policy Conference
+## Federal Committee on Statistical Methodology 2024 Research and Policy Conference
 
 [FCSM 2024 Program](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/2024+FCSM+Program.pdf){:target="\_blank"} (click to download)
 
