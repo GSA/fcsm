@@ -81,6 +81,8 @@ primary_navigation:
     url: /resources/
   - name: Events and Proceedings
     url: /events/
+  - name: Sitemap Test page
+    url: "/test-sitemap/"
   - name: Groups Overview
     url: /groups/
 
