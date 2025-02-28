@@ -597,11 +597,11 @@ Peilan C. Martin, _RTI International_
 Matthew R. Williams, _RTI International_
 
 
-## Session D-3: Expanding Gender and Sexuality Measurement: Insights from Comparative Survey Formats and Community Engagement
+<!-- ## Session D-3: Expanding Gender and Sexuality Measurement: Insights from Comparative Survey Formats and Community Engagement
 
 **Organizer:** Jennifer Truman, _Bureau of Justice Statistics_  
 **Chair:** Jennifer Truman, _Bureau of Justice Statistics_  
-**Room:** Chesapeake C
+**Room:** Chesapeake C -->
 
 <!-- [A Community Based Approach for Creating Business Owner Demographic Questions, Including SOGI and Disability, on the Annual Business Survey](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/D/D3.1_SteinbergABS.pdf){:target="\_blank"}  
 Hillary Steinberg, _U.S. Census Bureau_  
@@ -807,11 +807,11 @@ Jake Schild, _Bureau of Labor Statistics_
 Marina Gindelsky, _Bureau of Economic Analysis_  
 Robert Martin, _Bureau of Labor Statistics_
 
-## Session E-6: Sexual Orientation and Gender Identity (SOGI) Data Action Plans: Delivering on Executive Order 14075
+<!-- ## Session E-6: Sexual Orientation and Gender Identity (SOGI) Data Action Plans: Delivering on Executive Order 14075
 
 **Organizer**: Christina Dragon, _National Institutes of Health_  
 **Chair**: Renee Ellis, _U.S. Census Bureau_  
-**Room**: 0105
+**Room**: 0105 -->
 
 <!-- [The U.S. National Science Foundation’s Sexual Orientation and Gender Identity Data Action Plan](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/E/E6.1_Anderson.pdf){:target="\_blank"}   
 Greg Anderson, _National Science Foundation_ -->
@@ -1064,12 +1064,12 @@ Alyssa Holdren, _Bureau of Economic Analysis_
 Barbara Downs, _U.S. Census Bureau_  
 Erica Zielewski, _Office of Management and Budget_
 
-## Session G-3: Making the Invisible Visible: Employing Intersectionality as Inquiry and Praxis for Illuminating Complex Race, Gender, Class Inequalities in Health, Education and Labor for Equity-Minded Policy
+<!-- ## Session G-3: Making the Invisible Visible: Employing Intersectionality as Inquiry and Praxis for Illuminating Complex Race, Gender, Class Inequalities in Health, Education and Labor for Equity-Minded Policy
 
 **Organizer**: Kelvin Choi, _NIH/NIMHD_  
 **Chair**: Kelvin Choi, _NIH/NIMHD_  
 **Discussant**: Howard Hogan, _U.S. Census Bureau_  
- Chesapeake C
+ Chesapeake C -->
 
 <!-- [Quantifying the Wage Gap for Black Women and Its Effect Beyond the Dollar ($)](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/G/G3.1_Jean-Charles.pdf){:target="\_blank"}   
 Keisha Jean Charles, _Bureau of Labor Statistics_ -->
@@ -1247,11 +1247,11 @@ David Pujol, _Tumult Labs_
 William Sexton, _Tumult Labs_  
 Zachary Terner, _MITRE_
 
-## Session H-3: Federal Advances in Sexual Orientation and Gender Identity Measurement
+<!-- ## Session H-3: Federal Advances in Sexual Orientation and Gender Identity Measurement
 
 **Organizer:** Jennifer M. Ortman, _U.S. Census Bureau_  
 **Chair:** Jennifer M. Ortman, _U.S. Census Bureau_  
- Chesapeake C
+ Chesapeake C -->
 
 <!-- [What’s Next for Measuring Sex and Gender on the National Health Interview Survey](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/H/H3.1_Medley.pdf){:target="\_blank"}   
 Grace Medley, _National Center for Health Statistics_  
@@ -1541,12 +1541,12 @@ Jacob Malcom, _Department of the Interior_
 [Tiers of Quality for Tiers of Access in Privacy-protected Data Products](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/J/J2.4_Snoke.pdf){:target="\_blank"}   
 Joshua Snoke, _RAND_
 
-## Session J-3: Advancing Equity in Survey Research: Innovations in Survey Research and Assessment
+<!-- ## Session J-3: Advancing Equity in Survey Research: Innovations in Survey Research and Assessment
 
 **Organizer:** Robin Bachman, _U.S. Census Bureau_  
 **Chair:** Robin Bachman, _U.S. Census Bureau_  
 **Discussant:** Meghan Maury, _Department of Commerce_  
- Chesapeake C
+ Chesapeake C -->
 
 <!-- [Considerations of Data Diversity and Equity in Probability Sampling and Survey Research](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/J/J3.2_Dutwin.pdf){:target="\_blank"}   
 David Dutwin, _NORC at the University of Chicago_  
