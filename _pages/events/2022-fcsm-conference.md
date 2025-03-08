@@ -1072,25 +1072,6 @@ Emmanuel Sikali, <i>National Center for Education Statistics</i>
 Louis Avenilla, <i>U.S. Census Bureau</i>
 </p>
 
-<h2 class="text-left"><span class="text-dark-grey">Session H-2. Responsible Creation, Handling, and Use of Sexual Orientation and Gender Identity Data</span></h2>
-<p>
-<strong>Organizer:</strong> Robert Sivinski, <i>Office of Management and Budget</i><br>
-<strong>chair:</strong> Hubert Hamer, <i>National Agricultural Statistics Service</i>
-</p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/H2.1_Sivinski.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>SOGI Data Collection Principles and Examples </strong></span></a><br>
-Robert Sivinski, <i>Office of Management and Budget</i><br>
-</p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/H2.2_Simpson.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Measuring Sex and Gender Identity in Department of Education Information Collections </strong></span></a><br>
-JB Simpson, <i>Department of Education</i>
-</p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/H2.3_Young.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>The Impact of Sexual Orientation and Gender Identity and Disability Questions on Response Rates </strong></span></a><br>
-Linda J Young, <i>National Agricultural Statistics Service</i><br>
-Barbara Rater, <i>National Agricultural Statistics Service</i>
-</p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/H2.4_Miller.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Development of an X Gender Marker Definition for the U.S. Passport:  Methodology and Implications for Asking about Gender</strong></span></a><br>
-Kristin Miller, <i>National Center for Health Statistics</i>
-</p>
-
 <h2 class="text-left"><span class="text-dark-grey">Session H-3. Practical Applications of Web-Scraping</span></h2>
 <p>
 <strong>Organizer:</strong> Tyler Wilson, <i>National Agricultural Statistics Service</i><br>
