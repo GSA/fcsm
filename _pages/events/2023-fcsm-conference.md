@@ -713,29 +713,6 @@ Matthew Spence, *U.S. Census Bureau*
 Lawrence Warren, *U.S. Census Bureau*  
 Moises Yi, *U.S. Census Bureau*
 
-## Session E-3: Inclusive Insights: Assessing the Implementation and Effects of Adding SOGI Questions to Large-Scale Data Collections
-
-**Organizer:** Julie Weeks, *National Center for Health Statistics*  
-**Chair:** Julie Weeks, *National Center for Health Statistics*  
-**Discussant:** Kristen S. Miller, *National Center for Health Statistics*
-
-[Survey Measurement of Sex at Birth and Transgender Identity in the Behavioral Risk Factor Surveillance System]({{site.baseurl}}/assets/files/docs/2023-conference-docs/E3.1_ONeill.pdf){:target="_blank"}  
-Kathryn O'Neill, *University of Pennsylvania*  
-Jody Herman, *The Williams Institute, UCLA*
-
-[Asking about Gender as a Single, Non-binary Construct Versus a Two-Step Question Approach]({{site.baseurl}}/assets/files/docs/2023-conference-docs/E3.2_Ryan.pdf){:target="_blank"}  
-Valerie Ryan, *National Center for Health Statistics*
-
-[Order Effects and Question Wording of Gender and Sexuality Blocks on Surveys: Experimental Evidence in the US and UK]({{site.baseurl}}/assets/files/docs/2023-conference-docs/E3.3_Pao.pdf){:target="_blank"}  
-Christina Pao, *Princeton University*
-
-[Adding Sexual Orientation and Gender Identity Measures to the Medicare Current Beneficiary Survey (MCBS)]({{site.baseurl}}/assets/files/docs/2023-conference-docs/E3.4_Mayfield.pdf){:target="_blank"}  
-Andrea Mayfield, *NORC at the University of Chicago*  
-Marisa Wishart, *NORC at the University of Chicago*  
-Melissa Heim Viox, *NORC at the University of Chicago*  
-Hannah Murrow, *NORC at the University of Chicago*  
-Marina Vornovitsky, *Centers for Medicare and Medicaid Services*
-
 ## Session E-4: Synthetic Data Generation for Survey Data
 
 **Organizer:** Terrance D. Savitsky, *Bureau of Labor Statistics*  
