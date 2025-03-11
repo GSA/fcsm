@@ -850,36 +850,6 @@ Thomas B. Foster, *U.S. Census Bureau*
 Mark Ellis, *University of Washington*  
 Lee Fiorio, *University of Washington*
 
-## Session F-3: Advancements in Sexual Orientation and Gender Identity Measurement
-
-**Organizer:** Jennifer M. Ortman, *U.S. Census Bureau*  
-**Chair:** Christina Dragon, *National Institutes of Health*  
-
-<a aria-label="Sex and Gender Identity Measurement" target="_blank" href="{{site.baseurl}}/assets/files/docs/2023-conference-docs/F3.1_Buehler.pdf">Sex and Gender Identity Measurement in Criminal Justice System Administrative Data: Evidence from the Instrument Redesign Efforts for the Bureau of Justice Statistics’ Survey of Sexual Victimization</a><br>
-Emily Buehler, *Bureau of Justice Statistics*  
-Greta B. Clark, *U.S. Census Bureau*  
-Krysten Mesner, *U.S. Census Bureau*  
-Jessica A.R. White, *U.S. Census Bureau*
-
-[Collecting SOGI Data for the Federal Workforce]({{site.baseurl}}/assets/files/docs/2023-conference-docs/F3.2_Ellis.pdf){:target="_blank"}  
-Renee Ellis, *U.S. Census Bureau*  
-Christina Dragon, *National Institutes of Health*
-
-[Updates on A Research Agenda for the Sexual Orientation and Gender Identity Questions on the Experimental Household Pulse Survey]({{site.baseurl}}/assets/files/docs/2023-conference-docs/F3.3_Scherer.pdf){:target="_blank"}  
-Zachary Scherer, *U.S. Census Bureau*  
-Jacqueline Banks, *U.S. Census Bureau*
-
-[Just to Confirm: Evaluating the Reliability and Validity of Survey Questions on Sex and Gender]({{site.baseurl}}/assets/files/docs/2023-conference-docs/F3.4_Christopher.pdf){:target="_blank"}  
-Elise Christopher, *National Center for Education Statistics*  
-David Richards, *National Center for Education Statistics*  
-Maura Spiegelman, *National Center for Education Statistics*  
-Harper Haynes, *RTI International*
-
-[Testing and Implementing SOGI Questions in the American Community Survey]({{site.baseurl}}/assets/files/docs/2023-conference-docs/F3.5_Poehler.pdf){:target="_blank"}  
-Elizabeth A. Poehler, *U.S. Census Bureau*  
-Jessica Holzberg, *U.S. Census Bureau*  
-Amy Symens Smith, *U.S. Census Bureau*
-
 ## Session F-4: Democratizing Data: A Search and Discovery Platform for Public Data Assets
 
 **Organizer:** Spiro Stefanou, *Economic Research Service*  
@@ -1488,20 +1458,6 @@ Lynda Liptrap, *U.S. Census Bureau*
 Thursday, October 26<br>
 3:30 PM – 5:00 PM</span></h2>
 </div>
-
-## Session K-1: Advances on Federal SOGISC Data: The Federal Evidence Agenda, OMB Guidance, and the NASEM Report
-
-**Organizer:** Christina Dragon, *National Institutes of Health*  
-**Chair:** Elise Christopher, *National Center for Education Statistics*  
-
-[Measuring Sex, Gender Identity, and Sexual Orientation Moving Forward]({{site.baseurl}}/assets/files/docs/2023-conference-docs/K1.1_Baker.pdf){:target="_blank"}  
-Kellan Baker, *Whitman-Walker Institute*
-
-[Best Practices for Collecting SOGI Data on Federal Surveys]({{site.baseurl}}/assets/files/docs/2023-conference-docs/K1.2_Sivinski.pdf){:target="_blank"}  
-Bob Sivinski, *Office of Management and Budget*
-
-[Leveraging Data to Advance Equity for LGBTQI+ People]({{site.baseurl}}/assets/files/docs/2023-conference-docs/K1.3_Ellis.pdf){:target="_blank"}  
-Renee Ellis, *U.S. Census Bureau*
 
 ## Session K-2: Collecting Race and Ethnicity in Establishment Surveys: Agency Methods and Results
 
