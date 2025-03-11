@@ -384,30 +384,6 @@ Gabriel Amaro, <i>U.S. Census Bureau</i>
 Jonathan Auerbach, <i>George Mason University</i>
 </p>
 
-<h2 class="text-left"><span class="text-dark-grey">Session C-5. Advancements in Sexual Orientation and Gender Identity Measurement</span></h2>
-<p><strong>Organizer:</strong> Jennifer Ortman, <i>U.S. Census Bureau</i><br>
-<strong>chair:</strong> Jennifer Ortman, <i>U.S. Census Bureau</i>
-</p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/C5.1_Ryan.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Results of a Mixed-Method Study to Evaluate 2-Step Gender Identity Measures</strong></span></a><br>
-Valerie Ryan, <i>National Center for Health Statistics</i><br>
-Kristen Miller, <i>National Center for Health Statistics</i><br>
-Stephanie Willson, <i>National Center for Health Statistics</i>
-</p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/C5.2_File.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Asking Questions About Sexual Orientation and Gender Identity on the Experimental Household Pulse Survey: Evidence from Initial Evaluations</strong></span></a><br>
-Thom File, <i>U.S. Census Bureau </i><br>
-Zachary Scherer, <i>U.S. Census Bureau</i>
-</p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/C5.3_Spiegelman.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>How do you Describe Yourself in the Workplace? Asking Teachers about their Sexual Orientation and Gender Identity in a School Survey </strong></span></a><br>
-Maura Spiegelman, <i>National Center for Education Statistics</i><br>
-Allison Zotti, <i>U.S. Census Bureau</i><br>
-Shawna Cox, U.S. <i>Census Bureau</i>
-</p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/C5.4_Richards.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Assessing Open-Ended Self-Reports of Sexual Orientation and Gender Identity: Is There Room For Improvement?</strong></span></a><br>
-David Richards, <i>National Center for Education Statistics</i><br>
-Elise Christopher, <i>National Center for Education Statistics</i><br>
-Maura Spiegelman, <i>National Center for Education Statistics</i>
-</p>
-
 <h2 class="text-left"><span class="text-dark-grey">Session C-6. Lifting the Fog: Editing and Imputation</span></h2>
 <p><strong>Organizer:</strong> Tiandong Li, <i>Housing and Urban Development</i><br>
 <strong>chair:</strong> Tiandong Li, <i>Housing and Urban Development</i>
