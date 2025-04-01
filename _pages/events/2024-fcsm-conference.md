@@ -290,7 +290,7 @@ Rui Wang, _Mathematica, Inc._
 
 <!-- [Expanding Equitable Access to Confidential Data Through the Federal Statistical Research Data Centers: A Demonstration Project](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/B/B4.4_Castro.pdf){:target="\_blank"}  
 Nate Ramsey, _U.S. Census Bureau_  
-Michael Castro, _U.S. Census Bureau_ -->
+Michael Castro, _U.S. Census Bureau_-->
 
 [Data Protection Toolkit Use Case Analysis: Leveraging and Enhancing Existing Tools within the Federal Statistical System to Promote a Shared Service Model](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/B/B4.5_Stapleton.pdf){:target="\_blank"}  
 Michael Hawes, _U.S. Census Bureau_  
