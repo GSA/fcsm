@@ -781,7 +781,7 @@ Josh Langeland, _Bureau of Labor Statistics_
 - [Jacob Malcom](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/E/E4.ALLWiatrowski.pdf){:target="\_blank"}, _Department of Interior_
 - [Amy Ritualo](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/E/E4.ALLWiatrowski.pdf){:target="\_blank"}, _Department of State_
 - [Alex Marten](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/E/E4.ALLWiatrowski.pdf){:target="\_blank"}, _Environmental Protection Agency_
-- [Kevin Scott](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/E4.5_Scott.pdf){:target="\_blank"}, _Bureau of Justice Statistics_
+- [Kevin Scott](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/E/E4.ALLWiatrowski.pdf){:target="\_blank"}, _Bureau of Justice Statistics_
 
 ## Session E-5: Creating an Integrated System of Data and Statistics on Household Income, Consumption, and Wealth: Progress on Building
 
@@ -1286,7 +1286,7 @@ Valerie Ryan, _National Center for Health Statistics_ -->
 - [Jonathan Auerbach](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/H/H4.ALL.pdf){:target="\_blank"}, _George Mason University_
 - [May Aydin](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/H/H4.ALL.pdf){:target="\_blank"}, _National Center for Science and Engineering Statistics_
 - [Claire McKay Bowen](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/H/H4.ALL.pdf){:target="\_blank"}, _Urban Institute_
-- [Constance Citro](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/h/H4.ALL.pdf){:target="\_blank"}, _Committee on National Statistics_
+- [Constance Citro](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/H/H4.ALL.pdf){:target="\_blank"}, _Committee on National Statistics_
 - [Nancy Potok](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/H/H4.ALL.pdf){:target="\_blank"}, _NAPx Consulting_
 
 ## Session H-5: Bringing it All Together: Exploring Ways to Mesh Data from Multiple Sources
