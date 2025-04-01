@@ -32,7 +32,7 @@ Anna Maria Calcagno, _Small Business Administration_
 Olivia Gonzalez, _Small Business Administration_
 Kate Yang, _General Services Administration_
 
-[Operationalizing a Congressional Mandate: Examples from the Cybersecurity Workforce Data Initiative](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/A/A1.2_Levanon_Seligson){:target="\_blank"}  
+[Operationalizing a Congressional Mandate: Examples from the Cybersecurity Workforce Data Initiative](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/A/A1.2_Levanon_Seligson.pdf){:target="\_blank"}  
 Amber Levanon Seligson, _National Center for Science and Engineering Statistics_
 Kelly Phou, _National Center for Science and Engineering Statistics_
 Gigi Jones,_National Center for Science and Engineering Statistics_
@@ -40,7 +40,7 @@ Caren A. Arbeit, _RTI International_
 Michael Hogan, _RTI International_
 Erin Dunlop Velez, _RTI International_
 
-[Re-envisioning and Revitalizing the Health and Human Services (HHS) Data Council:The Process of Implementing Changes to the Goals, Work, and Charter of the Data Council](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/A/A1.3_Lessem){:target="\_blank"}  
+[Re-envisioning and Revitalizing the Health and Human Services (HHS) Data Council:The Process of Implementing Changes to the Goals, Work, and Charter of the Data Council](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/A/A1.3_Lessem.pdf){:target="\_blank"}  
 Sarah Lessem, _HHS/ASPE_
 Natalia Vargas, _HHS/ASPE_
 Susan Jenkins, _HHS/ASPE_
@@ -222,7 +222,7 @@ Vessey 1
 - [Linda Young](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/B/B1.2_Young.pdf){:target="\_blank"}, *National Agricultural Statistics Service*
 - [John Finamore](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/B/B1.3_Finamore.pdf){:target="\_blank"}, *National Center for Science and Engineering Statistics*
 - [Adam Safir](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/B/B1.4_Safir.pdf){:target="\_blank"}, *Bureau of Labor Statistics*
-- [Chris Chapman](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/B/B1.5_Chapman){:target="\_blank"}, *National Center for Education Statistics*
+- [Chris Chapman](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/B/B1.5_Chapman.pdf){:target="\_blank"}, *National Center for Education Statistics*
 
 
 ## Session B-2: From Data to Decisions: Leveraging Administrative Records in Statistic
@@ -290,7 +290,7 @@ Rui Wang, _Mathematica, Inc._
 
 <!-- [Expanding Equitable Access to Confidential Data Through the Federal Statistical Research Data Centers: A Demonstration Project](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/B/B4.4_Castro.pdf){:target="\_blank"}  
 Nate Ramsey, _U.S. Census Bureau_  
-Michael Castro, _U.S. Census Bureau_ -->
+Michael Castro, _U.S. Census Bureau_-->
 
 [Data Protection Toolkit Use Case Analysis: Leveraging and Enhancing Existing Tools within the Federal Statistical System to Promote a Shared Service Model](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/B/B4.5_Stapleton.pdf){:target="\_blank"}  
 Michael Hawes, _U.S. Census Bureau_  
@@ -781,7 +781,7 @@ Josh Langeland, _Bureau of Labor Statistics_
 - [Jacob Malcom](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/E/E4.ALLWiatrowski.pdf){:target="\_blank"}, _Department of Interior_
 - [Amy Ritualo](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/E/E4.ALLWiatrowski.pdf){:target="\_blank"}, _Department of State_
 - [Alex Marten](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/E/E4.ALLWiatrowski.pdf){:target="\_blank"}, _Environmental Protection Agency_
-- [Kevin Scott](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/E4.5_Scott.pdf){:target="\_blank"}, _Bureau of Justice Statistics_
+- [Kevin Scott](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/E/E4.ALLWiatrowski.pdf){:target="\_blank"}, _Bureau of Justice Statistics_
 
 ## Session E-5: Creating an Integrated System of Data and Statistics on Household Income, Consumption, and Wealth: Progress on Building
 
@@ -1286,7 +1286,7 @@ Valerie Ryan, _National Center for Health Statistics_ -->
 - [Jonathan Auerbach](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/H/H4.ALL.pdf){:target="\_blank"}, _George Mason University_
 - [May Aydin](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/H/H4.ALL.pdf){:target="\_blank"}, _National Center for Science and Engineering Statistics_
 - [Claire McKay Bowen](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/H/H4.ALL.pdf){:target="\_blank"}, _Urban Institute_
-- [Constance Citro](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/h/H4.ALL.pdf){:target="\_blank"}, _Committee on National Statistics_
+- [Constance Citro](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/H/H4.ALL.pdf){:target="\_blank"}, _Committee on National Statistics_
 - [Nancy Potok](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/H/H4.ALL.pdf){:target="\_blank"}, _NAPx Consulting_
 
 ## Session H-5: Bringing it All Together: Exploring Ways to Mesh Data from Multiple Sources
