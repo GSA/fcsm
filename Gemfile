@@ -24,4 +24,4 @@ gem "html-proofer", "~> 5"
 
 gem "webrick", "~> 1.8"
 
-gem 'jekyll-sass-converter', '~> 3.0'
+gem 'jekyll-sass-converter', '~> 3.1'
