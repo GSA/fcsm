@@ -32,7 +32,7 @@ Anna Maria Calcagno, _Small Business Administration_
 Olivia Gonzalez, _Small Business Administration_
 Kate Yang, _General Services Administration_
 
-[Operationalizing a Congressional Mandate: Examples from the Cybersecurity Workforce Data Initiative](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/A/A1.2_Levanon_Seligson){:target="\_blank"}  
+[Operationalizing a Congressional Mandate: Examples from the Cybersecurity Workforce Data Initiative](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/A/A1.2_Levanon_Seligson.pdf){:target="\_blank"}  
 Amber Levanon Seligson, _National Center for Science and Engineering Statistics_
 Kelly Phou, _National Center for Science and Engineering Statistics_
 Gigi Jones,_National Center for Science and Engineering Statistics_
@@ -40,7 +40,7 @@ Caren A. Arbeit, _RTI International_
 Michael Hogan, _RTI International_
 Erin Dunlop Velez, _RTI International_
 
-[Re-envisioning and Revitalizing the Health and Human Services (HHS) Data Council:The Process of Implementing Changes to the Goals, Work, and Charter of the Data Council](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/A/A1.3_Lessem){:target="\_blank"}  
+[Re-envisioning and Revitalizing the Health and Human Services (HHS) Data Council:The Process of Implementing Changes to the Goals, Work, and Charter of the Data Council](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/A/A1.3_Lessem.pdf){:target="\_blank"}  
 Sarah Lessem, _HHS/ASPE_
 Natalia Vargas, _HHS/ASPE_
 Susan Jenkins, _HHS/ASPE_
@@ -222,7 +222,7 @@ Vessey 1
 - [Linda Young](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/B/B1.2_Young.pdf){:target="\_blank"}, *National Agricultural Statistics Service*
 - [John Finamore](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/B/B1.3_Finamore.pdf){:target="\_blank"}, *National Center for Science and Engineering Statistics*
 - [Adam Safir](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/B/B1.4_Safir.pdf){:target="\_blank"}, *Bureau of Labor Statistics*
-- [Chris Chapman](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/B/B1.5_Chapman){:target="\_blank"}, *National Center for Education Statistics*
+- [Chris Chapman](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/B/B1.5_Chapman.pdf){:target="\_blank"}, *National Center for Education Statistics*
 
 
 ## Session B-2: From Data to Decisions: Leveraging Administrative Records in Statistic
