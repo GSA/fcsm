@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "@uswds/uswds": "3.10.0",
-    "netlify-cms": "^2.10.192"
+    "netlify-cms": "^2.10.192",
+    "undici": "^7.7.0"
   },
   "devDependencies": {
     "pa11y-ci": "^3.1.0",
@@ -22,7 +23,7 @@
     "minimist": "1.2.8",
     "remark-parse": ">=10.0.1",
     "mdast-util-to-hast": ">=5.0.0",
-    "trim":">=0.0.3",
+    "trim": ">=0.0.3",
     "tough-cookie": ">=4.1.4",
     "got": ">=11.8.5",
     "trim-newlines": ">=5.0.0",
