@@ -30,7 +30,7 @@ GEM
       http_parser.rb (~> 0)
     ethon (0.16.0)
       ffi (>= 1.15.0)
-    execjs (2.7.0)
+    execjs (2.10.0)
     ffi (1.17.0-x64-mingw-ucrt)
     ffi (1.17.0-x86_64-darwin)
     ffi (1.17.0-x86_64-linux-gnu)
@@ -89,6 +89,10 @@ GEM
       jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
+    jekyll-seo-tag (2.8.0)
+      jekyll (>= 3.8, < 5.0)
+    jekyll-sitemap (1.4.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     json (2.9.0)
@@ -153,7 +157,7 @@ PLATFORMS
 DEPENDENCIES
   autoprefixer-rails
   eventmachine (= 1.2.7)!
-  execjs (= 2.7.0)
+  execjs (= 2.10.0)
   html-proofer (~> 5)
   jekyll (= 4.3.3)
   jekyll-feed (~> 0.15)
@@ -161,6 +165,8 @@ DEPENDENCIES
   jekyll-paginate-v2 (= 3.0.0)
   jekyll-redirect-from
   jekyll-sass-converter (~> 3.0)
+  jekyll-seo-tag
+  jekyll-sitemap
   tzinfo-data
   webrick (~> 1.8)
 
