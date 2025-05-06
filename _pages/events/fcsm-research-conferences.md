@@ -24,7 +24,7 @@ sidenav: events_navigation
     Novermber 2-4, 2021</p>
   </li>
   <li>
-    <p><a class="fcsm-main-links" href="{{site.baseurl}}/events/2020-federal-commitee-statistical-methology-and-policy-conference/">2020 FCSM Research and Policy Conference</a><br />
+    <p><a class="fcsm-main-links" href="{{site.baseurl}}/events/2020-federal-committee-statistical-methodology-and-policy-conference/">2020 FCSM Research and Policy Conference</a><br />
     September 21, 2020</p>
   </li>
   <li>

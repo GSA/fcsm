@@ -171,7 +171,6 @@ sidenav: events_navigation
   <p class="larger">TECHNICAL DEMONSTRATIONS</p>
   <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/2003FCSM_Romeu.pdf" target="_blank">Design and Evaluation of Aquatic Ecosystems via Discrete Event Simulation</a>  </p>
   <p class="indent">Jorge Romeu (Syracuse University, USA)</p>
-  <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/2003FCSM_Anolik.pdf" target="_blank">Making Sense of Census Data via the World Wide Web: A Case Study Using the 1997 Census of Agriculture</a>  </p>
   <p class="indent">Irwin Anolik (National Agricultural Statistics Service)</p>
   <p style="width:50%"><a href="{{site.baseurl}}/assets/files/docs/2003FCSM_Beckler.pdf" target="_blank">The NASS Question Repository System</a>  </p>
   <p class="indent">Daniel Beckler (National Agricultural Statistics Service)</p>
