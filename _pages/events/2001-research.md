@@ -11,8 +11,6 @@ sidenav: events_navigation
 	<p><strong><a href="{{site.baseurl}}/assets/files/docs/2001FCSMResearchProgram.pdf" target="_blank">FINAL PROGRAM</a> </strong>  </p>
   <p><strong>Resources and Proceedings</strong></p>
   <p>Unless noted, all of these documents are in Portable Document Format [PDF]. To view them you will need the Adobe® Acrobat® Reader which is available for free from the <a class="usa-link--external" href="http://www.adobe.com/">Adobe Web site</a>.</p>
-  <p class="" style="float: left;padding-right: 30px">PLENARY<br /><strong><a href="{{site.baseurl}}/assets/files/docs/2001FCSM_Keynote.pdf" target="_blank">The Interplay between Research Innovation and Federal Statistical Practice</a></strong>  <br>
-  SESSION I - Stephen Fienberg</p>
   <hr>
   <p><br class="clear"></p>
   <p class="date">SESSION II-A<br />MODEL-BASED SURVEY ESTIMATION; BAYESIAN STATISTICAL METHODS AND SOFTWARE</p>

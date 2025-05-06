@@ -1,5 +1,5 @@
 ---
-permalink: /events/2020-federal-commitee-statistical-methology-and-policy-conference/
+permalink: /events/2020-federal-committee-statistical-methodology-and-policy-conference/
 title: Federal Committee on Statistical Methodology 2020 Research and Policy Conference
 layout: page
 sidenav: events_navigation
@@ -113,11 +113,6 @@ sidenav: events_navigation
   </div>
 
   <p><strong>Organizers: </strong>Jaki McCarthy (National Agricultural Statistics Service) and Jennifer Edgar (Bureau of Labor Statistics)</p>
-  <p><strong>Session Chair: </strong>Jaki McCarthy (National Agricultural Statistics Service) <a href="{{site.baseurl}}/assets/files/docs/PM1-3-Jaki-FCSM2020-C19-session-Moderator-slides.pdf" target="_blank" rel="noopener noreferrer"><strong><span style="color: #025373;">Leveraging Official Statistical Programs to Address Emerging Issues</span></strong></a></p>
-  <p style="padding-left: 40px;"><a href="{{site.baseurl}}/assets/files/docs/PM1-3-COVID-Questions-in-the-CPS-9.15-BLS-Census-final.pdf" target="_blank" rel="noopener noreferrer"><span style="color: #025373;"><strong>Adding COVID-19 Questions to the CPS</strong></span></a><br>
-  Emy Sok and Karen Kosanovich (Bureau of Labor Statistics) &amp; Tim Marshall (U.S. Census Bureau)</p>
-  <p style="padding-left: 40px;"><strong><a href="{{site.baseurl}}/assets/files/docs/PM1-3-Lauren-and-Paul-FCSM-COVID-19-Realtime-Data.pdf" target="_blank" rel="noopener noreferrer"><span style="color: #025373;">Near Real-Time Surveillance of COVID-19 Mortality using Data from the National Vital Statistics System</span></a><br>
-  </strong>Paul Sutton and Lauren Rossen (Centers for Disease Control and Prevention)</p>
   <p style="padding-left: 40px;"><a href="{{site.baseurl}}/assets/files/docs/PM1-3-Holly-FCSM-presentation.pdf" target="_blank" rel="noopener noreferrer"><span style="color: #025373;"><strong>The IRS Office of Research, Applied Analytics and Statistics used Innovative Nimble Approaches to Support Decision Making and Evaluation Related to the Corona Virus Pandemic</strong>s</span></a><br>
   Holly Donnelly (Internal Revenue Service)</p>
   <p style="padding-left: 40px;"><a href="{{site.baseurl}}/assets/files/docs/PM1-3-Paul-Scanlon-Katherine-Irimata-FCSM-2020.pdf" target="_blank" rel="noopener noreferrer"><span style="color: #025373;"><strong>Expanding the Use of NCHS’ Research and Development Survey to Quantify Health Characteristics During the Coronavirus Pandemic</strong></span></a><br>

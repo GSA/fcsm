@@ -8,8 +8,6 @@ sidenav: events_navigation
 
 <p><b>2016:</b> <a class="fcsm-main-links" href="{{ site.baseurl }}/assets/files/docs/2016FCSMPolicyProgramFinalWebVersion.pdf">The Future of Federal Statistics – Use of Multiple Data Sources, Anchored in Fundamental Principles and Practices</a> [Program]</p>
 
-<p><b>2014:</b> <a class="fcsm-main-links" href="{{ site.baseurl }}/assets/files/docs/Final2014FCSMPolicyProgram.pdf">Official Statistics in a Changing Society – Making Choices and Balancing Tradeoffs</a> [External link to presentations]</p>
-
 <p><b>2012:</b> <a class="fcsm-main-links" href="{{ site.baseurl }}/assets/files/docs/2012FCSMPolicySeminarProgramFinal.pdf">Collaborating to Achieve Innovation and Efficiencies: Advances and Opportunities</a> [External link to presentations]</p>
 
 <p><b>2010:</b> <a class="fcsm-main-links" href="{{site.baseurl}}/assets/files/docs/2010FCSMPolicyProgram.pdf">Beyond Our Traditions: Innovative Approaches to Longstanding and Emerging Challenges</a></p>

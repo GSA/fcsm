@@ -29,8 +29,6 @@ sidenav: group_navigation
 
 <a href="{{site.baseurl}}/assets/files/docs/nrb-charter.pdf">Charter</a>
 
-<a href="{{site.baseurl}}/groups/publications-and-resources">Publications and Resources</a>
-
 <h3 class="page-sub-heading">Contact:</h3>
 <ul>
 <li>Tala Fakhouri (Co-Chair), Food and Drug Administration, <a href="mailto:tala.fakhouri@fda.hhs.gov">tala.fakhouri@fda.hhs.gov</a></li>

@@ -298,7 +298,6 @@ sidenav: events_navigation
   <p style="width:50%;" class="indent">Bert Kestenbaum (Social Security Administration, USA)</p>
   <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/Schilling_2012FCSM_VII-C.pdf" target="_blank">Taxable Property Values: Exploring the Feasibility of a Survey</a>  </p>
   <p style="width:50%;" class="indent">Peter Schilling and Brian Zamperini (U.S. Census Bureau)</p>
-  <p style="width:50%;"><a href="{{site.baseurl}}/assets/files/docs/Virgile_2012FCSM_VII-C.pdf" target="_blank">Measurement Error in the Relationship Status of Same-Sex Couples in the 2009 American Community Survey</a>  </p>
   <p style="width:50%;" class="indent">Matthew Virgile (U.S. Census Bureau)</p>
   <p style="width:50%;">Statistics on Temporal and Spatial Activity Based on Mobile Phone Network Data  </p>
   <p style="width:50%;" class="indent">Edwin de Jonge, Merijn van Pelt, and Marko Roos (Statistics Netherlands)</p>
