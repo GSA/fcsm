@@ -7,7 +7,7 @@ sidenav: events_navigation
 
 ## Federal Committee on Statistical Methodology 2023 Research and Policy Conference
 
-[FCSM 2023 Program
+FCSM 2023 Program
 
 October 24-26, 2023  
 College Park Marriott Hotel and Conference Center  

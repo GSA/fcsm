@@ -5,7 +5,7 @@ layout: page
 sidenav: events_navigation
 ---
 <h2><span class="text-dark-blue">Federal Committee on Statistical Methodology 2022 Research and Policy Conference</span></h2>
-<p>FCSM 2022 Program</span></strong></p>
+<p>FCSM 2022 Program</p>
 <p class="conference-date">October 25-27, 2022<br>
 Walter E. Washington Convention Center<br>
 Washington, DC</p>
