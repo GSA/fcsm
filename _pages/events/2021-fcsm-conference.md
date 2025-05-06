@@ -5,7 +5,7 @@ layout: page
 sidenav: events_navigation
 ---
 <h2><span class="text-dark-blue">Federal Committee on Statistical Methodology 2021 Research and Policy Conference</span></h2>
-<p>FCSM Fall 2021 Program</span></strong></p>
+<p>FCSM Fall 2021 Program</p>
 <p class="conference-date">November 2-4, 2021<br>
 Virtual Conference</p>
 <p><strong>Hosted By:</strong> Council of Professional Associations on Federal Statistics<br>
