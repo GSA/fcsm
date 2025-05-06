@@ -5,7 +5,7 @@ layout: page
 sidenav: events_navigation
 ---
 <h2><span class="text-dark-blue">Federal Committee on Statistical Methodology 2022 Research and Policy Conference</span></h2>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/FCSM_2022_Program_Draft2.7.pdf" target="_blank" rel="noopener"><strong><span class="text-dark-blue">FCSM 2022 Program</span></strong></a> (click to download)</p>
+<p>FCSM 2022 Program</span></strong></p>
 <p class="conference-date">October 25-27, 2022<br>
 Walter E. Washington Convention Center<br>
 Washington, DC</p>
@@ -172,12 +172,6 @@ Eric English, <i>U.S. Census Bureau</i><br>
 Sharon Ennis, <i>Department of Veteran Affairs</i><br>
 E. Ann Carson, <i>Bureau of Justice Statistics</i>
 </p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/B2.2_Foster.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Age, Sex, and Racial/Ethnic Disparities and Temporal-Spatial Variation in Excess All-Cause Mortality During the COVID-19 Pandemic: Evidence from Linked Administrative and Census Bureau Data</strong></span></a><br>
-Thomas B. Foster, <i>U.S. Census Bureau</i><br>
-Leticia Fernandez, <i>U.S. Census Bureau</i><br>
-Sonya R. Porter, <i>U.S. Census Bureau</i><br>
-Nikolas Pharris-Ciurej, <i>U.S. Census Bureau</i>
-</p>
 <p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/B2.3_Graetz.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>The Impacts of Rent Burden and Eviction on All-Cause Mortality in the United States</strong></span></a><br>
 Nick Graetz, <i>Princeton University</i><br>
 Emily Lemmerman, <i>Princeton University</i><br>
@@ -297,11 +291,6 @@ Kejda Llana, <i>University of Delaware</i>
 Matthew P. Rabbitt, <i>Economic Research Service</i><br>
 M. Taylor Rhodes, <i>Oregon State University</i>
 </p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/C1.4_Bauer.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>The Effect of Pandemic EBT on Measures of Food Hardship</strong></span></a><br>
-Lauren Bauer, <i>Brookings Institution</i><br>
-Krista Ruffini, <i>Georgetown University</i><br>
-Diane Whitmore <i>Schanzenbach, Northwestern University</i>
-</p>
 <p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/C1.5_Vaudin.pdf" aria-label="Anna Vaudin" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Discussant:</strong></span></a><br>
 Anna Vaudin, <i>Food and Nutrition Service</i>
 </p>
@@ -310,20 +299,11 @@ Anna Vaudin, <i>Food and Nutrition Service</i>
 <p><strong>Organizer:</strong> Ann Miller, <i>Department of the Interior</i><br>
 <strong>chair:</strong> Ann Miller, <i>Department of the Interior</i>
 </p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/C2.1_Foster.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Internal Migration in the U.S. During the COVID-19 Pandemic</strong></span></a><br>
-Thomas B. Foster, <i>U.S. Census Bureau</i><br>
-Mark Ellis, <i>University of Washington</i><br>
-Lee Fiorio, <i>University of Washington</i>
-</p>
 <p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/C2.2_Walker.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Race, Class, and Mobility in U. S. Marriage Markets</strong></span></a><br>
 Caroline Walker, <i>U.S. Census Bureau</i><br>
 Ariel Binder, <i>U.S. Census Bureau</i><br>
 Marta Murray-Close, <i>U.S. Census Bureau</i><br>
 Jonathan Eggleston, <i>U.S. Census Bureau</i>
-</p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/C2.3_Murray-Close.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Who gets married and who breaks up? Tracking Relationship Transitions After the Introduction of Legal Same-Sex Marriage in the U.S. Using Linked Survey and Administrative Data</strong></span></a><br>
-Marta Murray-Close, <i>U.S. Census Bureau</i><br>
-Brian Knop, <i>U.S. Census Bureau</i>
 </p>
 <p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/C2.4_Jones.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>The Impact of Manufacturing Credentials on Earnings and the Probability of Employment</strong></span></a><br>
 Maggie R. Jones, <i>U.S. Census Bureau</i><br>
@@ -658,13 +638,6 @@ Markus Broer, <i>American Institutes for Research</i>
 <strong>Organizer:</strong> Richard Chard, <i>Office of Research, Evaluation, and Statistics</i><br>
 <strong>chair:</strong> Doug Williams, <i>Bureau of Labor Statistics</i>
 </p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/E3.1_Kim.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Seroprevalence of SARS-CoV-2 Antibodies: Representativeness of Nonprobability Serology Samples from Multiple Commercial Laboratories in the United States</strong></span></a><br>
-Yun Kim, <i>ICF</i><br>
-Ronaldo Iachan, <i>ICF</i><br>
-Adam Lee, <i>ICF</i><br>
-Lee Harding, <i>ICF</i><br>
-Kristie Clarke, <i>CDC</i>
-</p>
 <p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/E3.2_Chaney.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Finding and Handling Bias in Clustered Randomized Trials</strong></span></a><br>
 Bradford Chaney, <i>National Academies of Sciences, Engineering, and Medicine</i>
 </p>
@@ -704,9 +677,6 @@ Charles Hokayem, <i>U.S. Census Bureau</i>
 <p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/E5.1_Rivers.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>ICSP’s Vision for Implementing Title III of the Evidence Act</strong></span></a><br>
 Emilda Rivers, <i>National Center for Science and Engineering Statistics</i>
 </p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/E5.2_Sivinski.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>The Trust Regulation: Documenting the Fundamental Responsibilities of Recognized Statistical Agencies or Units </strong></span></a><br>
-Robert Sivinski, <i>Office of Management and Budget</i>
-</p>
 <p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/E5.3_Stefanou.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>The Access Regulation: Expanding Secure Access to CIPSEA Data Assets </strong></span></a><br>
 Spiro Stefanou, <i>Economic Research Service</i>
 </p>
@@ -718,16 +688,6 @@ Alex Marten, <i>Environmental Protection Agency</i>
 <p>
 <strong>Organizer:</strong> Tara Becker, <i>National Academies of Sciences, Engineering, and Medicine</i><br>
 <strong>chair:</strong> Katrina Stone, <i>National Academies of Sciences, Engineering, and Medicine</i>
-</p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/E6.1_Bates.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Guidelines for the Measurement of Sex and Gender</strong></span></a><br>
-Nancy Bates, <i>U.S. Census Bureau (Retired)</i>
-</p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/E6.2_Baker.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Measuring Sexual Orientation Identity and Gender Identity: Findings from the National Academies</strong></span></a><br>
-Kellan Baker, <i>Whitman-Walker Institute</i>
-</p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/E6.3_Becker.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Developing Measures of Intersex Status/Differences in Sex Development at the Population Level </strong></span></a><br>
-Tara Becker, <i>National Academies of Sciences, Engineering, and Medicine</i><br>
-Katharine Dalke, <i>Penn State University</i>
 </p>
 <p><strong>Discussant:</strong><br>
 Christina Dragon, <i>National Institutes of Health Sexual and Gender Minority Research Office</i>
@@ -823,9 +783,6 @@ Phillip S. Kott, <i>RTI International</i>
 Caren Arbeit, <i>RTI</i><br>
 KC Culver, <i>University of Southern California</i>
 </p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F4.2_Perna.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Data: The Foundation of Efforts to Advance Equity and Diversity among our Nation’s Faculty</strong></span></a><br>
-Laura Perna, <i>University of Pennsylvania</i>
-</p>
 <p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F4.3_Townsend.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>The Importance and Value of Discipline-Level Data</strong></span></a><br>
 Robert Townsend, <i>American Academy of Arts and Sciences</i>
 </p>
@@ -847,9 +804,6 @@ Michael Ratcliffe, <i>U.S. Census Bureau</i>
 <p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F5.2_Mackun.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>The 2020 Standards for Delineating Core Based Statistical Areas</strong></span></a><br>
 Paul Mackun, <i>U.S. Census Bureau</i>
 </p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F5.3_Cromartie.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Understanding Rural Definitions </strong></span></a><br>
-John Cromartie, <i>Economic Research Service</i>
-</p>
 <p><strong>The Effects of Geography on Data Quality</strong><br>
 Rolf R. Schmitt, <i>Bureau of Transportation Statistics</i><br>
 Ed Strocko, <i>Bureau of Transportation Statistics</i>
@@ -859,26 +813,6 @@ Ed Strocko, <i>Bureau of Transportation Statistics</i>
 <p>
 <strong>Organizer:</strong> Chris Chapman, <i>National Center for Education Statistics</i><br>
 <strong>chair:</strong> Stephen Blumberg, <i>National Center for Health Statistics</i>
-</p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F6.1_Fields.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Household Pulse Survey. Foundation For a Rapid Response, High-Frequency Household Data System</strong></span></a><br>
-Jason Fields, <i>U.S. Census Bureau</i><br>
-Jennifer Hunter Childs, <i>U.S. Census Bureau</i><br>
-Cassandra Logan, <i>U.S. Census Bureau</i>
-</p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F6.2_Hansen.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>School Pulse Panel and Development of a Rapid Response Data Collection System for Establishment Studies - Design, Challenges, and Accomplishments </strong></span></a><br>
-Rachel Hansen, <i>National Center for Education Statistics</i><br>
-Ryan Iaconelli, <i>National Center for Education Statistics</i><br>
-Rebecca Bielamowicz, <i>National Center for Education Statistics</i>
-</p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F6.3_Blumberg.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Leveraging Commercial Online Survey Panels for Timely and Actionable Health Statistics</strong></span></a><br>
-Stephen Blumberg, <i>National Center for Health Statistics</i><br>
-Jennifer Parker, <i>National Center for Health Statistics</i><br>
-Paul Scanlon, <i>National Center for Health Statistics</i><br>
-Jonaki Bose, <i>National Center for Health Statistics</i><br>
-Amy Brown, <i>National Center for Health Statistics</i>
-</p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/F6.4_Sivinski.pdf" aria-label="Robert Sivinski" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Discussant:</strong></span></a><br>
-Robert Sivinski, <i>Office of Management and Budget</i>
 </p>
 
 <div class="conference-session-box">
@@ -891,30 +825,6 @@ Thursday, October 27<br>
 <p>
 <strong>Organizer:</strong> Sirin Yaemsiri, <i>Government Accountability Office</i><br>
 <a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/G1.0_Smith.pdf" aria-label="Jared Smith" target="_blank" rel="noopener"><strong>Chair</strong></a>: Jared Smith, <i>Government Accountability Office</i>
-</p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/G1.1_Vartivarian.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Geospatial Analysis and Regression Modeling to Assess Social and Demographic Disparities in Locations of Lead Water Pipes and Pavement Conditions of the National Highway System</strong></span></a><br>
-Sonya Vartivarian, <i>Government Accountability Office</i><br>
-Mark Braza, <i>Government Accountability Office</i><br>
-Caitlin Cusati, <i>Government Accountability Office</i><br>
-Diane Raynes, <i>Government Accountability Office</i>
-</p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/G1.2_Guo.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Assessing Disparities in FEMA Flood Map Investments using Multivariate Analysis</strong></span></a><br>
-Lijia Guo, <i>Government Accountability Office</i><br>
-Joel Aldape, <i>Government Accountability Office</i><br>
-Mark Braza, <i>Government Accountability Office</i><br>
-John Vocino, <i>Government Accountability Office</i>
-
-</p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/G1.3_Parks.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Survival Analysis Modeling of Promotions in the State Department’s Workforce</strong></span></a><br>
-Moon Parks, <i>Government Accountability Office</i><br>
-Nisha Rai, <i>Government Accountability Office</i><br>
-Melinda Cordero, <i>Government Accountability Office</i>
-</p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/G1.4_Tessin.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Imputing Race and Ethnicity in Federal Administrative Data: Two Applications of Bayesian Improved Surname Geocoding (BISG)</strong></span></a><br>
-Jeff Tessin, <i>Government Accountability Office</i>
-</p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/G1.5_Tirado.pdf" aria-label="Frances Tirado" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Discussant:</strong></span></a><br>
-Frances Tirado, <i>Government Accountability Office</i>
 </p>
 
 <h2 class="text-left"><span class="text-dark-grey">Session G-2. Highlights of CNSTAT Report on Transparency in Statistical Information</span></h2>
@@ -1065,10 +975,6 @@ Mark Edlund, <i>RTI International</i><br>
 Peter Baumgartner, <i>Explosion AI, GmbH</i><br>
 Georgiy Bobashev, <i>RTI International</i>
 </p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/H3.3_Cramer.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Web Scraping to Collected U.S. School District Level COVID-19 Mask Mandate Information for Contextualizing Results from the National Assessment of Educational Progress </strong></span></a><br>
-Brian Cramer, <i>National Center for Education Statistics</i><br>
-Sadaf Asrar, <i>Optimal Solutions Group</i>
-</p>
 <p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/H3.4_Ferronato.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Web Scraping in Support of the U.S. Census Bureau's Public Sector Programs </strong></span></a><br>
 Hector Ferronato, <i>U.S. Census Bureau & Reveal GC</i><br>
 Brian Dumbacher, <i>U.S. Census Bureau</i>
@@ -1081,11 +987,6 @@ Mike Gerling, <i>National Agricultural Statistics Service</i>
 <p>
 <strong>Organizer:</strong> Scott Boggess, <i>U.S. Census Bureau</i><br>
 <strong>chair:</strong> Scott Boggess, <i>U.S. Census Bureau</i>
-</p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/H4.1_Giefer.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>SNAP Receipt in the SIPP: Using Administrative Records to Evaluate Data Quality </strong></span></a><br>
-Michael D. King, <i>U.S. Census Bureau</i><br>
-Katherine G. Giefer, <i>U.S. Census Bureau</i><br>
-Veronica L. Roth, <i>U.S. Census Bureau</i>
 </p>
 <p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/H4.2_Crespo.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Household Indebtedness According to the Spanish Survey of Household Finances and the Central Credit Register: A Comparative Analysis</strong></span></a><br>
 Sandra García-Uribe, <i>Banco de España</i><br>
@@ -1214,28 +1115,10 @@ David Johnson, <i>National Academy of Science</i>
 <strong>Organizer:</strong> Stephanie Coffey, <i>U.S. Census Bureau</i><br>
 <strong>chair:</strong> Stephanie Coffey, <i>U.S. Census Bureau</i>
 </p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/I-5.1_Lau.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Using Data from the National Health and Nutrition Examination Survey (NHANES) to Support Health Equity Research</strong></span></a><br>
-Denys Lau, <i>National Center for Health Statistics</i><br>
-Cheryl Fryar, <i>National Center for Health Statistics</i><br>
-Namanjeet Ahluwalia, <i>National Center for Health Statistics</i><br>
-Matthew Kaufman, <i>National Center for Health Statistics</i><br>
-Irma Arispe, <i>National Center for Health Statistics</i><br>
-Ryne Paulose-Ram, <i>National Center for Health Statistics</i>
-</p>
 <p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/I-5.2_Frechtel.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>“Second Chance” Respondents to the National Survey on Drug Use and Health: A Natural Reinterview Reliability Analysis</strong></span></a><br>
 Peter Frechtel, <i>RTI International</i><br>
 Lauren Klein Warren, <i>RTI International</i><br>
 Adam Lee, <i>RTI International</i>
-</p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/I-5.3_Dipko.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Need Telephone Show Cards For Your In-Person Survey Due To A Pandemic-Induced Multimode Data Collection Shift? Path Study Lessons Learned 2020 to Present… </strong></span></a><br>
-Sarah Dipko, <i>Westat</i><br>
-Victoria Castleman, <i>Westat</i>
-</p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2022-conference-docs/I-5.4_Arrue.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Zooming into the Future with CAVI: An Update</strong></span></a><br>
-Jesus Arrue, <i>Westat</i><br>
-Darby Steiger, <i>Westat</i><br>
-Lena Centeno, <i>Westat</i><br>
-Cindy Good, <i>Westat</i>
 </p>
 
 <div class="conference-session-box">

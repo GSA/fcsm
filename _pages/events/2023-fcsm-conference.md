@@ -7,7 +7,7 @@ sidenav: events_navigation
 
 ## Federal Committee on Statistical Methodology 2023 Research and Policy Conference
 
-[FCSM 2023 Program]({{site.baseurl}}/assets/files/docs/2023-conference-docs/FCSM-2023-Program-FINAL-1.pdf){:target="_blank"} (click to download)
+[FCSM 2023 Program
 
 October 24-26, 2023  
 College Park Marriott Hotel and Conference Center  
@@ -51,12 +51,6 @@ Yulei He, *National Center for Health Statistics*
 Katherine Irimata, *National Center for Health Statistics*   
 Bill Cai, *National Center for Health Statistics*
 
-[Using the Household Pulse Survey to Identify Potential External Benchmarks of Economic, Social, and Health Well-Being]({{site.baseurl}}/assets/files/docs/2023-conference-docs/A1.5_Patel.pdf){:target="_blank"}  
-Priyam Patel, *National Center for Health Statistics*  
-Lauren Rossen, *National Center for Health Statistics*   
-Katherine Irimata, *National Center for Health Statistics*   
-Morgan Earp, *National Center for Health Statistics*
-
 ## Session A-2: Using Administrative Data for Program Evaluation and Research
 
 **Organizer:** Justin Nguyen, *U.S. Census Bureau*  
@@ -87,38 +81,6 @@ Donielle White, *National Center for Health Statistics*
 **Organizer:** Tamara Lee, *Department of Veterans Affairs*  
 **Chair:** Tamara Lee, *Department of Veterans Affairs*  
 **Location:** Patuxent
-
-[Using Small Area Estimation to Create New Tools for Community Resilience]({{site.baseurl}}/assets/files/docs/2023-conference-docs/A3.1_DeSalvo.pdf){:target="_blank"}  
-Bethany DeSalvo, *U.S. Census Bureau*
-
-[CDC COVID-19 Mortality Surveillance]({{site.baseurl}}/assets/files/docs/2023-conference-docs/A3.2_Khan.pdf){:target="_blank"}  
-Diba Khan, *National Center for Health Statistics*  
-Lauren Rossen, *National Center for Health Statistics*  
-Peter Grillo, *Centers for Disease Control and Prevention*  
-Meeyoung Park, *Centers for Disease Control and Prevention*  
-Casey Lyons, *Centers for Disease Control and Prevention*  
-Sarah Witter, *Centers for Disease Control and Prevention*  
-Matthew Ritchey, *Centers for Disease Control and Prevention*  
-Farida Ahmad, *National Center for Health Statistics*  
-Adi Gundlapalli, *Centers for Disease Control and Prevention*  
-Lauren Rossen, *National Center for Health Statistics*
-
-[Validating the Results of a Probability-based Panel Survey with Administrative Data]({{site.baseurl}}/assets/files/docs/2023-conference-docs/A3.3_Matulewicz.pdf){:target="_blank"}  
-Divya Vohra, *Mathematica*  
-Holly Matulewicz, *Mathematica*  
-Andy Weiss, *Mathematica*  
-Willow Crawford-Crudell, *Mathematica*  
-Chandra Couzens, *Mathematica*  
-Nancy Clusen, *Mathematica*
-
-[A Multi-Factored Mechanism to Distribute Health Emergency Funds]({{site.baseurl}}/assets/files/docs/2023-conference-docs/A3.4_Chen.pdf){:target="_blank"}  
-Stacy Chen, *The MITRE Corporation*  
-Hongxun Qin, *The MITRE Corporation*  
-Timothy Champney, *The MITRE Corporation*  
-Rob Hartman, *The MITRE Corporation*  
-Surya Menon, *The MITRE Corporation*  
-Mary Munro, *The MITRE Corporation*  
-Yueh Quach, *The MITRE Corporation*
 
 ## Session A-4: Statistical Products First – A Paradigm Shift for Federal Statistics
 
@@ -151,14 +113,6 @@ Edward Wu, *University of Virginia*
 [Ensemble Modeling Techniques for NAICS Classification in the Economic Census]({{site.baseurl}}/assets/files/docs/2023-conference-docs/A5.1_Whitehead.pdf){:target="_blank"}  
 Daniel Whitehead, *U.S. Census Bureau*  
 Brian Dumbacher, *U.S. Census Bureau*
-
-[A Semi-Automated Nonresponse Detector (SANDS) Model for Open-response Data]({{site.baseurl}}/assets/files/docs/2023-conference-docs/A5.2_CibelliHibben.pdf){:target="_blank"}  
-Kristen Cibelli Hibben, *National Center for Health Statistics*  
-Zachary Smith, *National Center for Health Statistics*  
-Benjamin Rogers, *National Center for Health Statistics*  
-Valerie Ryan, *National Center for Health Statistics*  
-Paul Scanlon, *National Center for Health Statistics*  
-Travis Hoppe, *National Center for Health Statistics*
 
 [A Score Function to Prioritize Editing in Household Survey Data: A Machine Learning Approach]({{site.baseurl}}/assets/files/docs/2023-conference-docs/A5.3_Forteza.pdf){:target="_blank"}  
 Nicolás Forteza, *Banco de España*  
@@ -266,10 +220,6 @@ Stas Kolenikov, *NORC at the University of Chicago*
 Patrick Coyle, *NORC at the University of Chicago*  
 David Dutwin, *NORC at the University of Chicago*
 
-[Give it Time?: Sample Composition by Completion Date]({{site.baseurl}}/assets/files/docs/2023-conference-docs/B2.3_Hendrich.pdf){:target="_blank"}  
-Megan A. Hendrich, *Ipsos US Public Affairs*  
-Randall K. Thomas, *Ipsos US Public Affairs*
-
 [Nonresponse Bias Monitoring and Interventions in the American Community Survey]({{site.baseurl}}/assets/files/docs/2023-conference-docs/B2.4_Eggleston.pdf){:target="_blank"}  
 Jonathan Eggleston, *U.S. Census Bureau*  
 Stephanie Coffey, *U.S. Census Bureau*  
@@ -325,11 +275,6 @@ Anna Scolese, *Fors Marsh Group*
 Marcus Maher, *Fors Marsh Group*  
 Rachel Walker-Kulzick, *Fors Marsh Group*
 
-[Examining Health Equity Measurement and Representation through the Lens of Total Survey Error]({{site.baseurl}}/assets/files/docs/2023-conference-docs/B4.5_Earp.pdf){:target="_blank"}  
-Morgan Earp, *National Center for Health Statistics*  
-John R. Pleis, *National Center for Health Statistics*  
-Lauren Rossen, *National Center for Health Statistics*
-
 <a aria-label="Techniques Tested to Improve Representation" target="_blank" href="{{site.baseurl}}/assets/files/docs/2023-conference-docs/B4.6_Lehrman.pdf">Techniques Tested to Improve Representation of Racial and Ethnic Minority, Younger, and Maternity Patients in a National Hospital Experience of Care Survey</a><br>
 William Lehrman, *Centers for Medicare and Medicaid Services*  
 Marc N. Elliott, *RAND*  
@@ -345,8 +290,6 @@ Megan K. Beckett, *RAND*
 
 **Panelists:**  
 - [Sallie Ann Keller]({{site.baseurl}}/assets/files/docs/2023-conference-docs/B5.1_Keller.pdf){:target="_blank"}, *U.S. Census Bureau*  
-- [Bob Sivinski]({{site.baseurl}}/assets/files/docs/2023-conference-docs/B5.2_Sivinski2.pdf){:target="_blank"}, *Office of Management and Budget*  
-- Gail Mulligan, *National Center for Education Statistics*
 
 ## Session B-6: How the Commodity Flow Survey Made its First 100 Million (Shipment Records)
 
@@ -381,12 +324,6 @@ Tuesday, October 24<br>
 
 **Leadership Diversity Supports Underserved Communities**  
 Hubert Hamer, *National Agricultural Statistics Service*
-
-[Using Diverse Perspectives to Create Useful Data]({{site.baseurl}}/assets/files/docs/2023-conference-docs/C1.2_Maury.pdf){:target="_blank"}  
-Meghan Maury, *U.S. Census Bureau*
-
-[Federal Statistical System - Coordinated Efforts on Guidance about Diversity, Equity, and Inclusion in our Data]({{site.baseurl}}/assets/files/docs/2023-conference-docs/C1.3_Chapman.pdf){:target="_blank"}  
-Chris Chapman, *National Center for Education Statistics*
 
 **Diverse Agency Leadership vs. Diverse User Needs**  
 Amy O’Hara, *Georgetown University*
@@ -458,11 +395,6 @@ Carl Lieberman, *U.S. Census Bureau*
 **Chair:** Saki Kinney, *RTI International*  
 **Discussant:** G. David Williamson, *Centers for Disease Control and Prevention*
 
-[Assessing the Impacts of Differential Privacy on Public Health Surveillance at Varying Geographic Resolutions]({{site.baseurl}}/assets/files/docs/2023-conference-docs/C6.1_Werner.pdf){:target="_blank"}  
-Angela K Werner, *Centers for Disease Control and Prevention*  
-Nicholas Skaff, *Centers for Disease Control and Prevention*  
-Adam S Vaughan, *Centers for Disease Control and Prevention*
-
 [Impact of Differential Privacy on Cancer Surveillance Statistics]({{site.baseurl}}/assets/files/docs/2023-conference-docs/C6.2_Yu.pdf){:target="_blank"}  
 Mandi Yu, *National Cancer Institute*  
 Jiming Jiang, *University of California, Davis*
@@ -512,16 +444,6 @@ Caroline Walker, *U.S. Census Bureau*
 [Instrument Programming for Web and Phone Multi-Mode Administration]({{site.baseurl}}/assets/files/docs/2023-conference-docs/D2.1_Gardecki.pdf){:target="_blank"}  
 Rosella Gardecki, *The Ohio State University*  
 Amanda Roose, *The Ohio State University*
-
-[A Multi-Mode Survey Design for the NLSY97 COVID-19 Supplement]({{site.baseurl}}/assets/files/docs/2023-conference-docs/D2.2_Washburn.pdf){:target="_blank"}  
-Quentin Brummet, *NORC at the University of Chicago*  
-Anthony Washburn, *NORC at the University of Chicago*  
-Leah Christian, *NORC at the University of Chicago*
-
-[NLSY97 COVID-19 Supplement: Initial Findings and Future Use]({{site.baseurl}}/assets/files/docs/2023-conference-docs/D2.3_Rothstein.pdf){:target="_blank"}  
-Donna Rothstein, *Bureau of Labor Statistics*  
-Alison Aughinbaugh, *Bureau of Labor Statistics*  
-Keenan Dworak-Fisher, *Bureau of Labor Statistics*
 
 ## Session D-3: New Perspectives and Methods on Privacy and Disclosure Control
 
@@ -938,12 +860,6 @@ Wednesday, October 25<br>
 **Organizer:** Doug Williams, *Bureau of Labor Statistics*  
 **Chair:** Robin Kaplan, *Bureau of Labor Statistics*  
 
-[Rapid Response Surveys: Household Pulse Survey 2.0]({{site.baseurl}}/assets/files/docs/2023-conference-docs/G1.1_Shin.pdf){:target="_blank"}  
-Hyon B. Shin, *U.S. Census Bureau*  
-Jennifer Hunter Childs, *U.S. Census Bureau*  
-Cassandra Logan, *U.S. Census Bureau*  
-Jason Fields, *U.S. Census Bureau*
-
 [National Hospital Care Survey: Redesigning the Annual Hospital Interview]({{site.baseurl}}/assets/files/docs/2023-conference-docs/G1.2_Rappole.pdf){:target="_blank"}  
 Catherine Rappole, *National Center for Health Statistics*  
 Geoffrey Jackson, *National Center for Health Statistics*
@@ -1153,11 +1069,6 @@ Rachel Soloveichik, *Bureau of Economic Analysis*
 
 **Organizer:** Jennifer Nielsen, *National Center for Education Statistics*  
 **Chair:** Jennifer Nielsen, *National Center for Education Statistics*  
-
-[FCSM: A Brief Overview of FCSM and Ways You Can Get Involved]({{site.baseurl}}/assets/files/docs/2023-conference-docs/H5.1_Nielsen.pdf){:target="_blank"}  
-Jennifer Nielsen, *National Center for Education Statistics*  
-Darius Singpurwalla, *National Center for Science and Engineering Statistics*  
-Ellen Galantucci, *Federal Maritime Commission*
 
 [CNSTAT: Helping Improve Federal Statistics, Methods, and Practices for Over 50 Years]({{site.baseurl}}/assets/files/docs/2023-conference-docs/H5.2_Chiu.pdf){:target="_blank"}  
 Melissa Chiu, *CNSTAT*

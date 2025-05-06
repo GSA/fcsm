@@ -1368,13 +1368,6 @@ Kate Burdekin, _RTI International_
 Chris Coxen, _RTI International_  
 Demian Pasquarelli, _RTI International_
 
-[Detecting LLM-generated Survey Responses]({{site.baseurl}}/assets/files/docs/2024-conference-doc/I/I1.2_Huang.pdf){:target="\_blank"}   
-Joshua Lerner, _NORC at the University of Chicago_  
-Brandon Sepulvado, _NORC at the University of Chicago_  
-Lilian Huang, _NORC at the University of Chicago_  
-Ipek Bilgen, _NORC at the University of Chicago_  
-Leah Christian, _NORC at the University of Chicago_
-
 [Large Language Models do not Respond like Survey Respondents](https://assets.fcsm.gov/assets/files/docs/2024-conference-docs/I/I1.3_Sepulvado.pdf){:target="\_blank"}   
 Brandon Sepulvado, _NORC at the University of Chicago_  
 Joshua Y. Lerner, _NORC at the University of Chicago_  

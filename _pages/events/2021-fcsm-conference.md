@@ -5,7 +5,7 @@ layout: page
 sidenav: events_navigation
 ---
 <h2><span class="text-dark-blue">Federal Committee on Statistical Methodology 2021 Research and Policy Conference</span></h2>
-<p><a href="{{ site.baseurl }}/assets/files/docs/2021-11-05_FCSM-2021-Program.pdf" target="_blank" rel="noopener"><strong><span class="text-dark-blue">FCSM Fall 2021 Program</span></strong></a> (click to download)</p>
+<p>FCSM Fall 2021 Program</span></strong></p>
 <p class="conference-date">November 2-4, 2021<br>
 Virtual Conference</p>
 <p><strong>Hosted By:</strong> Council of Professional Associations on Federal Statistics<br>
@@ -91,12 +91,6 @@ Tuesday, November 2nd<br>
 <h2 class="text-left"><span class="text-dark-grey"><em><strong>Session B-1: </strong></em>Measuring Sexual Orientation &amp; Gender Identity</span></h2>
 <p><strong>Session Liaison:</strong> Doug Williams (Bureau of Labor Statistics)<br>
 <strong>Session Chair:</strong> Doug Williams (Bureau of Labor Statistics)</p>
-<p><a href="{{ site.baseurl }}/assets/files/docs/B1Martinez.pdf" target="_blank" rel="noopener"><span class="text-dark-blue"><strong>Best Practices for Collecting Gender and Sex Data</strong></span></a><br>
-Wendy Martinez (Bureau of Labor Statistics), Suzanne Thornton (Swarthmore), Dooti Roy, Stephen Perry, Donna LaLonde, Renee Ellis, and David J. Corliss</p>
-<p><span class="text-dark-blue"><a class="text-dark-blue" href="{{ site.baseurl }}/assets/files/docs/B1.2_Morrison 2021 FCSM Conference.pdf" target="_blank" rel="noopener"><strong>Measuring Sexual Orientation and Gender Identity Among College Graduates: Results from a Methodological Experiment Using a Non-Probability Sample</strong></a></span><br>
-Rebecca L. Morrison (National Center for Science &amp; Engineering Statistics), Jesse Chandler (Mathematica), Flora Lan, and Karen S. Hamrick (National Center for Science &amp; Engineering Statistics)</p>
-<p><span class="text-dark-blue"><a class="text-dark-blue" href="{{ site.baseurl }}/assets/files/docs/B1Christopher.pdf" target="_blank" rel="noopener"><strong>Assessing Measurement Error in Sex and Gender Identity Measures in an NCES Survey</strong></a></span><br>
-Elise Christopher (National Center for Education Statistics)</p>
 <h2 class="text-left"><span class="text-dark-grey"><em><strong>Session B-2: </strong></em>Impact of the COVID-19 Pandemic on National Center for Health Statistics Data Collections</span></h2>
 <p><strong>Session Liaison:</strong> Jessica Graber (National Center for Health Statistics)<br>
 <strong>Session Chair:</strong> Brian W. Ward (National Center for Health Statistics)</p>
