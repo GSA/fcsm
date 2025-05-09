@@ -10,10 +10,4 @@ sidenav: group_navigation
   <li>Facilitating the sharing of research findings with federal statistical audiences.</li>
 </ul>
 
-<p><strong>Contact:</strong> </p>
-<ul>
-  <li>John Finamore (co-chair), National Center for Science and Engineering Statistics, <a href="mailto:jfinamor@nsf.gov">jfinamor@nsf.gov</a></li>
-  <li>Linda Young (co-chair), <a href="mailto:linda.j.young@usda.gov">linda.j.young@usda.gov</a></li>
-</ul>
-
 <p><b>DISCLAIMER</b>: Materials posted on this page are released to inform interested parties of research and to encourage discussion. Opinions expressed are those of the authors and do not necessarily reflect the official position of the FCSM or the participating agencies.</p>

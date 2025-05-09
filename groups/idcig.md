@@ -11,7 +11,6 @@ sidenav: group_navigation
 <p><a href="{{site.baseurl}}/assets/files/docs/FCSM Innovating Data Collection Interest Group Charter_signed.pdf"><strong>Charter</strong></a></p>
 <p><strong>Contacts:</strong> </p>
 <ul>
-  <li>Elise Christopher (Co-chair), National Center for Education Statistics, <a href="mailto:elise.christopher@ed.gov">elise.christopher@ed.gov</a></li>
   <li>Stephanie Coffey (Co-chair), U.S. Census Bureau, <a href="mailto:stephanie.coffey@census.gov">stephanie.coffey@census.gov</a> </li>
   <li>John Finamore (FCSM Liaison), National Center for Science and Engineering Statistics, <a href="mailto:jfinamor@nsf.gov">jfinamor@nsf.gov</a> </li>
 </ul>

@@ -18,11 +18,4 @@ sidenav: group_navigation
 	<li><a href="{{ site.baseurl }}/assets/files/docs/DataQualityAssessmentTool.pdf" target="_blank">Data Quality Assessment Tool for Administrative Data (2013)</a></li>
 </ul>    
 
-<p><strong>Contacts:</strong></p>
-<ul>
-  <li>Rolf Schmitt at <a href="mailto:Rolf.Schmitt@dot.gov">Rolf.Schmitt@dot.gov</a></li>
-  <li>Lisa Mirel at <a href="mailto:LMirel@cdc.gov">LMirel@cdc.gov</a></li>
-  <li>Darius Singpurwalla at <a href="mailto:dsingpur@nsf.gov">dsingpur@nsf.gov</a></li>
-</ul>
- 
 <p><b>DISCLAIMER</b>: Materials posted on this page are released to inform interested parties of research and to encourage discussion. Opinions expressed are those of the authors and do not necessarily reflect the official position of the FCSM or the participating agencies.</p>
