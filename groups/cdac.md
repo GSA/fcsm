@@ -18,7 +18,6 @@ sidenav: group_navigation
 <p>Contact:</p>
 <ul>
   <li>Michael Hawes, Census, <a href="mailto:michael.b.hawes@census.gov">michael.b.hawes@census.gov</a></li>
-  <li>Ellen Galantucci, (co-chair), <a href="mailto:egalantucci@fmc.gov">egalantucci@fmc.gov</a></li>
 </ul>
 
 <p><strong>Recording of CDAC Meetings and Workshops:</strong></p>

@@ -28,9 +28,3 @@ sidenav: group_navigation
 <p>In June 2023, the Subcommittee completed the second objective with publication of “<a href="{{site.baseurl}}/assets/files/docs/FCSM NRBA Report 062623.pdf">Best Practices for Nonresponse Bias Reporting</a>”. The Subcommittee is also working with the FCSM to create a mechanism for collecting future nonresponse bias studies and monitoring the use and impact of the FCSM NRB best practices and guidelines.</p>
 
 <a href="{{site.baseurl}}/assets/files/docs/nrb-charter.pdf">Charter</a>
-
-<h3 class="page-sub-heading">Contact:</h3>
-<ul>
-<li>Tala Fakhouri (Co-Chair), Food and Drug Administration, <a href="mailto:tala.fakhouri@fda.hhs.gov">tala.fakhouri@fda.hhs.gov</a></li>
-<li>Morgan Earp (Co-Chair), National Center for Health Statistics, <a href="mailto:qkh5@cdc.gov">qkh5@cdc.gov</a></li>
-</ul>
