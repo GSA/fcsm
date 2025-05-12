@@ -34,4 +34,5 @@ languages such a R and Python.</li>
 <p><strong>Contacts:</strong></p>
 <ul>
   <li>José Bayoán Santiago Calderón (Co-chair) at <a href="mailto:Jose.Santiago-Calderon@bea.gov">jose.santiago-calderon@bea.gov</a></li>
+  <li>Ellen Galantucci (FCSM Liaison) at <a href="mailto:egalantucci@fmc.gov">egalantucci@fmc.gov</a></li>
 </ul>
