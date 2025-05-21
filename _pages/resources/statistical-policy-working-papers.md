@@ -12,6 +12,7 @@ sidenav: resource_navigation
 
 <h3 class="page-sub-heading">DATA QUALITY FRAMEWORK</h3>
 <ul>
+<li><a href="{{ site.baseurl }}/assets/files/docs/FCSM.25.03_AI-Ready-Extension-Data-Quality.pdf" target="_blank">AI-Ready Federal Statistical Data: An Extension of Communicating Data Quality (FCSM 25-03)</a></li>
 <li><a href="{{ site.baseurl }}/assets/files/docs/FCSM.23.02_DQ_case_studies_FINAL.pdf" target="_blank">A Framework for Data Quality: Case Studies (FCSM 23-02)</a></li>
 <li><a href="{{site.baseurl}}/assets/files/docs/FCSM.20.04_A_Framework_for_Data_Quality.pdf" target="_blank">A Framework for Data Quality (FCSM 20-04)</a></li>
 <li><a href="{{site.baseurl}}/assets/files/docs/Transparent_Reporting_FCSM_19_01_092719.pdf" target="_blank">Transparent Reporting for Integrated Data Quality: Practices of Seven Federal Statistical Agencies (FCSM 19-01)</a></li>
@@ -29,12 +30,12 @@ sidenav: resource_navigation
 <h3 class="page-sub-heading">QUESTION EVALUATION AND DATA COLLECTION</h3>
 <ul>
 <!-- <li><a href="{{site.baseurl}}/assets/files/docs/FCSM_SOGI_Terminology_FY20_Report_FINAL.pdf" target="_blank">Updates on Terminology of Sexual Orientation and Gender Identity Survey Measures (FCSM 20-03)</a></li> -->
+<li><a href="{{site.baseurl}}/assets/files/docs/Rural Definitions and Measurement FCSM 25-01 March 19 2025.pdf" target="_blank">Rural Definitions and Measurement, 2025 (FCSM 25-01)</a></li>
+<li><a href="{{site.baseurl}}/assets/files/docs/Analyzing Persistent Poverty Areas Using Federal Data FCSM 25-02 March 19 2025.pdf" target="_blank">Analyzing Persistent Poverty Areas Using Federal Data, 2025 (FCSM 25-02)</a></li>
 <li><a href="{{site.baseurl}}/assets/files/docs/spwp47.pdf" target="_blank">Evaluating Survey Questions: An Inventory of Methods, 2016 (WP 47)</a></li>
 <li><a href="{{site.baseurl}}/assets/files/docs/spwp19.pdf" target="_blank">Computer Assisted Survey Information Collection, 1990 (WP 19)</a></li>
 <li><a href="{{site.baseurl}}/assets/files/docs/spwp12.pdf" target="_blank">The Role of Telephone Data Collection in Federal Statistics, 1984 (WP 12)</a></li>
 <li><a href="{{site.baseurl}}/assets/files/docs/spwp10.pdf" target="_blank">Approaches to Developing Questionnaires, 1983 (WP 10)</a></li>
-<li><a href="{{site.baseurl}}/assets/files/docs/Rural Definitions and Measurement FCSM 25-01 March 19 2025.pdf" target="_blank">Rural Definitions and Measurement, 2025 (FCSM 25-01)</a></li>
-<li><a href="{{site.baseurl}}/assets/files/docs/Analyzing Persistent Poverty Areas Using Federal Data FCSM 25-02 March 19 2025.pdf" target="_blank">Analyzing Persistent Poverty Areas Using Federal Data, 2025 (FCSM 25-02)</a></li>
 </ul>
 
 <h3 class="page-sub-heading">ADMINISTRATIVE RECORDS AND MATCHING</h3>
