@@ -12,6 +12,7 @@ sidenav: resource_navigation
 
 <h3 class="page-sub-heading">DATA QUALITY FRAMEWORK</h3>
 <ul>
+<li><a href="{{ site.baseurl }}/assets/files/docs/FCSM.25.03_AI-Ready-Extension-Data-Quality.pdf" target="_blank">AI-Ready Federal Statistical Data: An Extension of Communicating Data Quality (FCSM 25-03)</a></li>
 <li><a href="{{ site.baseurl }}/assets/files/docs/FCSM.23.02_DQ_case_studies_FINAL.pdf" target="_blank">A Framework for Data Quality: Case Studies (FCSM 23-02)</a></li>
 <li><a href="{{site.baseurl}}/assets/files/docs/FCSM.20.04_A_Framework_for_Data_Quality.pdf" target="_blank">A Framework for Data Quality (FCSM 20-04)</a></li>
 <li><a href="{{site.baseurl}}/assets/files/docs/Transparent_Reporting_FCSM_19_01_092719.pdf" target="_blank">Transparent Reporting for Integrated Data Quality: Practices of Seven Federal Statistical Agencies (FCSM 19-01)</a></li>
