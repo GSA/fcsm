@@ -13,9 +13,9 @@
         });
 		
 		// Mean Menu
-		jQuery('.mean-menu').meanmenu({
-			meanScreenWidth: "991"
-        });
+		//jQuery('.mean-menu').meanmenu({
+		//	meanScreenWidth: "991"
+        //});
 
         // Button Hover JS
         $(function() {
