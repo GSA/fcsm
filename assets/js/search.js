@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function () {
     console.log("pathPartsFcsm is : "+pathPartsFcsm);
     if(pathPartsFcsm.length === 2) {
         var formElement = document.getElementById("search_form");
-        formElement.action = pathPartsFcsm[0] + '/fcsm/search/';
+        formElement.action = pathPartsFcsm[0] + '/search/';
     }
     if (searchResults !== null) {
         var searchgovParams = document.getElementById("searchgov-params");
