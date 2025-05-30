@@ -104,6 +104,16 @@ title: Search Results-fcsm
 
 
 {% if site.searchgov %}
+  <div class="display-none"
+  id="searchgov-params"
+  data-endpoint="{{site.searchgov.endpoint}}"
+  data-affiliate="{{site.searchgov.affiliate}}",
+  data-access-key="{{site.searchgov.access_key}}",
+  ></div>
+  <div id="results-header" class="display-none">
+    <span id="results-count"></span> results for "<span id="search-keyword" class="text-bold"></span>"
+  </div>
+
   <ol id="search-results" class="margin-left-2" class="display-none"></ol>
   <div id="no-results" class="display-none">
     <p>Sorry,, no results were found for  '<span id="search-params"></span>'. Try entering fewer or more general search terms.</p>
