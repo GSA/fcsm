@@ -1,11 +1,9 @@
 
 document.addEventListener("DOMContentLoaded", function () {
+    console.log("In DOMContentLoaded event listener");
     var searchResults = document.getElementById("search-results");
-    var pathParts = window.location.pathname.split("/payment-accuracy/");
-    if (pathParts.length === 2) {
-        var formElement = document.getElementById("search_form");
-        formElement.action = pathParts[0] + '/payment-accuracy/search/';
-    }
+    console.log("In search.js of assets/js of fcsm");
+
     var pathPartsFcsm = window.location.pathname.split("/fcsm/");
     console.log("pathPartsFcsm is : "+pathPartsFcsm);
     if(pathPartsFcsm.length === 2) {
