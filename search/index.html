@@ -9,16 +9,26 @@ title: Search Results
 //<![CDATA[
   //var searchResults = document.getElementById("search-results");
   var urlParams = new URLSearchParams(window.location.search);
+  var page = urlParams.get("page") ?? 1;
+  var resultsPerPage = 20;
+  var offset = (page - 1) * resultsPerPage;
+  var totalResults = 0;
+
   var searchEndpoint = new URL("{{site.searchgov.endpoint}}/api/v2/search/i14y");
-  params = { affiliate: "{{site.searchgov.affiliate}}", access_key: "{{site.searchgov.access_key}}", query: urlParams.get('query') }
+  params = { affiliate: "{{site.searchgov.affiliate}}", 
+              access_key: "{{site.searchgov.access_key}}", 
+              query: urlParams.get('query') ,
+              offset: offset
+            }
 
   var searchgovParams = document.getElementById("searchgov-params");
   var currentURL = new URL(window.location.href);
 
-  var resultsPerPage = 20;
-  var page = urlParams.get("page") ?? 1;
-  var offset = (page - 1) * resultsPerPage;
-  var totalResults = 0;
+  var inputElement = document.getElementById("extended-search-field-small");
+      inputElement.value = urlParams.get("query");
+      inputElement.focus();
+
+
   //searchResults.setAttribute("start", offset + 1);
 
   Object.keys(params).forEach(key => searchEndpoint.searchParams.append(key, params[key]));
