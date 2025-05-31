@@ -1,14 +1,16 @@
-
 document.addEventListener("DOMContentLoaded", function () {
-    console.log("In DOMContentLoaded event listener");
+    console.log("search.js loaded from assets-js");
     var searchResults = document.getElementById("search-results");
-    console.log("In search.js of assets/js of fcsm");
-
-    var pathPartsFcsm = window.location.pathname.split("/fcsm/");
-    console.log("pathPartsFcsm is : "+pathPartsFcsm);
-    if(pathPartsFcsm.length === 2) {
+    var pathParts = window.location.pathname.split("/payment-accuracy/");
+    if (pathParts.length === 2) {
         var formElement = document.getElementById("search_form");
-        formElement.action = pathPartsFcsm[0] + '/search/';
+        formElement.action = pathParts[0] + '/payment-accuracy/search/';
+    }
+    var pathPartsCoffa = window.location.pathname.split("/fcsm/");
+    console.log("pathPartsffa in statspolicy is : "+pathPartsCoffa);
+    if(pathPartsCoffa.length === 2) {
+        var formElement = document.getElementById("search_form");
+        formElement.action = pathPartsCoffa[0] + '/search/';
     }
     if (searchResults !== null) {
         var searchgovParams = document.getElementById("searchgov-params");
@@ -17,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
         var searchEndpoint = new URL(
             searchgovParams.dataset.endpoint + "/api/v2/search/i14y"
         );
-        var resultsPerPage = 15;
+        var resultsPerPage = 20;
         var page = urlParams.get("page") ?? 1;
         var offset = (page - 1) * resultsPerPage;
         var totalResults = 0;
@@ -43,10 +45,11 @@ document.addEventListener("DOMContentLoaded", function () {
             })
             .then(function (posts) {
                 totalResults = posts.web.total;
+                console.log("Total results: " + totalResults);
                 document.getElementById("search-params").innerHTML =
-                    DOMPurify.sanitize(urlParams.get("query"));
+                    urlParams.get("query");
                 document.getElementById("search-keyword").innerHTML =
-                    DOMPurify.sanitize(urlParams.get("query"));
+                    urlParams.get("query");
                 document.getElementById("results-count").innerHTML = totalResults;
 
                 if (posts.web.results.length > 0) {
@@ -112,6 +115,7 @@ document.addEventListener("DOMContentLoaded", function () {
         if (totalResults > (page * resultsPerPage)) {
             pagerLinks += '<a href="' + getLinkToPage(parseInt(page) + 1) + '" aria-label="Next page">Next >></a>';
         }
+        pagerLinks += '<div class="usa-footer__contact-info grid-row grid-gap"><div class="grid-col-auto"><p class="margin-top-0">Powered by Search.gov</p></div></div>';
         pager.innerHTML = pagerLinks;
     }
 
@@ -124,12 +128,4 @@ document.addEventListener("DOMContentLoaded", function () {
         }
         return currentURL.toString();
     }
-
-    // function encodeHTML(str) {
-    //     return str.replace(/&/g, "&amp;")
-    //               .replace(/</g, "&lt;")
-    //               .replace(/>/g, "&gt;")
-    //               .replace(/"/g, "&quot;")
-    //               .replace(/'/g, "&#39;");
-    // }
 });
