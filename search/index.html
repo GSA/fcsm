@@ -1,6 +1,6 @@
 ---
 permalink: /search/
-layout: page
+layout: default
 title: Search Results
 ---
 
@@ -9,6 +9,12 @@ title: Search Results
 //<![CDATA[
 
   var urlParams = new URLSearchParams(window.location.search);
+  if (urlParams.get('query') == null || urlParams.get('query') == "") {
+    // If no query is provided, redirect to home page
+    window.location = "/";
+    return;
+
+  }
   var searchEndpoint = new URL("{{site.searchgov.endpoint}}/api/v2/search/i14y");
   params = { affiliate: "{{site.searchgov.affiliate}}", access_key: "{{site.searchgov.access_key}}", query: urlParams.get('query') }
 
