@@ -8,6 +8,7 @@ title: Search Results
 <script>
 //<![CDATA[
   var searchResults = document.getElementById("search-results");
+  if (searchResults != null){
   var urlParams = new URLSearchParams(window.location.search);
   var page = urlParams.get("page") ?? 1;
   var resultsPerPage = 20;
@@ -76,6 +77,7 @@ title: Search Results
       update_pager();
 
     })
+  }
 
     function render_result(content, append = true){
       const previous = document.getElementById('search-results').innerHTML;
