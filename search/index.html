@@ -8,7 +8,7 @@ title: Search Results
 <script>
 //<![CDATA[
   var searchResults = document.getElementById("search-results");
-  if (searchResults != null){
+  
   var urlParams = new URLSearchParams(window.location.search);
   var page = urlParams.get("page") ?? 1;
   var resultsPerPage = 20;
@@ -25,6 +25,8 @@ title: Search Results
   var searchgovParams = document.getElementById("searchgov-params");
   var currentURL = new URL(window.location.href);
 
+  //searchResults
+  document.getElementById("search-results").setAttribute("start", offset + 1);
   var inputElement = document.getElementById("extended-search-field-small");
       inputElement.value = urlParams.get("query");
       inputElement.focus();
@@ -77,7 +79,7 @@ title: Search Results
       update_pager();
 
     })
-  }
+  
 
     function render_result(content, append = true){
       const previous = document.getElementById('search-results').innerHTML;
