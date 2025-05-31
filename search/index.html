@@ -7,7 +7,7 @@ title: Search Results
 
 <script>
 //<![CDATA[
-  var searchResults = document.getElementById("search-results");
+  
   
   var urlParams = new URLSearchParams(window.location.search);
   var page = urlParams.get("page") ?? 1;
@@ -25,14 +25,11 @@ title: Search Results
   var searchgovParams = document.getElementById("searchgov-params");
   var currentURL = new URL(window.location.href);
 
-  //searchResults
-  searchResults.setAttribute("start", offset + 1);
   var inputElement = document.getElementById("extended-search-field-small");
       inputElement.value = urlParams.get("query");
       inputElement.focus();
 
 
-  //searchResults.setAttribute("start", offset + 1);
 
   Object.keys(params).forEach(key => searchEndpoint.searchParams.append(key, params[key]));
   
@@ -48,6 +45,14 @@ title: Search Results
       document.getElementById("results-count").innerHTML = totalResults;
 
       if (posts.web.results.length > 0) {
+        var searchResults = document.getElementById("search-results");
+        if (searchResults != null){
+          console.log("searchResults are not null and offset is : " + offset);
+          
+          searchResults.setAttribute("start", offset + 1);
+        }else{
+          console.log("searchResults are null.");
+        }
         document.getElementById('search-results').classList.remove('display-none');
         document.getElementById('no-results').classList.add('display-none');
         for (item in posts.web.results){
