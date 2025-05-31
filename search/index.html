@@ -16,7 +16,7 @@ title: Search Results
 </section>
 <section class="usa-graphic-list grid-container">
 {% if site.searchgov %}
-
+I AM HERE 1
 <div class="display-none"
 id="searchgov-params"
 data-endpoint="{{site.searchgov.endpoint}}"
@@ -34,7 +34,7 @@ data-access-key="{{site.searchgov.access_key}}",
 <div id="pager" class="text-center margin-top-5"></div>
 
 {% if site.searchgov.affiliate == "federalist-uswds-example" %}
-
+I AM HERE 2
   <div class="usa-alert usa-alert--info">
     <div class="usa-alert__body">
       This is an example. You will need to configure your site with search.gov to see the correct search results. To do this:
@@ -49,7 +49,7 @@ data-access-key="{{site.searchgov.access_key}}",
   </div>
 {% endif %}
 {% else %}
-
+I AM HERE 3
 <script>
   window.location = "/";
 </script>
