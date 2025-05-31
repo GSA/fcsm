@@ -48,13 +48,47 @@ title: Search Results
       if(document.getElementById('search-results').childNodes.length == 0){
         document.getElementById('search-results').classList.add('display-none');
         document.getElementById('no-results').classList.remove('display-none');
+        document.getElementById("pager").classList.add("display-none");
       }
+      document.getElementById("results-header").classList.remove("display-none");
+      update_pager();
 
     })
 
     function render_result(content, append = true){
       const previous = document.getElementById('search-results').innerHTML;
       document.getElementById('search-results').innerHTML = (append == true) ? previous + content : content;
+    }
+
+    function update_pager() {
+        var pager = document.getElementById("pager");
+        var pagerLinks = "";
+
+        pager.innerHTML = "";
+        if (page > 1) {
+            pagerLinks += '<a href="' + getLinkToPage(page - 1) + '" aria-label="Previous page"><< Prev</a>';
+        }
+        pagerLinks +=
+            '<span class="margin-2">Page ' +
+            page +
+            " of " +
+            Math.ceil(totalResults / resultsPerPage) +
+            "</span>";
+        if (totalResults > (page * resultsPerPage)) {
+            pagerLinks += '<a href="' + getLinkToPage(parseInt(page) + 1) + '" aria-label="Next page">Next >></a>';
+        }
+        pagerLinks += '<div class="usa-footer__contact-info grid-row grid-gap"><div class="grid-col-auto"><p class="margin-top-0">Powered by Search.gov</p></div></div>';
+        pager.innerHTML = pagerLinks;
+    }
+
+    function getLinkToPage(pageNumber) {
+        var searchParams = currentURL.searchParams;
+        if (searchParams.has("page")) {
+            searchParams.set("page", pageNumber);
+        } else {
+            searchParams.append("page", pageNumber);
+        }
+        return currentURL.toString();
     }
 
     function encodeHTML(str) {
