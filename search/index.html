@@ -7,7 +7,7 @@ title: Search Results
 
 <script>
 //<![CDATA[
-
+  var searchResults = document.getElementById("search-results");
   var urlParams = new URLSearchParams(window.location.search);
   var searchEndpoint = new URL("{{site.searchgov.endpoint}}/api/v2/search/i14y");
   params = { affiliate: "{{site.searchgov.affiliate}}", access_key: "{{site.searchgov.access_key}}", query: urlParams.get('query') }
@@ -16,13 +16,17 @@ title: Search Results
   var page = urlParams.get("page") ?? 1;
   var offset = (page - 1) * resultsPerPage;
   var totalResults = 0;
+  searchResults.setAttribute("start", offset + 1);
 
-
-  Object.keys(params).forEach(key => searchEndpoint.searchParams.append(key, params[key]))
+  Object.keys(params).forEach(key => searchEndpoint.searchParams.append(key, params[key]));
+  
 
   fetch(searchEndpoint).then(function(res) {
       return res.json()
     }).then(function(posts) {
+      totalResults = posts.web.total;
+      console.log("Total results are : " + totalResults);
+
       document.getElementById('search-params').innerHTML = encodeHTML(urlParams.get('query'));
       if (posts.web.results.length > 0) {
         document.getElementById('search-results').classList.remove('display-none');
