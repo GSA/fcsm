@@ -7,7 +7,7 @@ title: Search Results
 
 <script>
 //<![CDATA[
-  //var searchResults = document.getElementById("search-results");
+  var searchResults = document.getElementById("search-results");
   var urlParams = new URLSearchParams(window.location.search);
   var page = urlParams.get("page") ?? 1;
   var resultsPerPage = 20;
@@ -50,7 +50,12 @@ title: Search Results
         for (item in posts.web.results){
           render_result(`
             <li class="padding-bottom-5 margin-top-4 usa-prose border-bottom-05 border-base-lightest">
-              <b class="title"><a href="${posts.web.results[item]['url']}">${posts.web.results[item]['title'].replace(/\uE000/g, '<span class="bg-yellow">').replace(/\uE001/g, '</span>')}</a></b>
+              <b class="title">
+                <a href="${posts.web.results[item]['url']}">
+                  ${posts.web.results[item]['title']
+                  .replace(/\uE000/g, '<span class="bg-yellow">')
+                  .replace(/\uE001/g, '</span>')}</a>
+              </b>
               <div> ${posts.web.results[item]['snippet'].replace(/\uE000/g, '<span class="bg-yellow">').replace(/\uE001/g, '</span>')} </div>
             </li>
             `, true)
@@ -64,6 +69,7 @@ title: Search Results
       if(document.getElementById('search-results').childNodes.length == 0){
         document.getElementById('search-results').classList.add('display-none');
         document.getElementById('no-results').classList.remove('display-none');
+        document.getElementById("results-header").classList.add("display-none");
         document.getElementById("pager").classList.add("display-none");
       }
       document.getElementById("results-header").classList.remove("display-none");
