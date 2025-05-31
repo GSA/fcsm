@@ -108,7 +108,9 @@ title: Search Results
         if (totalResults > (page * resultsPerPage)) {
             pagerLinks += '<a href="' + getLinkToPage(parseInt(page) + 1) + '" aria-label="Next page">Next >></a>';
         }
-        pagerLinks += '<div class="usa-footer__contact-info grid-row grid-gap"><div class="grid-col-auto"><p class="margin-top-0">Powered by Search.gov</p></div></div>';
+        pagerLinks += '<div class="display-flex flex-column margin-y-4"><div class="flex-align-self-end tablet:text-right"><p class="margin-y-1">robert.sivinski@hq.dhs.gov</p>';
+
+        //pagerLinks += '<div class="usa-footer__contact-info grid-row grid-gap"><div class="grid-col-auto"><p class="margin-top-0">Powered by Search.gov</p></div></div>';
         pager.innerHTML = pagerLinks;
     }
 
@@ -136,9 +138,9 @@ title: Search Results
 {% if site.searchgov %}
   <div class="display-none"
   id="searchgov-params"
-  data-endpoint="{{site.searchgov.endpoint}}"
+  data-endpoint="{{site.searchgov.endpoint}}",
   data-affiliate="{{site.searchgov.affiliate}}",
-  data-access-key="{{site.searchgov.access_key}}",
+  data-access-key="{{site.searchgov.access_key}}"
   ></div>
 
   <div id="results-header" class="display-none">
