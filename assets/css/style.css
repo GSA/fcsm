@@ -34,7 +34,75 @@ body:before {
   font-family: monospace;
   content: "Error: Invalid CSS after \"    }\": expected selector or at-rule, was \"}\"\A         on line 4446 of M:\icsp\fcsm\assets\css\style.scss\A \A 4441:         height: 100%;\A 4442:         z-index: -1;\A 4443:         \A 4444:         };\A 4445:     }\A 4446: }\A 4447: .page-title-content {\A 4448:     text-align: center;\A 4449: \A 4450:     h2 {\A 4451:         color: $white-color;"; }
 
-.pager-button {
+
+  .dataTables_filter {
+        display: none;
+    }
+    .dataTables_paginate {
+        display: none;
+    }
+    
+    .dt-search {
+        display: none;
+    }
+    .dt-length {
+        display: none;
+    }
+    
+    .filterBtn.active {
+        background-color: #007bff;
+        color: white;
+    }
+    .dt-buttons {
+        display: none;
+    }
+    table.dataTable tbody tr {
+        height: 92px;
+    }
+    
+    .training-page-left, .training-page-right {
+      cursor: pointer;
+      padding: 7px 12px;
+      font-weight: bold;
+      font-size: 20px;
+      border: 0px !important;
+      background-color: white;
+    }
+    
+    #myTable.dataTable thead th {
+        background-color: rgb(237, 243, 243);
+        border-bottom: 1.5px solid rgb(99, 156, 153);
+        border-top: 2px solid rgb(99, 156, 153);
+    }
+    
+    #myTable.dataTable tbody td {
+        border-bottom: .5px solid rgb(99, 156, 153);
+        border-top: .5px solid rgb(99, 156, 153);
+    }
+    
+    .margin-bottom-training-button {
+      margin-bottom: 1.5rem;
+    }
+    /*
+    #training-download-buttons{
+      flex-direction: column;
+      width: 100% !important;
+    }
+    
+    .training-download-button-1{
+      width: 100% !important;
+    }
+    
+    #training-download-button-2{
+      width: 100% !important;
+    }
+    
+    #training-download-button-3{
+      width: 100% !important;
+    } */
+    
+    
+    .pager-button {
         display: inline-block;
         padding: 8px 12px;
         margin: 6px;
@@ -44,9 +112,9 @@ body:before {
         color: #0004ff; /* blue text color */
         text-decoration: none;
         cursor: pointer;
-}
-      
-.pager-button-current {
+    }
+    
+    .pager-button-current {
         display: inline-block;
         padding: 8px 12px;
         margin: 6px;
@@ -56,8 +124,9 @@ body:before {
         color: #000000; /* blue text color */
         text-decoration: none;
         cursor: initial;
-}
-.pager-button:hover {
+    }
+    .pager-button:hover {
         background-color: #e2e6ea; /* light gray background color on hover */
-}
-      
+    }
+    
+    
