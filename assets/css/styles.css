@@ -1,0 +1,132 @@
+/*
+Error: Invalid CSS after "    }": expected selector or at-rule, was "}"
+        on line 4446 of M:\icsp\fcsm\assets\css\style.scss
+
+4441:         height: 100%;
+4442:         z-index: -1;
+4443:         
+4444:         };
+4445:     }
+4446: }
+4447: .page-title-content {
+4448:     text-align: center;
+4449: 
+4450:     h2 {
+4451:         color: $white-color;
+
+Backtrace:
+M:\icsp\fcsm\assets\css\style.scss:4446
+C:/Program Files/Adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/scss/parser.rb:1308:in `expected'
+C:/Program Files/Adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/scss/parser.rb:1238:in `expected'
+C:/Program Files/Adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/scss/parser.rb:42:in `parse'
+C:/Program Files/Adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/engine.rb:414:in `_to_tree'
+C:/Program Files/Adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/engine.rb:290:in `render'
+C:/Program Files/Adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/exec/sass_scss.rb:396:in `run'
+C:/Program Files/Adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/exec/sass_scss.rb:63:in `process_result'
+C:/Program Files/Adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/exec/base.rb:50:in `parse'
+C:/Program Files/Adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/exec/base.rb:18:in `parse!'
+C:/Program Files/Adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/bin/sass:13:in `<top (required)>'
+C:/Program Files/Adobe/Adobe Dreamweaver 2021/ruby/bin/sass:23:in `load'
+C:/Program Files/Adobe/Adobe Dreamweaver 2021/ruby/bin/sass:23:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Invalid CSS after \"    }\": expected selector or at-rule, was \"}\"\A         on line 4446 of M:\icsp\fcsm\assets\css\style.scss\A \A 4441:         height: 100%;\A 4442:         z-index: -1;\A 4443:         \A 4444:         };\A 4445:     }\A 4446: }\A 4447: .page-title-content {\A 4448:     text-align: center;\A 4449: \A 4450:     h2 {\A 4451:         color: $white-color;"; }
+
+
+  .dataTables_filter {
+        display: none;
+    }
+    .dataTables_paginate {
+        display: none;
+    }
+    
+    .dt-search {
+        display: none;
+    }
+    .dt-length {
+        display: none;
+    }
+    
+    .filterBtn.active {
+        background-color: #007bff;
+        color: white;
+    }
+    .dt-buttons {
+        display: none;
+    }
+    table.dataTable tbody tr {
+        height: 92px;
+    }
+    
+    .training-page-left, .training-page-right {
+      cursor: pointer;
+      padding: 7px 12px;
+      font-weight: bold;
+      font-size: 20px;
+      border: 0px !important;
+      background-color: white;
+    }
+    
+    #myTable.dataTable thead th {
+        background-color: rgb(237, 243, 243);
+        border-bottom: 1.5px solid rgb(99, 156, 153);
+        border-top: 2px solid rgb(99, 156, 153);
+    }
+    
+    #myTable.dataTable tbody td {
+        border-bottom: .5px solid rgb(99, 156, 153);
+        border-top: .5px solid rgb(99, 156, 153);
+    }
+    
+    .margin-bottom-training-button {
+      margin-bottom: 1.5rem;
+    }
+    /*
+    #training-download-buttons{
+      flex-direction: column;
+      width: 100% !important;
+    }
+    
+    .training-download-button-1{
+      width: 100% !important;
+    }
+    
+    #training-download-button-2{
+      width: 100% !important;
+    }
+    
+    #training-download-button-3{
+      width: 100% !important;
+    } */
+    
+    
+    .pager-button {
+        display: inline-block;
+        padding: 8px 12px;
+        margin: 6px;
+        border: 2px solid #0004ff; /* blue border color */
+        border-radius: 4px; /* rounded rectangle */
+        background-color: transparent; /* no background color */
+        color: #0004ff; /* blue text color */
+        text-decoration: none;
+        cursor: pointer;
+    }
+    
+    .pager-button-current {
+        display: inline-block;
+        padding: 8px 12px;
+        margin: 6px;
+        border: 2px solid #350111; /* blue border color */
+        border-radius: 4px; /* rounded rectangle */
+        background-color: transparent; /* no background color */
+        color: #000000; /* blue text color */
+        text-decoration: none;
+        cursor: initial;
+    }
+    .pager-button:hover {
+        background-color: #e2e6ea; /* light gray background color on hover */
+    }
+    
+    
