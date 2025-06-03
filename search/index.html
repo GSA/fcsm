@@ -68,7 +68,7 @@ title: Search Results
       return res.json()
     }).then(function(posts) {
       totalResults = posts.web.total;
-      console.log("Total results are : " + totalResults);
+      //console.log("Total results are : " + totalResults);
 
       document.getElementById('search-params').innerHTML = encodeHTML(urlParams.get('query'));
       document.getElementById("search-keyword").innerHTML = urlParams.get("query");
@@ -77,7 +77,7 @@ title: Search Results
       if (posts.web.results.length > 0) {
         var searchResults = document.getElementById("search-results");
         if (searchResults != null){
-          console.log("searchResults are not null and offset is : " + offset);
+          //console.log("searchResults are not null and offset is : " + offset);
           
           searchResults.setAttribute("start", offset + 1);
         }else{
