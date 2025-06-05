@@ -12,6 +12,7 @@ var totalResults = 0;
 //           }
 
 var searchgovParams = document.getElementById("searchgov-params");
+console.log("searchgovParams is : " + searchgovParams);
 var currentURL = new URL(window.location.href);
 var searchEndpoint = new URL(
     searchgovParams.dataset.endpoint + "/api/v2/search/i14y"
