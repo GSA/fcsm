@@ -4,15 +4,26 @@ var resultsPerPage = 20;
 var offset = (page - 1) * resultsPerPage;
 var totalResults = 0;
 
-var searchEndpoint = new URL("{{site.searchgov.endpoint}}/api/v2/search/i14y");
-params = { affiliate: "{{site.searchgov.affiliate}}", 
-            access_key: "{{site.searchgov.access_key}}", 
-            query: urlParams.get('query') ,
-            offset: offset
-          }
+// var searchEndpoint = new URL("{{site.searchgov.endpoint}}/api/v2/search/i14y");
+// params = { affiliate: "{{site.searchgov.affiliate}}", 
+//             access_key: "{{site.searchgov.access_key}}", 
+//             query: urlParams.get('query') ,
+//             offset: offset
+//           }
 
 var searchgovParams = document.getElementById("searchgov-params");
 var currentURL = new URL(window.location.href);
+var searchEndpoint = new URL(
+    searchgovParams.dataset.endpoint + "/api/v2/search/i14y"
+);
+
+params = {
+    affiliate: searchgovParams.dataset.affiliate,
+    access_key: searchgovParams.dataset.accessKey,
+    query: urlParams.get("query"),
+    offset: offset
+};
+searchResults.setAttribute("start", offset + 1);
 
 var inputElement = document.getElementById("extended-search-field-small");
     inputElement.value = urlParams.get("query");
