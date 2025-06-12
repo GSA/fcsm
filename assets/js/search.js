@@ -4,6 +4,7 @@ var resultsPerPage = 20;
 var offset = (page - 1) * resultsPerPage;
 var totalResults = 0;
 
+
 // var searchEndpoint = new URL("{{site.searchgov.endpoint}}/api/v2/search/i14y");
 // params = { affiliate: "{{site.searchgov.affiliate}}", 
 //             access_key: "{{site.searchgov.access_key}}", 
