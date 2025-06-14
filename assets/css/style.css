@@ -29,7 +29,35 @@ C:/Program Files/Adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass
 C:/Program Files/Adobe/Adobe Dreamweaver 2021/ruby/bin/sass:23:in `load'
 C:/Program Files/Adobe/Adobe Dreamweaver 2021/ruby/bin/sass:23:in `<main>'
 */
+
 body:before {
   white-space: pre;
   font-family: monospace;
   content: "Error: Invalid CSS after \"    }\": expected selector or at-rule, was \"}\"\A         on line 4446 of M:\icsp\fcsm\assets\css\style.scss\A \A 4441:         height: 100%;\A 4442:         z-index: -1;\A 4443:         \A 4444:         };\A 4445:     }\A 4446: }\A 4447: .page-title-content {\A 4448:     text-align: center;\A 4449: \A 4450:     h2 {\A 4451:         color: $white-color;"; }
+
+  .pager-button {
+    display: inline-block;
+    padding: 8px 12px;
+    margin: 6px;
+    border: 2px solid #0004ff; /* blue border color */
+    border-radius: 4px; /* rounded rectangle */
+    background-color: transparent; /* no background color */
+    color: #0004ff; /* blue text color */
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.pager-button-current {
+    display: inline-block;
+    padding: 8px 12px;
+    margin: 6px;
+    border: 2px solid #350111; /* blue border color */
+    border-radius: 4px; /* rounded rectangle */
+    background-color: transparent; /* no background color */
+    color: #000000; /* blue text color */
+    text-decoration: none;
+    cursor: initial;
+}
+.pager-button:hover {
+    background-color: #e2e6ea; /* light gray background color on hover */
+}
