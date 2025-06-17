@@ -42,7 +42,7 @@ fetch(searchEndpoint).then(function(res) {
     //console.log("Total results are : " + totalResults);
 
     document.getElementById('search-params').innerHTML = encodeHTML(urlParams.get('query'));
-    document.getElementById("search-keyword").innerHTML = urlParams.get("query");
+    document.getElementById("search-keyword").innerHTML = encodeHTML(urlParams.get("query"));
     document.getElementById("results-count").innerHTML = totalResults;
 
     if (posts.web.results.length > 0) {
