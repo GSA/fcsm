@@ -110,14 +110,14 @@ fetch(searchEndpoint).then(function(res) {
 
       var start = Math.max(2, page - 3);
       for (var i = start; i < page; i++) {
-          pagerLinks += '<a href="' + getLinkToPage(i) + '" aria-label="Page ' + i + '" class="pager-button">' + i + '</a>';
+          pagerLinks += '<a href="' + encodeHTML(getLinkToPage(i)) + '" aria-label="Page ' + encodeHTML(i.toString()) + '" class="pager-button">' + encodeHTML(i.toString()) + '</a>';
       }
 
-      pagerLinks += '<span class="margin-2, pager-button-current">Page ' + page + " of " + totalPages + "</span>";
+      pagerLinks += '<span class="margin-2, pager-button-current">Page ' + encodeHTML(page.toString()) + " of " + encodeHTML(totalPages.toString()) + "</span>";
       
       var end = Math.min((totalPages - 1), ((1*page) + 3));
       for (var j = (1*page) + 1; j <= end; j++) {
-          pagerLinks += '<a href="' + getLinkToPage(j) + '" aria-label="Page ' + j + '" class="pager-button">' + j + '</a>';
+          pagerLinks += '<a href="' + encodeHTML(getLinkToPage(j)) + '" aria-label="Page ' + encodeHTML(j.toString()) + '" class="pager-button">' + encodeHTML(j.toString()) + '</a>';
       }
 
       if (totalPages > 5 && page < totalPages - 4) {
