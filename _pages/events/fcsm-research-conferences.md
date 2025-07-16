@@ -11,7 +11,7 @@ sidenav: events_navigation
     <p><a class="fcsm-main-links" href="{{site.baseurl}}/events/2024-fcsm-conference">2024 FCSM Research and Policy Conference</a><br />
     October 22-24, 2024</p>
   </li>
-  <li>
+ <!--  <li>
     <p><a class="fcsm-main-links" href="{{site.baseurl}}/events/2023-fcsm-conference/">2023 FCSM Research and Policy Conference</a><br />
     October 24-26, 2023</p>
   </li>
@@ -66,5 +66,5 @@ sidenav: events_navigation
   <li>
     <p><a class="fcsm-main-links" href="{{site.baseurl}}/events/1999-research/">1999 FCSM Research Conference</a><br />
     November 15-17, 1999</p>
-  </li>
+ </li>  -->
 </ul>
