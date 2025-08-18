@@ -11,7 +11,7 @@ sidenav: group_navigation
 </ol>
 <p><strong>Membership:</strong></p>
 <ul>
-<li>The members of CDAC are federal employees of Executive Branch agencies and those administrative or independent agencies associated with the Executive Branch. These employees are responsible for (and/or working on) statistical disclosure limitation methods, administrative procedures for access to confidential statistical data, and members of their agency's Disclosure Review Board.</li>
+<li>The members of CDAC are federal employees of Executive Branch agencies and other agencies associated with the Executive Branch. These employees are responsible for (and/or working on) statistical disclosure limitation methods, administrative procedures for access to confidential statistical data, and members of their agency's Disclosure Review Board.</li>
 </ul>
 <p><strong>Objectives:</strong></p>
 <ul>
