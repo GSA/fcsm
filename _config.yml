@@ -84,7 +84,8 @@ primary_navigation:
   - name: Groups Overview
     url: /groups/
   - name: Back to StatsPolicy.Gov Home
-    external_link: https://www.statspolicy.gov/
+    url: https://www.statspolicy.gov/
+    external: true
 
 about_navigation:
   - name: About FCSM
