@@ -83,6 +83,10 @@ primary_navigation:
     url: /events/
   - name: Groups Overview
     url: /groups/
+  - name: Back to StatsPolicy.Gov Home
+    url: https://www.statspolicy.gov/
+    external: true
+    target: "_blank"
 
 about_navigation:
   - name: About FCSM
