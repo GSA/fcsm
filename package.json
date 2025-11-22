@@ -10,7 +10,7 @@
     "htmlproofer": "bundle exec htmlproofer --no-enforce-https --allow-missing-href _site"
   },
   "dependencies": {
-    "@uswds/uswds": "3.10.0",
+    "@uswds/uswds": "3.13.0",
     "dompurify": "^3.2.6",
     "tar-fs": "^3.0.9",
     "undici": "^7.7.0"
